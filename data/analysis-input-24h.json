@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-02-27T14:39:02.699Z",
-  "generated_at_local": "2026-02-27T22:39:02.699+08:00",
-  "source_generated_at": "2026-02-27T14:38:31.570Z",
-  "source_generated_at_local": "2026-02-27T22:38:31.570+08:00",
+  "generated_at": "2026-02-27T16:41:17.646Z",
+  "generated_at_local": "2026-02-28T00:41:17.646+08:00",
+  "source_generated_at": "2026-02-27T16:40:53.141Z",
+  "source_generated_at_local": "2026-02-28T00:40:53.141+08:00",
   "window_hours": 24,
   "compression": {
     "algorithm_version": "v1.0",
-    "input_items": 910,
-    "clustered_events": 895,
+    "input_items": 978,
+    "clustered_events": 956,
     "output_events": 80,
     "max_events": 80,
     "per_site_cap": 28
   },
   "site_distribution": [
     {
-      "site_id": "buzzing",
-      "count": 21
+      "site_id": "techurls",
+      "count": 28
     },
     {
-      "site_id": "techurls",
-      "count": 17
+      "site_id": "buzzing",
+      "count": 16
     },
     {
       "site_id": "newsnow",
-      "count": 11
+      "count": 12
     },
     {
       "site_id": "aibase",
       "count": 10
     },
     {
-      "site_id": "iris",
-      "count": 8
-    },
-    {
       "site_id": "tophub",
-      "count": 7
+      "count": 5
     },
     {
       "site_id": "officialai",
       "count": 4
+    },
+    {
+      "site_id": "iris",
+      "count": 3
     },
     {
       "site_id": "aibasedaily",
@@ -53,7 +53,7 @@
       "title_zh": "给Claude装上“眼睛”！Anthropic斥资收购Vercept：高精度 UI 识别碾压 OpenAI，智能体进入“视觉时代”",
       "title_bilingual": "给Claude装上“眼睛”！Anthropic斥资收购Vercept：高精度 UI 识别碾压 OpenAI，智能体进入“视觉时代”",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "aibase",
       "site_name": "AIbase",
       "source": "AIbase",
@@ -66,8 +66,8 @@
         "source_weight": 1.1,
         "keyword_hits": 5,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 4.525
+        "recency_score": 0.661,
+        "total_score": 4.423
       }
     },
     {
@@ -76,7 +76,7 @@
       "title_zh": "为 Amazon Bedrock 中的代理引入有状态运行时环境",
       "title_bilingual": "为 Amazon Bedrock 中的代理引入有状态运行时环境 / Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "published_at": "2026-02-27T05:30:00Z",
-      "age_hours": 9.15,
+      "age_hours": 11.19,
       "site_id": "officialai",
       "site_name": "Official AI Sources",
       "source": "OpenAI",
@@ -89,8 +89,102 @@
         "source_weight": 1.35,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.619,
-        "total_score": 4.322
+        "recency_score": 0.534,
+        "total_score": 4.221
+      }
+    },
+    {
+      "event_id": "openai's $110b funding round (investments from amazon, nvidia, softbank)",
+      "title": "OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)",
+      "title_zh": "OpenAI的1100亿美元融资轮获得亚马逊、英伟达、软银的投资",
+      "title_bilingual": "OpenAI的1100亿美元融资轮获得亚马逊、英伟达、软银的投资 / OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Hacker News",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27",
+      "related_count": 2,
+      "related_urls": [
+        "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27",
+        "https://news.ycombinator.com/item?id=47181051"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 2,
+        "recency_score": 1,
+        "total_score": 4.21
+      }
+    },
+    {
+      "event_id": "show hn: badge that shows how well your codebase fits in an llm's context window",
+      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+      "title_zh": "Show HN: 展示您的代码库在大型语言模型上下文窗口中契合程度的徽章",
+      "title_bilingual": "Show HN: 展示您的代码库在大型语言模型上下文窗口中契合程度的徽章 / Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Hacker News",
+      "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+      "related_count": 2,
+      "related_urls": [
+        "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+        "https://news.ycombinator.com/item?id=47181471"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 2,
+        "recency_score": 1,
+        "total_score": 4.21
+      }
+    },
+    {
+      "event_id": "sam altman says openai shares anthropic's red lines with respect to ai use by the military, which are \"an issue for the whole industry\" (axios)",
+      "title": "Sam Altman says OpenAI shares Anthropic's red lines with respect to AI use by the military, which are \"an issue for the whole industry\" (Axios)",
+      "title_zh": "Sam Altman 表示，OpenAI 与 Anthropic 一样，在军队使用人工智能方面遵守红线，这是“整个行业的一个问题”（Axios）",
+      "title_bilingual": "Sam Altman 表示，OpenAI 与 Anthropic 一样，在军队使用人工智能方面遵守红线，这是“整个行业的一个问题”（Axios） / Sam Altman says OpenAI shares Anthropic's red lines with respect to AI use by the military, which are \"an issue for the whole industry\" (Axios)",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260227/p15",
+      "related_count": 1,
+      "related_urls": [
+        "http://www.techmeme.com/260227/p15"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 3,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 4.06
+      }
+    },
+    {
+      "event_id": "note to staff: sam altman says openai seeks a dod deal with exemptions for cases like domestic surveillance and wants to \"help de-escalate\" dod-anthropic fight (keach hagey/wall street journal)",
+      "title": "Note to staff: Sam Altman says OpenAI seeks a DOD deal with exemptions for cases like domestic surveillance and wants to \"help de-escalate\" DOD-Anthropic fight (Keach Hagey/Wall Street Journal)",
+      "title_zh": "工作人员须知：山姆·奥尔特曼 (Sam Altman) 表示，OpenAI 正在寻求国防部就国内监视等案件进行豁免的协议，并希望“帮助缓和”国防部与人类的斗争（Keach Hagey/《华尔街日报》）",
+      "title_bilingual": "工作人员须知：山姆·奥尔特曼 (Sam Altman) 表示，OpenAI 正在寻求国防部就国内监视等案件进行豁免的协议，并希望“帮助缓和”国防部与人类的斗争（Keach Hagey/《华尔街日报》） / Note to staff: Sam Altman says OpenAI seeks a DOD deal with exemptions for cases like domestic surveillance and wants to \"help de-escalate\" DOD-Anthropic fight (Keach Hagey/Wall Street Journal)",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260227/p12",
+      "related_count": 1,
+      "related_urls": [
+        "http://www.techmeme.com/260227/p12"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 3,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 4.06
       }
     },
     {
@@ -99,7 +193,7 @@
       "title_zh": "DeepSeek新论文剧透V4新框架！用闲置网卡加速智能体推理性能",
       "title_bilingual": "DeepSeek新论文剧透V4新框架！用闲置网卡加速智能体推理性能",
       "published_at": "2026-02-27T10:37:43.505Z",
-      "age_hours": 4.02,
+      "age_hours": 6.06,
       "site_id": "tophub",
       "site_name": "TopHub",
       "source": "量子位 · 每日最新",
@@ -113,8 +207,56 @@
         "source_weight": 0.75,
         "keyword_hits": 4,
         "cross_source_count": 2,
-        "recency_score": 0.832,
-        "total_score": 4.149
+        "recency_score": 0.748,
+        "total_score": 4.047
+      }
+    },
+    {
+      "event_id": "the pentagon is making a mistake by threatening anthropic",
+      "title": "The Pentagon is making a mistake by threatening Anthropic",
+      "title_zh": "五角大楼威胁人类是一个错误",
+      "title_bilingual": "五角大楼威胁人类是一个错误 / The Pentagon is making a mistake by threatening Anthropic",
+      "published_at": "2026-02-27T16:30:36.412Z",
+      "age_hours": 0.18,
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47181380",
+      "related_count": 2,
+      "related_urls": [
+        "https://news.ycombinator.com/item?id=47181380",
+        "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 2,
+        "recency_score": 0.993,
+        "total_score": 4.021
+      }
+    },
+    {
+      "event_id": "we gave terabytes of ci logs to an llm",
+      "title": "We gave terabytes of CI logs to an LLM",
+      "title_zh": "我们向法学硕士提供了 TB 级的 CI 日志",
+      "title_bilingual": "我们向法学硕士提供了 TB 级的 CI 日志 / We gave terabytes of CI logs to an LLM",
+      "published_at": "2026-02-27T16:30:36.412Z",
+      "age_hours": 0.18,
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47181801",
+      "related_count": 2,
+      "related_urls": [
+        "https://news.ycombinator.com/item?id=47181801",
+        "https://www.mendral.com/blog/llms-are-good-at-sql"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 2,
+        "recency_score": 0.993,
+        "total_score": 4.021
       }
     },
     {
@@ -123,7 +265,7 @@
       "title_zh": "OpenAI 和微软的联合声明",
       "title_bilingual": "OpenAI 和微软的联合声明 / Joint Statement from OpenAI and Microsoft",
       "published_at": "2026-02-27T05:30:00Z",
-      "age_hours": 9.15,
+      "age_hours": 11.19,
       "site_id": "officialai",
       "site_name": "Official AI Sources",
       "source": "OpenAI",
@@ -136,8 +278,8 @@
         "source_weight": 1.35,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.619,
-        "total_score": 4.072
+        "recency_score": 0.534,
+        "total_score": 3.971
       }
     },
     {
@@ -146,7 +288,7 @@
       "title_zh": "OpenAI 与亚马逊宣布战略合作伙伴关系",
       "title_bilingual": "OpenAI 与亚马逊宣布战略合作伙伴关系 / OpenAI and Amazon announce strategic partnership",
       "published_at": "2026-02-27T05:30:00Z",
-      "age_hours": 9.15,
+      "age_hours": 11.19,
       "site_id": "officialai",
       "site_name": "Official AI Sources",
       "source": "OpenAI",
@@ -159,8 +301,8 @@
         "source_weight": 1.35,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.619,
-        "total_score": 4.072
+        "recency_score": 0.534,
+        "total_score": 3.971
       }
     },
     {
@@ -169,7 +311,7 @@
       "title_zh": "为所有人扩展人工智能",
       "title_bilingual": "为所有人扩展人工智能 / Scaling AI for everyone",
       "published_at": "2026-02-27T05:30:00Z",
-      "age_hours": 9.15,
+      "age_hours": 11.19,
       "site_id": "officialai",
       "site_name": "Official AI Sources",
       "source": "OpenAI",
@@ -182,8 +324,56 @@
         "source_weight": 1.35,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.619,
-        "total_score": 4.072
+        "recency_score": 0.534,
+        "total_score": 3.971
+      }
+    },
+    {
+      "event_id": "generative ai use and depressive symptoms among us adults",
+      "title": "Generative AI Use and Depressive Symptoms Among US Adults",
+      "title_zh": "美国成年人的生成式人工智能使用和抑郁症状",
+      "title_bilingual": "美国成年人的生成式人工智能使用和抑郁症状 / Generative AI Use and Depressive Symptoms Among US Adults",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Hacker News",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844128",
+      "related_count": 2,
+      "related_urls": [
+        "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844128",
+        "https://news.ycombinator.com/item?id=47180040"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 1,
+        "cross_source_count": 2,
+        "recency_score": 1,
+        "total_score": 3.96
+      }
+    },
+    {
+      "event_id": "your smart tv may be crawling the web for ai",
+      "title": "Your Smart TV May Be Crawling the Web for AI",
+      "title_zh": "您的智能电视可能会在网络上抓取人工智能",
+      "title_bilingual": "您的智能电视可能会在网络上抓取人工智能 / Your Smart TV May Be Crawling the Web for AI",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Slashdot",
+      "url": "https://entertainment.slashdot.org/story/26/02/27/1254229/your-smart-tv-may-be-crawling-the-web-for-ai",
+      "related_count": 2,
+      "related_urls": [
+        "https://entertainment.slashdot.org/story/26/02/27/1254229/your-smart-tv-may-be-crawling-the-web-for-ai",
+        "https://www.theverge.com/column/885244/smart-tv-web-crawler-ai"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 1,
+        "cross_source_count": 2,
+        "recency_score": 1,
+        "total_score": 3.96
       }
     },
     {
@@ -192,7 +382,7 @@
       "title_zh": "消息人士详细介绍了五角大楼和 Anthropic 之间在讨论在假设的核导弹袭击中使用克劳德后如何升级的对峙（华盛顿邮报）",
       "title_bilingual": "消息人士详细介绍了五角大楼和 Anthropic 之间在讨论在假设的核导弹袭击中使用克劳德后如何升级的对峙（华盛顿邮报） / Sources detail how the standoff between the Pentagon and Anthropic escalated after discussions about using Claude during hypothetical nuclear missile attacks (Washington Post)",
       "published_at": "2026-02-27T14:38:31.570Z",
-      "age_hours": 0.01,
+      "age_hours": 2.05,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Techmeme",
@@ -205,8 +395,8 @@
         "source_weight": 0.95,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 1,
-        "total_score": 4.06
+        "recency_score": 0.915,
+        "total_score": 3.958
       }
     },
     {
@@ -215,7 +405,7 @@
       "title_zh": "为开源维护者免费获取 Claude max 20x",
       "title_bilingual": "为开源维护者免费获取 Claude max 20x / Get free Claude max 20x for open-source maintainers",
       "published_at": "2026-02-27T14:38:34.303Z",
-      "age_hours": 0.01,
+      "age_hours": 2.05,
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "source": "hackernews",
@@ -229,8 +419,8 @@
         "source_weight": 0.85,
         "keyword_hits": 2,
         "cross_source_count": 2,
-        "recency_score": 1,
-        "total_score": 4.03
+        "recency_score": 0.915,
+        "total_score": 3.928
       }
     },
     {
@@ -239,7 +429,7 @@
       "title_zh": "全员 AI 化！谷歌强化绩效考核：非技术岗位不使用 AI 将影响评分",
       "title_bilingual": "全员 AI 化！谷歌强化绩效考核：非技术岗位不使用 AI 将影响评分",
       "published_at": "2026-02-27T10:37:43.505Z",
-      "age_hours": 4.02,
+      "age_hours": 6.06,
       "site_id": "aibase",
       "site_name": "AIbase",
       "source": "AIbase",
@@ -253,8 +443,8 @@
         "source_weight": 1.1,
         "keyword_hits": 1,
         "cross_source_count": 2,
-        "recency_score": 0.832,
-        "total_score": 4.029
+        "recency_score": 0.748,
+        "total_score": 3.927
       }
     },
     {
@@ -263,7 +453,7 @@
       "title_zh": "​Anthropic 开启赞助计划：为核心贡献者免费提供 6 个月 Claude Max",
       "title_bilingual": "​Anthropic 开启赞助计划：为核心贡献者免费提供 6 个月 Claude Max",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "aibase",
       "site_name": "AIbase",
       "source": "AIbase",
@@ -276,8 +466,8 @@
         "source_weight": 1.1,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 4.025
+        "recency_score": 0.661,
+        "total_score": 3.923
       }
     },
     {
@@ -286,7 +476,7 @@
       "title_zh": "人工智能可能会在年底前改变经济",
       "title_bilingual": "人工智能可能会在年底前改变经济 / AI could transform the economy by year’s end",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Recode",
@@ -299,8 +489,8 @@
         "source_weight": 0.95,
         "keyword_hits": 4,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 4.005
+        "recency_score": 0.661,
+        "total_score": 3.903
       }
     },
     {
@@ -309,7 +499,7 @@
       "title_zh": "“恐怖谷”：五角大楼与“觉醒”人类、代理与模仿、特朗普与国情咨文",
       "title_bilingual": "“恐怖谷”：五角大楼与“觉醒”人类、代理与模仿、特朗普与国情咨文 / ‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Wired",
@@ -322,8 +512,8 @@
         "source_weight": 0.95,
         "keyword_hits": 4,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 4.005
+        "recency_score": 0.661,
+        "total_score": 3.903
       }
     },
     {
@@ -332,7 +522,7 @@
       "title_zh": "人工智能代理可以改变你的生活——如果他们不先毁掉你的生活",
       "title_bilingual": "人工智能代理可以改变你的生活——如果他们不先毁掉你的生活 / AI agents could change your life — if they don’t ruin it first",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Recode",
@@ -345,8 +535,8 @@
         "source_weight": 0.95,
         "keyword_hits": 4,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 4.005
+        "recency_score": 0.661,
+        "total_score": 3.903
       }
     },
     {
@@ -355,7 +545,7 @@
       "title_zh": "Apple 发布 Xcode 26.3，支持 Anthropic 和 OpenAI 的 AI 代理",
       "title_bilingual": "Apple 发布 Xcode 26.3，支持 Anthropic 和 OpenAI 的 AI 代理 / Apple Releases Xcode 26.3 With Support for AI Agents From Anthropic and OpenAI",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Mac Rumors",
@@ -368,8 +558,8 @@
         "source_weight": 0.95,
         "keyword_hits": 4,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 4.005
+        "recency_score": 0.661,
+        "total_score": 3.903
       }
     },
     {
@@ -378,7 +568,7 @@
       "title_zh": "我宁愿使用有故障的 Gemini，也不愿花 8 美元购买带有广告的 ChatGPT",
       "title_bilingual": "我宁愿使用有故障的 Gemini，也不愿花 8 美元购买带有广告的 ChatGPT / I'd rather use Gemini with glitches than pay $8 for ChatGPT with ads",
       "published_at": "2026-02-27T12:58:59.791Z",
-      "age_hours": 1.67,
+      "age_hours": 3.7,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Android Police",
@@ -391,8 +581,8 @@
         "source_weight": 0.95,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.931,
-        "total_score": 3.977
+        "recency_score": 0.846,
+        "total_score": 3.875
       }
     },
     {
@@ -401,7 +591,7 @@
       "title_zh": "推出 HN: Cardboard (YC W26) – Agentic 视频编辑器",
       "title_bilingual": "推出 HN: Cardboard (YC W26) – Agentic 视频编辑器 / Launch HN: Cardboard (YC W26) – Agentic video editor",
       "published_at": "2026-02-27T08:32:48.134Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "source": "hackernews",
@@ -415,8 +605,8 @@
         "source_weight": 0.85,
         "keyword_hits": 3,
         "cross_source_count": 2,
-        "recency_score": 0.746,
-        "total_score": 3.975
+        "recency_score": 0.661,
+        "total_score": 3.873
       }
     },
     {
@@ -425,7 +615,7 @@
       "title_zh": "AI日报：谷歌Nano Banana 2正式上线；可灵3.0全球视频模型第一；周鸿祎直言AI眼镜难做",
       "title_bilingual": "AI日报：谷歌Nano Banana 2正式上线；可灵3.0全球视频模型第一；周鸿祎直言AI眼镜难做",
       "published_at": "2026-02-27T10:37:43.505Z",
-      "age_hours": 4.02,
+      "age_hours": 6.06,
       "site_id": "aibasedaily",
       "site_name": "AIbase Daily",
       "source": "AI日报",
@@ -438,8 +628,261 @@
         "source_weight": 1.15,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.832,
-        "total_score": 3.969
+        "recency_score": 0.748,
+        "total_score": 3.867
+      }
+    },
+    {
+      "event_id": "英伟达、亚马逊和软银承诺为openai提供新资金",
+      "title": "英伟达、亚马逊和软银承诺为OpenAI提供新资金",
+      "title_zh": "英伟达、亚马逊和软银承诺为OpenAI提供新资金",
+      "title_bilingual": "英伟达、亚马逊和软银承诺为OpenAI提供新资金",
+      "published_at": "2026-02-27T15:59:37.828Z",
+      "age_hours": 0.69,
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "www.wsj.com",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-27-2026/card/openai-secures-110-billion-in-new-funding-OW2Igfrpq03xLwhwrm7Y?siteid=yhoof2&yptr=yahoo",
+      "related_count": 1,
+      "related_urls": [
+        "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-27-2026/card/openai-secures-110-billion-in-new-funding-OW2Igfrpq03xLwhwrm7Y?siteid=yhoof2&yptr=yahoo"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 3,
+        "cross_source_count": 1,
+        "recency_score": 0.971,
+        "total_score": 3.845
+      }
+    },
+    {
+      "event_id": "让人工智能惠及所有人 - openai",
+      "title": "让人工智能惠及所有人 - OpenAI",
+      "title_zh": "让人工智能惠及所有人 - OpenAI",
+      "title_bilingual": "让人工智能惠及所有人 - OpenAI",
+      "published_at": "2026-02-27T15:27:45.425Z",
+      "age_hours": 1.23,
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "news.google.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nbHVmaUVQblgwdlVjbk5iY1BPZXM2OWVwNy16dloxeDBQTnJuNmduSEtiU21KZkJUdENHZU55cUo2d0E2NXM5Tms1X01kTmZkR3NWM25XWkJJV1R1ZWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "related_count": 1,
+      "related_urls": [
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nbHVmaUVQblgwdlVjbk5iY1BPZXM2OWVwNy16dloxeDBQTnJuNmduSEtiU21KZkJUdENHZU55cUo2d0E2NXM5Tms1X01kTmZkR3NWM25XWkJJV1R1ZWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 3,
+        "cross_source_count": 1,
+        "recency_score": 0.949,
+        "total_score": 3.819
+      }
+    },
+    {
+      "event_id": "openai just closed its biggest funding round, raising $110 billion from amazon, nvidia, and softbank",
+      "title": "OpenAI just closed its biggest funding round, raising $110 billion from Amazon, Nvidia, and SoftBank",
+      "title_zh": "OpenAI刚刚完成了一轮1100亿美元的融资。",
+      "title_bilingual": "OpenAI刚刚完成了一轮1100亿美元的融资。 / OpenAI just closed its biggest funding round, raising $110 billion from Amazon, Nvidia, and SoftBank",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/openai-110-billion-funding-nvidia-amazon-softbank-2026-2",
+      "related_count": 1,
+      "related_urls": [
+        "https://www.businessinsider.com/openai-110-billion-funding-nvidia-amazon-softbank-2026-2"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 3.81
+      }
+    },
+    {
+      "event_id": "'today, frontier ai systems are simply not reliable enough to power fully autonomous weapons' — anthropic ceo on why it won't agree to pete hegseth's scary request",
+      "title": "'Today, frontier AI systems are simply not reliable enough to power fully autonomous weapons' — Anthropic CEO on why it won't agree to Pete Hegseth's scary request",
+      "title_zh": "“如今，前沿人工智能系统根本不够可靠，无法为完全自主武器提供动力”——Anthropic 首席执行官解释为何不同意 Pete Hegseth 的可怕要求",
+      "title_bilingual": "“如今，前沿人工智能系统根本不够可靠，无法为完全自主武器提供动力”——Anthropic 首席执行官解释为何不同意 Pete Hegseth 的可怕要求 / 'Today, frontier AI systems are simply not reliable enough to power fully autonomous weapons' — Anthropic CEO on why it won't agree to Pete Hegseth's scary request",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/today-frontier-ai-systems-are-simply-not-reliable-enough-to-power-fully-autonomous-weapons-anthropic-ceo-on-why-it-wont-agree-to-pete-hegseths-scary-request",
+      "related_count": 1,
+      "related_urls": [
+        "https://www.techradar.com/ai-platforms-assistants/today-frontier-ai-systems-are-simply-not-reliable-enough-to-power-fully-autonomous-weapons-anthropic-ceo-on-why-it-wont-agree-to-pete-hegseths-scary-request"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 3.81
+      }
+    },
+    {
+      "event_id": "openai raised $110b at a $730b pre-money valuation, up from $500b in a secondary financing in oct.; amazon invested $50b, nvidia and softbank invested $30b each (cnbc)",
+      "title": "OpenAI raised $110B at a $730B pre-money valuation, up from $500B in a secondary financing in Oct.; Amazon invested $50B, Nvidia and SoftBank invested $30B each (CNBC)",
+      "title_zh": "OpenAI 以 730B 美元的投前估值筹集了 110B 美元，高于 10 月份二次融资的 500B 美元；亚马逊投资了 50B 美元，Nvidia 和软银各投资了 30B 美元 (CNBC)",
+      "title_bilingual": "OpenAI 以 730B 美元的投前估值筹集了 110B 美元，高于 10 月份二次融资的 500B 美元；亚马逊投资了 50B 美元，Nvidia 和软银各投资了 30B 美元 (CNBC) / OpenAI raised $110B at a $730B pre-money valuation, up from $500B in a secondary financing in Oct.; Amazon invested $50B, Nvidia and SoftBank invested $30B each (CNBC)",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260227/p11",
+      "related_count": 1,
+      "related_urls": [
+        "http://www.techmeme.com/260227/p11"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 3.81
+      }
+    },
+    {
+      "event_id": "openai raises $110b on $730b pre-money valuation",
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "title_zh": "OpenAI 融资前估值 730B 美元，融资 110B 美元",
+      "title_bilingual": "OpenAI 融资前估值 730B 美元，融资 110B 美元 / OpenAI raises $110B on $730B pre-money valuation",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Hacker News",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history",
+      "related_count": 1,
+      "related_urls": [
+        "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 3.81
+      }
+    },
+    {
+      "event_id": "sources: multiple federal agencies raised concerns about grok's safety and reliability in recent months, before dod approved grok for use in classified settings (wall street journal)",
+      "title": "Sources: multiple federal agencies raised concerns about Grok's safety and reliability in recent months, before DOD approved Grok for use in classified settings (Wall Street Journal)",
+      "title_zh": "资料来源：近几个月来，在国防部批准 Grok 用于机密环境之前，多个联邦机构对 Grok 的安全性和可靠性表示担忧（华尔街日报）",
+      "title_bilingual": "资料来源：近几个月来，在国防部批准 Grok 用于机密环境之前，多个联邦机构对 Grok 的安全性和可靠性表示担忧（华尔街日报） / Sources: multiple federal agencies raised concerns about Grok's safety and reliability in recent months, before DOD approved Grok for use in classified settings (Wall Street Journal)",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260227/p14",
+      "related_count": 1,
+      "related_urls": [
+        "http://www.techmeme.com/260227/p14"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 3.81
+      }
+    },
+    {
+      "event_id": "amazon will invest $15b in openai initially, followed by $35b if certain conditions are met; openai commits to consuming ~2 gw of trainium capacity through aws (about amazon)",
+      "title": "Amazon will invest $15B in OpenAI initially, followed by $35B if certain conditions are met; OpenAI commits to consuming ~2 GW of Trainium capacity through AWS (About Amazon)",
+      "title_zh": "亚马逊最初将向 OpenAI 投资 15B 美元，如果满足某些条件，随后将投资 35B 美元； OpenAI 承诺通过 AWS 消耗约 2 GW 的 Trainium 容量（关于 Amazon）",
+      "title_bilingual": "亚马逊最初将向 OpenAI 投资 15B 美元，如果满足某些条件，随后将投资 35B 美元； OpenAI 承诺通过 AWS 消耗约 2 GW 的 Trainium 容量（关于 Amazon） / Amazon will invest $15B in OpenAI initially, followed by $35B if certain conditions are met; OpenAI commits to consuming ~2 GW of Trainium capacity through AWS (About Amazon)",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260227/p13",
+      "related_count": 1,
+      "related_urls": [
+        "http://www.techmeme.com/260227/p13"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 3.81
+      }
+    },
+    {
+      "event_id": "openai raises $110b in one of the largest private funding rounds in history",
+      "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
+      "title_zh": "OpenAI 在历史上最大的私人融资轮之一中筹集了 110B 美元",
+      "title_bilingual": "OpenAI 在历史上最大的私人融资轮之一中筹集了 110B 美元 / OpenAI raises $110B in one of the largest private funding rounds in history",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history",
+      "related_count": 1,
+      "related_urls": [
+        "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 3.81
+      }
+    },
+    {
+      "event_id": "openai snags $110 billion in investments from amazon, nvidia, and softbank",
+      "title": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
+      "title_zh": "OpenAI 获得亚马逊、英伟达和软银 1100 亿美元投资",
+      "title_bilingual": "OpenAI 获得亚马逊、英伟达和软银 1100 亿美元投资 / OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment",
+      "related_count": 1,
+      "related_urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 3.81
+      }
+    },
+    {
+      "event_id": "openai raises $110 billion in the largest private funding round ever",
+      "title": "OpenAI Raises $110 Billion in the Largest Private Funding Round Ever",
+      "title_zh": "OpenAI 在有史以来最大规模的私募融资中筹集了 1100 亿美元",
+      "title_bilingual": "OpenAI 在有史以来最大规模的私募融资中筹集了 1100 亿美元 / OpenAI Raises $110 Billion in the Largest Private Funding Round Ever",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Slashdot",
+      "url": "https://slashdot.org/story/26/02/27/1355236/openai-raises-110-billion-in-the-largest-private-funding-round-ever",
+      "related_count": 1,
+      "related_urls": [
+        "https://slashdot.org/story/26/02/27/1355236/openai-raises-110-billion-in-the-largest-private-funding-round-ever"
+      ],
+      "signals": {
+        "source_weight": 0.95,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 1,
+        "total_score": 3.81
       }
     },
     {
@@ -448,7 +891,7 @@
       "title_zh": "OpenAI在加拿大深陷舆论漩涡，承诺强化安全举措引关注",
       "title_bilingual": "OpenAI在加拿大深陷舆论漩涡，承诺强化安全举措引关注",
       "published_at": "2026-02-27T11:58:51.796Z",
-      "age_hours": 2.67,
+      "age_hours": 4.71,
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "source": "36kr-quick",
@@ -462,8 +905,8 @@
         "source_weight": 0.85,
         "keyword_hits": 2,
         "cross_source_count": 2,
-        "recency_score": 0.889,
-        "total_score": 3.897
+        "recency_score": 0.804,
+        "total_score": 3.795
       }
     },
     {
@@ -472,7 +915,7 @@
       "title_zh": "xLLM社区重磅首秀，揭秘大模型推理全景图与开源AI Infra生态",
       "title_bilingual": "xLLM社区重磅首秀，揭秘大模型推理全景图与开源AI Infra生态",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "tophub",
       "site_name": "TopHub",
       "source": "机器之心 · 文章库",
@@ -485,8 +928,8 @@
         "source_weight": 0.75,
         "keyword_hits": 5,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.895
+        "recency_score": 0.661,
+        "total_score": 3.793
       }
     },
     {
@@ -495,7 +938,7 @@
       "title_zh": "Anthropic 称中国 AI 实验室大规模蒸馏 Claude 模型",
       "title_bilingual": "Anthropic 称中国 AI 实验室大规模蒸馏 Claude 模型",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "tophub",
       "site_name": "TopHub",
       "source": "开源中国 · 热门资讯",
@@ -508,8 +951,31 @@
         "source_weight": 0.75,
         "keyword_hits": 5,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.895
+        "recency_score": 0.661,
+        "total_score": 3.793
+      }
+    },
+    {
+      "event_id": "亚马逊对openai的500亿美元投资或取决于ipo与通用人工智能进展 - the information",
+      "title": "亚马逊对OpenAI的500亿美元投资或取决于IPO与通用人工智能进展 - The Information",
+      "title_zh": "亚马逊对OpenAI的500亿美元投资或取决于IPO与通用人工智能进展 - The Information",
+      "title_bilingual": "亚马逊对OpenAI的500亿美元投资或取决于IPO与通用人工智能进展 - The Information",
+      "published_at": "2026-02-27T14:55:32.960Z",
+      "age_hours": 1.76,
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "news.google.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUl2UUpPb3p0eHNxRmc5Z3R0NFBSYTluMlZrLWkyRXFVQmV6Yno4SnItSW53a2dtSlFfYk1QRks3am1vMmprcWlNenJwUDFldEVuaEd0S3h1b1pudFlvUjFzZjdZSEtuRUFOeHVXNmFrQjRZb2xVQndLUnRzMWZYY0N4N2xfdnV1akRsbFpvOW1VZjlP?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "related_count": 1,
+      "related_urls": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUl2UUpPb3p0eHNxRmc5Z3R0NFBSYTluMlZrLWkyRXFVQmV6Yno4SnItSW53a2dtSlFfYk1QRks3am1vMmprcWlNenJwUDFldEVuaEd0S3h1b1pudFlvUjFzZjdZSEtuRUFOeHVXNmFrQjRZb2xVQndLUnRzMWZYY0N4N2xfdnV1akRsbFpvOW1VZjlP?oc=5&hl=en-US&gl=US&ceid=US%3Aen"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 3,
+        "cross_source_count": 1,
+        "recency_score": 0.927,
+        "total_score": 3.792
       }
     },
     {
@@ -518,7 +984,7 @@
       "title_zh": "​狗狗也能写代码？前 Meta 工程师联手 Claude，将“乱码”化为爆款游戏",
       "title_bilingual": "​狗狗也能写代码？前 Meta 工程师联手 Claude，将“乱码”化为爆款游戏",
       "published_at": "2026-02-27T10:37:43.505Z",
-      "age_hours": 4.02,
+      "age_hours": 6.06,
       "site_id": "aibase",
       "site_name": "AIbase",
       "source": "AIbase",
@@ -531,8 +997,8 @@
         "source_weight": 1.1,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.832,
-        "total_score": 3.879
+        "recency_score": 0.748,
+        "total_score": 3.777
       }
     },
     {
@@ -541,7 +1007,7 @@
       "title_zh": "开发者迎来“带薪摸鱼”时代？苹果发布 Xcode 26.3：Claude 与 Codex 化身“虚拟同事”，自然语言即可生成 App",
       "title_bilingual": "开发者迎来“带薪摸鱼”时代？苹果发布 Xcode 26.3：Claude 与 Codex 化身“虚拟同事”，自然语言即可生成 App",
       "published_at": "2026-02-27T10:37:43.505Z",
-      "age_hours": 4.02,
+      "age_hours": 6.06,
       "site_id": "aibase",
       "site_name": "AIbase",
       "source": "AIbase",
@@ -554,8 +1020,32 @@
         "source_weight": 1.1,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.832,
-        "total_score": 3.879
+        "recency_score": 0.748,
+        "total_score": 3.777
+      }
+    },
+    {
+      "event_id": "experts sound alarm after chatgpt health fails to recognise medical emergencies",
+      "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+      "title_zh": "ChatGPT Health 未能识别医疗紧急情况后专家发出警报",
+      "title_bilingual": "ChatGPT Health 未能识别医疗紧急情况后专家发出警报 / Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+      "published_at": "2026-02-27T16:30:36.412Z",
+      "age_hours": 0.18,
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47181841",
+      "related_count": 2,
+      "related_urls": [
+        "https://news.ycombinator.com/item?id=47181841",
+        "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 1,
+        "cross_source_count": 2,
+        "recency_score": 0.993,
+        "total_score": 3.771
       }
     },
     {
@@ -564,7 +1054,7 @@
       "title_zh": "科技股今日动态：Anthropic首席执行官达里奥·阿莫代拒绝国防部关于人工智能防护措施的要求",
       "title_bilingual": "科技股今日动态：Anthropic首席执行官达里奥·阿莫代拒绝国防部关于人工智能防护措施的要求",
       "published_at": "2026-02-27T14:23:48.680Z",
-      "age_hours": 0.25,
+      "age_hours": 2.29,
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "source": "finance.yahoo.com",
@@ -577,8 +1067,8 @@
         "source_weight": 0.85,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.989,
-        "total_score": 3.867
+        "recency_score": 0.905,
+        "total_score": 3.765
       }
     },
     {
@@ -587,7 +1077,7 @@
       "title_zh": "AI日报：谷歌Nano Banana 2正式上线；可灵3.0登顶全球视频模型第一；周鸿祎直言AI眼镜难做",
       "title_bilingual": "AI日报：谷歌Nano Banana 2正式上线；可灵3.0登顶全球视频模型第一；周鸿祎直言AI眼镜难做",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "aibasedaily",
       "site_name": "AIbase Daily",
       "source": "AI日报",
@@ -600,8 +1090,8 @@
         "source_weight": 1.15,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.865
+        "recency_score": 0.661,
+        "total_score": 3.763
       }
     },
     {
@@ -610,7 +1100,7 @@
       "title_zh": "[AI Agent 智能体] openClaw 的实用场景都有啥？",
       "title_bilingual": "[AI Agent 智能体] openClaw 的实用场景都有啥？",
       "published_at": "2026-02-27T14:07:16Z",
-      "age_hours": 0.53,
+      "age_hours": 2.57,
       "site_id": "iris",
       "site_name": "Info Flow",
       "source": "V2EX (创意工作者社区)",
@@ -623,8 +1113,8 @@
         "source_weight": 0.85,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.978,
-        "total_score": 3.854
+        "recency_score": 0.893,
+        "total_score": 3.752
       }
     },
     {
@@ -633,7 +1123,7 @@
       "title_zh": "Show HN: DevSquad – Claude 代码插件，兼容 Gemini CLI 和 Codex",
       "title_bilingual": "Show HN: DevSquad – Claude 代码插件，兼容 Gemini CLI 和 Codex",
       "published_at": "2026-02-27T13:19:38.281Z",
-      "age_hours": 1.32,
+      "age_hours": 3.36,
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "source": "github.com",
@@ -646,8 +1136,8 @@
         "source_weight": 0.85,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.945,
-        "total_score": 3.814
+        "recency_score": 0.86,
+        "total_score": 3.712
       }
     },
     {
@@ -656,7 +1146,7 @@
       "title_zh": "Show HN: LokulMem——浏览器大型语言模型（LLM）的本地优先内存管理方案",
       "title_bilingual": "Show HN: LokulMem——浏览器大型语言模型（LLM）的本地优先内存管理方案",
       "published_at": "2026-02-27T13:19:38.274Z",
-      "age_hours": 1.32,
+      "age_hours": 3.36,
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "source": "github.com",
@@ -669,8 +1159,8 @@
         "source_weight": 0.85,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.945,
-        "total_score": 3.814
+        "recency_score": 0.86,
+        "total_score": 3.712
       }
     },
     {
@@ -679,7 +1169,7 @@
       "title_zh": "“我们不能凭良心接受他们的要求”：Anthropic 首席执行官达里奥·阿莫代 (Dario Amodei) 在与美国政府的对峙中划清了界限",
       "title_bilingual": "“我们不能凭良心接受他们的要求”：Anthropic 首席执行官达里奥·阿莫代 (Dario Amodei) 在与美国政府的对峙中划清了界限 / ‘We cannot in good conscience accede to their request’: Anthropic CEO Dario Amodei draws a line in the sand in standoff with US government",
       "published_at": "2026-02-27T14:38:31.570Z",
-      "age_hours": 0.01,
+      "age_hours": 2.05,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "TechRadar",
@@ -692,8 +1182,31 @@
         "source_weight": 0.95,
         "keyword_hits": 2,
         "cross_source_count": 1,
+        "recency_score": 0.915,
+        "total_score": 3.708
+      }
+    },
+    {
+      "event_id": "何恺明团队新作geopt,全新预训练范式用合成动力学让模型自学真实物理规律",
+      "title": "何恺明团队新作GeoPT，全新预训练范式用合成动力学让模型自学真实物理规律",
+      "title_zh": "何恺明团队新作GeoPT，全新预训练范式用合成动力学让模型自学真实物理规律",
+      "title_bilingual": "何恺明团队新作GeoPT，全新预训练范式用合成动力学让模型自学真实物理规律",
+      "published_at": "2026-02-27T16:40:53.141Z",
+      "age_hours": 0.01,
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "Readhub · AI",
+      "url": "https://hub.baai.ac.cn/view/52763",
+      "related_count": 1,
+      "related_urls": [
+        "https://hub.baai.ac.cn/view/52763"
+      ],
+      "signals": {
+        "source_weight": 0.75,
+        "keyword_hits": 3,
+        "cross_source_count": 1,
         "recency_score": 1,
-        "total_score": 3.81
+        "total_score": 3.7
       }
     },
     {
@@ -702,7 +1215,7 @@
       "title_zh": "代码乱码变游戏？前 Meta 工程师让爱犬乱敲键盘，Claude 成功完成开发",
       "title_bilingual": "代码乱码变游戏？前 Meta 工程师让爱犬乱敲键盘，Claude 成功完成开发",
       "published_at": "2026-02-27T08:59:34.120Z",
-      "age_hours": 5.66,
+      "age_hours": 7.7,
       "site_id": "aibase",
       "site_name": "AIbase",
       "source": "AIbase",
@@ -715,8 +1228,8 @@
         "source_weight": 1.1,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.764,
-        "total_score": 3.797
+        "recency_score": 0.679,
+        "total_score": 3.695
       }
     },
     {
@@ -725,7 +1238,7 @@
       "title_zh": "[程序员] VibeAround：人在外面，突然想 Vibe Coding？写了个工具远程控制家里的 Claude Code/Gemini/Codex",
       "title_bilingual": "[程序员] VibeAround：人在外面，突然想 Vibe Coding？写了个工具远程控制家里的 Claude Code/Gemini/Codex",
       "published_at": "2026-02-27T12:58:20Z",
-      "age_hours": 1.68,
+      "age_hours": 3.72,
       "site_id": "iris",
       "site_name": "Info Flow",
       "source": "V2EX (创意工作者社区)",
@@ -738,8 +1251,8 @@
         "source_weight": 0.85,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.93,
-        "total_score": 3.796
+        "recency_score": 0.845,
+        "total_score": 3.694
       }
     },
     {
@@ -748,7 +1261,7 @@
       "title_zh": "五角大楼与Anthropic公司围绕人工智能军事应用的争端正临近关键时刻",
       "title_bilingual": "五角大楼与Anthropic公司围绕人工智能军事应用的争端正临近关键时刻",
       "published_at": "2026-02-27T12:47:32.953Z",
-      "age_hours": 1.86,
+      "age_hours": 3.9,
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "source": "www.reuters.com",
@@ -761,8 +1274,8 @@
         "source_weight": 0.85,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.923,
-        "total_score": 3.787
+        "recency_score": 0.838,
+        "total_score": 3.685
       }
     },
     {
@@ -771,7 +1284,7 @@
       "title_zh": "2026 年 2 月的 PostmarketOS：通用内核，禁止使用生成式 AI",
       "title_bilingual": "2026 年 2 月的 PostmarketOS：通用内核，禁止使用生成式 AI / PostmarketOS in 2026-02: generic kernels, bans use of generative AI",
       "published_at": "2026-02-27T14:38:34.303Z",
-      "age_hours": 0.01,
+      "age_hours": 2.05,
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "source": "hackernews",
@@ -785,8 +1298,8 @@
         "source_weight": 0.85,
         "keyword_hits": 1,
         "cross_source_count": 2,
-        "recency_score": 1,
-        "total_score": 3.78
+        "recency_score": 0.915,
+        "total_score": 3.678
       }
     },
     {
@@ -795,7 +1308,7 @@
       "title_zh": "周鸿祎直言“AI 眼镜挺难做”：硬件只是躯壳，360 决定死磕“智能体”核心",
       "title_bilingual": "周鸿祎直言“AI 眼镜挺难做”：硬件只是躯壳，360 决定死磕“智能体”核心",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "aibase",
       "site_name": "AIbase",
       "source": "AIbase",
@@ -808,8 +1321,8 @@
         "source_weight": 1.1,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.775
+        "recency_score": 0.661,
+        "total_score": 3.673
       }
     },
     {
@@ -818,7 +1331,7 @@
       "title_zh": "OpenAI、微软等巨头下周拟赴白宫签署承诺:自主解决AI数据中心电力供应",
       "title_bilingual": "OpenAI、微软等巨头下周拟赴白宫签署承诺:自主解决AI数据中心电力供应",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "aibase",
       "site_name": "AIbase",
       "source": "AIbase",
@@ -831,8 +1344,8 @@
         "source_weight": 1.1,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.775
+        "recency_score": 0.661,
+        "total_score": 3.673
       }
     },
     {
@@ -841,7 +1354,7 @@
       "title_zh": "英伟达年收入增至2160亿美元，黄仁勋称智能体AI已达转折点",
       "title_bilingual": "英伟达年收入增至2160亿美元，黄仁勋称智能体AI已达转折点",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "aibase",
       "site_name": "AIbase",
       "source": "AIbase",
@@ -854,8 +1367,8 @@
         "source_weight": 1.1,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.775
+        "recency_score": 0.661,
+        "total_score": 3.673
       }
     },
     {
@@ -864,7 +1377,7 @@
       "title_zh": "​IT 维护不再求人！ServiceNow 推出自研 AI 智能体：自主解决 90% 运维工单",
       "title_bilingual": "​IT 维护不再求人！ServiceNow 推出自研 AI 智能体：自主解决 90% 运维工单",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "aibase",
       "site_name": "AIbase",
       "source": "AIbase",
@@ -877,8 +1390,8 @@
         "source_weight": 1.1,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.775
+        "recency_score": 0.661,
+        "total_score": 3.673
       }
     },
     {
@@ -887,7 +1400,7 @@
       "title_zh": "如何使用人工智能来报税——以及如何不使用它",
       "title_bilingual": "如何使用人工智能来报税——以及如何不使用它 / How to use AI for your taxes — and how not to use it",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Recode",
@@ -900,8 +1413,8 @@
         "source_weight": 0.95,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.755
+        "recency_score": 0.661,
+        "total_score": 3.653
       }
     },
     {
@@ -910,7 +1423,7 @@
       "title_zh": "Anthropic 推出 Claude Opus 4.5 进行反击",
       "title_bilingual": "Anthropic 推出 Claude Opus 4.5 进行反击 / Anthropic strikes back with Claude Opus 4.5",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Medium",
@@ -923,8 +1436,8 @@
         "source_weight": 0.95,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.755
+        "recency_score": 0.661,
+        "total_score": 3.653
       }
     },
     {
@@ -933,7 +1446,7 @@
       "title_zh": "OpenAI 愤怒的 DeepSeek 可能窃取了 OpenAI 从我们这里窃取的所有数据",
       "title_bilingual": "OpenAI 愤怒的 DeepSeek 可能窃取了 OpenAI 从我们这里窃取的所有数据 / OpenAI Furious DeepSeek Might Have Stolen All The Data OpenAI Stole From Us",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Digg",
@@ -946,8 +1459,8 @@
         "source_weight": 0.95,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.755
+        "recency_score": 0.661,
+        "total_score": 3.653
       }
     },
     {
@@ -956,7 +1469,7 @@
       "title_zh": "DeepSeek的金牌，中国对OpenAI的回答",
       "title_bilingual": "DeepSeek的金牌，中国对OpenAI的回答 / DeepSeek’s Gold Medal, China’s Answer to OpenAI",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Medium",
@@ -969,8 +1482,8 @@
         "source_weight": 0.95,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.755
+        "recency_score": 0.661,
+        "total_score": 3.653
       }
     },
     {
@@ -979,7 +1492,7 @@
       "title_zh": "OpenAI和谷歌员工签署请愿书，反对军方使用人工智能技术",
       "title_bilingual": "OpenAI和谷歌员工签署请愿书，反对军方使用人工智能技术 / OpenAI and Google employees have signed a petition opposing the military's AI use",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Business Insider",
@@ -992,8 +1505,8 @@
         "source_weight": 0.95,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.755
+        "recency_score": 0.661,
+        "total_score": 3.653
       }
     },
     {
@@ -1002,7 +1515,7 @@
       "title_zh": "人工智能时代你足够“代理”吗？",
       "title_bilingual": "人工智能时代你足够“代理”吗？ / Are You ‘Agentic’ Enough for the AI Era?",
       "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
+      "age_hours": 8.14,
       "site_id": "techurls",
       "site_name": "TechURLs",
       "source": "Wired",
@@ -1015,241 +1528,8 @@
         "source_weight": 0.95,
         "keyword_hits": 3,
         "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.755
-      }
-    },
-    {
-      "event_id": "exclusive: anthropic let claude run its office shop. then things got weird",
-      "title": "Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird",
-      "title_zh": "独家：Anthropic 让 Claude 经营其办公室商店。然后事情变得奇怪",
-      "title_bilingual": "独家：Anthropic 让 Claude 经营其办公室商店。然后事情变得奇怪 / Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird",
-      "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "url": "https://time.com/7298088/claude-anthropic-shop-ai-jobs",
-      "related_count": 1,
-      "related_urls": [
-        "https://time.com/7298088/claude-anthropic-shop-ai-jobs"
-      ],
-      "signals": {
-        "source_weight": 0.95,
-        "keyword_hits": 3,
-        "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.755
-      }
-    },
-    {
-      "event_id": "openai's president opens up about the 5 chaotic days after sam altman's firing",
-      "title": "OpenAI's president opens up about the 5 chaotic days after Sam Altman's firing",
-      "title_zh": "OpenAI 总裁讲述 Sam Altman 被解雇后 5 天的混乱局面",
-      "title_bilingual": "OpenAI 总裁讲述 Sam Altman 被解雇后 5 天的混乱局面 / OpenAI's president opens up about the 5 chaotic days after Sam Altman's firing",
-      "published_at": "2026-02-27T12:58:59.791Z",
-      "age_hours": 1.67,
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/openai-president-talks-altman-firing-2026-2",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.businessinsider.com/openai-president-talks-altman-firing-2026-2"
-      ],
-      "signals": {
-        "source_weight": 0.95,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.931,
-        "total_score": 3.727
-      }
-    },
-    {
-      "event_id": "openai will notify authorities of credible threats after canada mass shooter's second account was discovered",
-      "title": "OpenAI will notify authorities of credible threats after Canada mass shooter's second account was discovered",
-      "title_zh": "加拿大大规模枪击案凶手的第二个账户被发现后，OpenAI 将向当局通报可信威胁",
-      "title_bilingual": "加拿大大规模枪击案凶手的第二个账户被发现后，OpenAI 将向当局通报可信威胁 / OpenAI will notify authorities of credible threats after Canada mass shooter's second account was discovered",
-      "published_at": "2026-02-27T12:58:59.791Z",
-      "age_hours": 1.67,
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/ai/openai-will-notify-authorities-of-credible-threats-after-canada-mass-shooters-second-account-was-discovered-112706548.html?src=rss",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.engadget.com/ai/openai-will-notify-authorities-of-credible-threats-after-canada-mass-shooters-second-account-was-discovered-112706548.html?src=rss"
-      ],
-      "signals": {
-        "source_weight": 0.95,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.931,
-        "total_score": 3.727
-      }
-    },
-    {
-      "event_id": "what claude code chooses",
-      "title": "What Claude Code chooses",
-      "title_zh": "克劳德·科德选择什么",
-      "title_bilingual": "克劳德·科德选择什么 / What Claude Code chooses",
-      "published_at": "2026-02-27T08:32:48.134Z",
-      "age_hours": 6.1,
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=47169757",
-      "related_count": 2,
-      "related_urls": [
-        "https://news.ycombinator.com/item?id=47169757",
-        "https://amplifying.ai/research/claude-code-picks"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 2,
-        "recency_score": 0.746,
-        "total_score": 3.725
-      }
-    },
-    {
-      "event_id": "parakeet.cpp – parakeet asr inference in pure c++ with metal gpu acceleration",
-      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
-      "title_zh": "Parakeet.cpp – 采用 Metal GPU 加速的纯 C++ 中的 Parakeet ASR 推理",
-      "title_bilingual": "Parakeet.cpp – 采用 Metal GPU 加速的纯 C++ 中的 Parakeet ASR 推理 / Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
-      "published_at": "2026-02-27T08:32:48.134Z",
-      "age_hours": 6.1,
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=47176239",
-      "related_count": 2,
-      "related_urls": [
-        "https://news.ycombinator.com/item?id=47176239",
-        "https://github.com/Frikallo/parakeet.cpp"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 2,
-        "recency_score": 0.746,
-        "total_score": 3.725
-      }
-    },
-    {
-      "event_id": "openai和谷歌员工签署请愿书,反对军方使用人工智能技术",
-      "title": "OpenAI和谷歌员工签署请愿书，反对军方使用人工智能技术",
-      "title_zh": "OpenAI和谷歌员工签署请愿书，反对军方使用人工智能技术",
-      "title_bilingual": "OpenAI和谷歌员工签署请愿书，反对军方使用人工智能技术",
-      "published_at": "2026-02-27T06:25:13.106Z",
-      "age_hours": 8.23,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.businessinsider.com",
-      "url": "https://www.businessinsider.com/openai-google-employee-petition-military-ai-use-anthropic-pentagon-defense-2026-2",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.businessinsider.com/openai-google-employee-petition-military-ai-use-anthropic-pentagon-defense-2026-2"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 4,
-        "cross_source_count": 1,
-        "recency_score": 0.657,
-        "total_score": 3.718
-      }
-    },
-    {
-      "event_id": "美国防部:愿在截止日期前与anthropic开展人工智能相关讨论",
-      "title": "美国防部：愿在截止日期前与Anthropic开展人工智能相关讨论",
-      "title_zh": "美国防部：愿在截止日期前与Anthropic开展人工智能相关讨论",
-      "title_bilingual": "美国防部：愿在截止日期前与Anthropic开展人工智能相关讨论",
-      "published_at": "2026-02-27T14:38:31.570Z",
-      "age_hours": 0.01,
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "Readhub · AI",
-      "url": "https://www.gelonghui.com/live/2320263",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.gelonghui.com/live/2320263"
-      ],
-      "signals": {
-        "source_weight": 0.75,
-        "keyword_hits": 3,
-        "cross_source_count": 1,
-        "recency_score": 1,
-        "total_score": 3.7
-      }
-    },
-    {
-      "event_id": "中富通:拟定增募资不超过6.43亿元,用于基于人工智能的公共安全平台产业化项目等",
-      "title": "中富通：拟定增募资不超过6.43亿元，用于基于人工智能的公共安全平台产业化项目等",
-      "title_zh": "中富通：拟定增募资不超过6.43亿元，用于基于人工智能的公共安全平台产业化项目等",
-      "title_bilingual": "中富通：拟定增募资不超过6.43亿元，用于基于人工智能的公共安全平台产业化项目等",
-      "published_at": "2026-02-27T12:12:51.796Z",
-      "age_hours": 2.44,
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "36kr-quick",
-      "url": "https://www.36kr.com/newsflashes/3701511281586563",
-      "related_count": 2,
-      "related_urls": [
-        "https://www.36kr.com/newsflashes/3701511281586563",
-        "https://36kr.com/newsflashes/3701511281586563?f=rss"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 1,
-        "cross_source_count": 2,
-        "recency_score": 0.898,
-        "total_score": 3.658
-      }
-    },
-    {
-      "event_id": "从零搭建你的第一个 ai agent:用 langchain + openai 实现智能助手",
-      "title": "从零搭建你的第一个 AI Agent：用 LangChain + OpenAI 实现智能助手",
-      "title_zh": "从零搭建你的第一个 AI Agent：用 LangChain + OpenAI 实现智能助手",
-      "title_bilingual": "从零搭建你的第一个 AI Agent：用 LangChain + OpenAI 实现智能助手",
-      "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "掘金 · 人工智能本周最热",
-      "url": "https://juejin.cn/post/7608214035263471670",
-      "related_count": 1,
-      "related_urls": [
-        "https://juejin.cn/post/7608214035263471670"
-      ],
-      "signals": {
-        "source_weight": 0.75,
-        "keyword_hits": 4,
-        "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.645
-      }
-    },
-    {
-      "event_id": "谷歌重磅发布 gemini 3.1 pro:更强推理,更强生产力",
-      "title": "谷歌重磅发布 Gemini 3.1 Pro：更强推理，更强生产力",
-      "title_zh": "谷歌重磅发布 Gemini 3.1 Pro：更强推理，更强生产力",
-      "title_bilingual": "谷歌重磅发布 Gemini 3.1 Pro：更强推理，更强生产力",
-      "published_at": "2026-02-27T08:32:44.703Z",
-      "age_hours": 6.1,
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "掘金 · 人工智能本周最热",
-      "url": "https://juejin.cn/post/7607565063079542826",
-      "related_count": 1,
-      "related_urls": [
-        "https://juejin.cn/post/7607565063079542826"
-      ],
-      "signals": {
-        "source_weight": 0.75,
-        "keyword_hits": 4,
-        "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.645
+        "recency_score": 0.661,
+        "total_score": 3.653
       }
     },
     {
@@ -1276,12 +1556,267 @@
       }
     },
     {
+      "event_id": "what claude code chooses",
+      "title": "What Claude Code chooses",
+      "title_zh": "克劳德·科德选择什么",
+      "title_bilingual": "克劳德·科德选择什么 / What Claude Code chooses",
+      "published_at": "2026-02-27T08:32:48.134Z",
+      "age_hours": 8.14,
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47169757",
+      "related_count": 2,
+      "related_urls": [
+        "https://news.ycombinator.com/item?id=47169757",
+        "https://amplifying.ai/research/claude-code-picks"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 2,
+        "recency_score": 0.661,
+        "total_score": 3.623
+      }
+    },
+    {
+      "event_id": "parakeet.cpp – parakeet asr inference in pure c++ with metal gpu acceleration",
+      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+      "title_zh": "Parakeet.cpp – 采用 Metal GPU 加速的纯 C++ 中的 Parakeet ASR 推理",
+      "title_bilingual": "Parakeet.cpp – 采用 Metal GPU 加速的纯 C++ 中的 Parakeet ASR 推理 / Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+      "published_at": "2026-02-27T08:32:48.134Z",
+      "age_hours": 8.14,
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47176239",
+      "related_count": 2,
+      "related_urls": [
+        "https://news.ycombinator.com/item?id=47176239",
+        "https://github.com/Frikallo/parakeet.cpp"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 2,
+        "recency_score": 0.661,
+        "total_score": 3.623
+      }
+    },
+    {
+      "event_id": "聊一下很火的 ai agent",
+      "title": "聊一下很火的 AI Agent",
+      "title_zh": "聊一下很火的 AI Agent",
+      "title_bilingual": "聊一下很火的 AI Agent",
+      "published_at": "2026-02-27T16:30:39.335Z",
+      "age_hours": 0.18,
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "juejin",
+      "url": "https://juejin.cn/post/7610604117631615022",
+      "related_count": 1,
+      "related_urls": [
+        "https://juejin.cn/post/7610604117631615022"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 0.993,
+        "total_score": 3.621
+      }
+    },
+    {
+      "event_id": "openai和谷歌员工签署请愿书,反对军方使用人工智能技术",
+      "title": "OpenAI和谷歌员工签署请愿书，反对军方使用人工智能技术",
+      "title_zh": "OpenAI和谷歌员工签署请愿书，反对军方使用人工智能技术",
+      "title_bilingual": "OpenAI和谷歌员工签署请愿书，反对军方使用人工智能技术",
+      "published_at": "2026-02-27T06:25:13.106Z",
+      "age_hours": 10.27,
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "www.businessinsider.com",
+      "url": "https://www.businessinsider.com/openai-google-employee-petition-military-ai-use-anthropic-pentagon-defense-2026-2",
+      "related_count": 1,
+      "related_urls": [
+        "https://www.businessinsider.com/openai-google-employee-petition-military-ai-use-anthropic-pentagon-defense-2026-2"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 4,
+        "cross_source_count": 1,
+        "recency_score": 0.572,
+        "total_score": 3.617
+      }
+    },
+    {
+      "event_id": "openai vows safety policy changes after tumbler ridge shooting",
+      "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
+      "title_zh": "OpenAI 誓言在 Tumbler Ridge 枪击事件后改变安全政策",
+      "title_bilingual": "OpenAI 誓言在 Tumbler Ridge 枪击事件后改变安全政策 / OpenAI vows safety policy changes after Tumbler Ridge shooting",
+      "published_at": "2026-02-27T16:15:30Z",
+      "age_hours": 0.43,
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "BBC News (世界新闻)",
+      "url": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
+      "related_count": 1,
+      "related_urls": [
+        "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 0.982,
+        "total_score": 3.609
+      }
+    },
+    {
+      "event_id": "五角大楼正在对美国天才宣战",
+      "title": "五角大楼正在对美国天才宣战",
+      "title_zh": "五角大楼正在对美国天才宣战",
+      "title_bilingual": "五角大楼正在对美国天才宣战",
+      "published_at": "2026-02-27T16:15:14.522Z",
+      "age_hours": 0.43,
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "www.bloomberg.com",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-02-27/anthropic-vs-pentagon-trump-administration-is-hurting-innovation",
+      "related_count": 1,
+      "related_urls": [
+        "https://www.bloomberg.com/opinion/articles/2026-02-27/anthropic-vs-pentagon-trump-administration-is-hurting-innovation"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 0.982,
+        "total_score": 3.608
+      }
+    },
+    {
+      "event_id": "代理技能淘金热中存在恶意软件问题",
+      "title": "代理技能淘金热中存在恶意软件问题",
+      "title_zh": "代理技能淘金热中存在恶意软件问题",
+      "title_bilingual": "代理技能淘金热中存在恶意软件问题",
+      "published_at": "2026-02-27T16:15:13.098Z",
+      "age_hours": 0.43,
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "dev.to",
+      "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
+      "related_count": 1,
+      "related_urls": [
+        "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 0.982,
+        "total_score": 3.608
+      }
+    },
+    {
+      "event_id": "show hn: 我构建了一个多模型ai终端,并为其定制了移动网页用户界面",
+      "title": "Show HN: 我构建了一个多模型AI终端，并为其定制了移动网页用户界面。",
+      "title_zh": "Show HN: 我构建了一个多模型AI终端，并为其定制了移动网页用户界面。",
+      "title_bilingual": "Show HN: 我构建了一个多模型AI终端，并为其定制了移动网页用户界面。",
+      "published_at": "2026-02-27T16:15:13.080Z",
+      "age_hours": 0.43,
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "github.com",
+      "url": "https://github.com/jazzenchen/VibeAround",
+      "related_count": 1,
+      "related_urls": [
+        "https://github.com/jazzenchen/VibeAround"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 0.982,
+        "total_score": 3.608
+      }
+    },
+    {
+      "event_id": "美国防部:愿在截止日期前与anthropic开展人工智能相关讨论",
+      "title": "美国防部：愿在截止日期前与Anthropic开展人工智能相关讨论",
+      "title_zh": "美国防部：愿在截止日期前与Anthropic开展人工智能相关讨论",
+      "title_bilingual": "美国防部：愿在截止日期前与Anthropic开展人工智能相关讨论",
+      "published_at": "2026-02-27T14:38:31.570Z",
+      "age_hours": 2.05,
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "Readhub · AI",
+      "url": "https://www.gelonghui.com/live/2320263",
+      "related_count": 1,
+      "related_urls": [
+        "https://www.gelonghui.com/live/2320263"
+      ],
+      "signals": {
+        "source_weight": 0.75,
+        "keyword_hits": 3,
+        "cross_source_count": 1,
+        "recency_score": 0.915,
+        "total_score": 3.598
+      }
+    },
+    {
+      "event_id": "人类中心主义公司在与五角大楼的争端中获得其他科技从业者的支持",
+      "title": "人类中心主义公司在与五角大楼的争端中获得其他科技从业者的支持",
+      "title_zh": "人类中心主义公司在与五角大楼的争端中获得其他科技从业者的支持",
+      "title_bilingual": "人类中心主义公司在与五角大楼的争端中获得其他科技从业者的支持",
+      "published_at": "2026-02-27T15:59:38.519Z",
+      "age_hours": 0.69,
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "www.bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/anthropic-s-feud-with-pentagon-mushrooms-into-broader-battle",
+      "related_count": 1,
+      "related_urls": [
+        "https://www.bloomberg.com/news/articles/2026-02-27/anthropic-s-feud-with-pentagon-mushrooms-into-broader-battle"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 0.971,
+        "total_score": 3.595
+      }
+    },
+    {
+      "event_id": "培生首席执行官抨击因人工智能冲击而抛售的\"短期\"投资者",
+      "title": "培生首席执行官抨击因人工智能冲击而抛售的\"短期\"投资者",
+      "title_zh": "培生首席执行官抨击因人工智能冲击而抛售的\"短期\"投资者",
+      "title_bilingual": "培生首席执行官抨击因人工智能冲击而抛售的\"短期\"投资者",
+      "published_at": "2026-02-27T15:59:38.490Z",
+      "age_hours": 0.69,
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "www.bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/pearson-ceo-takes-aim-at-short-term-investors-after-ai-selloff",
+      "related_count": 1,
+      "related_urls": [
+        "https://www.bloomberg.com/news/articles/2026-02-27/pearson-ceo-takes-aim-at-short-term-investors-after-ai-selloff"
+      ],
+      "signals": {
+        "source_weight": 0.85,
+        "keyword_hits": 2,
+        "cross_source_count": 1,
+        "recency_score": 0.971,
+        "total_score": 3.595
+      }
+    },
+    {
       "event_id": "前 meta 工程师让小狗乱按键盘,只靠 claude 就把乱码做成了游戏",
       "title": "前 Meta 工程师让小狗乱按键盘，只靠 Claude 就把乱码做成了游戏",
       "title_zh": "前 Meta 工程师让小狗乱按键盘，只靠 Claude 就把乱码做成了游戏",
       "title_bilingual": "前 Meta 工程师让小狗乱按键盘，只靠 Claude 就把乱码做成了游戏",
       "published_at": "2026-02-27T15:59:38Z",
-      "age_hours": 0,
+      "age_hours": 0.69,
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "source": "ithome",
@@ -1294,606 +1829,77 @@
         "source_weight": 0.85,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 1,
-        "total_score": 3.63
+        "recency_score": 0.971,
+        "total_score": 3.595
       }
     },
     {
-      "event_id": "openai 奥尔特曼:“有审美”的非技术人员也可以参与开发 agi",
-      "title": "OpenAI 奥尔特曼：“有审美”的非技术人员也可以参与开发 AGI",
-      "title_zh": "OpenAI 奥尔特曼：“有审美”的非技术人员也可以参与开发 AGI",
-      "title_bilingual": "OpenAI 奥尔特曼：“有审美”的非技术人员也可以参与开发 AGI",
-      "published_at": "2026-02-27T15:13:51Z",
-      "age_hours": 0,
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "ithome",
-      "url": "https://www.ithome.com/0/924/237.htm",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.ithome.com/0/924/237.htm"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 1,
-        "total_score": 3.63
-      }
-    },
-    {
-      "event_id": "华尔街开盘料将走低,人工智能担忧令投资者心惊;纳斯达克指数或将录得月度跌幅",
-      "title": "华尔街开盘料将走低，人工智能担忧令投资者心惊；纳斯达克指数或将录得月度跌幅",
-      "title_zh": "华尔街开盘料将走低，人工智能担忧令投资者心惊；纳斯达克指数或将录得月度跌幅",
-      "title_bilingual": "华尔街开盘料将走低，人工智能担忧令投资者心惊；纳斯达克指数或将录得月度跌幅",
-      "published_at": "2026-02-27T14:23:48.934Z",
-      "age_hours": 0.25,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.reuters.com",
-      "url": "https://www.reuters.com/business/us-stock-futures-falter-ai-jitters-nasdaq-braces-steep-monthly-fall-2026-02-27",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.reuters.com/business/us-stock-futures-falter-ai-jitters-nasdaq-braces-steep-monthly-fall-2026-02-27"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.989,
-        "total_score": 3.617
-      }
-    },
-    {
-      "event_id": "闪迪公司(sndk)因人工智能驱动的存储需求表现优异",
-      "title": "闪迪公司（SNDK）因人工智能驱动的存储需求表现优异",
-      "title_zh": "闪迪公司（SNDK）因人工智能驱动的存储需求表现优异",
-      "title_bilingual": "闪迪公司（SNDK）因人工智能驱动的存储需求表现优异",
-      "published_at": "2026-02-27T14:23:48.755Z",
-      "age_hours": 0.25,
+      "event_id": "财富管理精选:redtail顾问客户关系管理平台扩展人工智能集成",
+      "title": "财富管理精选：Redtail顾问客户关系管理平台扩展人工智能集成",
+      "title_zh": "财富管理精选：Redtail顾问客户关系管理平台扩展人工智能集成",
+      "title_bilingual": "财富管理精选：Redtail顾问客户关系管理平台扩展人工智能集成",
+      "published_at": "2026-02-27T15:59:37.821Z",
+      "age_hours": 0.69,
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/news/sandisk-corporation-sndk-outperforms-ai-141423050.html",
+      "url": "https://finance.yahoo.com/news/wealthstack-roundup-expanded-ai-integrations-154518377.html",
       "related_count": 1,
       "related_urls": [
-        "https://finance.yahoo.com/news/sandisk-corporation-sndk-outperforms-ai-141423050.html"
+        "https://finance.yahoo.com/news/wealthstack-roundup-expanded-ai-integrations-154518377.html"
       ],
       "signals": {
         "source_weight": 0.85,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.989,
-        "total_score": 3.617
+        "recency_score": 0.971,
+        "total_score": 3.595
       }
     },
     {
-      "event_id": "惠普(hpq)表现落后,因成本上升及2026年展望疲软,人工智能顺风未能推动增长",
-      "title": "惠普(HPQ)表现落后，因成本上升及2026年展望疲软，人工智能顺风未能推动增长",
-      "title_zh": "惠普(HPQ)表现落后，因成本上升及2026年展望疲软，人工智能顺风未能推动增长",
-      "title_bilingual": "惠普(HPQ)表现落后，因成本上升及2026年展望疲软，人工智能顺风未能推动增长",
-      "published_at": "2026-02-27T14:23:48.720Z",
-      "age_hours": 0.25,
+      "event_id": "韦德布什证券指出,英伟达的亮眼业绩和salesforce在agentforce领域的进展表明,人工智能软件的抛售已过度",
+      "title": "韦德布什证券指出，英伟达的亮眼业绩和Salesforce在Agentforce领域的进展表明，人工智能软件的抛售已过度。",
+      "title_zh": "韦德布什证券指出，英伟达的亮眼业绩和Salesforce在Agentforce领域的进展表明，人工智能软件的抛售已过度。",
+      "title_bilingual": "韦德布什证券指出，英伟达的亮眼业绩和Salesforce在Agentforce领域的进展表明，人工智能软件的抛售已过度。",
+      "published_at": "2026-02-27T15:59:37.817Z",
+      "age_hours": 0.69,
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/news/hp-hpq-lags-ai-tailwinds-140621300.html",
+      "url": "https://finance.yahoo.com/news/nvidias-blowout-results-salesforces-agentforce-154506852.html",
       "related_count": 1,
       "related_urls": [
-        "https://finance.yahoo.com/news/hp-hpq-lags-ai-tailwinds-140621300.html"
+        "https://finance.yahoo.com/news/nvidias-blowout-results-salesforces-agentforce-154506852.html"
       ],
       "signals": {
         "source_weight": 0.85,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.989,
-        "total_score": 3.617
+        "recency_score": 0.971,
+        "total_score": 3.595
       }
     },
     {
-      "event_id": "openai筹建并购战备金 - the information",
-      "title": "OpenAI筹建并购战备金 - The Information",
-      "title_zh": "OpenAI筹建并购战备金 - The Information",
-      "title_bilingual": "OpenAI筹建并购战备金 - The Information",
-      "published_at": "2026-02-27T14:23:47.558Z",
-      "age_hours": 0.25,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "news.google.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREh2VXpKY0lyUDhiM3ZFUUsyTlFEck51QmUtLWdBTThYUFk1VHJwM0RGQndxWXR4a25kT2tnbTNZNF95Szk4ZGN1c3JtQ1JfUW1SVFFvd3ZCQnc3X3VyXy1icFRzOV9ScnowV3dQYjRJbUpTS2l0d0YwSU9pcW5leHZiQ1Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "related_count": 1,
-      "related_urls": [
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREh2VXpKY0lyUDhiM3ZFUUsyTlFEck51QmUtLWdBTThYUFk1VHJwM0RGQndxWXR4a25kT2tnbTNZNF95Szk4ZGN1c3JtQ1JfUW1SVFFvd3ZCQnc3X3VyXy1icFRzOV9ScnowV3dQYjRJbUpTS2l0d0YwSU9pcW5leHZiQ1Y?oc=5&hl=en-US&gl=US&ceid=US%3Aen"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.989,
-        "total_score": 3.617
-      }
-    },
-    {
-      "event_id": "黑客利用claude策划并实施了对墨西哥政府的攻击",
-      "title": "黑客利用Claude策划并实施了对墨西哥政府的攻击",
-      "title_zh": "黑客利用Claude策划并实施了对墨西哥政府的攻击",
-      "title_bilingual": "黑客利用Claude策划并实施了对墨西哥政府的攻击",
-      "published_at": "2026-02-27T14:23:46.262Z",
-      "age_hours": 0.25,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "news.ycombinator.com",
-      "url": "https://news.ycombinator.com/item?id=47180672",
-      "related_count": 1,
-      "related_urls": [
-        "https://news.ycombinator.com/item?id=47180672"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.989,
-        "total_score": 3.617
-      }
-    },
-    {
-      "event_id": "anthropics / claude-code",
-      "title": "anthropics / claude-code",
-      "title_zh": "人类学 / 克劳德代码",
-      "title_bilingual": "人类学 / 克劳德代码 / anthropics / claude-code",
-      "published_at": "2026-02-27T12:58:59.791Z",
-      "age_hours": 1.67,
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "GitHub · Trending Today",
-      "url": "https://github.com/anthropics/claude-code",
-      "related_count": 1,
-      "related_urls": [
-        "https://github.com/anthropics/claude-code"
-      ],
-      "signals": {
-        "source_weight": 0.75,
-        "keyword_hits": 3,
-        "cross_source_count": 1,
-        "recency_score": 0.931,
-        "total_score": 3.617
-      }
-    },
-    {
-      "event_id": "以下是关于anthropic与五角大楼公开争执的专家观点",
-      "title": "以下是关于Anthropic与五角大楼公开争执的专家观点：",
-      "title_zh": "以下是关于Anthropic与五角大楼公开争执的专家观点：",
-      "title_bilingual": "以下是关于Anthropic与五角大楼公开争执的专家观点：",
-      "published_at": "2026-02-27T09:20:31.366Z",
-      "age_hours": 5.31,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.businessinsider.com",
-      "url": "https://www.businessinsider.com/what-smart-people-say-anthropic-pentagon-dod-claude-ultimatum-2026-2",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.businessinsider.com/what-smart-people-say-anthropic-pentagon-dod-claude-ultimatum-2026-2"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 3,
-        "cross_source_count": 1,
-        "recency_score": 0.779,
-        "total_score": 3.615
-      }
-    },
-    {
-      "event_id": "anthropic refuses to bow to pentagon despite hegseth's threats",
-      "title": "Anthropic refuses to bow to Pentagon despite Hegseth's threats",
-      "title_zh": "尽管赫格赛斯发出威胁，但人类仍拒绝向五角大楼屈服",
-      "title_bilingual": "尽管赫格赛斯发出威胁，但人类仍拒绝向五角大楼屈服 / Anthropic refuses to bow to Pentagon despite Hegseth's threats",
-      "published_at": "2026-02-27T10:37:43.505Z",
-      "age_hours": 4.02,
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/ai/anthropic-refuses-to-bow-to-pentagon-despite-hegseths-threats-085553126.html?src=rss",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.engadget.com/ai/anthropic-refuses-to-bow-to-pentagon-despite-hegseths-threats-085553126.html?src=rss"
-      ],
-      "signals": {
-        "source_weight": 0.95,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.832,
-        "total_score": 3.609
-      }
-    },
-    {
-      "event_id": "openai的1100亿美元融资轮获得亚马逊、英伟达、软银的投资",
-      "title": "OpenAI的1100亿美元融资轮获得亚马逊、英伟达、软银的投资",
-      "title_zh": "OpenAI的1100亿美元融资轮获得亚马逊、英伟达、软银的投资",
-      "title_bilingual": "OpenAI的1100亿美元融资轮获得亚马逊、英伟达、软银的投资",
-      "published_at": "2026-02-27T14:07:29.579Z",
-      "age_hours": 0.53,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.reuters.com",
-      "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.978,
-        "total_score": 3.604
-      }
-    },
-    {
-      "event_id": "企业开始将裁员归咎于人工智能(重申)",
-      "title": "企业开始将裁员归咎于人工智能（重申）",
-      "title_zh": "企业开始将裁员归咎于人工智能（重申）",
-      "title_bilingual": "企业开始将裁员归咎于人工智能（重申）",
-      "published_at": "2026-02-27T14:07:29.452Z",
-      "age_hours": 0.53,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-19/ai-cited-in-more-job-cut-news-adding-to-labor-market-pain",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.bloomberg.com/news/articles/2025-11-19/ai-cited-in-more-job-cut-news-adding-to-labor-market-pain"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.978,
-        "total_score": 3.604
-      }
-    },
-    {
-      "event_id": "科技巨头员工敦促老板支持anthropic应对五角大楼冲突",
-      "title": "科技巨头员工敦促老板支持Anthropic应对五角大楼冲突",
-      "title_zh": "科技巨头员工敦促老板支持Anthropic应对五角大楼冲突",
-      "title_bilingual": "科技巨头员工敦促老板支持Anthropic应对五角大楼冲突",
-      "published_at": "2026-02-27T14:07:28.755Z",
-      "age_hours": 0.53,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.ft.com",
-      "url": "https://www.ft.com/content/7bbc4ad3-57f4-4cfd-b791-e50e625c2e0e",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.ft.com/content/7bbc4ad3-57f4-4cfd-b791-e50e625c2e0e"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.978,
-        "total_score": 3.604
-      }
-    },
-    {
-      "event_id": "openai raises $110 billion in the largest private funding round ever",
-      "title": "OpenAI Raises $110 Billion in the Largest Private Funding Round Ever",
-      "title_zh": "OpenAI 在有史以来最大规模的私募融资中筹集了 1100 亿美元",
-      "title_bilingual": "OpenAI 在有史以来最大规模的私募融资中筹集了 1100 亿美元 / OpenAI Raises $110 Billion in the Largest Private Funding Round Ever",
-      "published_at": "2026-02-27T14:00:00Z",
-      "age_hours": 0.65,
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "Slashdot (科技资讯)",
-      "url": "https://slashdot.org/story/26/02/27/1355236/openai-raises-110-billion-in-the-largest-private-funding-round-ever",
-      "related_count": 1,
-      "related_urls": [
-        "https://slashdot.org/story/26/02/27/1355236/openai-raises-110-billion-in-the-largest-private-funding-round-ever"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.973,
-        "total_score": 3.597
-      }
-    },
-    {
-      "event_id": "openai刚刚完成了一轮1100亿美元的融资",
-      "title": "OpenAI刚刚完成了一轮1100亿美元的融资。",
-      "title_zh": "OpenAI刚刚完成了一轮1100亿美元的融资。",
-      "title_bilingual": "OpenAI刚刚完成了一轮1100亿美元的融资。",
-      "published_at": "2026-02-27T13:51:45.002Z",
-      "age_hours": 0.79,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.businessinsider.com",
-      "url": "https://www.businessinsider.com/openai-110-billion-funding-nvidia-amazon-softbank-2026-2",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.businessinsider.com/openai-110-billion-funding-nvidia-amazon-softbank-2026-2"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.967,
-        "total_score": 3.591
-      }
-    },
-    {
-      "event_id": "openai达成创纪录融资协议,获投高达1100亿美元",
-      "title": "OpenAI达成创纪录融资协议，获投高达1100亿美元",
-      "title_zh": "OpenAI达成创纪录融资协议，获投高达1100亿美元",
-      "title_bilingual": "OpenAI达成创纪录融资协议，获投高达1100亿美元",
-      "published_at": "2026-02-27T13:51:44.203Z",
-      "age_hours": 0.79,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.ft.com",
-      "url": "https://www.ft.com/content/33364b58-5123-4c96-b2df-4a4be85d4d0f",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.ft.com/content/33364b58-5123-4c96-b2df-4a4be85d4d0f"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.967,
-        "total_score": 3.591
-      }
-    },
-    {
-      "event_id": "openai 宣布 1100 亿美元新融资:估值 7300 亿美元,软银、英伟达、亚马逊共同注资",
-      "title": "OpenAI 宣布 1100 亿美元新融资：估值 7300 亿美元，软银、英伟达、亚马逊共同注资",
-      "title_zh": "OpenAI 宣布 1100 亿美元新融资：估值 7300 亿美元，软银、英伟达、亚马逊共同注资",
-      "title_bilingual": "OpenAI 宣布 1100 亿美元新融资：估值 7300 亿美元，软银、英伟达、亚马逊共同注资",
-      "published_at": "2026-02-27T13:51:20Z",
-      "age_hours": 0.8,
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "IT之家 (ITHome)",
-      "url": "https://www.ithome.com/0/924/376.htm",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.ithome.com/0/924/376.htm"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.967,
-        "total_score": 3.59
-      }
-    },
-    {
-      "event_id": "谷歌 3 月 9 日起停用 gemini 3 pro preview,开发者需迁移至 3.1 版",
-      "title": "谷歌 3 月 9 日起停用 Gemini 3 Pro Preview，开发者需迁移至 3.1 版",
-      "title_zh": "谷歌 3 月 9 日起停用 Gemini 3 Pro Preview，开发者需迁移至 3.1 版",
-      "title_bilingual": "谷歌 3 月 9 日起停用 Gemini 3 Pro Preview，开发者需迁移至 3.1 版",
-      "published_at": "2026-02-27T13:48:29Z",
-      "age_hours": 0.84,
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "IT之家 (ITHome)",
-      "url": "https://www.ithome.com/0/924/375.htm",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.ithome.com/0/924/375.htm"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.965,
-        "total_score": 3.588
-      }
-    },
-    {
-      "event_id": "微软重申与 openai 合作不变:azure 仍为独家云提供商,双方关系稳固",
-      "title": "微软重申与 OpenAI 合作不变：Azure 仍为独家云提供商，双方关系稳固",
-      "title_zh": "微软重申与 OpenAI 合作不变：Azure 仍为独家云提供商，双方关系稳固",
-      "title_bilingual": "微软重申与 OpenAI 合作不变：Azure 仍为独家云提供商，双方关系稳固",
-      "published_at": "2026-02-27T13:46:35Z",
-      "age_hours": 0.87,
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "IT之家 (ITHome)",
-      "url": "https://www.ithome.com/0/924/373.htm",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.ithome.com/0/924/373.htm"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.964,
-        "total_score": 3.586
-      }
-    },
-    {
-      "event_id": "亚马逊豪掷 500 亿美元投资 openai,共建有状态 ai 开发环境",
-      "title": "亚马逊豪掷 500 亿美元投资 OpenAI，共建有状态 AI 开发环境",
-      "title_zh": "亚马逊豪掷 500 亿美元投资 OpenAI，共建有状态 AI 开发环境",
-      "title_bilingual": "亚马逊豪掷 500 亿美元投资 OpenAI，共建有状态 AI 开发环境",
-      "published_at": "2026-02-27T13:38:11Z",
-      "age_hours": 1.01,
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "IT之家 (ITHome)",
-      "url": "https://www.ithome.com/0/924/372.htm",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.ithome.com/0/924/372.htm"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.958,
-        "total_score": 3.579
-      }
-    },
-    {
-      "event_id": "[分享创造] 分享一下目前的开源工作,针对 acgn 领域的 cot 翻译模型以及适配的推理前端,可以简单的在本地翻译字幕和电子书和任意文本原样输出。目前 acgn 领域 sota 的翻译效果",
-      "title": "[分享创造] 分享一下目前的开源工作，针对 ACGN 领域的 CoT 翻译模型以及适配的推理前端，可以简单的在本地翻译字幕和电子书和任意文本原样输出。目前 ACGN 领域 Sota 的翻译效果。",
-      "title_zh": "[分享创造] 分享一下目前的开源工作，针对 ACGN 领域的 CoT 翻译模型以及适配的推理前端，可以简单的在本地翻译字幕和电子书和任意文本原样输出。目前 ACGN 领域 Sota 的翻译效果。",
-      "title_bilingual": "[分享创造] 分享一下目前的开源工作，针对 ACGN 领域的 CoT 翻译模型以及适配的推理前端，可以简单的在本地翻译字幕和电子书和任意文本原样输出。目前 ACGN 领域 Sota 的翻译效果。",
-      "published_at": "2026-02-27T13:36:26Z",
-      "age_hours": 1.04,
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "V2EX (创意工作者社区)",
-      "url": "https://www.v2ex.com/t/1194658",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.v2ex.com/t/1194658"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.957,
-        "total_score": 3.578
-      }
-    },
-    {
-      "event_id": "show hn: 绕过stripe对多模型ai计费的20项限制",
-      "title": "Show HN: 绕过Stripe对多模型AI计费的20项限制",
-      "title_zh": "Show HN: 绕过Stripe对多模型AI计费的20项限制",
-      "title_bilingual": "Show HN: 绕过Stripe对多模型AI计费的20项限制",
-      "published_at": "2026-02-27T13:35:27.509Z",
-      "age_hours": 1.06,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "news.ycombinator.com",
-      "url": "https://news.ycombinator.com/item?id=47180267",
-      "related_count": 1,
-      "related_urls": [
-        "https://news.ycombinator.com/item?id=47180267"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.956,
-        "total_score": 3.577
-      }
-    },
-    {
-      "event_id": "2月井喷!中国ai调用量首超美国,四款大模型霸榜全球前五",
-      "title": "2月井喷！中国AI调用量首超美国，四款大模型霸榜全球前五",
-      "title_zh": "2月井喷！中国AI调用量首超美国，四款大模型霸榜全球前五",
-      "title_bilingual": "2月井喷！中国AI调用量首超美国，四款大模型霸榜全球前五",
-      "published_at": "2026-02-27T08:32:48.134Z",
-      "age_hours": 6.1,
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "tencent-hot",
-      "url": "https://view.inews.qq.com/a/20260226A06S3000",
-      "related_count": 1,
-      "related_urls": [
-        "https://view.inews.qq.com/a/20260226A06S3000"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 3,
-        "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.575
-      }
-    },
-    {
-      "event_id": "人工智能熊市敢与英伟达对赌吗",
-      "title": "人工智能熊市敢与英伟达对赌吗？",
-      "title_zh": "人工智能熊市敢与英伟达对赌吗？",
-      "title_bilingual": "人工智能熊市敢与英伟达对赌吗？",
-      "published_at": "2026-02-27T08:32:34.589Z",
-      "age_hours": 6.11,
+      "event_id": "openai融资1100亿美元",
+      "title": "OpenAI融资1100亿美元",
+      "title_zh": "OpenAI融资1100亿美元",
+      "title_bilingual": "OpenAI融资1100亿美元",
+      "published_at": "2026-02-27T15:59:37.803Z",
+      "age_hours": 0.69,
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "source": "www.wsj.com",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-25-2026/card/do-ai-bears-dare-bet-against-nvidia--uYqJR2RmLW2xXoKxa4Pd?siteid=yhoof2&yptr=yahoo",
+      "url": "https://www.wsj.com/tech/openai-raises-110-billion-a2a34d23?siteid=yhoof2&yptr=yahoo",
       "related_count": 1,
       "related_urls": [
-        "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-25-2026/card/do-ai-bears-dare-bet-against-nvidia--uYqJR2RmLW2xXoKxa4Pd?siteid=yhoof2&yptr=yahoo"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 3,
-        "cross_source_count": 1,
-        "recency_score": 0.746,
-        "total_score": 3.575
-      }
-    },
-    {
-      "event_id": "“我已为我们的反乌托邦未来做好万全准备!”——霍利迪·格雷恩杰谈人工智能、枪械训练与《追捕》",
-      "title": "“我已为我们的反乌托邦未来做好万全准备！”——霍利迪·格雷恩杰谈人工智能、枪械训练与《追捕》",
-      "title_zh": "“我已为我们的反乌托邦未来做好万全准备！”——霍利迪·格雷恩杰谈人工智能、枪械训练与《追捕》",
-      "title_bilingual": "“我已为我们的反乌托邦未来做好万全准备！”——霍利迪·格雷恩杰谈人工智能、枪械训练与《追捕》",
-      "published_at": "2026-02-27T13:19:40.885Z",
-      "age_hours": 1.32,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.theguardian.com",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/feb/27/im-fully-prepared-for-our-dystopian-future-holliday-grainger-on-ai-firearms-training-and-the-capture",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.theguardian.com/tv-and-radio/2026/feb/27/im-fully-prepared-for-our-dystopian-future-holliday-grainger-on-ai-firearms-training-and-the-capture"
+        "https://www.wsj.com/tech/openai-raises-110-billion-a2a34d23?siteid=yhoof2&yptr=yahoo"
       ],
       "signals": {
         "source_weight": 0.85,
         "keyword_hits": 2,
         "cross_source_count": 1,
-        "recency_score": 0.945,
-        "total_score": 3.564
-      }
-    },
-    {
-      "event_id": "nano banana 2 - 谷歌最新的人工智能图像生成模型",
-      "title": "Nano Banana 2 - 谷歌最新的人工智能图像生成模型",
-      "title_zh": "Nano Banana 2 - 谷歌最新的人工智能图像生成模型",
-      "title_bilingual": "Nano Banana 2 - 谷歌最新的人工智能图像生成模型",
-      "published_at": "2026-02-27T13:19:40.634Z",
-      "age_hours": 1.32,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.producthunt.com",
-      "url": "https://www.producthunt.com/r/5NLVDDHOYWVP3G",
-      "related_count": 1,
-      "related_urls": [
-        "https://www.producthunt.com/r/5NLVDDHOYWVP3G"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.945,
-        "total_score": 3.564
-      }
-    },
-    {
-      "event_id": "ask hn: 哪种更好——一个claude的max订阅,还是",
-      "title": "Ask HN: 哪种更好——一个Claude的max订阅，还是？",
-      "title_zh": "Ask HN: 哪种更好——一个Claude的max订阅，还是？",
-      "title_bilingual": "Ask HN: 哪种更好——一个Claude的max订阅，还是？",
-      "published_at": "2026-02-27T13:19:37.595Z",
-      "age_hours": 1.32,
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "news.ycombinator.com",
-      "url": "https://news.ycombinator.com/item?id=47180199",
-      "related_count": 1,
-      "related_urls": [
-        "https://news.ycombinator.com/item?id=47180199"
-      ],
-      "signals": {
-        "source_weight": 0.85,
-        "keyword_hits": 2,
-        "cross_source_count": 1,
-        "recency_score": 0.945,
-        "total_score": 3.564
+        "recency_score": 0.971,
+        "total_score": 3.595
       }
     }
   ]
