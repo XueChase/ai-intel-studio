@@ -8,6 +8,7 @@ export { ZeliFetcher } from './zeli.js';
 export { AiHubTodayFetcher } from './aihubtoday.js';
 export { AiBaseFetcher } from './aibase.js';
 export { AiBaseDailyFetcher } from './aibasedaily.js';
+export { OfficialAiSourcesFetcher } from './official-ai.js';
 export { AiHotFetcher } from './aihot.js';
 export { NewsNowFetcher } from './newsnow.js';
 export { fetchOpmlRss } from './opml-rss.js';
@@ -23,6 +24,7 @@ import { ZeliFetcher } from './zeli.js';
 import { AiHubTodayFetcher } from './aihubtoday.js';
 import { AiBaseFetcher } from './aibase.js';
 import { AiBaseDailyFetcher } from './aibasedaily.js';
+import { OfficialAiSourcesFetcher } from './official-ai.js';
 import { AiHotFetcher } from './aihot.js';
 import { NewsNowFetcher } from './newsnow.js';
 
@@ -37,6 +39,7 @@ export function createAllFetchers(): Fetcher[] {
     new AiHubTodayFetcher(),
     new AiBaseFetcher(),
     new AiBaseDailyFetcher(),
+    new OfficialAiSourcesFetcher(),
     new AiHotFetcher(),
     new NewsNowFetcher(),
   ];
