@@ -61,6 +61,31 @@ export function dedupeItemsByTitleUrl(
   return result;
 }
 
+export function dedupeItemsBySiteSourceTitle(items: ArchiveItem[]): ArchiveItem[] {
+  const groups = new Map<string, ArchiveItem[]>();
+
+  for (const item of items) {
+    const siteId = (item.site_id || '').toLowerCase();
+    const source = (item.source || '').normalize('NFKC').toLowerCase().replace(/\s+/g, ' ').trim();
+    const title = normalizeTitleForDedupe(item.title_original || item.title || '');
+    const key = `${siteId}||${source}||${title}`;
+
+    if (!groups.has(key)) {
+      groups.set(key, []);
+    }
+    groups.get(key)!.push(item);
+  }
+
+  const result: ArchiveItem[] = [];
+  for (const values of groups.values()) {
+    if (values.length === 0) continue;
+    result.push(pickBestItem(values));
+  }
+
+  result.sort(compareItemsByRecency);
+  return result;
+}
+
 function isHubtodayPlaceholderTitle(title: string): boolean {
   const t = (title || '').trim();
   if (!t) return true;

@@ -1,5 +1,8 @@
 import { describe, it, expect } from 'vitest';
-import { dedupeItemsByTitleUrl } from '../src/filters/dedupe.js';
+import {
+  dedupeItemsByTitleUrl,
+  dedupeItemsBySiteSourceTitle,
+} from '../src/filters/dedupe.js';
 import type { ArchiveItem } from '../src/types.js';
 
 function makeItem(partial: Partial<ArchiveItem>): ArchiveItem {
@@ -84,6 +87,33 @@ describe('dedupeItemsByTitleUrl', () => {
     ];
 
     const deduped = dedupeItemsByTitleUrl(items);
+    expect(deduped).toHaveLength(1);
+    expect(deduped[0].id).toBe('b');
+  });
+});
+
+describe('dedupeItemsBySiteSourceTitle', () => {
+  it('dedupes same site+source+title with different urls', () => {
+    const items = [
+      makeItem({
+        id: 'a',
+        site_id: 'aibasedaily',
+        source: 'AI日报',
+        title_original: '同一标题',
+        url: 'https://example.com/paper',
+        published_at: '2026-02-27T06:00:00Z',
+      }),
+      makeItem({
+        id: 'b',
+        site_id: 'aibasedaily',
+        source: 'AI日报',
+        title_original: '同一标题',
+        url: 'https://example.com/repo',
+        published_at: '2026-02-27T08:00:00Z',
+      }),
+    ];
+
+    const deduped = dedupeItemsBySiteSourceTitle(items);
     expect(deduped).toHaveLength(1);
     expect(deduped[0].id).toBe('b');
   });

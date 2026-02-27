@@ -20,7 +20,12 @@ import { normalizeUrl, getHost } from './utils/url.js';
 import { maybeFixMojibake } from './utils/text.js';
 import { makeItemId } from './utils/hash.js';
 import { createAllFetchers, runFetcher, fetchOpmlRss, fetchWaytoagiRecent7d } from './fetchers/index.js';
-import { isAiRelated, dedupeItemsByTitleUrl, normalizeAihubTodayRecords } from './filters/index.js';
+import {
+  isAiRelated,
+  dedupeItemsByTitleUrl,
+  dedupeItemsBySiteSourceTitle,
+  normalizeAihubTodayRecords,
+} from './filters/index.js';
 import { addBilingualFields, loadTitleZhCache, cacheToPojo } from './translate/index.js';
 import { writeJson } from './output/index.js';
 
@@ -260,8 +265,8 @@ async function main(): Promise<number> {
     itemsAi: ArchiveItem[],
     hours: number
   ): LatestPayload {
-    const itemsAiDedup = dedupeItemsByTitleUrl(itemsAi);
-    const itemsAllDedup = dedupeItemsByTitleUrl(itemsAll);
+    const itemsAiDedup = dedupeItemsBySiteSourceTitle(dedupeItemsByTitleUrl(itemsAi));
+    const itemsAllDedup = dedupeItemsBySiteSourceTitle(dedupeItemsByTitleUrl(itemsAll));
 
     const siteStat = new Map<string, SiteStat>();
     const rawCountBySite = new Map<string, number>();
