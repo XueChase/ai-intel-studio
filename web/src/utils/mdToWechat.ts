@@ -43,7 +43,7 @@ export function buildThemeCss(opts: ThemeCssOptions): string {
 #output p { margin: .9em 0; letter-spacing: .02em; ${isUseJustify ? 'text-align: justify;' : ''} }
 #output ul,#output ol { margin: .85em 0; padding-left: 1.5em; }
 #output li { margin: .3em 0; }
-#output blockquote { margin: 1em 0; padding: .8em .95em; border-left: 4px solid var(--md-primary-color); background: #f7f7f7; color: #334155; border-radius: 4px; }
+#output blockquote { margin: 1em 0; padding: .85em .95em; border: 1px dashed #cbd5e1; background: transparent; color: #334155; border-radius: 8px; }
 #output blockquote p { margin: 0; }
 #output a { color: var(--md-primary-color); text-decoration: none; border-bottom: 1px solid rgba(37,99,235,.35); }
 #output hr { border: none; border-top: 1px solid #e5e7eb; margin: 1.35em 0; }
@@ -56,6 +56,100 @@ export function buildThemeCss(opts: ThemeCssOptions): string {
 #output img { max-width: 100%; display: block; margin: 1em auto; border-radius: 6px; }
 #output figure { margin: 1em 0; }
 #output figcaption { margin-top: .4em; text-align: center; color: #64748b; font-size: .9em; }
+
+/* Official blocks for public account article ending */
+#output .official-summary {
+  margin: 1.2em 0;
+  padding: 1em 1em .8em;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid var(--md-primary-color);
+  border-radius: 8px;
+  background: #f8fafc;
+}
+
+#output .official-summary-title {
+  margin: 0 0 .6em;
+  font-size: calc(var(--md-font-size) * 1.05);
+  font-weight: 700;
+  color: #0f172a;
+}
+
+#output .official-summary p,
+#output .official-summary ul,
+#output .official-summary ol {
+  margin: 0 0 .5em;
+  color: #334155;
+}
+
+#output .official-summary li {
+  margin: .22em 0;
+}
+
+#output .official-disclaimer {
+  margin: .6em 0 0;
+  padding: .45em .7em;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  background: #f8fafc;
+  color: #475569;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+#output .official-disclaimer strong {
+  color: #374151;
+}
+
+/* QR guide block for article ending */
+#output .official-qr-guide {
+  margin: 1.2em 0 0;
+  padding: 1em;
+  border: 1px solid var(--md-primary-color);
+  border-top-width: 3px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+}
+
+#output .official-qr-title {
+  margin: 0 0 .45em;
+  font-size: calc(var(--md-font-size) * 1.02);
+  font-weight: 700;
+  color: var(--md-primary-color);
+  text-align: center;
+}
+
+#output .official-qr-desc {
+  margin: 0 0 .8em;
+  color: #475569;
+  font-size: 13px;
+  line-height: 1.6;
+  text-align: center;
+}
+
+#output .official-qr-image-wrap {
+  margin: 0 auto;
+  width: 132px;
+  max-width: 42%;
+  min-width: 120px;
+  padding: 8px;
+  border: 1px solid var(--md-primary-color);
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+#output .official-qr-image-wrap img {
+  margin: 0;
+  width: 100%;
+  border-radius: 6px;
+  box-shadow: none;
+}
+
+#output .official-qr-tip {
+  margin: .65em 0 0;
+  font-size: 12px;
+  color: var(--md-primary-color);
+  text-align: center;
+}
 `.trim()
 
   function headingRule(level: HeadingLevel, style: HeadingStyleType | undefined): string {
@@ -136,11 +230,11 @@ export function buildThemeCss(opts: ThemeCssOptions): string {
 
 #output blockquote {
   font-style: normal;
-  padding: 1em;
-  border-left: 4px solid var(--md-primary-color);
-  border-radius: 6px;
+  padding: .95em 1em;
+  border: 1px dashed #cbd5e1;
+  border-radius: 8px;
   color: hsl(var(--foreground));
-  background: var(--blockquote-background);
+  background: transparent;
   margin-bottom: 1em;
 }
 
@@ -424,13 +518,20 @@ export function buildThemeCss(opts: ThemeCssOptions): string {
 }
 
 #output blockquote {
-  font-style: italic;
-  padding: 1em 1em 1em 2em;
-  border-left: 4px solid var(--md-primary-color);
-  border-radius: 6px;
-  color: rgba(0, 0, 0, 0.6);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-  margin-bottom: 1em;
+  font-style: normal;
+  margin: 1em 0;
+  padding: .85em 1em;
+  border: 1px dashed #cbd5e1;
+  border-radius: 8px;
+  color: #334155;
+  background: transparent;
+  box-shadow: none;
+}
+
+#output blockquote > p {
+  margin: 0;
+  color: #334155;
+  letter-spacing: .02em;
 }
 
 #output .markdown-alert {
@@ -664,7 +765,7 @@ export async function processClipboardContent(primaryColor: string): Promise<voi
   clipboardDiv.innerHTML = clipboardDiv.innerHTML
     .replace(/([^-])top:(.*?)em/g, '$1transform: translateY($2em)')
     .replace(/hsl\(var\(--foreground\)\)/g, '#3f3f3f')
-    .replace(/var\(--blockquote-background\)/g, '#f7f7f7')
+    .replace(/var\(--blockquote-background\)/g, '#f8fafc')
     .replace(/var\(--md-primary-color\)/g, primaryColor)
     .replace(/--md-primary-color:.+?;/g, '')
     .replace(/--md-font-family:.+?;/g, '')

@@ -2,12 +2,9 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import {
   buildThemeCss,
   generatePureHTML,
-  type HeadingLevel,
   type HeadingStyleType,
   processClipboardContent,
   renderMarkdown,
-  type LegendMode,
-  type ThemeName,
 } from '../utils/mdToWechat'
 import { uploadImageToGithub } from '../utils/githubImageUpload'
 
@@ -22,49 +19,33 @@ interface UploadedImageHistoryItem {
 const UPLOAD_HISTORY_KEY = 'md_wechat_uploaded_images'
 const UPLOAD_HISTORY_LIMIT = 50
 
-const FONT_FAMILY_OPTIONS = [
-  {
-    label: '无衬线',
-    value: '-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Arial, sans-serif',
-  },
-  {
-    label: '衬线',
-    value: 'Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, PingFang SC, Cambria, Cochin, Georgia, Times, Times New Roman, serif',
-  },
-  { label: '等宽', value: "Menlo, Monaco, 'Courier New', monospace" },
-] as const
+const FIXED_THEME_NAME = 'grace' as const
+const FIXED_FONT_FAMILY = '-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Arial, sans-serif'
+const FIXED_FONT_SIZE = '14px'
+const FIXED_CODE_THEME = 'https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/npm/highlightjs/11.11.1/styles/github.min.css'
+const FIXED_LEGEND = 'alt' as const
+const OFFICIAL_GUIDE_TEMPLATE = `
+<section class="official-qr-guide">
+  <p class="official-qr-title">关注我们，获取每日 AI 精选资讯</p>
+  <p class="official-qr-desc">点击下方公众号名片，第一时间获取前沿动态与深度解读。</p>
+  <section class="mp_profile_iframe_wrp custom_select_card_wrp" nodeleaf=""><mp-common-profile class="mpprofile js_uneditable custom_select_card mp_profile_iframe" data-pluginname="mpprofile" data-nickname="9.AI" data-from="1" data-headimg="http://mmbiz.qpic.cn/sz_mmbiz_png/GwX6gMaSicxgDAmicclDAvB06FYAXRkd9ibzUDEKNY0VcDa2FqcS7KwiauJMNic2tEh5qP77ptKvrzcbcsO10L0U5ccmsy3PsSJvNF3h8u3OvvBo/0?wx_fmt=png" data-signature="每天9点，刷新认知" data-id="MzYzNDc3MTkzMg==" data-is-hover="1"></mp-common-profile><br class="ProseMirror-trailingBreak"></section>
+  <p class="official-qr-tip">本文基于公开网络资料整理，旨在呈现AI领域动态，不代表任何立场。</p>
+</section>
+`.trim()
 
-const FONT_SIZE_OPTIONS = ['14px', '15px', '16px', '17px', '18px'] as const
+function hasOfficialGuide(markdown: string): boolean {
+  return markdown.includes('<section class="official-qr-guide">')
+}
 
-const COLOR_OPTIONS = [
-  { label: '经典蓝', value: '#0F4C81' },
-  { label: '翡翠绿', value: '#009874' },
-  { label: '活力橘', value: '#FA5151' },
-  { label: '柠檬黄', value: '#FECE00' },
-  { label: '薰衣紫', value: '#92617E' },
-  { label: '天空蓝', value: '#55C9EA' },
-  { label: '玫瑰金', value: 'rgba(122, 30, 30, 1)' },
-  { label: '橄榄绿', value: '#556B2F' },
-  { label: '石墨黑', value: '#333333' },
-] as const
+function withOfficialGuide(markdown: string): string {
+  const base = markdown.trimEnd()
+  if (hasOfficialGuide(base)) return base
+  if (!base) return `${OFFICIAL_GUIDE_TEMPLATE}\n`
+  return `${base}\n\n${OFFICIAL_GUIDE_TEMPLATE}\n`
+}
 
-const CODE_THEME_OPTIONS = [
-  { label: 'github', value: 'https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/npm/highlightjs/11.11.1/styles/github.min.css' },
-  { label: 'atom-one-dark', value: 'https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/npm/highlightjs/11.11.1/styles/atom-one-dark.min.css' },
-  { label: 'vs2015', value: 'https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/npm/highlightjs/11.11.1/styles/vs2015.min.css' },
-  { label: 'nnfx-dark', value: 'https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/npm/highlightjs/11.11.1/styles/nnfx-dark.min.css' },
-  { label: 'tokyo-night-dark', value: 'https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/npm/highlightjs/11.11.1/styles/tokyo-night-dark.min.css' },
-] as const
-
-const LEGEND_OPTIONS: Array<{ label: string; value: LegendMode }> = [
-  { label: 'title 优先', value: 'title-alt' },
-  { label: 'alt 优先', value: 'alt-title' },
-  { label: '只显示 title', value: 'title' },
-  { label: '只显示 alt', value: 'alt' },
-  { label: '不显示', value: 'none' },
-]
-
-const HEADING_LEVELS: HeadingLevel[] = ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']
+type ConfigurableHeadingLevel = 'h1' | 'h2' | 'h3'
+const HEADING_LEVELS: ConfigurableHeadingLevel[] = ['h1', 'h2', 'h3']
 const HEADING_STYLE_OPTIONS: Array<{ label: string; value: HeadingStyleType }> = [
   { label: '默认', value: 'default' },
   { label: '主题色文字', value: 'color-only' },
@@ -151,24 +132,15 @@ function fallbackCopyUsingExecCommand(htmlContent: string): boolean {
 
 export function MdToWechat() {
   const [markdown, setMarkdown] = useState('')
-  const [themeName, setThemeName] = useState<ThemeName>('default')
-  const [fontFamily, setFontFamily] = useState<string>(FONT_FAMILY_OPTIONS[0].value)
-  const [fontSize, setFontSize] = useState<string>('16px')
   const [primaryColor, setPrimaryColor] = useState('rgba(122, 30, 30, 1)')
-  const [codeBlockTheme, setCodeBlockTheme] = useState<string>(CODE_THEME_OPTIONS[0].value)
-  const [legend, setLegend] = useState<LegendMode>('alt')
-  const [isMacCodeBlock, setIsMacCodeBlock] = useState(true)
   const [isUseJustify, setIsUseJustify] = useState(true)
-  const [headingStyles, setHeadingStyles] = useState<Record<HeadingLevel, HeadingStyleType>>({
+  const [headingStyles, setHeadingStyles] = useState<Record<ConfigurableHeadingLevel, HeadingStyleType>>({
     h1: 'default',
     h2: 'default',
     h3: 'default',
-    h4: 'default',
-    h5: 'default',
-    h6: 'default',
   })
   const [customCss, setCustomCss] = useState('')
-  const [lineHeight, setLineHeight] = useState(1.9)
+  const [lineHeight, setLineHeight] = useState(1.75)
   const [status, setStatus] = useState('')
   const [copying, setCopying] = useState(false)
   const [showCustomCss, setShowCustomCss] = useState(false)
@@ -179,21 +151,23 @@ export function MdToWechat() {
   const [uploadHistory, setUploadHistory] = useState<UploadedImageHistoryItem[]>([])
   const fileInputRef = useRef<HTMLInputElement | null>(null)
   const markdownInputRef = useRef<HTMLTextAreaElement | null>(null)
+  const previewScrollRef = useRef<HTMLDivElement | null>(null)
+  const syncingScrollRef = useRef(false)
 
-  const outputHtml = useMemo(() => renderMarkdown(markdown, { legend }), [markdown, legend])
+  const outputHtml = useMemo(() => renderMarkdown(markdown, { legend: FIXED_LEGEND }), [markdown])
   const themeCss = useMemo(
     () =>
       buildThemeCss({
-        themeName,
+        themeName: FIXED_THEME_NAME,
         primaryColor,
-        fontFamily,
-        fontSize,
+        fontFamily: FIXED_FONT_FAMILY,
+        fontSize: FIXED_FONT_SIZE,
         lineHeight,
         isUseJustify,
         headingStyles,
         customCss,
       }),
-    [themeName, primaryColor, fontFamily, fontSize, lineHeight, isUseJustify, headingStyles, customCss],
+    [primaryColor, lineHeight, isUseJustify, headingStyles, customCss],
   )
 
   useEffect(() => {
@@ -205,7 +179,7 @@ export function MdToWechat() {
         if (!res.ok) return
         const text = await res.text()
         if (mounted && text.trim()) {
-          setMarkdown(text)
+          setMarkdown(withOfficialGuide(text))
         }
       } catch {
         // no-op
@@ -252,7 +226,7 @@ export function MdToWechat() {
         hljsLink.rel = 'stylesheet'
         head.appendChild(hljsLink)
       }
-      hljsLink.href = codeBlockTheme
+      hljsLink.href = FIXED_CODE_THEME
 
       let mdTheme = document.getElementById('md-theme') as HTMLStyleElement | null
       if (!mdTheme) {
@@ -261,7 +235,7 @@ export function MdToWechat() {
         head.appendChild(mdTheme)
       }
       mdTheme.textContent = themeCss
-  }, [themeCss, codeBlockTheme])
+  }, [themeCss])
 
   useEffect(() => {
     if (!status) return
@@ -341,23 +315,14 @@ export function MdToWechat() {
   }
 
   function resetStyle(): void {
-    setThemeName('default')
-    setFontFamily(FONT_FAMILY_OPTIONS[0].value)
-    setFontSize('16px')
     setPrimaryColor('rgba(122, 30, 30, 1)')
-    setCodeBlockTheme(CODE_THEME_OPTIONS[0].value)
-    setLegend('alt')
-    setIsMacCodeBlock(true)
     setIsUseJustify(true)
     setHeadingStyles({
       h1: 'default',
       h2: 'default',
       h3: 'default',
-      h4: 'default',
-      h5: 'default',
-      h6: 'default',
     })
-    setLineHeight(1.9)
+    setLineHeight(1.75)
     setCustomCss('')
   }
 
@@ -442,9 +407,36 @@ export function MdToWechat() {
     fileInputRef.current?.click()
   }
 
+  function syncScroll(from: 'markdown' | 'preview'): void {
+    if (syncingScrollRef.current) return
+
+    const mdEl = markdownInputRef.current
+    const previewEl = previewScrollRef.current
+    if (!mdEl || !previewEl) return
+
+    const source = from === 'markdown' ? mdEl : previewEl
+    const target = from === 'markdown' ? previewEl : mdEl
+
+    const sourceMax = source.scrollHeight - source.clientHeight
+    const targetMax = target.scrollHeight - target.clientHeight
+    if (sourceMax <= 0 || targetMax <= 0) return
+
+    const ratio = source.scrollTop / sourceMax
+    syncingScrollRef.current = true
+    target.scrollTop = ratio * targetMax
+    window.requestAnimationFrame(() => {
+      syncingScrollRef.current = false
+    })
+  }
+
   function useHistoryImage(url: string): void {
     insertMarkdownAtCursor(`\n![](${url})\n`)
     setStatus('已从历史记录插入图片链接。')
+  }
+
+  function insertOfficialGuideTemplate(): void {
+    insertMarkdownAtCursor(`\n\n${OFFICIAL_GUIDE_TEMPLATE}\n`)
+    setStatus('已插入公众号引导。')
   }
 
   return (
@@ -462,6 +454,9 @@ export function MdToWechat() {
             <button className="btn btn-ghost text-sm py-1.5 px-3" onClick={copyPureHtml}>
               复制 HTML
             </button>
+            <button className="btn btn-ghost text-sm py-1.5 px-3" onClick={insertOfficialGuideTemplate}>
+              插入公众号引导
+            </button>
             <button className="btn btn-primary text-sm py-1.5 px-3" onClick={copyWechatReady} disabled={copying}>
               {copying ? '复制中...' : '复制到微信公众号'}
             </button>
@@ -473,49 +468,13 @@ export function MdToWechat() {
         {status && <p className="mt-2 text-sm text-emerald-600 dark:text-emerald-400">{status}</p>}
       </div>
 
-      <div className="grid grid-cols-1 xl:grid-cols-2 gap-4">
-        <div className="card p-4 space-y-3">
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-            <label className="text-xs text-slate-500 dark:text-slate-400">
-              主题
-              <select
-                className="input mt-1 py-2"
-                value={themeName}
-                onChange={(e) => setThemeName(e.target.value as ThemeName)}
-              >
-                <option value="default">经典</option>
-                <option value="grace">优雅</option>
-                <option value="simple">简洁</option>
-              </select>
-            </label>
-            <label className="text-xs text-slate-500 dark:text-slate-400">
-              字体
-              <select
-                className="input mt-1 py-2"
-                value={fontFamily}
-                onChange={(e) => setFontFamily(e.target.value)}
-              >
-                {FONT_FAMILY_OPTIONS.map((opt) => (
-                  <option key={opt.label} value={opt.value}>
-                    {opt.label}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label className="text-xs text-slate-500 dark:text-slate-400">
-              字号
-              <select
-                className="input mt-1 py-2"
-                value={fontSize}
-                onChange={(e) => setFontSize(e.target.value)}
-              >
-                {FONT_SIZE_OPTIONS.map((size) => (
-                  <option key={size} value={size}>
-                    {size}
-                  </option>
-                ))}
-              </select>
-            </label>
+      <div className="grid grid-cols-1 xl:grid-cols-[340px_minmax(0,1fr)_minmax(0,1fr)] gap-4 items-start">
+        <div className="card p-4 space-y-3 xl:sticky xl:top-20 max-h-[82vh] overflow-auto">
+          <h3 className="text-base font-semibold text-slate-900 dark:text-white">样式与图片设置</h3>
+          <div className="grid grid-cols-1 gap-3">
+            <div className="text-xs text-slate-500 dark:text-slate-400 p-2 rounded border border-slate-200 dark:border-slate-700">
+              主题：优雅 ｜ 字体：无衬线 ｜ 字号：14px
+            </div>
             <label className="text-xs text-slate-500 dark:text-slate-400">
               主色
               <input
@@ -523,42 +482,6 @@ export function MdToWechat() {
                 value={colorToHex(primaryColor)}
                 onChange={(e) => setPrimaryColor(e.target.value)}
                 className="mt-1 h-9 w-full rounded border border-slate-300 dark:border-slate-600"
-              />
-            </label>
-            <label className="text-xs text-slate-500 dark:text-slate-400">
-              代码块主题
-              <select
-                className="input mt-1 py-2"
-                value={codeBlockTheme}
-                onChange={(e) => setCodeBlockTheme(e.target.value)}
-              >
-                {CODE_THEME_OPTIONS.map((opt) => (
-                  <option key={opt.value} value={opt.value}>
-                    {opt.label}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label className="text-xs text-slate-500 dark:text-slate-400">
-              图注格式
-              <select className="input mt-1 py-2" value={legend} onChange={(e) => setLegend(e.target.value as LegendMode)}>
-                {LEGEND_OPTIONS.map((opt) => (
-                  <option key={opt.value} value={opt.value}>
-                    {opt.label}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label className="text-xs text-slate-500 dark:text-slate-400">
-              字号 {fontSize}
-              <input
-                type="range"
-                min={14}
-                max={20}
-                step={1}
-                value={Number(fontSize.replace('px', ''))}
-                onChange={(e) => setFontSize(`${Number(e.target.value)}px`)}
-                className="mt-2 w-full"
               />
             </label>
             <label className="text-xs text-slate-500 dark:text-slate-400">
@@ -573,16 +496,7 @@ export function MdToWechat() {
                 className="mt-2 w-full"
               />
             </label>
-            <label className="text-xs text-slate-500 dark:text-slate-400 flex items-center gap-2 pt-6">
-              <input
-                type="checkbox"
-                checked={isMacCodeBlock}
-                onChange={(e) => setIsMacCodeBlock(e.target.checked)}
-                className="rounded"
-              />
-              Mac 代码块样式
-            </label>
-            <label className="text-xs text-slate-500 dark:text-slate-400 flex items-center gap-2 pt-6">
+            <label className="text-xs text-slate-500 dark:text-slate-400 flex items-center gap-2">
               <input
                 type="checkbox"
                 checked={isUseJustify}
@@ -594,29 +508,8 @@ export function MdToWechat() {
           </div>
 
           <div>
-            <p className="text-xs text-slate-500 dark:text-slate-400 mb-2">主题色预设</p>
-            <div className="flex flex-wrap gap-2">
-              {COLOR_OPTIONS.map((opt) => (
-                <button
-                  key={opt.value}
-                  className={`h-8 px-2 rounded border text-xs ${
-                    colorToHex(primaryColor).toLowerCase() === colorToHex(opt.value).toLowerCase()
-                      ? 'border-slate-900 dark:border-white'
-                      : 'border-slate-300 dark:border-slate-600'
-                  }`}
-                  style={{ backgroundColor: opt.value, color: '#fff' }}
-                  onClick={() => setPrimaryColor(opt.value)}
-                  title={opt.label}
-                >
-                  {opt.label}
-                </button>
-              ))}
-            </div>
-          </div>
-
-          <div>
             <p className="text-xs text-slate-500 dark:text-slate-400 mb-2">标题样式</p>
-            <div className="grid grid-cols-2 lg:grid-cols-3 gap-2">
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-2">
               {HEADING_LEVELS.map((level) => (
                 <label key={level} className="text-xs text-slate-500 dark:text-slate-400">
                   {level.toUpperCase()}
@@ -657,7 +550,7 @@ export function MdToWechat() {
 
           <div className="border border-slate-200 dark:border-slate-700 rounded-lg p-3 space-y-2">
             <p className="text-xs font-semibold text-slate-700 dark:text-slate-300">插入图片（GitHub 图床）</p>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+            <div className="grid grid-cols-1 gap-2">
               <input
                 className="input py-2 text-sm"
                 value={githubRepo}
@@ -717,22 +610,31 @@ export function MdToWechat() {
               </div>
             )}
           </div>
+        </div>
+
+        <div className="card p-4">
+          <h3 className="text-base font-semibold text-slate-900 dark:text-white mb-3">Markdown</h3>
           <textarea
             ref={markdownInputRef}
             value={markdown}
             onChange={(e) => setMarkdown(e.target.value)}
-            className="input min-h-[70vh] font-mono text-sm leading-6"
+            onScroll={() => syncScroll('markdown')}
+            className="input h-[72vh] font-mono text-sm leading-6 overflow-auto"
             spellCheck={false}
             placeholder="在这里输入 Markdown..."
           />
         </div>
 
         <div className="card p-4">
-          <h3 className="text-base font-semibold text-slate-900 dark:text-white mb-3">预览</h3>
-          <div className="rounded-lg border border-slate-200 dark:border-slate-700 bg-white p-4 min-h-[70vh] overflow-auto">
+          <h3 className="text-base font-semibold text-slate-900 dark:text-white mb-3">公众号预览</h3>
+          <div
+            ref={previewScrollRef}
+            onScroll={() => syncScroll('preview')}
+            className="rounded-lg border border-slate-200 dark:border-slate-700 bg-white p-4 h-[72vh] overflow-auto"
+          >
             <section
               id="output"
-              className={`w-full ${isMacCodeBlock ? 'mac-code-block' : ''}`}
+              className="w-full mac-code-block"
               dangerouslySetInnerHTML={{ __html: outputHtml }}
             />
           </div>
