@@ -788,6 +788,18 @@ export async function processClipboardContent(
       '<span class="edgeLabel"$1>$2</span>',
     )
 
+  // WeChat editor may drop inherited root font-size and fallback to platform default (often 17px).
+  // Force body-text nodes to carry explicit inline font-size/font-family for stable paste result.
+  const bodyFontSize = options?.fontSize || '14px'
+  const bodyFontFamily = options?.fontFamily
+    || '-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Arial, sans-serif'
+  clipboardDiv.querySelectorAll('p, li, td, th, blockquote, figcaption, .official-qr-desc, .official-qr-tip, .official-disclaimer')
+    .forEach((el) => {
+      const node = el as HTMLElement
+      node.style.fontSize = bodyFontSize
+      node.style.fontFamily = bodyFontFamily
+    })
+
   solveWeChatImage(clipboardDiv)
 
   const beforeNode = createEmptyNode()
