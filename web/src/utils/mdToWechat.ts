@@ -743,6 +743,30 @@ function createEmptyNode(): HTMLElement {
   return node
 }
 
+function keepLeadStrongWithColon(root: HTMLElement): void {
+  root.querySelectorAll('p, li').forEach((node) => {
+    const first = node.firstElementChild
+    if (!first || first.tagName.toLowerCase() !== 'strong') return
+
+    const next = first.nextSibling
+    if (!next || next.nodeType !== Node.TEXT_NODE) return
+
+    const text = next.textContent || ''
+    const match = text.match(/^(\s*[：:])(.*)$/)
+    if (!match) return
+
+    const [, colonPart, rest] = match
+    const lock = document.createElement('span')
+    lock.style.whiteSpace = 'nowrap'
+    lock.appendChild(first.cloneNode(true))
+    lock.appendChild(document.createTextNode(colonPart))
+
+    node.replaceChild(lock, first)
+    next.textContent = rest
+  })
+}
+
+
 async function getStylesToAdd(): Promise<string> {
   const themeStyles = getThemeStyles()
   const hljsStyles = await getHljsStyles()
@@ -800,6 +824,7 @@ export async function processClipboardContent(
       node.style.fontFamily = bodyFontFamily
     })
 
+  keepLeadStrongWithColon(clipboardDiv)
   solveWeChatImage(clipboardDiv)
 
   const beforeNode = createEmptyNode()
