@@ -20,6 +20,14 @@ interface OpmlGroup {
   }[]
 }
 
+interface OpmlParseResult {
+  opml?: {
+    body?: Array<{
+      outline?: OpmlOutline[]
+    }>
+  }
+}
+
 async function generateOpmlJson() {
   const opmlPath = resolve('./feeds/follow.opml')
   
@@ -29,7 +37,7 @@ async function generateOpmlJson() {
   }
 
   const opmlContent = readFileSync(opmlPath, 'utf-8')
-  const result = await parseStringPromise(opmlContent)
+  const result = (await parseStringPromise(opmlContent)) as OpmlParseResult
   
   const groups: OpmlGroup[] = []
   
