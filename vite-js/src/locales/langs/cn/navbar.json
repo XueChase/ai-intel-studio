@@ -1,0 +1,13 @@
+{
+  "home": "首页",
+  "subheader": {
+    "main": "主菜单",
+    "management": "管理"
+  },
+  "md2wechat": {
+    "title": "公众号排版"
+  },
+  "collectorSummary": {
+    "title": "采集汇总"
+  }
+}
