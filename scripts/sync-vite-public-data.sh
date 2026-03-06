@@ -5,7 +5,7 @@ set -euo pipefail
 MODE="${1:-full}"
 ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 DATA_DIR="$ROOT_DIR/data"
-TARGET_DIR="$ROOT_DIR/vite-js/public/data"
+TARGET_DIR="$ROOT_DIR/ai-intel-studio/public/data"
 
 copy_if_exists() {
   local src="$1"
@@ -36,4 +36,3 @@ case "$MODE" in
     exit 1
     ;;
 esac
-

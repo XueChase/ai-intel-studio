@@ -64,14 +64,14 @@ jobs:
       - name: Generate OPML JSON
         run: npx tsx src/generate-opml-json.ts
 
-      - name: Sync latest data to vite-js/public/data
+      - name: Sync latest data to ai-intel-studio/public/data
         run: ./scripts/sync-vite-public-data.sh full
 
-      - name: Build vite-js
+      - name: Build ai-intel-studio
         env:
           GITHUB_PAGES: true
         run: |
-          cd vite-js
+          cd ai-intel-studio
           npm ci
           npm run build
 
@@ -81,7 +81,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./vite-js/dist
+          path: ./ai-intel-studio/dist
 
   deploy:
     environment:
