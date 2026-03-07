@@ -271,6 +271,7 @@ function isLowQualityDesc(desc: string, title?: string): boolean {
     /上传原创内容并与亲朋好友和全世界观众分享/i,
     /欢迎来到【?ai日报】?栏目/i,
     /点击了解[:：]?\s*https?:\/\//i,
+    /please enable js and disable any ad blocker/i,
     /this report does not contain sensitive information/i,
     /cookie|privacy policy|accept all|subscribe now/i,
   ];
@@ -283,6 +284,33 @@ function isLowQualityDesc(desc: string, title?: string): boolean {
     if (dt === t || dt.includes(t)) return true;
   }
   return false;
+}
+
+function hasAiSignal(text: string): boolean {
+  const t = (text || '').toLowerCase();
+  if (CONFIG.filter.enSignalPattern.test(t)) return true;
+  return CONFIG.filter.aiKeywords.some((k) => k && t.includes(k.toLowerCase()));
+}
+
+function isMacroFinanceNoise(
+  title: string,
+  source: string,
+  url: string,
+  desc: string | null
+): boolean {
+  const text = `${title} ${source} ${url} ${desc || ''}`.toLowerCase();
+  const sourceLower = (source || '').toLowerCase();
+  const isFinanceDomain =
+    sourceLower.includes('barrons') ||
+    sourceLower.includes('finance.yahoo.com') ||
+    sourceLower.includes('marketwatch') ||
+    sourceLower.includes('seekingalpha');
+  if (!isFinanceDomain && !isFinanceStory(source, title)) return false;
+  if (hasAiSignal(text)) return false;
+
+  return /(dow|nasdaq|s&p|stock market|small caps|momentum|risk asset|单日跌幅|道指|纳指|标普|小盘股|美股)/i.test(
+    text
+  );
 }
 
 function extractDescFromHtml(html: string): string | null {
@@ -465,6 +493,9 @@ async function main(): Promise<number> {
     const category = classifyCategory(rep.title, rep.source, rep.url);
     const showAsk = isShowAskHn(rep.title, rep.source);
     const finance = isFinanceStory(rep.source, rep.title);
+    if (isMacroFinanceNoise(rep.title, rep.source, rep.url, normalizedDesc)) {
+      continue;
+    }
 
     ranked.push({
       site_id: rep.site_id,
