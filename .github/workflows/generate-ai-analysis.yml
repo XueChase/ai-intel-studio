@@ -2,6 +2,23 @@ name: AI Intel Studio - Generate AI Analysis
 
 on:
   workflow_dispatch:
+    inputs:
+      max_events:
+        description: "Maximum events to keep in analysis input"
+        required: false
+        default: "80"
+      desc_fetch_max:
+        description: "Max URL fetches for filling missing desc"
+        required: false
+        default: "80"
+      desc_timeout_ms:
+        description: "Timeout per URL fetch (ms)"
+        required: false
+        default: "10000"
+      desc_concurrency:
+        description: "Concurrent URL fetches for desc"
+        required: false
+        default: "4"
   schedule:
     # 07:03 Asia/Shanghai = 23:03 UTC (previous day)
     - cron: "3 23 * * *"
@@ -32,7 +49,19 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Build analysis input (24h)
-        run: pnpm run build:analysis-input
+        run: |
+          pnpm run build:analysis-input -- \
+            --max-events "${{ github.event.inputs.max_events || '80' }}" \
+            --desc-fetch-max "${{ github.event.inputs.desc_fetch_max || '80' }}" \
+            --desc-timeout-ms "${{ github.event.inputs.desc_timeout_ms || '10000' }}" \
+            --desc-concurrency "${{ github.event.inputs.desc_concurrency || '4' }}"
+
+      - name: Show desc quality stats
+        run: |
+          echo "=== desc fill stats ==="
+          jq -r '(.top_events|length) as $n | ([.top_events[]|select((.desc//"")=="")]|length) as $e | "total=\($n) empty=\($e) filled=\($n-$e) fill_rate=\((($n-$e)*100/$n)|floor)%"' data/ai-input/analysis-input-24h.json
+          echo "=== desc length stats ==="
+          jq -r '[.top_events[] | (.desc // "") | length] | {min:min,max:max,avg:(add/length)}' data/ai-input/analysis-input-24h.json
 
       - name: Generate AI analysis markdown (24h)
         env:

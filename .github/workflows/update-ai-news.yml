@@ -5,6 +5,27 @@ on:
     branches:
       - main
   workflow_dispatch:
+    inputs:
+      run_desc_check:
+        description: "Run desc enrichment quality check (manual only)"
+        required: false
+        default: "false"
+      max_events:
+        description: "Maximum events for desc check"
+        required: false
+        default: "80"
+      desc_fetch_max:
+        description: "Max URL fetches for filling missing desc in desc check"
+        required: false
+        default: "80"
+      desc_timeout_ms:
+        description: "Timeout per URL fetch (ms) in desc check"
+        required: false
+        default: "10000"
+      desc_concurrency:
+        description: "Concurrent URL fetches for desc in desc check"
+        required: false
+        default: "4"
   schedule:
     - cron: "0 */2 * * *"
 
@@ -51,6 +72,23 @@ jobs:
 
       - name: Update data
         run: pnpm run fetch
+
+      - name: Build analysis input for desc check (manual optional)
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.run_desc_check == 'true'
+        run: |
+          pnpm run build:analysis-input -- \
+            --max-events "${{ github.event.inputs.max_events || '80' }}" \
+            --desc-fetch-max "${{ github.event.inputs.desc_fetch_max || '80' }}" \
+            --desc-timeout-ms "${{ github.event.inputs.desc_timeout_ms || '10000' }}" \
+            --desc-concurrency "${{ github.event.inputs.desc_concurrency || '4' }}"
+
+      - name: Show desc quality stats (manual optional)
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.run_desc_check == 'true'
+        run: |
+          echo "=== desc fill stats ==="
+          jq -r '(.top_events|length) as $n | ([.top_events[]|select((.desc//"")=="")]|length) as $e | "total=\($n) empty=\($e) filled=\($n-$e) fill_rate=\((($n-$e)*100/$n)|floor)%"' data/ai-input/analysis-input-24h.json
+          echo "=== desc length stats ==="
+          jq -r '[.top_events[] | (.desc // "") | length] | {min:min,max:max,avg:(add/length)}' data/ai-input/analysis-input-24h.json
 
       - name: Commit and push changes
         run: |
