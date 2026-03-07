@@ -19,12 +19,18 @@ on:
         description: "Concurrent URL fetches for desc"
         required: false
         default: "4"
+      deploy_pages:
+        description: "Deploy GitHub Pages after analysis (manual only)"
+        required: false
+        default: "false"
   schedule:
     # 07:03 Asia/Shanghai = 23:03 UTC (previous day)
     - cron: "3 23 * * *"
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: "analysis-main"
@@ -101,3 +107,27 @@ jobs:
               git push origin HEAD:main
             }
           fi
+
+      - name: Build ai-intel-studio (optional)
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.deploy_pages == 'true'
+        env:
+          GITHUB_PAGES: true
+        run: |
+          cd ai-intel-studio
+          npm ci
+          npm run build
+
+      - name: Setup Pages (optional)
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.deploy_pages == 'true'
+        uses: actions/configure-pages@v4
+
+      - name: Upload pages artifact (optional)
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.deploy_pages == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./ai-intel-studio/dist
+
+      - name: Deploy to GitHub Pages (optional)
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.deploy_pages == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
