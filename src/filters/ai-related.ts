@@ -7,6 +7,32 @@ function containsAnyKeyword(haystack: string, keywords: string[]): boolean {
   return keywords.some((k) => h.includes(k));
 }
 
+function isFinanceMacroNoise(record: ArchiveItem): boolean {
+  const source = (record.source || '').toLowerCase();
+  const title = (record.title || '').toLowerCase();
+  const url = (record.url || '').toLowerCase();
+  const text = `${source} ${title} ${url}`;
+
+  const isFinanceDomain =
+    source.includes('finance.yahoo.com') ||
+    source.includes('barrons') ||
+    source.includes('marketwatch') ||
+    source.includes('seekingalpha') ||
+    url.includes('finance.yahoo.com') ||
+    url.includes('barrons.com') ||
+    url.includes('marketwatch.com');
+  if (!isFinanceDomain) return false;
+
+  const hasAiSignal =
+    containsAnyKeyword(text, CONFIG.filter.aiKeywords) ||
+    CONFIG.filter.enSignalPattern.test(text);
+  if (hasAiSignal) return false;
+
+  return /(dow|nasdaq|s&p|stock market|small cap|momentum|risk asset|single-day drop|道指|纳指|标普|小盘股|股市|单日跌幅)/i.test(
+    text
+  );
+}
+
 export function isAiRelated(record: ArchiveItem): boolean {
   const siteId = (record.site_id || '').toLowerCase();
   const title = record.title || '';
@@ -14,6 +40,10 @@ export function isAiRelated(record: ArchiveItem): boolean {
   const siteName = record.site_name || '';
   const url = record.url || '';
   const text = `${title} ${source} ${siteName} ${url}`.toLowerCase();
+
+  if (isFinanceMacroNoise(record)) {
+    return false;
+  }
 
   if (siteId === 'zeli') {
     return source.toLowerCase().includes('24h') || source.includes('24h最热');

@@ -79,6 +79,12 @@ function normalizeChineseSpacing(markdown: string): string {
     .join('\n');
 }
 
+function hasRequiredSections(markdown: string): boolean {
+  const text = markdown || '';
+  const required = ['# AI 24小时：', '## 今日结论', '## 关键事件', '## 趋势观察'];
+  return required.every((s) => text.includes(s));
+}
+
 async function main(): Promise<number> {
   const configPath = resolve('config/ai-analysis.config.json');
   if (!existsSync(configPath)) {
@@ -184,6 +190,9 @@ async function main(): Promise<number> {
   }
 
   const cleanedContent = normalizeChineseSpacing(removeSourceLines(answerContent.trim()));
+  if (!hasRequiredSections(cleanedContent)) {
+    throw new Error('AI response missing required sections');
+  }
 
   const markdownDocument =
     `<!-- source_generated_at: ${compactInput.generated_at} -->\n` +
