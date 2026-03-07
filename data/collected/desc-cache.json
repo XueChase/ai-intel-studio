@@ -67,5 +67,9 @@
   "https://www.ithome.com/0/926/717.htm": "据彭博社报道，软银集团寻求最高 400 亿美元贷款注资 OpenAI，有望成最大美元计价单一贷款。软银此前已投超 300 亿，目前持有 11% 股份，但 AI 缺主流应用，此举是否助长泡沫存疑。##软银投资 OpenAI##",
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXFkOTEzY1VlWmlaVVI0VDc5ZExiYTVQUzJEUE9XS1FNeHVoeWp0ZEc5Qkh5ZFdCeHd3dXQtTXJLYnNVNDFYVkF6Y2JoQ1lhNGkzQlNBaU9yVkN6UVh0MDhFR2M5a1BhNG9BdVNpbjJmMHJCNzNldDlwbGFHLU14X21nZjVQaDhVT3U4WEM0ZlIxdE5DMWxZZ0pENHhjQTlpc2FNLTFYeWVyNTZncVJFU2N3?oc=5&hl=en-US&gl=US&ceid=US%3Aen": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
   "https://news.sciencenet.cn/htmlnews/2026/3/560974.shtm": "3月6日，复旦大学附属妇产科医院举行“红房子?启元AI妇产科垂直大模型”发布会。",
-  "https://www.huxiu.com/article/4839935.html?f=rss": "2024年3月，AI语音交互技术突破200毫秒延迟阈值，使语音输入效率超越键盘输入。Claude Code等工具年收入达25亿美元，显示语音正成为严肃生产力工具。"
+  "https://www.huxiu.com/article/4839935.html?f=rss": "2024年3月，AI语音交互技术突破200毫秒延迟阈值，使语音输入效率超越键盘输入。Claude Code等工具年收入达25亿美元，显示语音正成为严肃生产力工具。",
+  "https://www.v2ex.com/t/1196474": "职场话题 - @fondD - 最近 agent 越来越火，延伸了很多好用的编码 agent,无论使用 cli 或 ide 方式，确实提高了开发效率。公司最近也在全面替换手工编码，由 agent 全部实现，甚至要求从需求-方",
+  "https://github.com/golang/go/issues/62026": "I would like to suggest the addition to the standard library of a package to generate and parse UUID identifiers, specifically versions 3, 4 and 5. The main reason I see to include it is that the m...",
+  "https://www.v2ex.com/t/1196457": "随想 - @noahjsn - 下面这个视频中的人脸机器人的表情挺厉害的https://www.douyin.com/video/7613282466257767730",
+  "https://juejin.cn/post/7613343462361006120": "🎨 还在手动将 Figma 设计稿转换成 Vue 代码？我们的 AI 系统已经能直接吃设计稿吐代码了！ 前言 在低代码平台中，如何让 AI 真正理解开发意图并生成可用的代码？VTJ.PRO 设计了一套"
 }

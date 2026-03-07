@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-07T03:21:01.790Z",
-  "generated_at_local": "2026-03-07T11:21:01.790+08:00",
-  "source_generated_at": "2026-03-07T03:17:41.628Z",
-  "source_generated_at_local": "2026-03-07T11:17:41.628+08:00",
+  "generated_at": "2026-03-07T03:34:09.306Z",
+  "generated_at_local": "2026-03-07T11:34:09.306+08:00",
+  "source_generated_at": "2026-03-07T03:30:23.250Z",
+  "source_generated_at_local": "2026-03-07T11:30:23.250+08:00",
   "window_hours": 24,
   "compression": {
     "algorithm_version": "v1.1",
-    "input_items": 998,
-    "clustered_events": 984,
+    "input_items": 1009,
+    "clustered_events": 995,
     "output_events": 80,
     "max_events": 80,
     "per_site_cap": 16
@@ -133,18 +133,18 @@
       "desc": "Sonde defines a stable manifest contract for AI-native CLI workflows and provides tooling to generate, validate, and score against that contract. The CLI in this repository is the reference impleme..."
     },
     {
+      "title": "UUID package coming to Go standard library",
+      "published_at": "2026-03-07T02:03:21Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://github.com/golang/go/issues/62026",
+      "desc": "I would like to suggest the addition to the standard library of a package to generate and parse UUID identifiers, specifically versions 3, 4 and 5. The main reason I see to include it is that the m..."
+    },
+    {
       "title": "Show HN: 1v1 coding game that LLMs struggle with",
       "published_at": "2026-03-07T02:43:54.270Z",
       "source": "hackernews",
       "url": "https://news.ycombinator.com/item?id=47271751",
       "desc": "It's purely a passion project with no monetization aspirations. And it's open source: https://github.com/riesvile/yare"
-    },
-    {
-      "title": "[分享创造] 写了个工具 contd 用来帮 Agent 运行交互式 CLI / TUI",
-      "published_at": "2026-03-07T02:47:41Z",
-      "source": "V2EX (创意工作者社区)",
-      "url": "https://www.v2ex.com/t/1196465",
-      "desc": "分享创造 - @werifu - 现在的 Agent 的命令行管理大多还处在 跑命令、等结果、问 LLM 的循环，尽管已经诞生出了开多进程来避免阻塞的思路，但支持原生交互式 CLI 的 Agent 依然还是少数（我知道范围内只有 co"
     },
     {
       "title": "人力资源社会保障部部长：正研究措施发挥人工智能创造新岗位和赋能传统岗位作用",
@@ -399,6 +399,13 @@
       "desc": "Employees have reported increased momentum, but also a feeling of having more to do"
     },
     {
+      "title": "[分享创造] 写了个工具 contd 用来帮 Agent 运行交互式 CLI / TUI",
+      "published_at": "2026-03-07T02:47:41Z",
+      "source": "V2EX (创意工作者社区)",
+      "url": "https://www.v2ex.com/t/1196465",
+      "desc": "分享创造 - @werifu - 现在的 Agent 的命令行管理大多还处在 跑命令、等结果、问 LLM 的循环，尽管已经诞生出了开多进程来避免阻塞的思路，但支持原生交互式 CLI 的 Agent 依然还是少数（我知道范围内只有 co"
+    },
+    {
       "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
       "published_at": "2026-03-07T02:43:54.270Z",
       "source": "hackernews",
@@ -504,18 +511,25 @@
       "desc": "3月6日，复旦大学附属妇产科医院举行“红房子?启元AI妇产科垂直大模型”发布会。"
     },
     {
+      "title": "道指收跌，美国原油升至2024年以来最高水平",
+      "published_at": "2026-03-07T03:24:24.463Z",
+      "source": "www.wsj.com",
+      "url": "https://www.wsj.com/livecoverage/iran-us-israel-conflict-2026/card/dow-closes-lower-u-s-oil-climbs-to-highest-level-since-2024-YRfhUBB8ArazcxAxyz5U?siteid=yhoof2&yptr=yahoo",
+      "desc": null
+    },
+    {
+      "title": "[职场话题] 如何看待 ai 编码趋势下的工作模式变化及岗位职责模糊化",
+      "published_at": "2026-03-07T03:19:04Z",
+      "source": "V2EX (创意工作者社区)",
+      "url": "https://www.v2ex.com/t/1196474",
+      "desc": "职场话题 - @fondD - 最近 agent 越来越火，延伸了很多好用的编码 agent,无论使用 cli 或 ide 方式，确实提高了开发效率。公司最近也在全面替换手工编码，由 agent 全部实现，甚至要求从需求-方"
+    },
+    {
       "title": "彭博社报道，甲骨文和OpenAI放弃在得克萨斯州扩建数据中心的计划",
       "published_at": "2026-03-07T00:12:30.491Z",
       "source": "reut.rs",
       "url": "https://reut.rs/4sx243f",
       "desc": null
-    },
-    {
-      "title": "办公室里对着AI 说话的人，可能会比用键盘打字的人更早下班",
-      "published_at": "2026-03-07T03:09:54Z",
-      "source": "虎嗅 (Huxiu)",
-      "url": "https://www.huxiu.com/article/4839935.html?f=rss",
-      "desc": "2024年3月，AI语音交互技术突破200毫秒延迟阈值，使语音输入效率超越键盘输入。Claude Code等工具年收入达25亿美元，显示语音正成为严肃生产力工具。"
     },
     {
       "title": "this css proves me human",
@@ -525,20 +539,6 @@
       "desc": "I don't think I can build a fence with these posts..."
     },
     {
-      "title": "[问与答] 最新 ClaudeCode 用 GLM 还是只要这 4 个环境变量吗",
-      "published_at": "2026-03-07T03:01:04Z",
-      "source": "V2EX (创意工作者社区)",
-      "url": "https://www.v2ex.com/t/1196467",
-      "desc": "问与答 - @admirez - ANTHROPIC_BASE_URLANTHROPIC_AUTH_TOKENANTHROPIC_MODELANTHROPIC_SMALL_FAST_MODEL"
-    },
-    {
-      "title": "三星崔元俊：探索 Galaxy 手机 AI 融合，未来用户零基础也能写 App",
-      "published_at": "2026-03-07T03:00:59Z",
-      "source": "IT之家 (ITHome)",
-      "url": "https://www.ithome.com/0/926/769.htm",
-      "desc": "在接受外媒 TechRadar 采访时，三星移动体验业务负责人崔元俊（Won-Joon Choi）表示，三星正探索将氛围编程（vibe coding）技术引入 Galaxy 手机。"
-    },
-    {
       "title": "Art Bits from HyperCard",
       "published_at": "2026-03-06T21:43:39Z",
       "source": "Hacker News · 24h最热",
@@ -546,18 +546,18 @@
       "desc": "700+ crunchy graphics circa 1988 incoming"
     },
     {
+      "title": "[问与答] 最新 ClaudeCode 用 GLM 还是只要这 4 个环境变量吗",
+      "published_at": "2026-03-07T03:01:04Z",
+      "source": "V2EX (创意工作者社区)",
+      "url": "https://www.v2ex.com/t/1196467",
+      "desc": "问与答 - @admirez - ANTHROPIC_BASE_URLANTHROPIC_AUTH_TOKENANTHROPIC_MODELANTHROPIC_SMALL_FAST_MODEL"
+    },
+    {
       "title": "安卓版三星浏览器更名 Browser，同步引入 Ask AI 功能",
       "published_at": "2026-03-07T02:51:04Z",
       "source": "IT之家 (ITHome)",
       "url": "https://www.ithome.com/0/926/767.htm",
       "desc": "科技媒体 Android Authority 昨日（3 月 6 日）发布博文，报道称三星调整其安卓浏览器名称，从“Samsung Internet”更名为“Samsung Browser”。"
-    },
-    {
-      "title": "Nintendo Sues U.S. Government for Tariff Refunds",
-      "published_at": "2026-03-06T21:29:37Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://www.scribd.com/document/1008639172/Nintendo-Sues-U-S-Government-For-Tariff-Refunds",
-      "desc": "Read more: https://aftermath.site/nintendo-tariffs-sue/"
     },
     {
       "title": "福特再召回174万辆汽车，已超去年召回总量半数 - Jalopnik",
@@ -574,18 +574,18 @@
       "desc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "与 Anthropic 闹翻后美政府收紧 AI 合同：模型可用于任何合法用途，不得包含 DEI 内容",
-      "published_at": "2026-03-07T01:45:32.380Z",
-      "source": "Readhub · AI",
-      "url": "https://www.ithome.com/0/926/739.htm",
-      "desc": "美国政府正起草新规，要求与政府合作的 AI 公司必须允许其模型被用于“任何合法用途”，并禁止在输出中偏向特定意识形态。这一规定源于与 Anthropic 的冲突，后者因担忧国内监控和致命自主武器而拒绝军方自由使用其技术。#AI 监管# #美国政府 AI 合同#"
-    },
-    {
       "title": "消息称软银寻求 400 亿美元贷款投资 OpenAI，规模创纪录",
       "published_at": "2026-03-06T23:14:20Z",
       "source": "IT之家 (ITHome)",
       "url": "https://www.ithome.com/0/926/717.htm",
       "desc": "据彭博社报道，软银集团寻求最高 400 亿美元贷款注资 OpenAI，有望成最大美元计价单一贷款。软银此前已投超 300 亿，目前持有 11% 股份，但 AI 缺主流应用，此举是否助长泡沫存疑。##软银投资 OpenAI##"
+    },
+    {
+      "title": "与 Anthropic 闹翻后美政府收紧 AI 合同：模型可用于任何合法用途，不得包含 DEI 内容",
+      "published_at": "2026-03-07T01:45:32.380Z",
+      "source": "Readhub · AI",
+      "url": "https://www.ithome.com/0/926/739.htm",
+      "desc": "美国政府正起草新规，要求与政府合作的 AI 公司必须允许其模型被用于“任何合法用途”，并禁止在输出中偏向特定意识形态。这一规定源于与 Anthropic 的冲突，后者因担忧国内监控和致命自主武器而拒绝军方自由使用其技术。#AI 监管# #美国政府 AI 合同#"
     },
     {
       "title": "AI 手机助手安全问题引两会关注，抖音副总裁李亮邀请委员亲测产品澄清疑虑",
@@ -602,18 +602,18 @@
       "desc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "Anthropic公司刚刚绘制出人工智能可能取代的职业图谱。一场针对白领阶层的\"大衰退\"绝对有可能发生。 - Fortune",
-      "published_at": "2026-03-06T19:56:34.575Z",
-      "source": "news.google.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXFkOTEzY1VlWmlaVVI0VDc5ZExiYTVQUzJEUE9XS1FNeHVoeWp0ZEc5Qkh5ZFdCeHd3dXQtTXJLYnNVNDFYVkF6Y2JoQ1lhNGkzQlNBaU9yVkN6UVh0MDhFR2M5a1BhNG9BdVNpbjJmMHJCNzNldDlwbGFHLU14X21nZjVQaDhVT3U4WEM0ZlIxdE5DMWxZZ0pENHhjQTlpc2FNLTFYeWVyNTZncVJFU2N3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "desc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-    },
-    {
       "title": "从设计稿到代码：VTJ.PRO 的 AI 集成系统架构解析",
       "published_at": "2026-03-07T01:56:36.089Z",
       "source": "juejin",
       "url": "https://juejin.cn/post/7613343462361006120",
-      "desc": null
+      "desc": "🎨 还在手动将 Figma 设计稿转换成 Vue 代码？我们的 AI 系统已经能直接吃设计稿吐代码了！ 前言 在低代码平台中，如何让 AI 真正理解开发意图并生成可用的代码？VTJ.PRO 设计了一套"
+    },
+    {
+      "title": "[随想] 人脸机器人+人形机器人， AI 情感伴侣指日可待",
+      "published_at": "2026-03-07T01:53:40Z",
+      "source": "V2EX (创意工作者社区)",
+      "url": "https://www.v2ex.com/t/1196457",
+      "desc": "随想 - @noahjsn - 下面这个视频中的人脸机器人的表情挺厉害的https://www.douyin.com/video/7613282466257767730"
     }
   ]
 }
