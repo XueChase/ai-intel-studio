@@ -3,7 +3,7 @@
   "openai": {
     "api_key_env": "DASHSCOPE_API_KEY",
     "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-    "model": "deepseek-v3.2",
+    "model": "qwen3.5-plus",
     "enable_thinking": true,
     "stream": true,
     "stream_include_usage": true,
