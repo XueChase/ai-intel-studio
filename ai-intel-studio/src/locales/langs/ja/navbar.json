@@ -7,7 +7,16 @@
   "md2wechat": {
     "title": "WeChat レイアウト"
   },
+  "newsFeed": {
+    "title": "ニュース一覧"
+  },
   "collectorSummary": {
     "title": "収集サマリー"
+  },
+  "emotionInput": {
+    "title": "感情原データ"
+  },
+  "emotionAnalysis": {
+    "title": "感情AI分析"
   }
 }

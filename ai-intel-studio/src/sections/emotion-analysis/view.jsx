@@ -13,6 +13,7 @@ import CircularProgress from '@mui/material/CircularProgress';
 
 import { paths } from 'src/routes/paths';
 
+import { useTranslate } from 'src/locales';
 import { DashboardContent } from 'src/layouts/dashboard';
 import { useEmotionAnalysisMarkdown } from 'src/actions/emotion-feed';
 
@@ -41,11 +42,11 @@ function createTopic(name) {
   };
 }
 
-function parseEmotionAnalysis(raw) {
+function parseEmotionAnalysis(raw, fallbackTitle) {
   const text = normalizeEmotionAnalysisMarkdown(raw);
   const lines = text.split('\n');
 
-  const title = lines.find((l) => l.trim().startsWith('# '))?.trim().replace(/^#\s*/, '') || '情绪AI分析';
+  const title = lines.find((l) => l.trim().startsWith('# '))?.trim().replace(/^#\s*/, '') || fallbackTitle;
   const subtitle = lines.find((l) => l.trim().startsWith('> '))?.trim().replace(/^>\s*/, '') || '';
 
   const mainline = [];
@@ -140,27 +141,27 @@ function parseEmotionAnalysis(raw) {
   return { title, subtitle, mainline, topics, top3, avoidTopics, avoidPhrases, risks };
 }
 
-function buildTopicCopyPrompt(topic, idx) {
+function buildTopicCopyPrompt(topic, idx, t) {
   const blocks = [
-    '# 任务说明',
-    '你是一位女性情感专栏公众号写手。请基于以下话题素材，写一篇可直接发布的公众号文章。',
+    `# ${t('copyPrompt.taskTitle')}`,
+    t('copyPrompt.taskDesc'),
     '',
-    '# 输出要求（必须遵守）',
-    '1. 只输出 Markdown 正文，不要代码块。',
-    '2. 结构必须包含：标题、导语、正文小节（3-5个）、结尾行动建议。',
-    '3. 语气：温柔但有立场，共情且不煽动，不制造性别对立。',
-    '4. 不要编造事实，不要法律/医疗建议，不要空泛鸡汤。',
+    `# ${t('copyPrompt.requirementsTitle')}`,
+    t('copyPrompt.r1'),
+    t('copyPrompt.r2'),
+    t('copyPrompt.r3'),
+    t('copyPrompt.r4'),
     '',
-    `# 选题素材（话题 ${idx + 1}）`,
-    `- 话题名：${topic.name || `话题 ${idx + 1}`}`,
-    topic.opening ? `- 导语：${topic.opening}` : null,
-    topic.point ? `- 主观点：${topic.point}` : null,
-    topic.ask ? `- 互动引导：${topic.ask}` : null,
-    topic.crowd ? `- 适合人群：${topic.crowd}` : null,
-    topic.resonance ? `- 女性共鸣点：${topic.resonance}` : null,
+    `# ${t('copyPrompt.materialTitle', { index: idx + 1 })}`,
+    `- ${t('copyPrompt.name')}：${topic.name || t('emotionAnalysis.topicDefaultName', { index: idx + 1 })}`,
+    topic.opening ? `- ${t('copyPrompt.opening')}：${topic.opening}` : null,
+    topic.point ? `- ${t('copyPrompt.point')}：${topic.point}` : null,
+    topic.ask ? `- ${t('copyPrompt.ask')}：${topic.ask}` : null,
+    topic.crowd ? `- ${t('copyPrompt.crowd')}：${topic.crowd}` : null,
+    topic.resonance ? `- ${t('copyPrompt.resonance')}：${topic.resonance}` : null,
     '',
-    '# 我补充的描述（请结合展开）',
-    '[在这里补充你的背景、案例、语气偏好、文章长度要求]',
+    `# ${t('copyPrompt.extraTitle')}`,
+    t('copyPrompt.extraPlaceholder'),
   ];
 
   return blocks.filter(Boolean).join('\n').trim();
@@ -195,6 +196,7 @@ async function copyText(text) {
 }
 
 export function EmotionAnalysisView() {
+  const { t } = useTranslate('emotion');
   const {
     emotionAnalysisMarkdown,
     emotionAnalysisLoading,
@@ -202,30 +204,30 @@ export function EmotionAnalysisView() {
     emotionAnalysisValidating,
     refreshEmotionAnalysis,
   } = useEmotionAnalysisMarkdown();
-  const parsed = parseEmotionAnalysis(emotionAnalysisMarkdown);
+  const parsed = parseEmotionAnalysis(emotionAnalysisMarkdown, t('emotionAnalysis.heading'));
   const statItems = [
-    { label: '主线', value: parsed.mainline.length, icon: 'solar:heart-angle-bold' },
-    { label: '话题', value: parsed.topics.length, icon: 'solar:chat-round-like-bold' },
-    { label: '风险', value: parsed.risks.length, icon: 'solar:shield-warning-bold' },
+    { label: t('emotionAnalysis.statMainline'), value: parsed.mainline.length, icon: 'solar:heart-angle-bold' },
+    { label: t('emotionAnalysis.statTopics'), value: parsed.topics.length, icon: 'solar:chat-round-like-bold' },
+    { label: t('emotionAnalysis.statRisk'), value: parsed.risks.length, icon: 'solar:shield-warning-bold' },
   ];
 
   const copyTopicPrompt = async (topic, idx) => {
     try {
-      const prompt = buildTopicCopyPrompt(topic, idx);
+      const prompt = buildTopicCopyPrompt(topic, idx, t);
       await copyText(prompt);
-      toast.success(`已复制话题 ${idx + 1} 的 AI 写作提示词`);
+      toast.success(t('emotionAnalysis.copied', { index: idx + 1 }));
     } catch (error) {
-      toast.error(`复制失败：${error instanceof Error ? error.message : String(error)}`);
+      toast.error(t('emotionAnalysis.copyFailed', { message: error instanceof Error ? error.message : String(error) }));
     }
   };
 
   return (
     <DashboardContent maxWidth="xl">
       <CustomBreadcrumbs
-        heading="情绪AI分析"
+        heading={t('emotionAnalysis.heading')}
         links={[
-          { name: '首页', href: paths.dashboard.general.home },
-          { name: '情绪AI分析' },
+          { name: t('home'), href: paths.dashboard.general.home },
+          { name: t('emotionAnalysis.heading') },
         ]}
         action={
           <Button
@@ -234,7 +236,7 @@ export function EmotionAnalysisView() {
             onClick={() => refreshEmotionAnalysis()}
             disabled={emotionAnalysisLoading || emotionAnalysisValidating}
           >
-            刷新
+            {t('refresh')}
           </Button>
         }
         sx={{ mb: 3 }}
@@ -242,7 +244,7 @@ export function EmotionAnalysisView() {
 
       {emotionAnalysisError ? (
         <Alert severity="error" sx={{ mb: 2 }}>
-          加载失败：{emotionAnalysisError?.message || String(emotionAnalysisError)}
+          {t('loadFailed', { message: emotionAnalysisError?.message || String(emotionAnalysisError) })}
         </Alert>
       ) : null}
 
@@ -291,7 +293,10 @@ export function EmotionAnalysisView() {
             </Card>
 
             <Card sx={{ mb: 2, borderRadius: 2 }}>
-              <CardHeader title="今日情绪主线" subheader="可直接写入公众号导语的核心观察" />
+              <CardHeader
+                title={t('emotionAnalysis.mainlineTitle')}
+                subheader={t('emotionAnalysis.mainlineSubheader')}
+              />
               <Divider />
               <CardContent sx={{ pt: 2 }}>
                 <Stack spacing={1}>
@@ -314,7 +319,7 @@ export function EmotionAnalysisView() {
                     ))
                   ) : (
                     <Typography variant="body2" color="text.secondary">
-                      暂未解析到主线内容
+                      {t('emotionAnalysis.mainlineEmpty')}
                     </Typography>
                   )}
                 </Stack>
@@ -323,8 +328,8 @@ export function EmotionAnalysisView() {
 
             <Card sx={{ borderRadius: 2 }}>
               <CardHeader
-                title={`推荐话题（${parsed.topics.length}）`}
-                subheader="按导语、观点、互动引导自动拆分为可写作卡片"
+                title={t('emotionAnalysis.topicsTitle', { count: parsed.topics.length })}
+                subheader={t('emotionAnalysis.topicsSubheader')}
               />
               <Divider />
               <CardContent sx={{ pt: 2 }}>
@@ -350,7 +355,9 @@ export function EmotionAnalysisView() {
                         >
                           <Stack direction="row" spacing={1} alignItems="center">
                             <Chip size="small" color="secondary" label={idx + 1} />
-                            <Typography variant="subtitle2">{topic.name || `话题 ${idx + 1}`}</Typography>
+                            <Typography variant="subtitle2">
+                              {topic.name || t('emotionAnalysis.topicDefaultName', { index: idx + 1 })}
+                            </Typography>
                           </Stack>
                           <Button
                             size="small"
@@ -358,11 +365,11 @@ export function EmotionAnalysisView() {
                             startIcon={<Iconify icon="solar:copy-bold" />}
                             onClick={() => copyTopicPrompt(topic, idx)}
                           >
-                            复制
+                            {t('emotionAnalysis.copy')}
                           </Button>
                         </Stack>
-                        {topic.opening ? <Markdown>{`- **导语：** ${topic.opening}`}</Markdown> : null}
-                        {topic.point ? <Markdown>{`- **观点：** ${topic.point}`}</Markdown> : null}
+                        {topic.opening ? <Markdown>{`- **${t('emotionAnalysis.fieldOpening')}：** ${topic.opening}`}</Markdown> : null}
+                        {topic.point ? <Markdown>{`- **${t('emotionAnalysis.fieldPoint')}：** ${topic.point}`}</Markdown> : null}
                         {topic.ask ? (
                           <Box
                             sx={{
@@ -372,7 +379,7 @@ export function EmotionAnalysisView() {
                               mb: 0.5,
                             }}
                           >
-                            <Markdown>{`- **互动引导：** ${topic.ask}`}</Markdown>
+                            <Markdown>{`- **${t('emotionAnalysis.fieldAsk')}：** ${topic.ask}`}</Markdown>
                           </Box>
                         ) : null}
                         <Stack direction="row" spacing={1} useFlexGap flexWrap="wrap" sx={{ mt: 1 }}>
@@ -389,10 +396,12 @@ export function EmotionAnalysisView() {
                     ))
                   ) : (
                     <Typography variant="body2" color="text.secondary">
-                      暂未解析到推荐话题，以下为原始 Markdown：
+                      {t('emotionAnalysis.topicsEmpty')}
                     </Typography>
                   )}
-                  {!parsed.topics.length ? <Markdown>{emotionAnalysisMarkdown || '*暂无内容*'}</Markdown> : null}
+                  {!parsed.topics.length ? (
+                    <Markdown>{emotionAnalysisMarkdown || t('emotionAnalysis.rawMarkdownEmpty')}</Markdown>
+                  ) : null}
                 </Stack>
               </CardContent>
             </Card>
@@ -400,11 +409,14 @@ export function EmotionAnalysisView() {
 
           <Grid size={{ xs: 12, md: 4 }}>
             <Card sx={{ mb: 2, borderRadius: 2 }}>
-              <CardHeader title="策略与避坑" subheader="优先级与表达风险提醒" />
+              <CardHeader
+                title={t('emotionAnalysis.panelStrategy')}
+                subheader={t('emotionAnalysis.panelStrategySub')}
+              />
               <Divider />
               <CardContent sx={{ pt: 2 }}>
                 <Typography variant="subtitle2" sx={{ mb: 1 }}>
-                  优先讲哪 3 个
+                  {t('emotionAnalysis.top3')}
                 </Typography>
                 <Stack spacing={0.8} sx={{ mb: 2 }}>
                   {parsed.top3.length ? (
@@ -415,13 +427,13 @@ export function EmotionAnalysisView() {
                     ))
                   ) : (
                     <Typography variant="body2" color="text.secondary">
-                      暂无
+                      {t('empty')}
                     </Typography>
                   )}
                 </Stack>
 
                 <Typography variant="subtitle2" sx={{ mb: 1 }}>
-                  不建议碰的话题
+                  {t('emotionAnalysis.avoidTopics')}
                 </Typography>
                 <Stack spacing={0.8} sx={{ mb: 2 }}>
                   {parsed.avoidTopics.length ? (
@@ -432,13 +444,13 @@ export function EmotionAnalysisView() {
                     ))
                   ) : (
                     <Typography variant="body2" color="text.secondary">
-                      暂无
+                      {t('empty')}
                     </Typography>
                   )}
                 </Stack>
 
                 <Typography variant="subtitle2" sx={{ mb: 1 }}>
-                  避雷表达
+                  {t('emotionAnalysis.avoidPhrases')}
                 </Typography>
                 <Stack spacing={0.8}>
                   {parsed.avoidPhrases.length ? (
@@ -449,7 +461,7 @@ export function EmotionAnalysisView() {
                     ))
                   ) : (
                     <Typography variant="body2" color="text.secondary">
-                      暂无
+                      {t('empty')}
                     </Typography>
                   )}
                 </Stack>
@@ -457,7 +469,7 @@ export function EmotionAnalysisView() {
             </Card>
 
             <Card sx={{ borderRadius: 2 }}>
-              <CardHeader title="风险提醒" />
+              <CardHeader title={t('emotionAnalysis.risks')} />
               <Divider />
               <CardContent sx={{ pt: 2 }}>
                 <Stack spacing={0.8}>
@@ -469,7 +481,7 @@ export function EmotionAnalysisView() {
                     ))
                   ) : (
                     <Typography variant="body2" color="text.secondary">
-                      暂无
+                      {t('empty')}
                     </Typography>
                   )}
                 </Stack>

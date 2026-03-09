@@ -12,5 +12,11 @@
   },
   "collectorSummary": {
     "title": "采集汇总"
+  },
+  "emotionInput": {
+    "title": "情绪原始看板"
+  },
+  "emotionAnalysis": {
+    "title": "情绪AI分析"
   }
 }

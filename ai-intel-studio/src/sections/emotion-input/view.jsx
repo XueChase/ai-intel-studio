@@ -13,6 +13,7 @@ import CircularProgress from '@mui/material/CircularProgress';
 
 import { paths } from 'src/routes/paths';
 
+import { useTranslate } from 'src/locales';
 import { DashboardContent } from 'src/layouts/dashboard';
 import { useEmotionInputBundle } from 'src/actions/emotion-feed';
 
@@ -21,15 +22,15 @@ import { Markdown } from 'src/components/markdown';
 import { Chart, useChart } from 'src/components/chart';
 import { CustomBreadcrumbs } from 'src/components/custom-breadcrumbs';
 
-function fNum(value) {
-  return new Intl.NumberFormat('zh-CN').format(Number(value || 0));
+function fNum(value, localeCode) {
+  return new Intl.NumberFormat(localeCode || 'en-US').format(Number(value || 0));
 }
 
-function formatDateTime(input) {
+function formatDateTime(input, localeCode) {
   if (!input) return '-';
   const date = new Date(input);
   if (Number.isNaN(date.getTime())) return '-';
-  return new Intl.DateTimeFormat('zh-CN', {
+  return new Intl.DateTimeFormat(localeCode || 'en-US', {
     month: '2-digit',
     day: '2-digit',
     hour: '2-digit',
@@ -39,6 +40,8 @@ function formatDateTime(input) {
 }
 
 export function EmotionInputView() {
+  const { t, currentLang } = useTranslate('emotion');
+  const localeCode = currentLang?.numberFormat?.code || 'en-US';
   const {
     emotionInput,
     emotionInputMarkdown,
@@ -66,10 +69,10 @@ export function EmotionInputView() {
   return (
     <DashboardContent maxWidth="xl">
       <CustomBreadcrumbs
-        heading="情绪原始看板"
+        heading={t('emotionInput.heading')}
         links={[
-          { name: '首页', href: paths.dashboard.general.home },
-          { name: '情绪原始看板' },
+          { name: t('home'), href: paths.dashboard.general.home },
+          { name: t('emotionInput.heading') },
         ]}
         action={
           <Button
@@ -78,7 +81,7 @@ export function EmotionInputView() {
             onClick={() => refreshEmotionInput()}
             disabled={emotionInputLoading || emotionInputValidating}
           >
-            刷新
+            {t('refresh')}
           </Button>
         }
         sx={{ mb: 3 }}
@@ -86,7 +89,7 @@ export function EmotionInputView() {
 
       {emotionInputError ? (
         <Alert severity="error" sx={{ mb: 2 }}>
-          加载失败：{emotionInputError?.message || String(emotionInputError)}
+          {t('loadFailed', { message: emotionInputError?.message || String(emotionInputError) })}
         </Alert>
       ) : null}
 
@@ -102,26 +105,26 @@ export function EmotionInputView() {
             <Grid size={{ xs: 12, md: 4 }}>
               <Card sx={{ p: 2.5 }}>
                 <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-                  24小时总条数
+                  {t('emotionInput.total24h')}
                 </Typography>
-                <Typography variant="h4">{fNum(emotionInput.total_items)}</Typography>
+                <Typography variant="h4">{fNum(emotionInput.total_items, localeCode)}</Typography>
               </Card>
             </Grid>
             <Grid size={{ xs: 12, md: 4 }}>
               <Card sx={{ p: 2.5 }}>
                 <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-                  来源数
+                  {t('emotionInput.sourceCount')}
                 </Typography>
-                <Typography variant="h4">{fNum(emotionInput.source_count)}</Typography>
+                <Typography variant="h4">{fNum(emotionInput.source_count, localeCode)}</Typography>
               </Card>
             </Grid>
             <Grid size={{ xs: 12, md: 4 }}>
               <Card sx={{ p: 2.5 }}>
                 <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-                  数据时间
+                  {t('emotionInput.generatedAt')}
                 </Typography>
                 <Typography variant="h6">
-                  {formatDateTime(emotionInput.generated_at_local || emotionInput.generated_at)}
+                  {formatDateTime(emotionInput.generated_at_local || emotionInput.generated_at, localeCode)}
                 </Typography>
               </Card>
             </Grid>
@@ -130,22 +133,22 @@ export function EmotionInputView() {
           <Grid container spacing={2}>
             <Grid size={{ xs: 12, lg: 5 }}>
               <Card sx={{ mb: 2 }}>
-                <CardHeader title="来源分布" />
+                <CardHeader title={t('emotionInput.sourceDist')} />
                 <Chart
                   type="bar"
-                  series={[{ name: '条数', data: siteStats.map((s) => s.count || 0) }]}
+                  series={[{ name: t('emotionInput.itemsCount'), data: siteStats.map((s) => s.count || 0) }]}
                   options={sourceChartOptions}
                   sx={{ px: 2, pb: 2, height: 320 }}
                 />
               </Card>
 
               <Card>
-                <CardHeader title="Top 15 条目" />
+                <CardHeader title={t('emotionInput.topItems')} />
                 <CardContent>
                   <Stack spacing={1.5}>
                     {topItems.map((item, idx) => (
                       <Stack key={`${item.url}-${idx}`} spacing={0.5}>
-                        <Typography variant="subtitle2">{item.title || '(无标题)'}</Typography>
+                        <Typography variant="subtitle2">{item.title || `(${t('empty')})`}</Typography>
                         <Typography variant="caption" sx={{ color: 'text.secondary' }}>
                           {item.source || '-'}
                         </Typography>
@@ -158,10 +161,10 @@ export function EmotionInputView() {
 
             <Grid size={{ xs: 12, lg: 7 }}>
               <Card>
-                <CardHeader title="Markdown 预览（latest-24h-emotion.md）" />
+                <CardHeader title={t('emotionInput.markdownPreview')} />
                 <Divider />
                 <CardContent sx={{ maxHeight: 900, overflow: 'auto' }}>
-                  <Markdown>{emotionInputMarkdown || '*暂无内容*'}</Markdown>
+                  <Markdown>{emotionInputMarkdown || t('emotionAnalysis.rawMarkdownEmpty')}</Markdown>
                 </CardContent>
               </Card>
             </Grid>

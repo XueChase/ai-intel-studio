@@ -37,12 +37,12 @@ export function useNavData() {
           icon: ICONS.md2wechat,
         },
         {
-          title: '情绪原始看板',
+          title: t('emotionInput.title'),
           path: paths.dashboard.emotionInput,
           icon: ICONS.emotionInput,
         },
         {
-          title: '情绪AI分析',
+          title: t('emotionAnalysis.title'),
           path: paths.dashboard.emotionAnalysis,
           icon: ICONS.emotionAnalysis,
         },

@@ -12,5 +12,11 @@
   },
   "collectorSummary": {
     "title": "Collection Summary"
+  },
+  "emotionInput": {
+    "title": "Emotion Raw Board"
+  },
+  "emotionAnalysis": {
+    "title": "Emotion AI Analysis"
   }
 }
