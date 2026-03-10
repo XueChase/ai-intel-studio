@@ -2,8 +2,6 @@ name: AI Intel Studio - Generate Emotion Analysis
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "10 */2 * * *"
 
 permissions:
   contents: write

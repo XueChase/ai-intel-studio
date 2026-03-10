@@ -23,9 +23,6 @@ on:
         description: "Deploy GitHub Pages after analysis (manual only)"
         required: false
         default: "false"
-  schedule:
-    # 07:03 Asia/Shanghai = 23:03 UTC (previous day)
-    - cron: "3 23 * * *"
 
 permissions:
   contents: write
