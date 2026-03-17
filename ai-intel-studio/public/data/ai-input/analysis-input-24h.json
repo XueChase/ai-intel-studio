@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T23:05:56.259Z",
-  "generated_at_local": "2026-03-18T07:05:56.259+08:00",
+  "generated_at": "2026-03-17T23:19:04.285Z",
+  "generated_at_local": "2026-03-18T07:19:04.285+08:00",
   "source_generated_at": "2026-03-17T22:42:08.499Z",
   "source_generated_at_local": "2026-03-18T06:42:08.499+08:00",
   "window_hours": 24,
@@ -588,13 +588,6 @@
       "desc": "程序员 - @duangthef1rst - 想找几个 V 友一起拼车 Claude ，请问有朋友知道 Max20 并发最大多少吗"
     },
     {
-      "title": "[奇思妙想] 如果有一个由 ai 管理的社区，你会怎么设计机器人三定律？",
-      "published_at": "2026-03-17T20:48:10Z",
-      "source": "V2EX (创意工作者社区)",
-      "url": "https://www.v2ex.com/t/1199064",
-      "desc": null
-    },
-    {
       "title": "格隆汇3月18日｜欧莱雅：与英伟达携手，借助预测性人工智能科学加速美妆研发。",
       "published_at": "2026-03-18T00:00:00Z",
       "source": "Readhub · AI",
@@ -606,6 +599,13 @@
       "published_at": "2026-03-18T00:00:00Z",
       "source": "Readhub · AI",
       "url": "https://www.gelonghui.com/live/2352423",
+      "desc": null
+    },
+    {
+      "title": "[奇思妙想] 如果有一个由 ai 管理的社区，你会怎么设计机器人三定律？",
+      "published_at": "2026-03-17T20:48:10Z",
+      "source": "V2EX (创意工作者社区)",
+      "url": "https://www.v2ex.com/t/1199064",
       "desc": null
     },
     {
