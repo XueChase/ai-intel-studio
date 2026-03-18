@@ -1,36 +1,32 @@
 {
-  "generated_at": "2026-03-17T23:19:04.285Z",
-  "generated_at_local": "2026-03-18T07:19:04.285+08:00",
-  "source_generated_at": "2026-03-17T22:42:08.499Z",
-  "source_generated_at_local": "2026-03-18T06:42:08.499+08:00",
+  "generated_at": "2026-03-18T23:06:25.370Z",
+  "generated_at_local": "2026-03-19T07:06:25.370+08:00",
+  "source_generated_at": "2026-03-18T22:40:36.177Z",
+  "source_generated_at_local": "2026-03-19T06:40:36.177+08:00",
   "window_hours": 24,
   "compression": {
     "algorithm_version": "v1.1",
-    "input_items": 1284,
-    "clustered_events": 1253,
+    "input_items": 1341,
+    "clustered_events": 1293,
     "output_events": 80,
     "max_events": 80,
     "per_site_cap": 16
   },
   "site_distribution": [
     {
-      "site_id": "techurls",
-      "count": 16
-    },
-    {
       "site_id": "buzzing",
       "count": 16
     },
     {
+      "site_id": "techurls",
+      "count": 16
+    },
+    {
       "site_id": "newsnow",
-      "count": 9
+      "count": 15
     },
     {
       "site_id": "aibase",
-      "count": 8
-    },
-    {
-      "site_id": "tophub",
       "count": 8
     },
     {
@@ -38,16 +34,20 @@
       "count": 8
     },
     {
-      "site_id": "iris",
-      "count": 6
+      "site_id": "tophub",
+      "count": 8
     },
     {
       "site_id": "hackernews",
-      "count": 5
+      "count": 4
     },
     {
       "site_id": "officialai",
-      "count": 3
+      "count": 2
+    },
+    {
+      "site_id": "iris",
+      "count": 2
     },
     {
       "site_id": "aibasedaily",
@@ -56,564 +56,564 @@
   ],
   "top_events": [
     {
-      "title": "GPT‑5.4 Mini and Nano",
-      "published_at": "2026-03-17T19:14:01.641Z",
-      "source": "Hacker News",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "desc": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
-    },
-    {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "published_at": "2026-03-17T10:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "desc": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
-    },
-    {
-      "title": "理想汽车发布下一代自动驾驶基础模型MindVLA-o1",
-      "published_at": "2026-03-17T07:53:45.154Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3726737807981187",
+      "title": "顶级AI模型在英语以外的语言上表现欠佳",
+      "published_at": "2026-03-18T17:43:07.948Z",
+      "source": "econ.st",
+      "url": "https://econ.st/4rH4U4V",
       "desc": null
-    },
-    {
-      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-      "published_at": "2026-03-17T22:42:08.499Z",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise",
-      "desc": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches."
-    },
-    {
-      "title": "Gamers React With Overwhelming Disgust To DLSS 5's Generative AI Glow-Ups",
-      "published_at": "2026-03-17T22:42:08.499Z",
-      "source": "Slashdot",
-      "url": "https://tech.slashdot.org/story/26/03/17/2058245/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups",
-      "desc": "Kyle Orland writes via Ars Technica: Since deep-learning super-sampling (DLSS) launched on 2018's RTX 2080 cards, gamers have been generally bullish on the technology as a way to effectively use machine-learning upscaling techniques to increase resolutions or juice frame rates..."
-    },
-    {
-      "title": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
-      "published_at": "2026-03-17T17:00:15Z",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/telecom-ai-grids-inference",
-      "desc": "As AI‑native applications scale to more users, agents and devices, the telecommunications network is becoming the next frontier for distributing AI. At NVIDIA GTC 2026, leading operators in the U.S. and Asia showed that this shift is underway, announcing AI grids — geographica..."
-    },
-    {
-      "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
-      "published_at": "2026-03-17T11:39:19Z",
-      "source": "Hacker News",
-      "url": "https://www.bbc.com/news/articles/c74721xyd1wo",
-      "desc": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems."
-    },
-    {
-      "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-      "published_at": "2026-03-17T18:59:45.566Z",
-      "source": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=47414440",
-      "desc": "As someone who's never been to Brazil, certainly not in the 1970s, watching Secret Agent still felt like being transported there. How did they make a movie that makes you feel like you're in a familiar place you've never been to?"
-    },
-    {
-      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
-      "published_at": "2026-03-17T22:42:08.499Z",
-      "source": "Hacker News",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. - gsd-build/get-shit-done"
-    },
-    {
-      "title": "Agent harness to use with 8090 Software Factory and apply AI agents to your SDLC",
-      "published_at": "2026-03-17T21:13:12Z",
-      "source": "Hacker News",
-      "url": "https://github.com/8090-inc/software-factory-harness",
-      "desc": "Agent harness to use with Software Factory and apply AI agents to your SDLC - 8090-inc/software-factory-harness"
-    },
-    {
-      "title": "ACP – Cryptographic admission control layer for autonomous agent actions",
-      "published_at": "2026-03-17T21:03:19Z",
-      "source": "Hacker News",
-      "url": "https://github.com/chelof100/acp-framework-en",
-      "desc": "Agent Control Protocol (ACP) — Official English specification. Cryptographically verifiable authorization architecture for autonomous AI agents. - chelof100/acp-framework-en"
-    },
-    {
-      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-      "published_at": "2026-03-17T19:14:01.641Z",
-      "source": "Hacker News",
-      "url": "https://www.bracketmadness.ai/",
-      "desc": "Which AI picks the best March Madness bracket? Register your agent, submit picks via API, and compete."
-    },
-    {
-      "title": "Engram: Persistent memory system for AI coding agents",
-      "published_at": "2026-03-17T19:49:02Z",
-      "source": "Hacker News",
-      "url": "https://github.com/Gentleman-Programming/engram",
-      "desc": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. - Gentleman-Programming/engram"
-    },
-    {
-      "title": "Pimp My LLM: Leveraging Variability Modeling to Tune Inference Hyperparameters",
-      "published_at": "2026-03-17T20:06:22Z",
-      "source": "Hacker News",
-      "url": "https://arxiv.org/abs/2602.17697",
-      "desc": "Large Language Models (LLMs) are being increasingly used across a wide range of tasks. However, their substantial computational demands raise concerns about the energy efficiency and sustainability of both training and inference. Inference, in particular, dominates total compu..."
-    },
-    {
-      "title": "Kimi回应马斯克点赞AI论文：你的火箭造得不错",
-      "published_at": "2026-03-17T07:50:45.154Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3726732528728713",
-      "desc": "36氪获悉，月之暗面 Kimi官方账号今天发布微博，回应马斯克点赞其最新技术报告：“你的火箭造得也不错！”3月16日，月之暗面Kimi发布技术报告，对大模型十年没有根本性变化的核心结构残差连接进行重新设计，使每一层能够选择性地关注此前各层输出，而非统一求和。测试显示，48B模型训练效率提升1.25倍。论文发布后，马斯克发文称“令人印象深刻”。"
-    },
-    {
-      "title": "马斯克点赞Kimi“注意力残差”研究，长文本大模型架构迎新突破",
-      "published_at": "2026-03-17T07:15:18.486Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26292",
-      "desc": "Kimi公司发布论文《Attention Residuals: Rethinking depth-wise aggregation》，提出注意力残差新方法，优化深度聚合机制。特斯拉CEO马斯克在社交媒体点赞，称其为“亮眼工作”。Kimi官方幽默回应，引发全球AI社区热议。"
-    },
-    {
-      "title": "为什么我可能会“雇佣”人工智能而不是研究生",
-      "published_at": "2026-03-17T17:19:50.532Z",
-      "source": "www.science.org",
-      "url": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student",
-      "desc": null
-    },
-    {
-      "title": "​270 亿美元豪赌：Meta 与 Nebius 达成五年 AI 算力扩容协议",
-      "published_at": "2026-03-17T02:41:45.925Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26278",
-      "desc": "Meta与云服务商Nebius签署价值最高270亿美元的基础设施协议，确保未来五年获得充足先进算力，应对全球AI竞争。协议包括120亿美元专用计算容量和150亿美元可选扩展，凸显Meta对算力储备的迫切需求。"
-    },
-    {
-      "title": "SK会长：将力求稳定芯片价格，考虑海力士在美上市",
-      "published_at": "2026-03-17T10:09:27.702Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3726870974790025",
-      "desc": "韩国SK集团会长崔泰源16日在美国圣何塞接受记者采访时表示，全球存储芯片短缺现象可能持续至2030年，SK海力士将为稳定价格竭尽全力，并正在考虑发行美国存托凭证（ADR）的方案。（财联社）"
-    },
-    {
-      "title": "北京君正：目前DRAM芯片、Flash芯片和部分计算芯片价格有调整",
-      "published_at": "2026-03-17T10:08:27.702Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3726870237444485",
-      "desc": "36氪获悉，北京君正在互动平台表示，目前DRAM芯片、Flash芯片和部分计算芯片的价格有调整，DRAM新制程的产品已开始销售，预计今年公司业绩会有较好的增长。"
-    },
-    {
-      "title": "Jensen Huang says Nvidia is in the process of restarting manufacturing of its H200 chips for shipments to China and it has received orders from \"many customers\" (Ina Fried/Axios)",
-      "published_at": "2026-03-17T20:50:54.834Z",
-      "source": "Techmeme",
-      "url": "http://www.techmeme.com/260317/p40",
-      "desc": "Top news and commentary for technology's leaders, from all around the web."
-    },
-    {
-      "title": "At an all-hands, Andy Jassy said he expects AI to help AWS reach $600B in annual sales by 2036, double his prior estimate; AWS had revenue of $128.7B in 2025 (Greg Bensinger/Reuters)",
-      "published_at": "2026-03-17T20:50:54.834Z",
-      "source": "Techmeme",
-      "url": "http://www.techmeme.com/260317/p37",
-      "desc": "Top news and commentary for technology's leaders, from all around the web."
-    },
-    {
-      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-      "published_at": "2026-03-17T19:14:01.641Z",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure",
-      "desc": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions."
-    },
-    {
-      "title": "OpenAI筹备年底前IPO，要求员工将ChatGPT打造成“生产力工具”",
-      "published_at": "2026-03-17T22:42:08.499Z",
-      "source": "Readhub · AI",
-      "url": "https://finance.sina.com.cn/world/2026-03-18/doc-inhrizny1725828.shtml",
-      "desc": null
-    },
-    {
-      "title": "人工智能无人机软件股暴涨700%，创下自Newsmax以来最佳IPO表现",
-      "published_at": "2026-03-17T19:43:55.850Z",
-      "source": "www.bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-17/ai-drone-software-stock-jumps-700-in-best-ipo-since-newsmax",
-      "desc": "To continue, please click the box below to let us know you're not a robot."
-    },
-    {
-      "title": "GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally",
-      "published_at": "2026-03-17T13:00:46Z",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw",
-      "desc": "The paradigm of consumer computing has revolved around the concept of a personal device — from PCs to smartphones and tablets. Now, generative AI — particularly OpenClaw — has introduced a new category: agent computers. These devices, like the NVIDIA DGX Spark desktop AI super..."
-    },
-    {
-      "title": "'No one asked them to': Security experts warn malicious AI agents can team up to launch cyberattacks",
-      "published_at": "2026-03-17T22:42:08.499Z",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/security/no-one-asked-them-to-security-experts-warn-malicious-ai-agents-can-team-up-to-launch-cyberattacks",
-      "desc": "Artificial intelligence bots are bypassing security controls, stealing secrets, and causing chaos inside enterprise networks without human instruction at all"
-    },
-    {
-      "title": "债务投资者减持软件公司持仓，这是行业困境的最新迹象",
-      "published_at": "2026-03-17T18:55:52.789Z",
-      "source": "reut.rs",
-      "url": "https://reut.rs/3Pd5tWC",
-      "desc": null
-    },
-    {
-      "title": "马斯克：如果告赢OpenAI，上千亿美元收益全部捐给慈善机构",
-      "published_at": "2026-03-17T09:54:27.702Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3726856167209609",
-      "desc": "3月17日，特斯拉CEO埃隆·马斯克在X平台上公开表示，如果在对OpenAI的诉讼中获胜，所有由此获得的法律收益将会全部捐赠给慈善机构，而他个人将不从中获取任何收益。此前，马斯克已经起诉OpenAI和微软，并发起高达1340亿美元的索赔。该案目前已经进入激烈的庭前博弈阶段。（澎湃）"
-    },
-    {
-      "title": "Trustpilot利润增长四倍，该点评平台成为“AI赢家”",
-      "published_at": "2026-03-17T12:16:13.287Z",
-      "source": "reut.rs",
-      "url": "https://reut.rs/40BxkCb",
-      "desc": null
-    },
-    {
-      "title": "美国太平洋舰队将在舰船上部署能攀爬墙壁和飞行的机器人",
-      "published_at": "2026-03-17T14:40:06.087Z",
-      "source": "reut.rs",
-      "url": "https://reut.rs/4uxwzYr",
-      "desc": null
-    },
-    {
-      "title": "华为面向AI推理场景发布新一代AI数据基础设施",
-      "published_at": "2026-03-17T08:21:45.154Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3726765261273731",
-      "desc": "在3月17日下午举行的华为数据存储2026新春发布会上，华为发布针对AI推理场景的全新AI数据基础设施，包含面向中心训推场景的AI数据平台，和面向分支边缘推理场景的FusionCube A1000超融合一体机，旨在推动AI推理体验升级，加速推理效率，并显著降低推理部署门槛，加速AI商业正循环。据介绍，AI数据平台包含了知识库、KV Cache加速、记忆库的能力，且三者能通过UCM技术统一管理调度，让Agent推理准确率提升30%；FusionCube A1000超融合一体机支持通算智算全栈部署，兼容主流智能体和大模型，AI应用上线周期缩短80%，算..."
-    },
-    {
-      "title": "英伟达押注下一个万亿级机遇，入局AI服务器系统",
-      "published_at": "2026-03-17T08:35:45.154Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3726778159168135",
-      "desc": "英伟达首席执行官黄仁勋表示，AI推理市场拐点已经到来，AI从训练阶段全面进入推理与执行阶段，推理算力需求呈指数级爆发，英伟达将与专注推理技术的初创公司“格罗克”合作推出AI服务器系统，从而加大在低成本、低延迟推理计算领域的布局，支撑万亿级算力市场。（央视财经）"
-    },
-    {
-      "title": "康迪科技：与HawkRobo Systems LLC成立合资公司 KH Robotics",
-      "published_at": "2026-03-17T07:50:45.154Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3726730033461635",
-      "desc": "36氪获悉，3月17日，康迪科技宣布，与HawkRobo Systems LLC共同成立合资公司 KH Robotics，康迪以70%持股比例实现控股，原海康威视北美核心管理团队成员张卫民（Oliver Zhang）出任CEO。KH Robotics将以物流园区作为首个重点落地场景，相关成熟产品预计将在2026年内正式进入美国市场并启动商业交付。"
-    },
-    {
-      "title": "清华AIR联合水木分子开源化学分子通用大模型",
-      "published_at": "2026-03-17T05:25:48.573Z",
-      "source": "Readhub · AI",
-      "url": "https://36kr.com/newsflashes/3726575453321604?f=rss",
-      "desc": "36氪获悉，近日，清华大学智能产业研究院（AIR）联合水木分子，正式开源化学分子通用基座模型--BioMedGPT-Mol。"
-    },
-    {
-      "title": "OpenAI launches GPT-5.4 mini and nano, aimed at agents, coding, and multi-modal workflows, and offering near GPT-5.4-level performance at a much lower cost (David Gewirtz/ZDNET)",
-      "published_at": "2026-03-17T19:14:01.641Z",
-      "source": "Techmeme",
-      "url": "http://www.techmeme.com/260317/p33",
-      "desc": "Top news and commentary for technology's leaders, from all around the web."
-    },
-    {
-      "title": "Garry Tan's Claude Code Setup",
-      "published_at": "2026-03-17T21:28:35Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://github.com/garrytan/gstack/tree/main",
-      "desc": "Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA - garrytan/gstack"
-    },
-    {
-      "title": "ChatGPTs sex-centered adult mode raises red flags at OpenAI",
-      "published_at": "2026-03-17T20:50:54.834Z",
-      "source": "Mashable",
-      "url": "https://mashable.com/article/chat-gpt-adult-mode-staff-concerns",
-      "desc": "Insiders worry the bot would become a \"sexy suicide coach.\""
     },
     {
       "title": "Mistral AI Releases Forge",
-      "published_at": "2026-03-17T21:04:26Z",
-      "source": "Hacker News · 24h最热",
+      "published_at": "2026-03-18T02:47:55.103Z",
+      "source": "Hacker News",
       "url": "https://mistral.ai/news/forge",
       "desc": "Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge."
     },
     {
-      "title": "Elevated errors on Claude Opus 4.6",
-      "published_at": "2026-03-17T20:56:04Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://status.claude.com/incidents/mhnzmndv58bt",
+      "title": "Introducing Claude Opus 4.6",
+      "published_at": "2026-03-18T00:00:00Z",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "desc": "We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin."
+    },
+    {
+      "title": "腾讯混元新模型 HY 3.0 即将发布，正在内部业务测试",
+      "published_at": "2026-03-18T09:59:00.870Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3728259262987394",
+      "desc": "36氪获悉，3月18日，腾讯在财报发布后的媒体会上透露，HY 3.0正在内部业务测试中，计划在4月对外推出。据了解，这是一次混元模型的重大升级，相比HY2.0版本，效果进步明显，推理和agent能力有显著提升。2025年下半年以来，腾讯混元对团队和流程进行重组，重点提升数据质量，并重建了用于预训练和强化学习的基础设施，这有利于提升模型的迭代速度，打造出智能水平更高的基座模型。"
+    },
+    {
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "published_at": "2026-03-18T17:12:05.197Z",
+      "source": "Hacker News",
+      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+      "desc": "A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox."
+    },
+    {
+      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+      "published_at": "2026-03-18T19:15:58.622Z",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47427647",
+      "desc": "For an example of a review (picked pretty much at random) see: https://sashiko.dev/#/patchset/20260318151256.2590375-1-andr..."
+    },
+    {
+      "title": "​六大科技巨头注资 1250 万美元，助力 Linux 基金会对抗 AI 漏洞报告“噪音”",
+      "published_at": "2026-03-18T09:00:59.280Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26341",
+      "desc": "六家科技巨头向Linux基金会项目资助1250万美元，旨在帮助开源软件维护者应对AI自动化工具生成的海量低质安全报告，使其能专注于真正的安全威胁。"
+    },
+    {
+      "title": "人工智能的下一阶段可能需要截然不同的处理器",
+      "published_at": "2026-03-18T21:26:13.340Z",
+      "source": "econ.st",
+      "url": "https://econ.st/47avGey",
       "desc": null
     },
     {
-      "title": "GPT-5.4 Mini 和 Nano",
-      "published_at": "2026-03-17T19:27:51.878Z",
-      "source": "openai.com",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "desc": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "published_at": "2026-03-18T02:47:55.103Z",
+      "source": "Hacker News",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
+      "desc": "A tool for running on-premises large language models on non-public data"
     },
     {
-      "title": "Gemini for Home lands a new update that makes voice commands up to 40% faster",
-      "published_at": "2026-03-17T22:42:08.499Z",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/gemini-for-home-voice-commands-up-to-40-faster",
-      "desc": "Live translation gets a boost, along with other improvements"
+      "title": "GFS – Git for databases, built for AI coding agents (commit, branch, checkout)",
+      "published_at": "2026-03-18T20:34:56Z",
+      "source": "Hacker News",
+      "url": "https://github.com/Guepard-Corp/gfs",
+      "desc": "Git For database Systems. Contribute to Guepard-Corp/gfs development by creating an account on GitHub."
     },
     {
-      "title": "Google brings Personal Intelligence to the masses",
-      "published_at": "2026-03-17T22:42:08.499Z",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/gemini-personal-intelligence-expansion",
-      "desc": "Bringing down the paywalls"
+      "title": "Agentic review of Linux Kernel code changes",
+      "published_at": "2026-03-18T16:42:55Z",
+      "source": "Hacker News",
+      "url": "https://github.com/sashiko-dev/sashiko",
+      "desc": null
     },
     {
-      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-      "published_at": "2026-03-17T22:42:08.499Z",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate",
-      "desc": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini."
+      "title": "XPFarm; Open-source vulnerability scanner wrapping community tools and Multi-LLM",
+      "published_at": "2026-03-18T19:36:08Z",
+      "source": "Hacker News",
+      "url": "https://github.com/A3-N/xpfarm",
+      "desc": "Free XP on bug bounty. Contribute to A3-N/xpfarm development by creating an account on GitHub."
     },
     {
-      "title": "You.com appoints Saahil Jain as new CTO after co-founder Bryan McCann left to Anthropic; You.com, which began in consumer search, is targeting enterprise more (Kevin McLaughlin/The Information)",
-      "published_at": "2026-03-17T22:42:08.499Z",
-      "source": "Techmeme",
-      "url": "http://www.techmeme.com/260317/p43",
-      "desc": "Top news and commentary for technology's leaders, from all around the web."
+      "title": "Argus-AI – G-ARVIS scoring for LLM observability in 3 lines of Python",
+      "published_at": "2026-03-18T18:56:06Z",
+      "source": "Hacker News",
+      "url": "https://github.com/anilatambharii/argus-ai",
+      "desc": "The world&#39;s first AI observability platform that doesn&#39;t just alert you- it fixes itself. Most tools stops at showing you the problem. ARGUS closes the loop autonomously. I built the self-h..."
     },
     {
-      "title": "Mistral announces Mistral Forge to help enterprises build custom models actually trained on their own data, using Mistral open-weight models as a starting point (TechCrunch)",
-      "published_at": "2026-03-17T22:42:08.499Z",
-      "source": "Techmeme",
-      "url": "http://www.techmeme.com/260317/p42",
-      "desc": "Top news and commentary for technology's leaders, from all around the web."
+      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+      "published_at": "2026-03-18T02:47:55.103Z",
+      "source": "Hacker News",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "desc": "We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (Sys..."
     },
     {
-      "title": "普通人零基础拍大片！“Vibe Editing”火爆出圈：扔素材+聊天，AI秒出朋友圈爆款视频",
-      "published_at": "2026-03-17T07:15:18.486Z",
-      "source": "Readhub · AI",
-      "url": "https://www.aibase.com/zh/news/26296",
-      "desc": "随着AI从“会写代码”进化到“懂氛围”，一种名为Vibe Editing（氛围编辑）的全新视频创作方式正在社交媒体和创作者圈迅速走红。与“Vibe Coding”针对程序员用自然语言写代码相反，Vibe Editing专为编程小白、普通上班族和社交达人设计。它让任何人无需学习剪辑软件、时间线、转场特效等复杂操作，只需把"
-    },
-    {
-      "title": "阿里​开源Fun-CineForge ：首个电影级多模态配音大模型及大规模数据集问世",
-      "published_at": "2026-03-17T09:01:59.224Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26299",
-      "desc": "阿里巴巴通义实验室与中国科学技术大学联合开源Fun-CineForge项目，针对影视配音中口型同步、音色迁移和情感表达等难题，提供端到端生产流水线和大模型解决方案，旨在解决传统AI配音口型不匹配、情感生硬及难以适应复杂场景的问题。"
-    },
-    {
-      "title": "开源界再迎王炸！Mistral Small 4 正式发布：三位一体，不仅更强还更省？",
-      "published_at": "2026-03-17T10:58:50.576Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26306",
-      "desc": "Mistral AI开源新模型Mistral Small4，整合三大旗舰能力，并加入英伟达Nemotron联盟。"
-    },
-    {
-      "title": "Image manipulation has always been around: photographic fakes that trick the eye",
-      "published_at": "2026-03-17T22:02:54Z",
+      "title": "AI chatbots often validate delusions and suicidal thoughts, study finds",
+      "published_at": "2026-03-18T17:34:50Z",
       "source": "Hacker News · 24h最热",
-      "url": "https://www.bbc.com/culture/article/20260216-10-early-photographic-fakes-that-trick-the-eye",
-      "desc": "A century and a half before today's AI deep fakes, photographers created remarkable image manipulations. Here are 10 images from the 19th and 20th Centuries that tricked the viewer."
-    },
-    {
-      "title": "格隆汇3月18日｜OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍...",
-      "published_at": "2026-03-18T00:00:00Z",
-      "source": "Readhub · AI",
-      "url": "https://www.gelonghui.com/live/2352426",
-      "desc": "格隆汇3月18日｜OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代"
-    },
-    {
-      "title": "人工智能模型提升了洪水预报的准确性，其精度高于现有方法",
-      "published_at": "2026-03-17T20:15:50.956Z",
-      "source": "phys.org",
-      "url": "https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html",
-      "desc": "We’re checking your connection to prevent automated abuse"
-    },
-    {
-      "title": "Warranty Void If Regenerated",
-      "published_at": "2026-03-17T20:39:19Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "desc": "Tom Hartmann had not planned to become a Software Mechanic."
-    },
-    {
-      "title": "Meta and TikTok let harmful content rise to drove engagement, say whistleblowers",
-      "published_at": "2026-03-17T20:24:33Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo",
-      "desc": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears."
-    },
-    {
-      "title": "​英伟达发布 Nemotron 3 系列开源模型：大模型推理效率飙升 5 倍",
-      "published_at": "2026-03-17T02:41:45.925Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26271",
-      "desc": "英伟达在2026年GTC大会上宣布大幅扩展开源模型家族，重点推出Nemotron 3系列多模态模型。其中，Nemotron 3 Ultra基于Blackwell架构优化，吞吐量效率提升5倍，专为复杂代码辅助和企业工作流设计。同时，公司还展示了多模态交互的最新成果，旨在加速智能体、物理AI及医疗领域的创新。"
-    },
-    {
-      "title": "Solid-state EV batteries that can achieve 800 miles of range becoming a reality",
-      "published_at": "2026-03-17T19:49:08Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://electrek.co/2026/03/17/solid-state-ev-batteries-with-800-miles-range-become-reality",
-      "desc": "Solid-state batteries are called the “holy grail” of EV battery tech for a reason, right? The new battery tech is..."
-    },
-    {
-      "title": "World ID 希望您为您的 AI 代理配备一个具有加密唯一性的个人身份",
-      "published_at": "2026-03-17T21:51:53.119Z",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents",
-      "desc": "Iris-scan backed tokens could help stop agent swarms from overwhelming online systems."
-    },
-    {
-      "title": "《秘密特工》：探索一个充满活力却又充满暴力的巴西（2025）",
-      "published_at": "2026-03-17T21:51:52.911Z",
-      "source": "theasc.com",
-      "url": "https://theasc.com/articles/the-secret-agent-cinematography",
-      "desc": "Cinematographer Evgenia Alexandrova, AFC creates a vivid palette for 'The Secret Agent,' which journeys into the dark heart of Recife during Carnival."
-    },
-    {
-      "title": "“赛博骡子”来了！MuleRun 开启个人 AI 助手新模式：低成本扛起云端重活",
-      "published_at": "2026-03-17T10:58:50.576Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26305",
-      "desc": "MuleRun（骡子快跑）是一款主打“自进化”与“零门槛”的个人AI助手，以云端数字劳动力形式提供稳定、廉价且高耐力的服务。其最大特点是无需复杂本地部署，打开浏览器即可使用。通过长期监控与即时任务两种工作模式，覆盖用户全场景需求。"
-    },
-    {
-      "title": "​养龙虾不如养赛博骡子？全球首个自进化 AI “MuleRun”正式发布",
-      "published_at": "2026-03-17T10:58:50.576Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26303",
-      "desc": "全球首个自进化个人AI“赛博骡子”上线，主打免部署、全天候在线和自进化，用户通过网页即可使用云端虚拟机，无需复杂配置，有望降低AI智能体的使用门槛。"
-    },
-    {
-      "title": "'It's sweet. It's bitter. It's ours.' The chocolate ritual that binds my family",
-      "published_at": "2026-03-17T19:31:06Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://www.csmonitor.com/The-Home-Forum/2026/0212/chocolate-valentines-day-love",
-      "desc": "In good times and bad, the love of chocolate has bound my family together. This Valentine’s Day, I remember that enduring love."
-    },
-    {
-      "title": "微软重组人工智能团队，以加快Copilot和模型开发进度",
-      "published_at": "2026-03-17T21:36:01.980Z",
-      "source": "www.ft.com",
-      "url": "https://www.ft.com/content/60646cbf-0445-4841-81e1-32efc4b32907",
+      "url": "https://www.ft.com/content/7f635a68-3b2a-4e4f-ae3d-926ff06ff068",
       "desc": "The page you are trying to access is unavailable because we detected potential misuse. Please wait a moment and try again."
     },
     {
-      "title": "How World ID wants to put a unique human identity on every AI agent",
-      "published_at": "2026-03-17T21:28:27Z",
-      "source": "Ars Technica (科技媒体)",
-      "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents",
-      "desc": "Iris-scan backed tokens could help stop agent swarms from overwhelming online systems."
+      "title": "Exclusive: $599 MacBook Neo easily beats $1,119 Dell laptop on Windows 11 benchmarks - yes, macOS may well be the best platform ever for Microsoft's OS",
+      "published_at": "2026-03-18T19:15:54.594Z",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/exclusive-usd599-macbook-neo-easily-beats-usd1-119-dell-laptop-on-windows-11-benchmarks-yes-macos-may-well-be-the-best-platform-ever-for-microsofts-os",
+      "desc": "Despite running a mobile CPU and Windows in a virtual machine, the MacBook laptop excelled in single-core CPU performance."
     },
     {
-      "title": "OpenAI发布GPT-5.4 mini与nano，以更低成本逼近旗舰模型性能",
-      "published_at": "2026-03-17T20:50:54.834Z",
-      "source": "Readhub · AI",
-      "url": "https://wallstreetcn.com/articles/3767763",
+      "title": "Study: Teen girls are using AI to create sexual imagery",
+      "published_at": "2026-03-18T19:15:54.594Z",
+      "source": "Mashable",
+      "url": "https://mashable.com/article/teen-girls-nudification-sexting-survey-research",
+      "desc": "It's not entirely clear why teen girls are turning to nudification tools, but these researchers have ideas."
+    },
+    {
+      "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
+      "published_at": "2026-03-18T22:40:40.238Z",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47426057",
+      "desc": "This sounds like the crux of the issue. The combination of: \"tool can be used during analysis\" and \"analysis takes long\" shifts the barrier of rejection from \"is this tool safe?\" to \"is this tool so unsafe that we're willing to start a fight with a lot of other government agen..."
+    },
+    {
+      "title": "比利时imec成功获得一台罕见的ASML高数值孔径EUV设备，以推动新一代芯片的发展",
+      "published_at": "2026-03-18T20:38:04.463Z",
+      "source": "reut.rs",
+      "url": "https://reut.rs/4dqUq63",
       "desc": null
     },
     {
-      "title": "港大团队重磅开源！一行命令让任意软件秒变AI Agent“原生工具”，再见UI自动化崩溃噩梦",
-      "published_at": "2026-03-17T07:15:18.486Z",
+      "title": "全球AI需求激增刺激产品涨价，机构称算力需求仍有望进一步上行",
+      "published_at": "2026-03-18T12:29:50.452Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3728398767553928",
+      "desc": "全球AI需求激增、Token调用量上扬，阿里云、百度智能云等部分产品纷纷上调价格。综合研报观点，尽管当前AI应用大规模商业化落地能见度仍然不足，但研报普遍预判未来3至6个月，随着推理端AI应用的密集落地催化叠加训练端模型的持续迭代，算力需求仍有望进一步上行。 （新华财经）"
+    },
+    {
+      "title": "百度智能云：AI算力产品涨价约5%-30%，存储涨价约30%",
+      "published_at": "2026-03-18T07:58:44.374Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3728145986944135",
+      "desc": "36氪获悉，百度智能云今日发布AI算力、存储等产品调价公告。受全球人工智能应用快速发展影响，算力需求持续攀升。核心硬件及相关基础设施成本出现显著上涨。为保障平台长期稳定运行与服务质量，对部分产品价格进行结构性优化。其中，AI算力相关产品服务：上调约5%-30%；并行文件存储等：上调约30%。上述价格自2026年4月18日 00:00（北京时间） 起执行。"
+    },
+    {
+      "title": "OpenAI Has New Focus (on the IPO)",
+      "published_at": "2026-03-18T22:40:40.238Z",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47423976",
+      "desc": "This is something I relalized lately. ChatGPT is juicing growth Facebook style. The last time, I asked it a medical question, it answered the question, but ended the answer with something like \"Can I tell you one more thing from your X,Y,Z results which is most doctors miss ? ..."
+    },
+    {
+      "title": "消息人士称，AMD首席执行官苏姿丰将访问三星位于韩国的芯片工厂，商讨深化合作事宜",
+      "published_at": "2026-03-18T05:51:57.118Z",
+      "source": "reut.rs",
+      "url": "https://reut.rs/4bgdN0l",
+      "desc": null
+    },
+    {
+      "title": "“地瓜机器人”完成1.2亿美元B1轮融资",
+      "published_at": "2026-03-18T04:33:03.239Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3727932182838409",
+      "desc": null
+    },
+    {
+      "title": "Stop spending money on Claude, Chipotle's chat bot is free",
+      "published_at": "2026-03-18T17:54:41Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://www.reddit.com/r/ClaudeCode/s/rhT0uFqxYa",
+      "desc": null
+    },
+    {
+      "title": "Government backtracks on AI and copyright after outcry from major artists",
+      "published_at": "2026-03-18T16:21:50Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://www.bbc.co.uk/news/articles/cvg1gr5v333o",
+      "desc": "However, the government's position is now unclear, saying it \"no longer has a preferred option\" for what to do next."
+    },
+    {
+      "title": "北京：对重点领域“人工智能+”示范项目，按有关政策给予不超过5000万元支持",
+      "published_at": "2026-03-18T10:13:00.870Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3728289506540674",
+      "desc": "36氪获悉，北京市人民政府办公厅印发《北京市2026年推动经济稳中有进的若干措施》，其中提出，推动人工智能应用。对新型研发机构及相关企业的算力租赁成本，按有关政策给予补贴支持。对首次应用人工智能技术解决重点行业典型应用场景需求并实际落地的优质方案，按有关政策给予资金支持。对重点领域“人工智能+”示范项目，按有关政策给予不超过5000万元支持。"
+    },
+    {
+      "title": "廉价能源是中国在人工智能领域取得霸权的关键吗？",
+      "published_at": "2026-03-18T19:49:56.525Z",
+      "source": "econ.st",
+      "url": "https://econ.st/4sUNN0t",
+      "desc": null
+    },
+    {
+      "title": "AI coding is gambling",
+      "published_at": "2026-03-18T19:15:58.622Z",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47428541",
+      "desc": "On the surface this does not sound as satisfying, because it more resembles shopping than coding. But once Claude Code is finally tuned to do its job perfectly, you will essentially be using that infinite app store. You're actually using it right now, every time you use Claude..."
+    },
+    {
+      "title": "From Simulation to Production: How to Build Robots With AI",
+      "published_at": "2026-03-18T13:00:13Z",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/build-robots-with-ai",
+      "desc": "The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows."
+    },
+    {
+      "title": "2000万只“龙虾”进入企业，阿里的企业Agent新故事 | 最前线",
+      "published_at": "2026-03-18T17:12:05.197Z",
+      "source": "36氪 · 24小时热榜",
+      "url": "https://www.36kr.com/p/3727395193388161",
+      "desc": "对钉钉创始人无招而言，在 AI 时代顿悟的瞬间并不是 ChatGPT 横空出世，而是早在 2020 年。第一次离开钉钉时，他游历了大半个中国，调研了许许多多不同的城市，之后所想通的事。"
+    },
+    {
+      "title": "联合创始人加盟Anthropic后，AI初创公司You.com任命新任CTO",
+      "published_at": "2026-03-18T09:59:00.870Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3728274617678721",
+      "desc": "You.com正越来越多地面向企业客户开展业务，这使其与OpenAI形成更直接的竞争，如今该公司迎来CTO换人。去年9月完成一轮融资后估值达15亿美元的AI初创公司You.com，在聚焦助力企业落地人工智能的过程中进行了高层人事调整。（新浪财经）"
+    },
+    {
+      "title": "腾讯总裁刘炽平：去年腾讯在AI新产品上投入了180亿元，今年AI投资至少翻倍",
+      "published_at": "2026-03-18T11:59:50.452Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3728363538316937",
+      "desc": "36氪获悉，腾讯总裁刘炽平今日在业绩说明会上表示，去年腾讯在AI新产品上投入了180亿元，今年至少翻倍。"
+    },
+    {
+      "title": "红杉种子、微光创投投资AI Agent原生工作环境平台“Floatboat”",
+      "published_at": "2026-03-18T08:54:44.374Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3728213341027204",
+      "desc": "3月18日，AI Agent原生工作环境平台“Floatboat”宣布完成200万美元种子轮融资，由红杉中国种子基金与微光创投联合投资。本轮资金将主要用于产品研发与团队建设。据了解，Floatboat 正在探索一种新的工作方式：让 AI Agent直接进入你的工作现场，而不是停留在聊天窗口里。"
+    },
+    {
+      "title": "​日本乐天 AI 3.0 陷入开源争议：违规删除 DeepSeek 许可证后紧急补救",
+      "published_at": "2026-03-18T10:59:33.708Z",
+      "source": "Readhub · AI",
+      "url": "https://www.aibase.com/zh/news/26347",
+      "desc": "日本乐天集团（Rakuten）近日发布的 AI 模型 乐天 AI 3.0 陷入了舆论旋涡。该模型在上线之初被指违规删除原始开源许可证，引发了开源社区的强烈批评。乐天集团宣称推出了“日本规模最大”的 AI 模型，但很快被技术爱好者发现该模型实际上是基于深度求索（DeepSeek）的 DeepSeek-V3 模型训练而成的"
+    },
+    {
+      "title": "消息人士称，英伟达已获北京方面批准销售H200芯片，并将Groq芯片进行本土化调整以适应中国市场",
+      "published_at": "2026-03-18T05:04:31.994Z",
+      "source": "www.reuters.com",
+      "url": "https://www.reuters.com/world/china/chinese-authorities-approve-nvidias-h200-ai-chip-sales-source-says-2026-03-18",
+      "desc": null
+    },
+    {
+      "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+      "published_at": "2026-03-18T19:15:54.594Z",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal",
+      "desc": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini."
+    },
+    {
+      "title": "Sources: several tech companies, including OpenAI, are encouraging the DOD behind the scenes to back away from designating Anthropic a \"supply chain risk\" (Mike Isaac/New York Times)",
+      "published_at": "2026-03-18T19:15:54.594Z",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260318/p36",
+      "desc": "Top news and commentary for technology's leaders, from all around the web."
+    },
+    {
+      "title": "Robotocore · a Digital Twin of AWS",
+      "published_at": "2026-03-18T06:59:28.948Z",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47420619",
+      "desc": "I do like the idea of saving prompts for projects like these (Which is also where the above question is answered: \"Creating an MIT-licensed wrapper around Moto that has 100% feature parity with Localstack.\" [0] Which (i assume) is motivated by the recent changes to Localstack'..."
+    },
+    {
+      "title": "大模型 Scaling 怎么玩？杨植麟 GTC 首秀：押注 Token 效率与 Agent 集群",
+      "published_at": "2026-03-18T09:00:59.280Z",
       "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26294",
-      "desc": "香港大学数据智能实验室推出开源项目CLI-Anything，可将任意软件转化为AI Agent可直接调用的命令行工具，解决大模型操控专业软件时UI自动化易崩溃、手动对接耗时的问题，推动实现“Agent-Native”软件生态。"
+      "url": "https://news.aibase.com/zh/news/26336",
+      "desc": "月之暗面创始人杨植麟在英伟达GTC2026大会上首次系统披露Kimi K2.5模型技术路线图，强调大模型发展已进入“后Scaling时代”，需重构底层逻辑，而非单纯堆砌算力。他指出，突破智能上限关键在于优化器、注意力机制及残差连接等核心技术的革新。"
     },
     {
-      "title": "石家庄：接入大模型 种田更聪明",
-      "published_at": "2026-03-17T22:42:08.499Z",
+      "title": "Gemini could soon have a Discover tab, but not the kind you're hoping for",
+      "published_at": "2026-03-18T22:40:36.177Z",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/gemini-several-ui-changes",
+      "desc": "There are a bunch of changes on the drawing board"
+    },
+    {
+      "title": "Musk’s tactic of blaming users for Grok sex images may be foiled by EU law",
+      "published_at": "2026-03-18T22:40:36.177Z",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream",
+      "desc": "Planned EU ban on nudify apps would likely force Musk to make Grok less \"spicy.\""
+    },
+    {
+      "title": "Meta confirms a critical security incident after an internal rogue AI agent's actions led to the exposure of sensitive data to employees without authorization (Jyoti Mann/The Information)",
+      "published_at": "2026-03-18T22:40:36.177Z",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260318/p48",
+      "desc": "Top news and commentary for technology's leaders, from all around the web."
+    },
+    {
+      "title": "Sources: Coinbase and Zerohash are among the companies vying to issue Cloudflare's stablecoin, set to launch this year to support payments for the \"agentic web\" (Yueqi Yang/The Information)",
+      "published_at": "2026-03-18T19:15:54.594Z",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260318/p41",
+      "desc": "Top news and commentary for technology's leaders, from all around the web."
+    },
+    {
+      "title": "Israeli startup Tenzai says its AI hacking agent beat 99% of 125K participants at six competitions, using tailored OpenAI and Anthropic models and costing $5K (Thomas Brewster/Forbes)",
+      "published_at": "2026-03-18T15:13:41.849Z",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260318/p25",
+      "desc": "Top news and commentary for technology's leaders, from all around the web."
+    },
+    {
+      "title": "Trump administration says Anthropic refusal was 'not protected speech' in US court",
+      "published_at": "2026-03-18T20:51:01.495Z",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/security/trump-administration-says-anthropic-refusal-was-not-protected-speech-in-us-court",
+      "desc": "In a new filing, the Trump administration backs Hegseth's designation"
+    },
+    {
+      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "published_at": "2026-03-18T20:51:01.495Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place",
+      "desc": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf."
+    },
+    {
+      "title": "​腾讯 QClaw 开启大规模内测：深度集成微信，打造“零配置”本地智能体",
+      "published_at": "2026-03-18T02:47:55.103Z",
       "source": "Readhub · AI",
-      "url": "https://finance.sina.com.cn/jjxw/2026-03-18/doc-inhriznw4952110.shtml",
+      "url": "https://www.aibase.com/zh/news/26321",
+      "desc": "腾讯 AI 官方宣布，基于 OpenClaw 开发的本地 AI 助手 QClaw 正式开放更多内测名额。作为一款主打“人人可用”的智能体（AI Agent），QClaw 强调本地运行与极简部署，旨在为用户提供安全、高效的自动化办公体验。核心升级:微信同步与移动端控端本次更新最引人注目的功能是与微信小程序的深度整合。通过"
+    },
+    {
+      "title": "​Unsloth Studio 发布：首个本地可视化大模型微调平台，显存占用降低 70%",
+      "published_at": "2026-03-18T09:00:59.280Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26338",
+      "desc": "Unsloth AI推出开源无代码可视化工具Unsloth Studio，旨在简化大语言模型微调流程，降低开发门槛。该工具通过定制化反向传播内核实现训练速度翻倍和显存节省70%，无需复杂环境配置和高昂硬件成本。"
+    },
+    {
+      "title": "化学AI领域新突破！清华AIR联合水木分子开源“BioMedGPT-Mol”通用大模型",
+      "published_at": "2026-03-18T05:39:46.145Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26329",
+      "desc": "清华大学智能产业研究院联合水木分子开源化学分子通用基座模型BioMedGPT-Mol，标志着国产大模型从通用对话向生物医药等专业领域深化。该模型专为化学分子设计，旨在推动药物研发的智能化与标准化进程。"
+    },
+    {
+      "title": "Google developers find that with AI, judgment is more important than JavaScript",
+      "published_at": "2026-03-18T22:40:36.177Z",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ai-coding-changing-software-developer-role-2026-3",
+      "desc": "Companies like Google are using AI to take over the bulk of coding. This gives developers more decision-making and oversight responsibilities."
+    },
+    {
+      "title": "Linux 基金会获得谷歌、微软、OpenAI 1250万美元资助",
+      "published_at": "2026-03-18T10:59:33.708Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26346",
+      "desc": "科技巨头联手出资1250万美元，通过Linux基金会提升开源软件安全。资金由Alpha-Omega和OpenSSF管理，专项用于加强开源生态系统安全。"
+    },
+    {
+      "title": "合作伙伴变法庭对手？微软威胁起诉 OpenAI：500 亿美元“移情”亚马逊涉嫌违约",
+      "published_at": "2026-03-18T10:59:33.708Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26345",
+      "desc": "微软警告OpenAI与亚马逊的500亿美元云服务合作可能违反独家协议，或将引发法律诉讼。争议焦点在于OpenAI新推出的企业级产品Frontier。"
+    },
+    {
+      "title": "人工智能深度学习如何助力科学家保护加利福尼亚州的沿海生态系统",
+      "published_at": "2026-03-18T21:26:14.774Z",
+      "source": "phys.org",
+      "url": "https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html",
+      "desc": "We’re checking your connection to prevent automated abuse"
+    },
+    {
+      "title": "Daemons that clean up the mess agents leave behind",
+      "published_at": "2026-03-18T15:48:49Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://ai-daemons.com/",
+      "desc": "Keep PRs mergeable, documentation accurate, issues up to date, and bugs out of production with a new type of AI background process."
+    },
+    {
+      "title": "Trashing American Allies Turns Out to Be Bad for National Security",
+      "published_at": "2026-03-18T21:34:35Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://www.theatlantic.com/ideas/2026/03/trump-independence-allies-support/686432",
+      "desc": "How “America First” became “America Alone”"
+    },
+    {
+      "title": "DOGE canceled NC Museum grant for HVAC systems after ChatGPT flagged it as DEI",
+      "published_at": "2026-03-18T18:26:30Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://myfox8.com/news/north-carolina/high-point/doge-canceled-high-point-museum-grant-for-hvac-systems-after-chatgpt-flagged-it-as-dei-lawsuit-alleges",
       "desc": null
     },
     {
-      "title": "AI日报：PixVerse推出开发者专属CLI；钉钉发布“悟空”AI原生平台；苹果发布 LiTo 大模型",
-      "published_at": "2026-03-17T09:01:59.224Z",
-      "source": "AI日报",
-      "url": "https://news.aibase.com/zh/daily/26301",
-      "desc": "1、终结繁琐操作！PixVerse 推出开发者专属 CLI：在终端一键“敲出”大片图片"
+      "title": "刚刚，被全网猜是DeepSeek V4的神秘大模型，被小米认领了！还能免费“养龙虾”",
+      "published_at": "2026-03-18T22:40:36.177Z",
+      "source": "Readhub · AI",
+      "url": "https://www.zhidx.com/p/541377.html",
+      "desc": "智东西（公众号：zhidxcom） 作者 | 程茜 编辑 | 心缘"
     },
     {
-      "title": "青少年就Grok生成的儿童色情内容起诉埃隆·马斯克旗下的xAI - The Verge",
-      "published_at": "2026-03-17T16:48:41.427Z",
+      "title": "人工智能利用爆炸产生的碎片重建分子",
+      "published_at": "2026-03-18T20:05:59.880Z",
+      "source": "phys.org",
+      "url": "https://phys.org/news/2026-03-ai-rebuilds-molecules-fragments.html",
+      "desc": "We’re checking your connection to prevent automated abuse"
+    },
+    {
+      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+      "published_at": "2026-03-18T19:15:58.622Z",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47428868",
+      "desc": "Small OSS project that i created for myself and want to share with the community. It's a declarative, scriptable, terminal-based IDE focussed on agentic engineering."
+    },
+    {
+      "title": "百度搜索要“大变天”？大模型悍将轮岗 MEG，搜推一体化提速",
+      "published_at": "2026-03-18T09:00:59.280Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26339",
+      "desc": "百度移动生态正加速“模型化”重塑，核心人事变动显示大模型与搜索推荐业务深度融合。原大模型算法部何径舟轮岗至移动生态事业群组，负责百度APP研发，标志技术穿透与算法架构融合进入快车道。"
+    },
+    {
+      "title": "AI日报：MiniMax发布M2.7模型；腾讯QClaw接入微信小程序；OpenAI发布最强小模型GPT-5.4 mini",
+      "published_at": "2026-03-18T09:00:59.280Z",
+      "source": "AI日报",
+      "url": "https://news.aibase.com/zh/daily/26342",
+      "desc": "1、模型也会“套娃”？MiniMax 发布 M2.7：首个深度参与自我迭代的国产大模型"
+    },
+    {
+      "title": "Meta is shutting down Metaverse. They spent 85B dollars on it",
+      "published_at": "2026-03-18T20:32:08Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://twitter.com/kristjanlepik/status/2034366778017521815",
+      "desc": null
+    },
+    {
+      "title": "OpenAI 发布超强小型模型GPT-5.4 mini与nano，速度与性能双丰收！",
+      "published_at": "2026-03-18T02:47:55.103Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26308",
+      "desc": "OpenAI发布GPT-5.4mini和GPT-5.4nano两款小型模型，专为高频任务设计，在速度与效率上显著提升。它们基于GPT-5.4优化，在代码编写、逻辑推理及多模态理解等场景表现优于传统大型模型。"
+    },
+    {
+      "title": "马斯克将Grok色情图片归咎于用户的策略可能因欧盟法律而受挫",
+      "published_at": "2026-03-18T22:30:10.633Z",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream",
+      "desc": "Planned EU ban on nudify apps would likely force Musk to make Grok less \"spicy.\""
+    },
+    {
+      "title": "Remove your ring camera with a claw hammer",
+      "published_at": "2026-03-18T20:12:11Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://www.hamiltonnolan.com/p/remove-your-ring-camera-with-a-claw",
+      "desc": "Home and life improvement."
+    },
+    {
+      "title": "由人工智能驱动的亚洲股市反弹证明只是昙花一现",
+      "published_at": "2026-03-18T18:31:18.095Z",
+      "source": "www.wsj.com",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-17-2026/card/ai-led-rally-in-asian-stocks-proves-short-lived-zgTg8oDCDeQFAdTx9l33?siteid=yhoof2&yptr=yahoo",
+      "desc": null
+    },
+    {
+      "title": "[分享创造] 不当昏君：同时与 ChatGPT、Gemini、Claude 对话",
+      "published_at": "2026-03-18T14:47:42Z",
+      "source": "V2EX (创意工作者社区)",
+      "url": "https://www.v2ex.com/t/1199360",
+      "desc": "分享创造 - @bybyte - 古人云：“兼听则明，偏听则暗”。就像用 Gemini ，它就像一条舔狗一样谄媚你，很容易在一声声夸奖中迷失自我。如果只听一家之言，难免会被 AI 带偏。为了做一个明辨是非的“明"
+    },
+    {
+      "title": "伊利诺伊州初选表明：人工智能和加密货币并非万能",
+      "published_at": "2026-03-18T20:38:04.539Z",
+      "source": "www.bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-18/illinois-primary-contests-show-ai-crypto-money-isn-t-everything",
+      "desc": "Despite deep pockets, the two industries came away with just one victory."
+    },
+    {
+      "title": "NTT全球数据中心计划在人工智能热潮中将容量翻倍",
+      "published_at": "2026-03-18T20:38:04.535Z",
+      "source": "www.bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-18/ntt-global-data-centers-plans-to-double-capacity-in-ai-boom",
+      "desc": "NTT Global Data Centers, the world’s third-largest data center provider outside of China, is working to double its capacity to 4 gigawatts to meet the rising global demand for the critical digital infrastructure amid an artificial intelligence boom."
+    },
+    {
+      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+      "published_at": "2026-03-18T20:36:47.291Z",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47380714",
+      "desc": null
+    },
+    {
+      "title": "[分享发现] 2026-3-19 到底哪才有真的 claude 号池 - [接上文]说个笑话，中转站开业不到一天被迫停了",
+      "published_at": "2026-03-18T20:25:01Z",
+      "source": "V2EX (创意工作者社区)",
+      "url": "https://www.v2ex.com/t/1199380",
+      "desc": "分享发现 - @blueskeay - 这两天 A\\似乎改了策略，被迫一直在开号-封号-开号，结果能用的号越来越少了...和几个同行交流过，都表示开不出来，强度高的两天开了 100 多个，平均存活期间 1 小时，说来尴尬，我现在连自"
+    },
+    {
+      "title": "今天的《大西洋月刊》冷知识：还记得Lycos吗？我也不记得了。",
+      "published_at": "2026-03-18T20:22:20.343Z",
+      "source": "www.theatlantic.com",
+      "url": "https://www.theatlantic.com/trivia/2026/03/18-iran-openai-senate/686451",
+      "desc": "Lycos and AltaVista were early entries in a tech field now dominated by what single provider that officially launched in 1998?"
+    },
+    {
+      "title": "这位阿根廷亿万富翁创办的初创公司 Vercel 是 Claude Code 常用的网络托管工具之一 - Forbes",
+      "published_at": "2026-03-18T20:05:59.291Z",
       "source": "news.google.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVlabE1XeUpGZVZNRGc4cG9tMXVPNGY4VEgwOW9nUlM1RnUxREoySUZKR1BERFI1LTFDOWgwRXJIaW90NkFhVWMwLWJidG5pX3R2bnY0YnR1OWFkQlZFZHRRbHdVZ1JIemdfbHptY2R0ejBUbW1ReHpGNzNxQVFJWEJaRDF6aWtuaWRoeENZa1pkUDVrZmsxUDB5WWZUWjRk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSFR1cWpCdXpudGFydlUzcUpoNXZmb0ZjVXlaTzU1QlJtLUFaSzZqMnZoRFNUMWlVQ3hfcWFkcEx0dlphb0otemNGWWlqS210enllWlUzcnVmU0k5WEdKcU16MHoySTRDM0pxcm12bGxDOFFZa1ZYREVvbzdRcGMxLWhB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "desc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
-      "title": "北京启动“清朗京华 ·AI 向善”专项行动，重点整治“虚假谣言”等五类涉 AI 领域网络乱象",
-      "published_at": "2026-03-17T22:37:51Z",
-      "source": "IT之家 (ITHome)",
-      "url": "https://www.ithome.com/0/930/046.htm",
-      "desc": "北京市网信办启动为期 1 个月的“清朗京华 ·AI 向善”专项行动，重点整治利用 AI 生成色情低俗信息、假冒公众人物、制造虚假谣言、售卖“去 AI 标识”工具及督促平台提升 AI 内容审核能力等五类问题，旨在维护清朗网络空间。#AI 治理##网络清朗行动#"
+      "title": "我越是接触人工智能（大语言模型），就越感到失望",
+      "published_at": "2026-03-18T20:05:58.367Z",
+      "source": "news.ycombinator.com",
+      "url": "https://news.ycombinator.com/item?id=47430686",
+      "desc": "Its 2026 and we have yet to have a LLM complete something as simple as beating Pokemon Blue"
     },
     {
-      "title": "五角大楼正着手更换Anthropic，官员称此举源于人工智能领域的纠纷",
-      "published_at": "2026-03-17T16:31:54.957Z",
-      "source": "www.bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-17/pentagon-moving-to-replace-anthropic-amid-ai-feud-official-says",
-      "desc": "To continue, please click the box below to let us know you're not a robot."
+      "title": "Kagi Translate的AI回答了这个问题：“性欲高涨的玛格丽特·撒切尔会说什么？”",
+      "published_at": "2026-03-18T22:30:10.637Z",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say",
+      "desc": "Remember when it was fun to play around with LLMs?"
     },
     {
-      "title": "比特币创下一个多月来的最高价",
-      "published_at": "2026-03-17T22:23:47.956Z",
-      "source": "www.wsj.com",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-16-2026/card/bitcoin-hits-highest-price-in-over-a-month-zR7RPcj5A0kB0iXX4IdU?siteid=yhoof2&yptr=yahoo",
-      "desc": null
-    },
-    {
-      "title": "墨西哥湾的工业产出时间已所剩无几",
-      "published_at": "2026-03-17T22:23:47.945Z",
-      "source": "www.wsj.com",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-16-2026/card/the-clock-is-ticking-on-the-gulf-s-industrial-output-NizwJIQYEmQ2SpHg14MW?siteid=yhoof2&yptr=yahoo",
-      "desc": null
-    },
-    {
-      "title": "腾讯在中国代理式AI竞赛中抢占先机，与阿里巴巴展开角逐",
-      "published_at": "2026-03-17T16:15:54.690Z",
-      "source": "www.bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-17/tencent-seizes-momentum-in-china-agentic-ai-race-against-alibaba",
-      "desc": "To continue, please click the box below to let us know you're not a robot."
-    },
-    {
-      "title": "我为 Claude Code 开发了一个浏览器界面——原因如下",
-      "published_at": "2026-03-17T16:15:53.905Z",
-      "source": "dev.to",
-      "url": "https://dev.to/hamed_farag/i-built-a-browser-ui-for-claude-code-heres-why-4959",
-      "desc": "I started using Claude Code a few months ago. Terminal-first, no nonsense, incredibly powerful. But..."
-    },
-    {
-      "title": "[Claude Code] 我也来宣传下自己的中转",
-      "published_at": "2026-03-17T18:43:45Z",
-      "source": "V2EX (创意工作者社区)",
-      "url": "https://www.v2ex.com/t/1199060",
-      "desc": "Claude Code - @zwenooo - 我做中转其实比较早，属于起大早赶了晚集，期间一直比较佛系，这个佛系指的是宣传上面的佛系，对待用户体验是一点没佛系。牢弟一直任劳任怨🤣，且也从来不会因为上游风吹草动变更已购套餐的用量(我自身早期也用过一"
-    },
-    {
-      "title": "[程序员] Claude Max20 并发是多少",
-      "published_at": "2026-03-17T17:51:32Z",
-      "source": "V2EX (创意工作者社区)",
-      "url": "https://www.v2ex.com/t/1199059",
-      "desc": "程序员 - @duangthef1rst - 想找几个 V 友一起拼车 Claude ，请问有朋友知道 Max20 并发最大多少吗"
-    },
-    {
-      "title": "格隆汇3月18日｜欧莱雅：与英伟达携手，借助预测性人工智能科学加速美妆研发。",
-      "published_at": "2026-03-18T00:00:00Z",
+      "title": "机器人租赁平台擎天租获亿元融资，MiniMax发布新一代大模型M2.7｜未来商业早参",
+      "published_at": "2026-03-18T20:51:01.495Z",
       "source": "Readhub · AI",
-      "url": "https://www.gelonghui.com/live/2352431",
-      "desc": null
+      "url": "https://www.nbd.com.cn/articles/2026-03-18/4298264.html",
+      "desc": "3月18日，机器人租赁平台擎天租宣布完成天使轮及天使+轮两轮融资，累计融资金额达亿元级。天使轮及天使+轮融资由大洋电机、慕华科创、敏卓机电等领投，乐华娱乐、复琢投资、明嘉资本等跟投。"
     },
     {
-      "title": "格隆汇3月18日｜英伟达(NVDA.O)：AT&T与思科和英伟达合作，为物联网构建人工智能网格",
-      "published_at": "2026-03-18T00:00:00Z",
+      "title": "连OpenAI都在偷偷重仓！大模型的下一站，是「入侵」人类大脑",
+      "published_at": "2026-03-18T17:12:05.197Z",
       "source": "Readhub · AI",
-      "url": "https://www.gelonghui.com/live/2352423",
-      "desc": null
+      "url": "https://hub.baai.ac.cn/view/53218",
+      "desc": "AI巨头加速布局脑机接口，超声波无创技术迎来突破。格式塔科技获1.5亿元融资，创国内纪录。该技术依托AI解码，摆脱实验室阶段，率先应用于慢性疼痛干预与医疗康复，具备无创、可重复、可规模化优势。相比聚焦大模型的热点，脑机接口正以更贴近人体本质的方式快速落地，推动前沿硬科技真正惠及大众日常生活。（150字）"
     },
     {
-      "title": "[奇思妙想] 如果有一个由 ai 管理的社区，你会怎么设计机器人三定律？",
-      "published_at": "2026-03-17T20:48:10Z",
-      "source": "V2EX (创意工作者社区)",
-      "url": "https://www.v2ex.com/t/1199064",
-      "desc": null
+      "title": "格隆汇3月19日｜据The Information：Meta Platforms(META.O)的AI智能体将敏感的公司和用户数据泄露给了未经授权的员工。",
+      "published_at": "2026-03-19T00:00:00Z",
+      "source": "Readhub · AI",
+      "url": "https://www.gelonghui.com/live/2355082",
+      "desc": "格隆汇3月19日｜据The Information：Meta Platforms(META.O)的AI智能体将敏感的公司和用户数据泄露给了未经授权的员工"
     },
     {
-      "title": "[OpenAI] 拆解 Claude Code 架构： 8 个机制，把 Chat 变成 Agent",
-      "published_at": "2026-03-17T10:38:14Z",
-      "source": "V2EX (创意工作者社区)",
-      "url": "https://www.v2ex.com/t/1199006",
-      "desc": "Claude Code - @AIInception - https://mp.weixin.qq.com/s/yoS4xNGYcdgiR62awfkgQQ- 从一个 30 行的 while 循环开始，逐步叠加工具分发、规划系统、子智能体、技能加载、"
+      "title": "格隆汇3月19日｜美联储主席鲍威尔：尚未开始看到人工智能带来的生产率效应。",
+      "published_at": "2026-03-19T00:00:00Z",
+      "source": "Readhub · AI",
+      "url": "https://www.gelonghui.com/live/2354985",
+      "desc": null
     }
   ]
 }
