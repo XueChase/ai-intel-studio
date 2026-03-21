@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-19T23:12:01.633Z",
-  "generated_at_local": "2026-03-20T07:12:01.633+08:00",
-  "source_generated_at": "2026-03-19T22:38:08.112Z",
-  "source_generated_at_local": "2026-03-20T06:38:08.112+08:00",
+  "generated_at": "2026-03-21T00:42:13.636Z",
+  "generated_at_local": "2026-03-21T08:42:13.636+08:00",
+  "source_generated_at": "2026-03-20T22:38:40.460Z",
+  "source_generated_at_local": "2026-03-21T06:38:40.460+08:00",
   "window_hours": 24,
   "compression": {
     "algorithm_version": "v1.1",
-    "input_items": 1245,
-    "clustered_events": 1202,
+    "input_items": 1149,
+    "clustered_events": 1128,
     "output_events": 80,
     "max_events": 80,
     "per_site_cap": 16
@@ -23,14 +23,10 @@
     },
     {
       "site_id": "newsnow",
-      "count": 13
-    },
-    {
-      "site_id": "tophub",
       "count": 9
     },
     {
-      "site_id": "zeli",
+      "site_id": "hackernews",
       "count": 8
     },
     {
@@ -38,16 +34,16 @@
       "count": 8
     },
     {
-      "site_id": "hackernews",
-      "count": 5
+      "site_id": "tophub",
+      "count": 8
+    },
+    {
+      "site_id": "zeli",
+      "count": 8
     },
     {
       "site_id": "iris",
-      "count": 3
-    },
-    {
-      "site_id": "officialai",
-      "count": 1
+      "count": 6
     },
     {
       "site_id": "aibasedaily",
@@ -56,564 +52,564 @@
   ],
   "top_events": [
     {
-      "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
-      "published_at": "2026-03-19T20:50:57.652Z",
-      "source": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=47444072",
-      "desc": "I think someone during the copy-editing process told them this needed to look more complicated?"
+      "title": "马斯克称Cursor新模型基于K2.5微调",
+      "published_at": "2026-03-20T12:13:36.072Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3731234623914242",
+      "desc": "36氪获悉，编程工具Cursor今天凌晨发布自研前沿编码模型Composer 2，因在测评中超过Claude Opus 4.6并主打性价比引发行业广泛关注。但很快有开发者发现，Composer 2是基于Kimi K2.5微调而来，马斯克也在社交媒体发文表示，“是的，这就是Kimi K2.5。”这是一周内马斯克再次点名Kimi。"
     },
     {
-      "title": "智驾性能提升 20 倍！智己 LS8 开启预售：全球首搭千问大模型",
-      "published_at": "2026-03-19T08:55:25.758Z",
-      "source": "Readhub · AI",
-      "url": "https://www.aibase.com/zh/news/26389",
-      "desc": "汽车正从“移动代步工具”进化为真正具备感知与决策能力的“智能生命体”。3 月 18 日， 正式发布了行业首个超级智能体 —— IM Ultra Agent。这一动作不仅标志着智己在 AI 赛道的全面发力，更让其成为了全球首个搭载 的汽车品牌。“舱驾一体”：打破硬件与算法的孤岛传统的智能汽车往往将智驾与智舱系统分开运行"
-    },
-    {
-      "title": "Cook: A simple CLI for orchestrating Claude Code",
-      "published_at": "2026-03-19T05:27:19.864Z",
-      "source": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=47434024",
-      "desc": "[0]: https://news.ycombinator.com/item?id=47262711 [1]: https://getcook.dev"
-    },
-    {
-      "title": "Sources: Google has started consumer beta testing of a dedicated Gemini AI app for the Mac, as it seeks to compete with Mac apps for ChatGPT and Claude (Mark Gurman/Bloomberg)",
-      "published_at": "2026-03-19T20:50:53.692Z",
+      "title": "Anthropic launches Claude Code channels, which let users interact with a Claude Code session through Telegram and Discord (Marcus Schuler/Implicator.ai)",
+      "published_at": "2026-03-20T22:38:40.460Z",
       "source": "Techmeme",
-      "url": "http://www.techmeme.com/260319/p46",
+      "url": "http://www.techmeme.com/260320/p21",
       "desc": "Top news and commentary for technology's leaders, from all around the web."
     },
     {
-      "title": "How we monitor internal coding agents for misalignment",
-      "published_at": "2026-03-19T10:00:00Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "desc": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards."
-    },
-    {
-      "title": "Be intentional about how AI changes your codebase",
-      "published_at": "2026-03-19T22:38:08.112Z",
+      "title": "I spoke to AI agent Claude [video]",
+      "published_at": "2026-03-20T18:41:14Z",
       "source": "Hacker News",
-      "url": "https://aicode.swerdlow.dev/",
+      "url": "https://www.youtube.com/watch?v=h3AtWdeu_G0",
       "desc": null
     },
     {
-      "title": "The Need for an Independent AI Grid",
-      "published_at": "2026-03-19T22:38:08.112Z",
-      "source": "Hacker News",
-      "url": "https://amppublic.com/",
-      "desc": "The bitter lesson says scale compute. Reality says that's hard without losing independence. An AI grid fixes this."
-    },
-    {
-      "title": "Prompt Injecting Contributing.md",
-      "published_at": "2026-03-19T19:09:42.024Z",
-      "source": "Hacker News",
-      "url": "https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem",
-      "desc": "How a hidden prompt injection in CONTRIBUTING.md revealed that 40% of pull requests to a popular GitHub repository were generated by AI bots"
-    },
-    {
-      "title": "Agent-rendered: the pattern that replaces runtime infra with build-time AI",
-      "published_at": "2026-03-19T22:34:41Z",
-      "source": "Hacker News",
-      "url": "https://gumeo.github.io/post/agent-rendered-infrastructure",
-      "desc": "AI agents that regenerate and deploy artifacts on demand can collapse entire runtime stacks — and the economics are forcing the transition."
-    },
-    {
-      "title": "PostgreSQL extension to set connection to read-only mode (for AI agents and MCP)",
-      "published_at": "2026-03-19T22:07:46Z",
-      "source": "Hacker News",
-      "url": "https://github.com/danolivo/safesession",
-      "desc": "PostgreSQL extension to set connection to read-only mode - danolivo/safesession"
-    },
-    {
-      "title": "AgentBPF: eBPF-based observability for LLM agent trajectories",
-      "published_at": "2026-03-19T18:02:46Z",
-      "source": "Hacker News",
-      "url": "https://github.com/pandyamarut/AgentBPF",
-      "desc": "Contribute to pandyamarut/AgentBPF development by creating an account on GitHub."
-    },
-    {
-      "title": "MIT Licensed: Web Game Template for Agents (From Students Workshops)",
-      "published_at": "2026-03-19T20:21:35Z",
-      "source": "Hacker News",
-      "url": "https://github.com/ludenio/WebGameTemplateForAgents",
-      "desc": "Web Game Template for Coding Agent-Assisted Development - ludenio/WebGameTemplateForAgents"
-    },
-    {
-      "title": "Visitran: Agentic Pythonic data transformation platform(AGPL)",
-      "published_at": "2026-03-19T17:12:22Z",
-      "source": "Hacker News",
-      "url": "https://github.com/Zipstack/visitran",
-      "desc": "Modern, AI-native and agentic Pythonic data transformation platform. - Zipstack/visitran"
-    },
-    {
-      "title": "英国央行维持基准利率在3.75%不变",
-      "published_at": "2026-03-19T12:07:45.715Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3729817812664584",
-      "desc": "3月19日消息，英国央行货币政策委员会九名成员一致投票决定将基准利率维持在3.75%不变。英国央行表示，已“做好准备采取行动”，以应对中东冲突可能引发的任何通胀飙升。（界面）"
-    },
-    {
-      "title": "SereneDB's C++ search engine is the fastest on search benchmarks",
-      "published_at": "2026-03-19T11:30:11Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://serenedb.com/search-benchmark-game",
-      "desc": null
-    },
-    {
-      "title": "华盛顿州立大学研究：ChatGPT 在复杂科学判断中表现出严重的“自相矛盾”",
-      "published_at": "2026-03-19T07:08:01.344Z",
+      "title": "欧洲 AI 霸主祭出“全能王”！Mistral Small 4 发布：推理、多模态、编程我全都要",
+      "published_at": "2026-03-20T08:54:37.548Z",
       "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26385",
-      "desc": "华盛顿州立大学研究发现，ChatGPT在处理复杂科学论断时准确率有限，表现接近随机猜测，且常给出前后矛盾的回答。研究团队测试了719条研究假设，模型表面正确率约80%，但实际可靠性不足。"
+      "url": "https://news.aibase.com/zh/news/26424",
+      "desc": "欧洲Mistral AI发布全能型大模型Mistral Small4，首次在单一模型中融合旗舰级推理、多模态理解和强大编程能力，让开发者无需在不同垂直模型间选择，实现“全都要”。"
     },
     {
-      "title": "研究显示：人工智能可影响选民行为——欧盟法规存在不足",
-      "published_at": "2026-03-19T17:23:44.337Z",
+      "title": "西南首个 AI 影像人才高地来了！成都东部新区签约 OPC 人才社区",
+      "published_at": "2026-03-20T08:54:37.548Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26427",
+      "desc": "成都东部新区与企业合作打造AI影像OPC人才社区，旨在探索“个体创意+AI赋能”新模式，标志着西南地区在AI与影视创意融合领域迈出实质性步伐。"
+    },
+    {
+      "title": "贝索斯开启“工业炼金”：拟筹资 1000 亿美元，用 AI 彻底重塑传统制造业",
+      "published_at": "2026-03-20T02:40:46.823Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26411",
+      "desc": "亚马逊创始人贝索斯计划筹集1000亿美元成立投资基金，旨在收购传统制造企业，并利用AI技术对其进行现代化改造和自动化升级，推动全球工业智能化革命。"
+    },
+    {
+      "title": "何小鹏：第二代VLA拉动日均试驾量与Ultra版本车型销量均翻倍",
+      "published_at": "2026-03-20T12:26:36.072Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3731251967541252",
+      "desc": "36氪获悉，2025年业绩会上，小鹏汽车CEO何小鹏表示，为实现从L2+向L4跨越并推动全球部署，公司对自动驾驶技术架构进行了重构。第二代VLA模型已开始向用户陆续推送，这是面向L4全自动驾驶时代交付的首个版本。当前，小鹏全国732家门店已全面开放第二代VLA试驾，3月日均试驾量环比提升一倍，Ultra及Ultra SE车型销量占比提升超过一倍。"
+    },
+    {
+      "title": "Eightco对OpenAI追加投资4000万美元",
+      "published_at": "2026-03-20T12:22:36.072Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3731248353083401",
+      "desc": "Eightco公司3月20日宣布向OpenAI追加投资4000万美元，此次投资紧随公司此前5000万美元的投资之后，使Eightco对OpenAI总投资额达到9000万美元。随着此次最新投资，OpenAI目前约占Eightco总持仓的30%。（界面）"
+    },
+    {
+      "title": "OpenCode – The open source AI coding agent",
+      "published_at": "2026-03-20T22:38:44.454Z",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=47460525",
+      "desc": "More than that, it's an extremely large and complex TypeScript code base — probably larger and more complex than it needs to be — and (partly as a result) it's fairly resource inefficient (often uses 1GB of RAM or more. For a TUI)."
+    },
+    {
+      "title": "全球首个企业级开源AI Agent平台“超级麦吉3.0”正式发布",
+      "published_at": "2026-03-20T10:49:26.910Z",
+      "source": "Readhub · AI",
+      "url": "https://36kr.com/newsflashes/3731137629520133?f=rss",
+      "desc": "超级麦吉3.0今日正式开源，定位为企业级OpenClaw。该平台整合了深度调研、PPT生成、数据分析等全栈AI能力，通过自研沙盒隔离、预算管控及人机协同闭环，解决了AI在企业落地中的安全与合规痛点。其核心目标是让企业以1人成本拥有100人的执行力。作为首个兼容OpenClaw生态的开源平台，它正推动AI Agent从个人助理向企业级“龙虾军团”规模化演进。"
+    },
+    {
+      "title": "Loom: An LLM agent framework for Go",
+      "published_at": "2026-03-20T17:31:11Z",
+      "source": "Hacker News",
+      "url": "https://github.com/teradata-labs/loom",
+      "desc": "A framework for building autonomous LLM agent threads with natural language agent creation and multi-agent orchestration - teradata-labs/loom"
+    },
+    {
+      "title": "ContextForge: Local-first repo-to-agent context CLI",
+      "published_at": "2026-03-20T20:18:49Z",
+      "source": "Hacker News",
+      "url": "https://github.com/xiwuqi/ContextForge",
+      "desc": "Local-first repository-to-agent context CLI for Codex, Claude Code, and Cursor. - xiwuqi/ContextForge"
+    },
+    {
+      "title": "6 CLI Tools to Take Your Agentic Coding to the Next Level",
+      "published_at": "2026-03-20T16:53:28Z",
+      "source": "Hacker News",
+      "url": "https://jaksa.me/blog/2026-03-20-agentic-coding-tools",
+      "desc": null
+    },
+    {
+      "title": "俄罗斯央行将基准利率下调至15.00%",
+      "published_at": "2026-03-20T10:34:09.338Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3731141707071746",
+      "desc": "俄罗斯央行3月20日宣布，将基准利率下调至15.00%。（界面）"
+    },
+    {
+      "title": "LLM evals test outputs. Rarely whether the model understood first",
+      "published_at": "2026-03-20T16:56:17Z",
+      "source": "Hacker News",
+      "url": "https://github.com/NoxionAI/comprehension-score",
+      "desc": "A pre-execution comprehension signal for LLMs. Missing layer in AI QA. - NoxionAI/comprehension-score"
+    },
+    {
+      "title": "OpenAI plans \"an autonomous AI research intern\" by September and says its \"North Star\" is to build a fully automated multi-agent research system by 2028 (Will Douglas Heaven/MIT Technology Review)",
+      "published_at": "2026-03-20T19:01:41.448Z",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260320/p13",
+      "desc": "Top news and commentary for technology's leaders, from all around the web."
+    },
+    {
+      "title": "MemEvolve: Meta-Evolution of Agent Memory Systems",
+      "published_at": "2026-03-20T19:01:42Z",
+      "source": "Hacker News",
+      "url": "https://arxiv.org/abs/2512.18746",
+      "desc": "Self-evolving memory systems are unprecedentedly reshaping the evolutionary paradigm of large language model (LLM)-based agents. Prior work has predominantly relied on manually engineered memory architectures to store trajectories, distill experience, and synthesize reusable t..."
+    },
+    {
+      "title": "山大电力：目前公司暂未涉及AI数据中心领域",
+      "published_at": "2026-03-20T07:57:33.168Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3730987401986055",
+      "desc": "36氪获悉，山大电力在互动平台表示，公司的储能设备及源网荷储系统均可应用于AI数据中心。目前，公司暂未涉及AI数据中心领域。"
+    },
+    {
+      "title": "全球最强 AI 算力呼之欲出！三星截胡英伟达，将为 OpenAI 自研芯片供应 HBM4",
+      "published_at": "2026-03-20T02:40:46.823Z",
+      "source": "Readhub · AI",
+      "url": "https://www.aibase.com/zh/news/26412",
+      "desc": "为了彻底摆脱对英伟达算力的依赖，OpenAI 正加速构建自己的硬件帝国，而韩国半导体巨头 三星 成为了其最关键的盟友。据《韩国经济日报》最新报道，三星电子已计划向OpenAI供应其下一代高带宽内存 HBM4 芯片。这批顶尖存储芯片将直接用于OpenAI首款自研人工智能处理器，标志着这家 ChatGPT 开发商正式从软件"
+    },
+    {
+      "title": "MacinAI Local: Building a Model-Agnostic LLM Inference Engine for Mac OS 9",
+      "published_at": "2026-03-20T14:09:13Z",
+      "source": "Hacker News",
+      "url": "https://oldapplestuff.com/blog/MacinAI-Local",
+      "desc": "How I built a complete AI platform (custom C89 inference engine, BPE tokenizer, AltiVec SIMD optimization, and a Python export pipeline) that runs GPT-2, TinyLlama, Qwen, and any HuggingFace model on a 2002 PowerBook G4."
+    },
+    {
+      "title": "Super Micro says co-founder Yih-Shyan Liaw has resigned from its board after US prosecutors indicted him on allegations of smuggling Nvidia AI chips to China (Jordan Novet/CNBC)",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260320/p22",
+      "desc": "Top news and commentary for technology's leaders, from all around the web."
+    },
+    {
+      "title": "亚马逊收购配送机器人公司Rivr",
+      "published_at": "2026-03-20T08:29:33.168Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3731019540889858",
+      "desc": "总部位于苏黎世的自主机器人初创公司Rivr以其可爬楼梯的配送机器人闻名，现已被亚马逊收购。这笔交易凸显出亚马逊对上门末端配送领域的布局兴趣，交易条款未予披露。（新浪财经）"
+    },
+    {
+      "title": "AgentLink – Job marketplace where AI agents bid, execute, and paid via Solana",
+      "published_at": "2026-03-20T19:26:20Z",
+      "source": "Hacker News",
+      "url": "https://theagentlink.xyz/",
+      "desc": "Drop one URL into any AI agent. It registers, finds work, gets paid in SOL."
+    },
+    {
+      "title": "Mistral CEO proposes a revenue-based levy for AI model providers in the EU, to be invested in \"new content creation and supporting Europe's cultural sectors\" (Arthur Mensch/Financial Times)",
+      "published_at": "2026-03-20T14:53:44.588Z",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260320/p10",
+      "desc": "Top news and commentary for technology's leaders, from all around the web."
+    },
+    {
+      "title": "蒂尔的创始人基金以20亿美元估值投资一家人工智能牛项圈初创公司",
+      "published_at": "2026-03-20T19:59:49.150Z",
+      "source": "www.bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-20/peter-thiel-s-founders-fund-backs-ai-cow-collar-startup-at-2-billion-valuation",
+      "desc": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "title": "MacBook M5 Pro 与 Qwen3.5 本地人工智能安全系统",
+      "published_at": "2026-03-20T19:27:43.715Z",
+      "source": "www.sharpai.org",
+      "url": "https://www.sharpai.org/benchmark",
+      "desc": "Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology."
+    },
+    {
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet",
+      "desc": "Watch as Equity breaks down Nvidia's GTC keynote from OpenClaw strategies for enterprises to a $1 trillion claim and robot Olaf. Plus Travis Kalanick's complicated comeback and Uber's $1.25B bet on Rivian."
+    },
+    {
+      "title": "西门子投资1.65亿美元扩大美国人工智能制造业务",
+      "published_at": "2026-03-20T10:24:09.338Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3731132234219527",
+      "desc": "西门子近日宣布，将投资1.65亿美元，用于扩大美国人工智能基础设施的制造业务。此次投资是在西门子过去几年承诺投入近7亿美元以扩大美国本土制造产能的基础上进行的，其中包括在加利福尼亚州波莫纳和得克萨斯州沃斯堡新建及扩建电气产品工厂。（界面）"
+    },
+    {
+      "title": "字节超60亿美元出售沐瞳科技，进一步聚焦AI战略",
+      "published_at": "2026-03-20T07:43:33.168Z",
+      "source": "36kr",
+      "url": "https://www.36kr.com/newsflashes/3730973915660544",
+      "desc": "字节跳动宣布已和沙特公共投资基金（PIF）旗下的Savvy Games Group达成出售沐瞳科技的最终协议，其出售价格超过60亿美元。沐瞳科技是东南亚著名MOBA手游Mobile Legends: Bang Bang（MLBB）的研发商与发行商，于2021年被字节收购。据悉，字节跳动在AI方向上投入巨大，25年四季度整体利润下降，出售沐瞳被视为字节在战略上进一步向AI聚焦的信号。"
+    },
+    {
+      "title": "阿里妈妈发布“AI万相”，多智能体协同重构经营新范式",
+      "published_at": "2026-03-20T08:54:37.548Z",
+      "source": "Readhub · AI",
+      "url": "https://36kr.com/newsflashes/3731019475026183?f=rss",
+      "desc": "3月20日，阿里妈妈正式发布“AI万相”超级经营智能体引擎，驱动多智能体实时协同工作，重构经营新范式：商家仅需输入指令，“AI万相”即刻调用多智能体，实时执行经营任务。“AI万相”背后包含四大核心Agent：万相智识、万相智品、万相智造、万相智投。上述能力正在全面注入阿里妈妈百灵、万相台AI无界、UD智汇投等产品。此外，阿里妈妈加码投入“无界智惠券”发放，以“AI万相”驱动精准促进营销目的转化。"
+    },
+    {
+      "title": "中国创纪录的石油产量已触及技术极限",
+      "published_at": "2026-03-20T06:56:02.127Z",
+      "source": "reut.rs",
+      "url": "https://reut.rs/4bVmA80",
+      "desc": null
+    },
+    {
+      "title": "Could Agentic AI be the killer app for the 40-year old PC? AMD thinks so — and wants you to jump on the Agent Computer bandwagon before it is too late",
+      "published_at": "2026-03-20T20:43:13.646Z",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/could-agentic-ai-be-the-killer-app-for-the-40-year-old-pc-amd-thinks-so-and-wants-you-to-jump-on-the-agent-computer-bandwagon-before-it-is-too-late",
+      "desc": "AMD wants your PC to stop waiting for commands and start executing workflows autonomously using Agentic AI today"
+    },
+    {
+      "title": "OpenAI Plans Launch of Desktop 'Superapp'",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "Slashdot",
+      "url": "https://slashdot.org/story/26/03/20/1711251/openai-plans-launch-of-desktop-superapp",
+      "desc": "joshuark shares a report from Neowin: OpenAI is planning to combine its Atlas web browser, ChatGPT app, and Codex coding app into a singular desktop \"superapp.\" CEO of Applications, Fidji Simo, said the company was doubling down on its successful products. By taking this move,..."
+    },
+    {
+      "title": "Anthropic wants to hire a weapons expert. Its not what you think.",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "Mashable",
+      "url": "https://mashable.com/article/anthropic-weapons-explosives",
+      "desc": "A job title sure to raise eyebrows: Policy Manager, Chemical Weapons and High Yield Explosives, at a top AI company."
+    },
+    {
+      "title": "Jensen Huang proposes a compensation model where engineers receive an AI token budget on top of their base salary, to deploy agents as productivity multipliers (Anniek Bao/CNBC)",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "Techmeme",
+      "url": "http://www.techmeme.com/260320/p20",
+      "desc": "Top news and commentary for technology's leaders, from all around the web."
+    },
+    {
+      "title": "OpenAI 'Superapp' to Merge ChatGPT, Codex, and Atlas Browser",
+      "published_at": "2026-03-20T16:56:27.313Z",
+      "source": "Mac Rumors",
+      "url": "https://www.macrumors.com/2026/03/20/openai-super-app-in-development-chatgpt",
+      "desc": "OpenAI has a Mac \"superapp\" in development that unifies its ChatGPT app, Codex coding platform, and Atlas browser, reports The Wall Street Journal ($). The idea behind the all-in-one app is to simplify the user experience, following the launch of several standalone products, s..."
+    },
+    {
+      "title": "Starling launches an AI banking assistant that actually does things",
+      "published_at": "2026-03-20T16:56:27.313Z",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/starling-assistant-agentic-ai-financial-assistant-uk",
+      "desc": "Starling has launched Starling Assistant for personal account holders, the UK’s first agentic AI financial assistant."
+    },
+    {
+      "title": "11 of the most interesting quotes from Claude users about their hopes and fears for AI",
+      "published_at": "2026-03-20T16:56:27.313Z",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/anthropic-claude-users-survey-worker-fears-hopes-ai-3-2026",
+      "desc": "One engineer said they lied to their employer about how long it took to build a new feature. Others were uneasy about creating company AI plans."
+    },
+    {
+      "title": "Future Sony PlayStation games will use AI to imagine new frames",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
+      "desc": "PS5 lead architect Mark Cerny confirms it."
+    },
+    {
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows",
+      "desc": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
+    },
+    {
+      "title": "Google Search Is Now Using AI to Rewrite Headlines",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "Daring Fireball",
+      "url": "https://daringfireball.net/linked/2026/03/20/google-search-is-now-using-ai-to-rewrite-headlines",
+      "desc": "Link to: https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGV..."
+    },
+    {
+      "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use",
+      "desc": "One of the first controversies of its kind."
+    },
+    {
+      "title": "Qwen3.5-Max预览版登顶LMArena，国产大模型矩阵集体跻身全球前列",
+      "published_at": "2026-03-20T07:07:00.132Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26422",
+      "desc": "阿里巴巴千问Qwen3.5-Max-Preview模型在LMArena盲测榜单中表现突出，以1464分刷新国产模型纪录，并在多项评测中超越GPT5.4、Claude4.5及Grok4.1等海外顶尖模型，标志着中国自研大模型正式跻身全球第一梯队。"
+    },
+    {
+      "title": "A Japanese Glossary of Chopsticks Faux Pas",
+      "published_at": "2026-03-20T20:54:57Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://www.nippon.com/en/japan-data/h01362",
+      "desc": "An overview of chopsticks gaffes that are best avoided when eating in Japan."
+    },
+    {
+      "title": "谷歌 Gemini AI 应用入驻 Mac 生态，全面挑战 ChatGPT 与 Claude",
+      "published_at": "2026-03-20T02:40:46.823Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26403",
+      "desc": "谷歌正为苹果Mac系统开发原生Gemini AI应用，已进入内部测试阶段。此举旨在与OpenAI的ChatGPT和Anthropic的Claude桌面应用竞争。Gemini支持拖拽上传文件，并能访问Mac本地应用，功能将更强大。"
+    },
+    {
+      "title": "Time to Dump Windows?",
+      "published_at": "2026-03-20T20:10:33Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows",
+      "desc": "The moment has arrived where I use literally zero facilities of Windows in my day to day work or life"
+    },
+    {
+      "title": "OpenCode – 开源人工智能编程代理",
+      "published_at": "2026-03-20T22:22:53.911Z",
+      "source": "opencode.ai",
+      "url": "https://opencode.ai/",
+      "desc": "内置免费模型，或连接任意提供商的任意模型， 包括 Claude, GPT, Gemini 等。"
+    },
+    {
+      "title": "Cursor 发布 Composer 2 编程模型：性能直追 GPT-5，价格仅为其几分之一",
+      "published_at": "2026-03-20T05:20:39.353Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26417",
+      "desc": "Cursor推出第二代自研编程大模型Composer2，性能大幅提升，在内部评测中表现优异，直接对标GPT和Claude。其定价策略极具竞争力，旨在挑战OpenAI等底层模型供应商，标志着AI编程工具领域竞争加剧。"
+    },
+    {
+      "title": "促成Anthropic公司15亿美元和解案的律师团队在遭遇法官反对后大幅下调了律师费要求",
+      "published_at": "2026-03-20T21:51:43.446Z",
+      "source": "www.reuters.com",
+      "url": "https://www.reuters.com/legal/government/lawyers-behind-15-billion-anthropic-settlement-slash-fee-bid-after-pushback-2026-03-20",
+      "desc": null
+    },
+    {
+      "title": "Claude用户关于对人工智能的期望与担忧的11条最有趣的评论",
+      "published_at": "2026-03-20T15:44:01.629Z",
+      "source": "www.businessinsider.com",
+      "url": "https://www.businessinsider.com/anthropic-claude-users-survey-worker-fears-hopes-ai-3-2026",
+      "desc": "One engineer said they lied to their employer about how long it took to build a new feature. Others were uneasy about creating company AI plans."
+    },
+    {
+      "title": "雷军亮剑：三年豪掷 600 亿突围 AI！小米 SU7 升级加价涨粉两不误",
+      "published_at": "2026-03-20T10:49:26.910Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26430",
+      "desc": "小米在造车与AI领域双线发力，通过高额投入构建竞争壁垒。发布会上，雷军推出小米SU7电动车，并宣布今年AI研发投入超160亿元，未来三年累计将达600亿元。小米自研大模型已跻身全球第一梯队，支撑其战略布局。"
+    },
+    {
+      "title": "Meta 官宣裁撤外包审核员：AI 将全面接管内容审查系统",
+      "published_at": "2026-03-20T10:49:26.910Z",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/26431",
+      "desc": "Meta宣布将用自研AI系统逐步取代第三方人工审核，以应对内容监管挑战。公司认为AI技术已能处理重复性审核任务，未来几年内将在Facebook和Instagram全面推行自动化审核，减少对人工审核的依赖。"
+    },
+    {
+      "title": "Our commitment to Windows quality",
+      "published_at": "2026-03-20T19:16:13Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality",
+      "desc": "Hello Windows Insiders, I want to speak to you directly, as an engineer who has spent his career building technology that people depend on every day. Windows touches more people's lives than almost any technology on Earth. Every day, we hear from th"
+    },
+    {
+      "title": "Attention Residuals",
+      "published_at": "2026-03-20T18:23:41Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://github.com/MoonshotAI/Attention-Residuals",
+      "desc": "Contribute to MoonshotAI/Attention-Residuals development by creating an account on GitHub."
+    },
+    {
+      "title": "BYD's bet on EVs is paying off as drivers ditch gas amid rising oil prices",
+      "published_at": "2026-03-20T18:19:58Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices",
+      "desc": "BYD is already seeing a flood of new EV buyers as gas and oil prices surge amid rising tensions in..."
+    },
+    {
+      "title": "法官目前驳回了萨姆·阿尔特曼（Sam Altman）妹妹提起的诉讼，该诉讼指控OpenAI首席执行官性侵",
+      "published_at": "2026-03-20T19:59:49.199Z",
+      "source": "www.reuters.com",
+      "url": "https://www.reuters.com/legal/government/judge-now-dismisses-lawsuit-by-sam-altmans-sister-accusing-openai-ceo-sexual-2026-03-20",
+      "desc": null
+    },
+    {
+      "title": "巴拉圭将基准利率维持在5.5%，释放中性信号",
+      "published_at": "2026-03-20T19:59:49.146Z",
+      "source": "www.bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-20/paraguay-holds-key-rate-at-5-5-signals-neutral-stance",
+      "desc": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "title": "US to deploy additional troops to the Middle East, officials say",
+      "published_at": "2026-03-20T17:37:33Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://www.reuters.com/world/us-deploy-thousands-additional-troops-middle-east-officials-say-2026-03-20",
+      "desc": null
+    },
+    {
+      "title": "贝森特提议在海上解除对伊朗石油的制裁",
+      "published_at": "2026-03-20T22:22:53.970Z",
+      "source": "www.wsj.com",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-19-2026/card/bessent-floats-lifting-sanctions-on-iranian-oil-at-sea-Ql7qlP6P9pkwJUpQfmtm?siteid=yhoof2&yptr=yahoo",
+      "desc": null
+    },
+    {
+      "title": "本周最热门的股票是一家规模较小且尚未盈利的无人机公司",
+      "published_at": "2026-03-20T22:22:53.966Z",
+      "source": "www.wsj.com",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-19-2026/card/the-hottest-stock-of-the-week-is-a-small-unprofitable-drone-company-BnoifMQhdxtmVSi6AYnO?siteid=yhoof2&yptr=yahoo",
+      "desc": null
+    },
+    {
+      "title": "软银创始人孙正义表示，俄亥俄州数据中心将是一个5000亿美元的项目",
+      "published_at": "2026-03-20T22:06:58.285Z",
+      "source": "www.bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-20/softbank-plans-giant-ohio-ai-data-center-powered-by-gas-plants",
+      "desc": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "title": "“MAGA之地”的AI叛乱",
+      "published_at": "2026-03-20T22:06:57.419Z",
+      "source": "www.ft.com",
+      "url": "https://www.ft.com/content/ed10e28c-2776-4c46-89ac-97e90d6efbd2",
+      "desc": "Republicans fear backlash against White House’s agenda could undermine support in this year’s midterm elections"
+    },
+    {
+      "title": "Tell HN: 您的 AI 初创公司仅由一个 Next.js 页面、OpenAI_API_KEY 以及 Stripe 发票组成",
+      "published_at": "2026-03-20T18:56:10.081Z",
+      "source": "news.ycombinator.com",
+      "url": "https://news.ycombinator.com/item?id=47458932",
+      "desc": "Gemini, ChatGPT, etc. are unique products that add value."
+    },
+    {
+      "title": "伊朗战争中的无人机防御：乌克兰能提供什么？ - dw.com",
+      "published_at": "2026-03-20T21:51:43.353Z",
+      "source": "news.google.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaVVici1wbFUzNFhXY1NvYU9QaEtfanlBRm1nOHQ5QmVpb21mVjlYd3pmTXNyNkJXSWQyblZkV2huWUZ6RzVQc3Jva1BQWTdKVmdYYkhHelFGZWZ2clM3WkpGR2sxaEF0OHVpT01qR1cxazdYSC1KN0RmVnczWndqSWp5b09VU3N6eG16clJR0gGOAUFVX3lxTE1vMWtVUHdid0M1UlVFaDNhZ0FVbmtiSGxsLWljU3ZhSmE5T254eUk1N21SZy1NSlVrbW0tbVlaVlpGTzRMZkhFMUtXQlNYSTlmeFRPTzdxQ1o1S3otTDdtdi1YbGJ5cHkzdDQ4VkFpUzRlVFQwa01wMU85azF6cTNqNWxScjlSNXczV2hINVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "desc": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "title": "90% of crypto's Illinois primary spending failed to achieve its objective",
+      "published_at": "2026-03-20T16:34:04Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://www.mollywhite.net/micro/entry/202603172318",
+      "desc": "The cryptocurrency industry super PACs dumped $14.2 million into the Illinois primaries. 90% of that – $12.8 million – was wasted, in that it went to opposing Democratic candidates who won their primaries (Stratton in the Senate race, Ford in H-07) or supporting their opponent..."
+    },
+    {
+      "title": "新型人工智能模型预测出某些意想不到的分子具有创纪录的高偶极矩",
+      "published_at": "2026-03-20T15:44:01.796Z",
       "source": "phys.org",
-      "url": "https://phys.org/news/2026-03-ai-sway-voter-behavior-eu.html",
+      "url": "https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html",
       "desc": "We’re checking your connection to prevent automated abuse"
     },
     {
-      "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
-      "published_at": "2026-03-19T19:09:45.396Z",
-      "source": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=47442435",
-      "desc": "Also, shoutout SkyPilot! It's been a huge help for going multi-cloud with our training and inference jobs (getting GPUs is still a nightmare...)!"
+      "title": "Systemd Introduces Birth Date Support for Upcoming Linux Desktop Age Controls",
+      "published_at": "2026-03-20T16:23:35Z",
+      "source": "Hacker News · 24h最热",
+      "url": "https://linuxiac.com/systemd-introduces-birth-date-support-for-upcoming-linux-desktop-age-controls",
+      "desc": "A recent systemd update introduces birth date storage, supporting ongoing efforts to implement age-based access controls in the Linux desktop stack."
     },
     {
-      "title": "李斌：蔚来自研芯片量产已超过55万颗",
-      "published_at": "2026-03-19T12:24:45.715Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3729834448584961",
-      "desc": "36氪获悉，3月19日下午，蔚来创始人、董事长、CEO李斌在上海出席先进制造业峰会——（2026）半导体产业高峰论坛并发表主题演讲。李斌称，当前汽车半导体产业正面临AI算力需求快速增长、芯片体系碎片化以及供应链波动性增强三大关键挑战。蔚来正通过自研与定制芯片，构建面向智能化时代的核心能力，持续优化高价值芯片的性能与成本。截至目前，蔚来自研芯片累计量产已超过55万颗。"
-    },
-    {
-      "title": "阿里巴巴：已将自研的平头哥GPU大规模投入生产",
-      "published_at": "2026-03-19T10:00:49.196Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3729693788028289",
-      "desc": "36氪获悉，阿里巴巴发布2026财年第三财季财报。财报显示，公司已将自主研发的平头哥GPU大规模投入生产，支持从训练、微调到推理的端到端AI工作负载。"
-    },
-    {
-      "title": "光环新网：截至目前算力业务规模已超过4000P，年合同额超过1亿元",
-      "published_at": "2026-03-19T04:45:15.042Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3729375290375815",
-      "desc": "36氪获悉，光环新网在机构调研时表示，目前公司在北京科信盛彩云计算中心和天津赞普云计算中心部署了高性能的算力硬件，为用户提供高性能智算算力服务、智算网络服务等，截至目前算力业务规模已超过4000P，年合同额超过1亿元。算力需求受市场热点、行业周期影响波动剧烈，新应用技术的涌现、迭代导致算力需求变化快，需求场景多样化，价格波动较大。受硬件配置限制及资金投入要求，需要前期锁定客户长期需求。同时公司大量数据中心在建项目及规划项目，在资本投入方面需要综合考量统筹，未来是否继续投资布局算力业务，需要根据客户订单情况决策。"
-    },
-    {
-      "title": "AMD首席执行官苏姿丰会见三星电子及Upstage高管，讨论AI领域合作",
-      "published_at": "2026-03-19T06:04:50.429Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3729412993433217",
-      "desc": "美国科技巨头AMD首席执行官苏姿丰周四会见了三星电子和韩国人工智能初创公司Upstage公司的高管，讨论加强AMD在该地区的人工智能合作。苏姿丰自周三开始对韩国进行为期两天的访问，她在位于首尔的三星电子总部会见了三星电子负责移动业务的联席首席执行官卢泰文。在与三星电子会面之前，苏姿丰会见了Upstage的负责人Sung Kim，双方探讨了更广泛的合作，以推动人工智能创新。（新浪财经）"
-    },
-    {
-      "title": "Amazon acquires autonomous robotics startup Rivr",
-      "published_at": "2026-03-19T22:38:08.112Z",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html?src=rss",
-      "desc": "Amazon has acquired Rivr, a startup focused on autonomous robotics that could further the tech giant's capabilities in package deliveries."
-    },
-    {
-      "title": "OpenAI Acquires Developer Tooling Startup Astral",
-      "published_at": "2026-03-19T19:09:42.024Z",
-      "source": "Slashdot",
-      "url": "https://developers.slashdot.org/story/26/03/19/1621209/openai-acquires-developer-tooling-startup-astral",
-      "desc": "OpenAI announced it's acquiring developer tooling startup Astral to strengthen its Codex AI coding assistant, which has over 2 million weekly users and has seen a three-fold increase in user growth since the start of the year. CNBC reports: \"Through it all, though, our goal re..."
-    },
-    {
-      "title": "Amazon acquires Zurich-based autonomous robotics startup Rivr, formerly Swiss-Mile; PitchBook: the startup was valued at $110M in an August 2024 funding round (The Information)",
-      "published_at": "2026-03-19T20:50:53.692Z",
-      "source": "Techmeme",
-      "url": "http://www.techmeme.com/260319/p48",
-      "desc": "Top news and commentary for technology's leaders, from all around the web."
-    },
-    {
-      "title": "A rogue AI led to a serious security incident at Meta",
-      "published_at": "2026-03-19T20:50:57.652Z",
-      "source": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=47444195",
-      "desc": "All the years of discussing programming/security best practices"
-    },
-    {
-      "title": "联想发布天禧AI Claw，可实现零门槛部署和使用",
-      "published_at": "2026-03-19T03:04:15.042Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3729256416181890",
-      "desc": "3月19日，联想发布天禧AI Claw。据了解，天禧AI Claw可实现零门槛部署和使用，并在端云混合架构的支持下，实现7*24小时全天候跨端陪伴。此外，天禧AI Claw基于独立云主机运行并辅以数据安全。"
-    },
-    {
-      "title": "Anthropic takes legal action against OpenCode",
-      "published_at": "2026-03-19T20:50:57.652Z",
-      "source": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=47444748",
-      "desc": "Like, in any event, I seriously get the feeling that Anthropic doesn't just not care about their users, but actively dislikes them. Like, they must be losing so much money on each Claude Code subscriber that if a million people all said \"we're switching\" they just wouldn't car..."
-    },
-    {
-      "title": "Google Details New 24-Hour Process To Sideload Unverified Android Apps",
-      "published_at": "2026-03-19T20:50:53.692Z",
-      "source": "Slashdot",
-      "url": "https://developers.slashdot.org/story/26/03/19/1832217/google-details-new-24-hour-process-to-sideload-unverified-android-apps",
-      "desc": "An anonymous reader quotes a report from Ars Technica: Google is planning big changes for Android in 2026 aimed at combating malware across the entire device ecosystem. Starting in September, Google will begin restricting application sideloading with its developer verification..."
-    },
-    {
-      "title": "为什么人工智能尚未颠覆印度的IT行业",
-      "published_at": "2026-03-19T13:07:51.743Z",
-      "source": "econ.st",
-      "url": "https://econ.st/4uBbsoa",
-      "desc": null
-    },
-    {
-      "title": "吴泳铭宣布阿里AI战略商业目标：未来五年，云和AI商业化年收入超1000亿美元",
-      "published_at": "2026-03-19T12:06:45.715Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3729790103240708",
-      "desc": "36氪获悉，在阿里巴巴集团2026财年Q3财报分析师电话会上，CEO吴泳铭表示，阿里已形成从AI Infra到应用的完整全栈AI能力，并加速推进MaaS平台建设。过去三个月，百炼MaaS平台上公共模型服务市场的Token消耗规模提升6倍，预计商业化MaaS收入将会成为阿里云最大的收入产品。同时，阿里云2026财年截至2月底的外部商业化收入正式突破1000亿元。商业目标是未来五年云和AI商业化年收入突破1000亿美元。此外，平头哥自研的GPU芯片已实现规模化量产，截至26年2月，已经累计规模化交付47万片。"
-    },
-    {
-      "title": "飞书发布原生“龙虾”，支持用户一键创建专属Agent",
-      "published_at": "2026-03-19T07:50:17.669Z",
-      "source": "36kr",
-      "url": "https://www.36kr.com/newsflashes/3729565267721861",
-      "desc": "36氪获悉，3月19日，飞书发布了多款企业级Agent产品。通过全新升级的智能体平台飞书aily，用户只需简单创建，便可拥有通晓自己上下文的Agent伙伴；仅用自然语言描述下发任务，飞书妙搭即可生成复杂的业务系统；而在飞书多维表格，用户也只需与Agent协作，便能完成搭建数据表、仪表盘、工作流再到配置权限等多项工作。"
-    },
-    {
-      "title": "小米雷军：未来三年，AI领域计划投入资金超过600亿元",
-      "published_at": "2026-03-19T13:22:50.362Z",
-      "source": "Readhub · AI",
-      "url": "https://36kr.com/newsflashes/3729868431999241?f=rss",
-      "desc": "36氪获悉，在小米春季新品发布会上，小米集团创始人、董事长兼CEO雷军表示，小米首款手机龙虾Xiaomi miclaw，已启动封测；搭载MiMo大模型，深度融合OS与人车家全生态。未来三年，AI领域计划投入资金超过600亿元。"
-    },
-    {
-      "title": "Google Working on Native Gemini AI App for Mac to Rival ChatGPT and Claude",
-      "published_at": "2026-03-19T20:50:53.692Z",
-      "source": "Mac Rumors",
-      "url": "https://www.macrumors.com/2026/03/19/google-native-gemini-mac-app",
-      "desc": "Google is developing a native Gemini app for the Mac, reports Bloomberg. Right now, Mac users who want to use Google's Gemini AI have to use a web browser, but that will change with a dedicated Mac app. Google competitors like Anthropic and OpenAI have dedicated Mac apps for t..."
-    },
-    {
-      "title": "智己LS8即将开启预售，并发布搭载千问大模型的AI超级智能体",
-      "published_at": "2026-03-19T02:49:31.425Z",
-      "source": "Readhub · AI",
-      "url": "https://36kr.com/newsflashes/3729234081398150?f=rss",
-      "desc": "3月18日，智己汽车发布行业首个超级智能体IM Ultra Agent，全球首搭千问大模型。该智能体行业首创“舱驾一体、全域融合”的智能架构IM Fusion Nova，打通了线控底盘、智驾AI、智舱AI三大核心系统。同步，智己汽车宣布，智己LS8将于3月26日正式开启预售。此外，智己与Momenta联合推出IM AD ZETA，搭载最新一代的Momenta强化学习大模型，性能上限比现有大模型最多将提升20倍。"
-    },
-    {
-      "title": "人工智能热潮面临极限考验：播客",
-      "published_at": "2026-03-19T06:12:01.321Z",
+      "title": "超微半导体联合创始人廖明辉因被指控向中国走私人工智能芯片，已辞去董事会职务",
+      "published_at": "2026-03-20T21:19:44.397Z",
       "source": "reut.rs",
-      "url": "https://reut.rs/478nUSv",
+      "url": "https://reut.rs/3PyLIsy",
       "desc": null
     },
     {
-      "title": "Cursor launches Composer 2, an AI agent trained solely on coding-related data to perform autonomous, lengthy coding tasks, to compete with Anthropic and OpenAI (Rachel Metz/Bloomberg)",
-      "published_at": "2026-03-19T17:06:21.377Z",
-      "source": "Techmeme",
-      "url": "http://www.techmeme.com/260319/p34",
-      "desc": "Top news and commentary for technology's leaders, from all around the web."
-    },
-    {
-      "title": "Sources: Anthropic met behind closed doors with House Homeland Security and discussed issues like export controls, only briefly touching on its DOD fight (Maria Curi/Axios)",
-      "published_at": "2026-03-19T22:38:08.112Z",
-      "source": "Techmeme",
-      "url": "http://www.techmeme.com/260319/p53",
-      "desc": "Top news and commentary for technology's leaders, from all around the web."
-    },
-    {
-      "title": "No Nvidia, No AMD, No Intel, No ARM: Meta plans inference-led RISC-y future without friends as 1700w superchip emerges with 30 PFLOPs performance and half Terabyte (yes 512GB) HBM",
-      "published_at": "2026-03-19T22:38:08.112Z",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/no-nvidia-no-amd-no-intel-no-arm-meta-plans-inference-led-risc-y-future-without-friends-as-1700w-superchip-emerges-with-30-pflops-performance-and-half-terabyte-yes-512gb-hbm",
-      "desc": "Forget mainstream GPUs and CPUs, Meta develops 1700W superchip and MTIA chips to handle GenAI and recommendations workloads"
-    },
-    {
-      "title": "Filing: the Pentagon says Anthropic's use of foreign workers, including from China, poses security risks and that its case is \"different\" from other companies' (Maria Curi/Axios)",
-      "published_at": "2026-03-19T22:38:08.112Z",
-      "source": "Techmeme",
-      "url": "http://www.techmeme.com/260319/p51",
-      "desc": "Top news and commentary for technology's leaders, from all around the web."
-    },
-    {
-      "title": "Google is reportedly testing a Gemini app for Mac",
-      "published_at": "2026-03-19T22:38:08.112Z",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/ai/google-is-reportedly-testing-a-gemini-app-for-mac-203703372.html?src=rss",
-      "desc": "Google is reportedly testing a macOS version of its Gemini app that can see what you're doing on your desktop."
-    },
-    {
-      "title": "“日本最大”模型竟是套壳？乐天 AI 3.0 陷入 DeepSeek 搬运风波",
-      "published_at": "2026-03-19T10:53:16.798Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26392",
-      "desc": "日本乐天集团发布号称国内最强自研大模型，但开源社区发现其底层架构文件指向中国团队开发模型，引发套壳争议。"
-    },
-    {
-      "title": "OpenAI is acquiring open source Python tool-maker Astral",
-      "published_at": "2026-03-19T20:50:53.692Z",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral",
-      "desc": "Codex maker says it will \"continue to support these open source projects\" after deal closes."
-    },
-    {
-      "title": "Google moved some staffers working on Project Mariner, its AI agent that can navigate Chrome and complete tasks on a user's behalf, to higher-priority projects (Maxwell Zeff/Wired)",
-      "published_at": "2026-03-19T20:50:53.692Z",
-      "source": "Techmeme",
-      "url": "http://www.techmeme.com/260319/p43",
-      "desc": "Top news and commentary for technology's leaders, from all around the web."
-    },
-    {
-      "title": "谷歌开始测试Gemini Mac应用，以抗衡ChatGPT和Claude",
-      "published_at": "2026-03-19T19:47:25.129Z",
-      "source": "www.bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-19/google-begins-testing-gemini-mac-app-to-match-chatgpt-and-claude",
-      "desc": "To continue, please click the box below to let us know you're not a robot."
-    },
-    {
-      "title": "Anthropic 发布 Claude 3.6 Sonnet：深耕企业级市场，却深陷 OpenClaw 公关危机",
-      "published_at": "2026-03-19T08:55:25.758Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26388",
-      "desc": "Anthropic发布Claude 3.6更新版Sonnet 4.6，强化编程与自动化能力，旨在从模型提供商转型为“智能体平台”。然而，该发布因与开源框架OpenClaw的版权争议而蒙上阴影。"
-    },
-    {
-      "title": "[AI Agent 智能体] 我是怎么看待 AI 的？",
-      "published_at": "2026-03-19T22:36:42Z",
+      "title": "[OpenAI] [留 ID 抽 10 张免单兑换码] ChatGPT Plus 即付即充， 5 分钟内完成，杜绝跑路隐患！",
+      "published_at": "2026-03-20T15:12:29Z",
       "source": "V2EX (创意工作者社区)",
-      "url": "https://www.v2ex.com/t/1199664",
-      "desc": "AI Agent 智能体 - @Pantheonn - 拥抱 AI 已经很久了，从最开始的 GPT3.5 聊天对话式到类 Claude code 的 CLI 到 Openclaw 的个人助理。我已经用 AI 在不到半年的时间内完成了不止 10 个项目的闭环"
+      "url": "https://www.v2ex.com/t/1199947",
+      "desc": "OpenAI - @2BeGPTPlus - ID 获取方式：https://www.v2ex.com/i/9537TCha.png兑换码可直接在站内免登陆兑换：https://www.v2ex.com/i/H4h5arI5.pn"
     },
     {
-      "title": "Bifrost CLI Codex CLI：只需一条命令，即可使用任意模型配置 OpenAI 的编程代理",
-      "published_at": "2026-03-19T18:59:20.141Z",
-      "source": "dev.to",
-      "url": "https://dev.to/anthonymax/bifrost-cli-codex-cli-one-command-to-set-up-openais-coding-agent-with-any-model-caa",
-      "desc": "Tired of manually configuring API keys, and provider paths every time you launch a coding agent?..."
-    },
-    {
-      "title": "一个失控的人工智能在Meta引发了一起严重的安全事件",
-      "published_at": "2026-03-19T21:37:38.634Z",
-      "source": "www.theverge.com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-      "desc": "An AI agent tried to help, and its advice exposed sensitive data."
-    },
-    {
-      "title": "万亿参数！小米三款 MiMo-V2 大模型齐发：雷军宣布追投 160 亿冲刺 AI",
-      "published_at": "2026-03-19T07:08:01.344Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26383",
-      "desc": "小米于2026年春季发布三款自研大模型，包括MiMo-V2-Pro、MiMo-V2-Omni和MiMo-V2-TTS，标志着其全面进军“智能体时代”。创始人宣布，小米今年在AI领域的研发和资本投入将超过160亿元，并透露万亿参数大模型MiMo-V2-Pro在全球大模型竞争中展现技术实力。"
-    },
-    {
-      "title": "8点1氪丨腾讯员工人均薪酬成本超百万；老牌抗生素被炒到千元一盒；网易否认“使用AI清退全部外包员工”",
-      "published_at": "2026-03-19T02:49:31.425Z",
-      "source": "36氪 · 24小时热榜",
-      "url": "https://www.36kr.com/p/3729135865281922",
-      "desc": "腾讯2025年营收7517.7亿，总薪酬1307亿，人均年薪超112万。"
-    },
-    {
-      "title": "Cockpit is a web-based graphical interface for servers",
-      "published_at": "2026-03-19T20:33:02Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://github.com/cockpit-project/cockpit",
-      "desc": null
-    },
-    {
-      "title": "Marc Andreessen is a philosophical zombie",
-      "published_at": "2026-03-19T20:32:42Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie",
-      "desc": "A quasi-scientific polemic."
-    },
-    {
-      "title": "小云雀AI上线短剧Agent:首搭Seedance2.0，支持10万字剧本一键成片",
-      "published_at": "2026-03-19T08:55:25.758Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26387",
-      "desc": "字节跳动旗下小云雀AI平台推出“短剧Agent”功能，搭载Seedance2.0算法，实现剧本到视频全流程自动化。该功能支持上传10万字剧本，具备故事理解与角色管理能力，大幅降低长篇内容创作门槛。"
-    },
-    {
-      "title": "Waymo Safety Impact",
-      "published_at": "2026-03-19T20:13:35Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://waymo.com/safety/impact",
-      "desc": "We're voluntarily sharing our safety data to demonstrate how the Waymo Driver is making roads safer in the places we currently operate. See the stats."
-    },
-    {
-      "title": "美国指控三人合谋将人工智能技术转移至中国",
-      "published_at": "2026-03-19T22:25:32.952Z",
-      "source": "www.reuters.com",
-      "url": "https://www.reuters.com/world/us-charges-three-people-with-conspiring-divert-ai-tech-china-2026-03-19",
-      "desc": null
-    },
-    {
-      "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
-      "published_at": "2026-03-19T20:09:02Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
-      "desc": null
-    },
-    {
-      "title": "Anthropic的隐形Vercel竞争对手“Antspace”",
-      "published_at": "2026-03-19T19:15:21.062Z",
-      "source": "aprilnea.me",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "desc": "Full stack developer, open sourceror, serial entrepreneur."
-    },
-    {
-      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-      "published_at": "2026-03-18T23:03:30Z",
-      "source": "Lobsters (技术社区)",
-      "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "desc": null
-    },
-    {
-      "title": "英伟达的黄仁勋呼吁科技界领袖避免散布对人工智能的恐慌",
-      "published_at": "2026-03-19T22:09:33.409Z",
-      "source": "www.bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-19/nvidia-s-jensen-huang-urges-ai-leaders-to-avoid-fearmongering",
-      "desc": "To continue, please click the box below to let us know you're not a robot."
-    },
-    {
-      "title": "Clockwise acquired by Salesforce and shutting down next week",
-      "published_at": "2026-03-19T19:50:51Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://www.getclockwise.com/",
-      "desc": "A new chapter for our team, and an important update for our customers."
-    },
-    {
-      "title": "ICE officers are taking DNA samples from protesters they've arrested",
-      "published_at": "2026-03-19T19:35:29Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://www.npr.org/2026/03/18/nx-s1-5739257/ice-officers-dna-protesters-database",
-      "desc": "People arrested while protesting ICE say federal agents took samples of their DNA. It's legal, but experts say the practice raises questions about what the government is doing with that genetic data."
-    },
-    {
-      "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
-      "published_at": "2026-03-19T19:18:25Z",
-      "source": "Hacker News · 24h最热",
-      "url": "https://www.mattkeeter.com/blog/2022-08-11-udp",
-      "desc": "UDP is a transport-level protocol for sending messages through an IP network."
-    },
-    {
-      "title": "技术落后也能躺赚？苹果 AI 年收入将破 10 亿美元：ChatGPT 竟成最大“金主”",
-      "published_at": "2026-03-19T07:08:01.344Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26382",
-      "desc": "苹果虽在AI原生技术上进展缓慢，但凭借硬件统治地位，正从AI浪潮中获利。据《华尔街日报》报道，苹果有望在2026年实现超10亿美元的AI相关收入，主要源于谷歌、微软等竞争对手为使用其硬件平台支付的费用，而非自身AI技术如Siri的突破。"
-    },
-    {
-      "title": "阶跃AI桌面端正式上线本地 StepClaw，一键“领养”桌面级 AI 智能体",
-      "published_at": "2026-03-19T07:08:01.344Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26379",
-      "desc": "阶跃星辰推出桌面AI助手StepClaw，基于OpenClaw优化，旨在降低部署门槛，提供可自定义的7×24小时在线工作伙伴。核心亮点为零门槛与全能生态，解决传统AI部署复杂、依赖命令行等问题。支持Windows和Mac双端一键安装，无需配置服务器或编写代码，用户下载即可快速使用。"
-    },
-    {
-      "title": "OpenAI将收购Astral",
-      "published_at": "2026-03-19T14:27:26.717Z",
-      "source": "openai.com",
-      "url": "https://openai.com/index/openai-to-acquire-astral",
-      "desc": "Accelerates Codex growth to power the next generation of Python developer tools"
-    },
-    {
-      "title": "Anthropic 对 OpenCode 提起诉讼",
-      "published_at": "2026-03-19T20:34:30.724Z",
-      "source": "github.com",
-      "url": "https://github.com/anomalyco/opencode/pull/18186",
-      "desc": "Remove anthropic references per legal requests: Remove anthropic-20250930.txt prompt file Remove anthropic from provider hints Remove opencode-anthropic-auth builtin plugin Remove anthropic from p..."
-    },
-    {
-      "title": "Visitran：基于Agentic的Python数据转换平台（AGPL）",
-      "published_at": "2026-03-19T17:23:43.027Z",
-      "source": "github.com",
-      "url": "https://github.com/Zipstack/visitran",
-      "desc": "Modern, AI-native and agentic Pythonic data transformation platform. - Zipstack/visitran"
-    },
-    {
-      "title": "腾讯业绩超预期，加速布局人工智能",
-      "published_at": "2026-03-19T20:19:27.148Z",
-      "source": "www.wsj.com",
-      "url": "https://www.wsj.com/tech/ai/tencent-profit-beats-again-on-strong-gaming-marketing-revenue-1f63e845?siteid=yhoof2&yptr=yahoo",
-      "desc": null
-    },
-    {
-      "title": "祝贺“基于 Google Gemini 的写作挑战赛”获奖者！",
-      "published_at": "2026-03-19T20:19:26.079Z",
-      "source": "dev.to",
-      "url": "https://dev.to/devteam/congrats-to-the-built-with-google-gemini-writing-challenge-winners-5ej6",
-      "desc": "The results are in! We are thrilled to announce the winners of the Built with Google Gemini: Writing..."
-    },
-    {
-      "title": "3分钟搭建AI开发团队：Agency-Agents实战指南",
-      "published_at": "2026-03-19T22:38:08.112Z",
-      "source": "掘金 · 人工智能本周最热",
-      "url": "https://juejin.cn/post/7616654151095615531",
-      "desc": null
-    },
-    {
-      "title": "硅谷正面临人工智能的重大公关难题",
-      "published_at": "2026-03-19T20:03:22.102Z",
-      "source": "www.bloomberg.com",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-03-19/silicon-valley-confronts-ai-s-big-pr-problem",
-      "desc": "To continue, please click the box below to let us know you're not a robot."
-    },
-    {
-      "title": "《华尔街日报》称，贝索斯寻求1000亿美元用于在制造业中应用人工智能",
-      "published_at": "2026-03-19T20:03:22.088Z",
-      "source": "www.bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-19/bezos-seeks-100-billion-to-use-ai-in-manufacturing-wsj-says",
-      "desc": "To continue, please click the box below to let us know you're not a robot."
-    },
-    {
-      "title": "AI日报：Midjourney V8开启测试；小米发布MiMo-V2-TTS大模型；蚂蚁数科发布“OpenClaw龙虾卫士”",
-      "published_at": "2026-03-19T08:55:25.758Z",
+      "title": "AI日报：通义千问3.5-Max模型发布；豆包内测AI电商；腾讯QClaw正式开启公测",
+      "published_at": "2026-03-20T08:54:37.548Z",
       "source": "AI日报",
-      "url": "https://news.aibase.com/zh/daily/26390",
-      "desc": "1、Midjourney V8开启测试:生成速度提升5倍并支持原生2K渲染"
+      "url": "https://news.aibase.com/zh/daily/26426",
+      "desc": "1、中国模型登顶！阿里通义千问 3.5-Max 震撼亮相：全球排名跃升第五"
     },
     {
-      "title": "马斯克点赞！Kimi 论文撼动大模型“祖传地基”：同样算力，效率提升 25%",
-      "published_at": "2026-03-19T02:49:31.425Z",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/26357",
-      "desc": "月之暗面发布《Attention Residuals》技术报告，重构大模型基石残差连接。新方法在同等算力下，模型效果相当于基线模型1.25倍算力水平。"
-    },
-    {
-      "title": "财联社3月20日电，据报道，白宫计划发布人工智能监管框架。",
-      "published_at": "2026-03-20T00:00:00Z",
-      "source": "Readhub · AI",
-      "url": "https://api3.cls.cn/share/article/2318880?os=web&sv=8.4.6&app=CailianpressWeb",
-      "desc": null
-    },
-    {
-      "title": "格隆汇3月20日｜据Punchbowl：白宫计划发布人工智能监管框架。",
-      "published_at": "2026-03-20T00:00:00Z",
-      "source": "Readhub · AI",
-      "url": "https://www.gelonghui.com/live/2357379",
-      "desc": null
-    },
-    {
-      "title": "格隆汇3月20日｜据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
-      "published_at": "2026-03-20T00:00:00Z",
-      "source": "Readhub · AI",
-      "url": "https://www.gelonghui.com/live/2357277",
-      "desc": null
-    },
-    {
-      "title": "财联社3月20日电，杰夫・贝索斯计划为人工智能制造基金筹集1000亿美元资金。",
-      "published_at": "2026-03-20T00:00:00Z",
-      "source": "Readhub · AI",
-      "url": "https://api3.cls.cn/share/article/2318852?os=web&sv=8.4.6&app=CailianpressWeb",
-      "desc": null
-    },
-    {
-      "title": "[Google Gemini] Google 也这么缺算力么，付费 API 持续 503",
-      "published_at": "2026-03-19T14:36:55Z",
+      "title": "[程序员] [开源]保留你熟悉的 CLI，让 Claude Code、Gemini CLI 和 Codex 开箱即用",
+      "published_at": "2026-03-20T13:40:10Z",
       "source": "V2EX (创意工作者社区)",
-      "url": "https://www.v2ex.com/t/1199636",
-      "desc": "Google Gemini - @isbase - { 'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in dem"
+      "url": "https://www.v2ex.com/t/1199929",
+      "desc": "程序员 - @sprinng - v1.0.20 版本已更新,助力大佬们 0 门槛使用 ai 工具如果好用,请点个小星星~https://github.com/doccker/cc-use-exp feat: 新增"
+    },
+    {
+      "title": "[人工智能] 银行/金融机构的 GenAI/Agentic AI 风险治理（风控/合规）岗位，前景怎么样?",
+      "published_at": "2026-03-20T09:06:18Z",
+      "source": "V2EX (创意工作者社区)",
+      "url": "https://www.v2ex.com/t/1199883",
+      "desc": "人工智能 - @heo323214 - 我最近关注到一家银行的 GenAI / Agentic AI 独立风险治理岗位（二道防线）。这个岗位不涉及底层模型开发（不炼丹），核心是做企业级 AI 的风险评估和挑战。主要工作内容大概如下："
+    },
+    {
+      "title": "[分享创造] 用 Claude Skill 解决 sing-box 配置难题",
+      "published_at": "2026-03-20T15:00:34Z",
+      "source": "V2EX (创意工作者社区)",
+      "url": "https://www.v2ex.com/t/1199946",
+      "desc": "分享创造 - @Nerv - 如题。很早之前就有尝试使用 sing-box 的想法，但一直因为 SFM bug 较多、配置门槛偏高，没有真正坚持下来，日常还是在用 Clash 。不过考虑到现在作者基本重写了客户端，"
+    },
+    {
+      "title": "[职场话题] AI 带来的冲击真的不大么",
+      "published_at": "2026-03-20T17:34:32Z",
+      "source": "V2EX (创意工作者社区)",
+      "url": "https://www.v2ex.com/t/1199955",
+      "desc": "职场话题 - @greatbody - 有说对社会影响被夸大了，裁员影响到只是少数人，只不过这些人掌握了话语权声量大。但社会就是怕秀才大量闲逛啊，会出事的。想想一大堆有技术，会串联，不满失业的人在长期失业后会不会觉得：这个世"
+    },
+    {
+      "title": "北京海淀 科创优势转为产业胜势",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "Readhub · AI",
+      "url": "https://finance.sina.com.cn/jjxw/2026-03-21/doc-inhrswxz7502437.shtml",
+      "desc": "2026海淀区经济社会高质量发展大会现场展示的机器人。（资料图片） 近日，来自北京海淀AI企业的重磅成果持续刷屏——智谱开源大模型GLM-5编程能力、Agent工程能力再创新高，字节跳动Seedance 2.0视频生成能力“炸裂”，..."
+    },
+    {
+      "title": "亚马逊据称正秘密打造智能手机 欲以AI改写应用商店规则",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "Readhub · AI",
+      "url": "https://www.163.com/dy/article/KOH2OEVP05198CJN.html",
+      "desc": null
+    },
+    {
+      "title": "软银计划在俄亥俄建设5000亿美元的巨型AI数据中心",
+      "published_at": "2026-03-20T22:38:40.460Z",
+      "source": "Readhub · AI",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-03-21/doc-inhrsssc7625090.shtml",
+      "desc": null
+    },
+    {
+      "title": "Developer Spotlight: Somtochi Onyekwere from Fly.io",
+      "published_at": "2026-03-20T19:51:54Z",
+      "source": "Lobsters (技术社区)",
+      "url": "https://theconsensus.dev/p/2026/03/19/developer-spotlight-somtochi-onyekwere.html",
+      "desc": "You are getting early access to this article as a subscriber. Your support makes articles like this possible. Thank you."
+    },
+    {
+      "title": "阿里妈妈全新发布“AI万相”：首创多Agent协同工作流",
+      "published_at": "2026-03-20T19:01:41.448Z",
+      "source": "Readhub · AI",
+      "url": "https://www.ebrun.com/20260321/648501.shtml",
+      "desc": "URL https://www.ebrun.com/20260321/648501.shtml"
+    },
+    {
+      "title": "亚马逊旗下AWS与Cerebras Systems Inc.合作，将共同开发AI推理解决方案。",
+      "published_at": "2026-03-20T19:01:41.448Z",
+      "source": "Readhub · AI",
+      "url": "https://wallstreetcn.com/livenews/3074276",
+      "desc": null
     }
   ]
 }
