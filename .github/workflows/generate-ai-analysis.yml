@@ -22,7 +22,7 @@ on:
       deploy_pages:
         description: "Deploy GitHub Pages after analysis (manual only)"
         required: false
-        default: "false"
+        default: "true"
 
 permissions:
   contents: write

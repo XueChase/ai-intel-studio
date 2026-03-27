@@ -18,6 +18,11 @@ interface AnalysisEvent {
   source: string;
   url: string;
   desc: string | null;
+  rank: number;
+  score: number;
+  category: EventCategory;
+  cross_source_count: number;
+  source_weight: number;
 }
 
 interface RankedEvent {
@@ -27,6 +32,8 @@ interface RankedEvent {
   is_show_ask_hn: boolean;
   is_finance_story: boolean;
   total_score: number;
+  source_weight: number;
+  cross_source_count: number;
   event: AnalysisEvent;
 }
 
@@ -504,12 +511,19 @@ async function main(): Promise<number> {
       is_show_ask_hn: showAsk,
       is_finance_story: finance,
       total_score: signals.total_score,
+      source_weight: signals.source_weight,
+      cross_source_count: signals.cross_source_count,
       event: {
         title: rep.title,
         published_at: rep.published_at || rep.first_seen_at || null,
         source: rep.source,
         url: rep.url,
         desc: normalizedDesc,
+        rank: 0,
+        score: 0,
+        category,
+        cross_source_count: signals.cross_source_count,
+        source_weight: signals.source_weight,
       },
     });
   }
@@ -585,6 +599,14 @@ async function main(): Promise<number> {
     }
   );
   const selectedWithDesc = descEnriched.events;
+  const selectedRankedEvents = selected.map((ev, idx) => ({
+    ...selectedWithDesc[idx],
+    rank: idx + 1,
+    score: ev.total_score,
+    category: ev.category,
+    cross_source_count: ev.cross_source_count,
+    source_weight: ev.source_weight,
+  }));
 
   const siteDistribution = Array.from(siteCounts.entries())
     .map(([site_id, count]) => ({ site_id, count }))
@@ -605,12 +627,12 @@ async function main(): Promise<number> {
       per_site_cap: perSiteCap,
     },
     site_distribution: siteDistribution,
-    top_events: selectedWithDesc,
+    top_events: selectedRankedEvents,
   };
 
   await writeJson(outputPath, out);
   await writeJson(descCachePath, descCacheToPojo(descEnriched.cache));
-  console.log(`✅ ${outputPath} (${selectedWithDesc.length} events / ${items.length} items)`);
+  console.log(`✅ ${outputPath} (${selectedRankedEvents.length} events / ${items.length} items)`);
   console.log(
     `ℹ️ desc enriched: filled=${descEnriched.filled}, cache_hit=${descEnriched.cacheHit}, fetched=${descEnriched.fetched}`
   );

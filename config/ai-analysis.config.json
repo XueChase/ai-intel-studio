@@ -3,15 +3,16 @@
   "openai": {
     "api_key_env": "DASHSCOPE_API_KEY",
     "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-    "model": "qwen3.5-plus",
-    "enable_thinking": true,
+    "model": "qwen3-max",
+    "enable_thinking": false,
     "stream": true,
     "stream_include_usage": true,
     "temperature": 0.2,
-    "max_events": 80,
-    "request_timeout_ms": 120000
+    "max_events": 40,
+    "request_timeout_ms": 120000,
+    "output_max_chars": 3000
   },
   "input_path": "data/ai-input/analysis-input-24h.json",
-  "prompt_path": "prompts/analysis-24h.prompt.md",
+  "prompt_path": "prompts/analysis-24h.prompt.human.md",
   "output_markdown_path": "data/ai-output-md/ai-analysis-24h.md"
 }
