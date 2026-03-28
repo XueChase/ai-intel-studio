@@ -136,6 +136,7 @@ jobs:
       - name: Build ai-intel-studio
         env:
           GITHUB_PAGES: true
+          VITE_AUTH_SKIP: true
         run: |
           cd ai-intel-studio
           npm ci

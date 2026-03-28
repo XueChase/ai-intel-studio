@@ -17,7 +17,7 @@ export const CONFIG = {
    */
   auth: {
     method: 'jwt',
-    skip: false,
+    skip: (import.meta.env.VITE_AUTH_SKIP ?? (import.meta.env.DEV ? 'true' : 'false')) === 'true',
     redirectPath: paths.dashboard.root,
   },
   /**

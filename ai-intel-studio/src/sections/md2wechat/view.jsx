@@ -1,6 +1,8 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useRef, useMemo, useState, useEffect } from 'react';
 
 import Box from '@mui/material/Box';
+import Tab from '@mui/material/Tab';
+import Tabs from '@mui/material/Tabs';
 import Card from '@mui/material/Card';
 import Alert from '@mui/material/Alert';
 import Stack from '@mui/material/Stack';
@@ -24,9 +26,9 @@ import { CustomBreadcrumbs } from 'src/components/custom-breadcrumbs';
 import { uploadImageToGithub } from './githubImageUpload';
 import {
   buildThemeCss,
+  renderMarkdown,
   generatePureHTML,
   processClipboardContent,
-  renderMarkdown,
 } from './mdToWechat';
 
 const UPLOAD_HISTORY_KEY = 'md_wechat_uploaded_images';
@@ -45,6 +47,10 @@ const HEADING_STYLE_OPTIONS = [
   { label: '下边框', value: 'border-bottom' },
   { label: '左边框', value: 'border-left' },
   { label: '自定义', value: 'custom' },
+];
+const PREVIEW_MODES = [
+  { value: 'standard', label: '标准版', helper: '保留现在这条稳定可发的 Markdown 转公众号链路。' },
+  { value: 'publication-lab', label: '发布版实验室', helper: '更大胆的头图式包装，更像栏目页和主编专栏。' },
 ];
 
 const OFFICIAL_GUIDE_TEMPLATE = `
@@ -157,6 +163,7 @@ function fallbackCopyUsingExecCommand(htmlContent) {
 
 export function Md2WechatView() {
   const [markdown, setMarkdown] = useState('');
+  const [previewMode, setPreviewMode] = useState('standard');
   const [primaryColor, setPrimaryColor] = useState('rgba(122, 30, 30, 1)');
   const [isUseJustify, setIsUseJustify] = useState(true);
   const [headingStyles, setHeadingStyles] = useState({ h1: 'default', h2: 'default', h3: 'default' });
@@ -176,7 +183,11 @@ export function Md2WechatView() {
   const previewScrollRef = useRef(null);
   const syncingScrollRef = useRef(false);
 
-  const outputHtml = useMemo(() => renderMarkdown(markdown, { legend: FIXED_LEGEND }), [markdown]);
+  const activePreview = PREVIEW_MODES.find((item) => item.value === previewMode) || PREVIEW_MODES[0];
+  const outputHtml = useMemo(
+    () => renderMarkdown(markdown, { legend: FIXED_LEGEND, mode: previewMode }),
+    [markdown, previewMode]
+  );
   const themeCss = useMemo(
     () =>
       buildThemeCss({
@@ -480,6 +491,39 @@ export function Md2WechatView() {
         />
 
         {!!status && <Alert severity={status.includes('失败') ? 'error' : 'success'}>{status}</Alert>}
+
+        <Card
+          sx={{
+            p: 1,
+            borderRadius: 3,
+            background:
+              previewMode === 'publication-lab'
+                ? 'linear-gradient(135deg, rgba(255,250,240,0.95), rgba(248,250,252,1))'
+                : 'background.paper',
+          }}
+        >
+          <Tabs
+            value={previewMode}
+            onChange={(_, value) => setPreviewMode(value)}
+            variant="scrollable"
+            allowScrollButtonsMobile
+            sx={{
+              minHeight: 48,
+              '& .MuiTabs-indicator': { height: 3, borderRadius: 999 },
+              '& .MuiTab-root': { minHeight: 48, textTransform: 'none', fontWeight: 700 },
+            }}
+          >
+            {PREVIEW_MODES.map((item) => (
+              <Tab key={item.value} value={item.value} label={item.label} />
+            ))}
+          </Tabs>
+          <Alert
+            severity={previewMode === 'publication-lab' ? 'warning' : 'info'}
+            sx={{ mt: 1, borderRadius: 2 }}
+          >
+            {activePreview.helper}
+          </Alert>
+        </Card>
 
         <Box
           sx={{

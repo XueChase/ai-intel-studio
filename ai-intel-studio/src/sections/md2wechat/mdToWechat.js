@@ -129,6 +129,176 @@ export function buildThemeCss(opts) {
   color: var(--md-primary-color);
   text-align: center;
 }
+
+/* Publication lab */
+#output .publication-shell {
+  position: relative;
+  overflow: hidden;
+  padding: 24px 0 28px;
+  border-radius: 24px;
+  background: #ffffff;
+}
+
+#output .publication-grid {
+  display: grid;
+  gap: 18px;
+}
+
+#output .publication-strap {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 14px;
+  padding: 8px 12px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.78);
+  color: #475569;
+  font-size: 12px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+#output .publication-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, var(--md-primary-color), #0f766e);
+  box-shadow: 0 0 0 6px rgba(122, 30, 30, 0.08);
+}
+
+#output .publication-hero {
+  margin: 0 0 22px;
+  padding: 0 0 18px;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+#output .publication-hero h1 {
+  display: block;
+  margin: 0 0 12px;
+  padding: 0;
+  border: none;
+  color: #0f172a;
+  text-align: left;
+  font-size: calc(var(--md-font-size) * 1.8);
+  line-height: 1.18;
+  text-shadow: none;
+}
+
+#output .publication-deck {
+  margin: 0;
+  padding: 16px 18px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  border-left: 4px solid var(--md-primary-color);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.86);
+  color: #334155;
+}
+
+#output .publication-deck p {
+  margin: 0;
+  font-size: calc(var(--md-font-size) * 1.02);
+}
+
+#output .publication-section {
+  position: relative;
+  padding: 18px 14px 14px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  border-radius: 20px;
+  background:
+    radial-gradient(circle at 1px 1px, rgba(15, 23, 42, 0.045) 0.8px, transparent 0),
+    rgba(255, 255, 255, 0.92);
+  background-size: 14px 14px, auto;
+  backdrop-filter: blur(10px);
+}
+
+#output .publication-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  background: linear-gradient(135deg, rgba(255,255,255,0.55), transparent 42%);
+}
+
+#output .publication-kicker {
+  display: inline-block;
+  margin: 0 0 12px;
+  padding: 0 0 4px;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.12);
+  color: var(--md-primary-color);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+}
+
+#output .publication-section h2 {
+  display: none;
+}
+
+#output .publication-section h3 {
+  margin-top: 1.15em;
+  padding-left: 10px;
+  border-left: 3px solid rgba(15, 23, 42, 0.16);
+  border-bottom: none;
+  color: #0f172a;
+}
+
+#output .publication-section ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+#output .publication-section li {
+  position: relative;
+  margin: .52em 0;
+  padding-left: 1.1em;
+}
+
+#output .publication-section li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: .72em;
+  width: 7px;
+  height: 7px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, var(--md-primary-color), #0f766e);
+}
+
+#output .publication-summary {
+  margin-top: 22px;
+  padding: 18px 14px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  border-top: 3px solid var(--md-primary-color);
+  border-radius: 20px;
+  background: #fffaf5;
+  color: #334155;
+}
+
+#output .publication-summary p,
+#output .publication-summary li,
+#output .publication-summary strong {
+  color: inherit;
+}
+
+#output .publication-outro {
+  margin-top: 26px;
+  padding: 0;
+  border: none;
+  background: transparent;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+#output .publication-outro::before {
+  display: none;
+}
+
+#output .publication-outro .official-qr-guide {
+  margin-top: 0;
+}
 `.trim();
     function headingRule(level, style) {
         if (!style || style === 'default' || style === 'custom')
@@ -616,6 +786,78 @@ function normalizeMarkdownForWechat(raw) {
         .replace(/\*\*([^\n*]+)\*\*\s*\n+\s*([：:])/g, '**$1**$2')
         .replace(/__([^\n_]+)__\s*\n+\s*([：:])/g, '__$1__$2');
 }
+function decoratePublicationHtml(html) {
+    if (typeof document === 'undefined') {
+        return html;
+    }
+    const root = document.createElement('div');
+    root.innerHTML = html;
+    const shell = document.createElement('section');
+    shell.className = 'publication-shell';
+    const grid = document.createElement('div');
+    grid.className = 'publication-grid';
+    shell.appendChild(grid);
+    const children = Array.from(root.childNodes);
+    let index = 0;
+    if (children[index]?.nodeType === Node.ELEMENT_NODE && children[index].tagName.toLowerCase() === 'h1') {
+        const hero = document.createElement('header');
+        hero.className = 'publication-hero';
+        const strap = document.createElement('div');
+        strap.className = 'publication-strap';
+        strap.innerHTML = '<span class="publication-dot"></span><span>AI Intel Studio</span><span>Editorial Lab</span>';
+        hero.appendChild(strap);
+        hero.appendChild(children[index]);
+        index += 1;
+        if (children[index]?.nodeType === Node.ELEMENT_NODE
+            && children[index].tagName.toLowerCase() === 'blockquote') {
+            children[index].classList.add('publication-deck');
+            hero.appendChild(children[index]);
+            index += 1;
+        }
+        grid.appendChild(hero);
+    }
+    let sectionCount = 0;
+    let currentSection = null;
+    let currentHeadingText = '';
+    const appendLooseNode = (node) => {
+        if (!currentSection) {
+            currentSection = document.createElement('section');
+            currentSection.className = 'publication-section';
+            grid.appendChild(currentSection);
+        }
+        currentSection.appendChild(node);
+    };
+    for (; index < children.length; index += 1) {
+        const node = children[index];
+        if (node.nodeType === Node.ELEMENT_NODE
+            && node.classList.contains('official-qr-guide')) {
+            currentSection = null;
+            const outro = document.createElement('section');
+            outro.className = 'publication-outro';
+            outro.appendChild(node);
+            grid.appendChild(outro);
+            continue;
+        }
+        if (node.nodeType === Node.ELEMENT_NODE && node.tagName.toLowerCase() === 'h2') {
+            currentHeadingText = (node.textContent || '').trim();
+            sectionCount += 1;
+            currentSection = document.createElement('section');
+            currentSection.className = 'publication-section';
+            const kicker = document.createElement('div');
+            kicker.className = 'publication-kicker';
+            kicker.textContent = `${String(sectionCount).padStart(2, '0')} / ${currentHeadingText}`;
+            currentSection.appendChild(kicker);
+            currentSection.appendChild(node);
+            grid.appendChild(currentSection);
+            continue;
+        }
+        appendLooseNode(node);
+        if (/总结/.test(currentHeadingText) && currentSection) {
+            currentSection.classList.add('publication-summary');
+        }
+    }
+    return shell.outerHTML;
+}
 export function renderMarkdown(markdown, options) {
     const normalizedMarkdown = normalizeMarkdownForWechat(markdown || '');
     const renderer = {
@@ -653,7 +895,11 @@ export function renderMarkdown(markdown, options) {
         breaks: true,
     });
     markedInstance.use({ renderer });
-    return markedInstance.parse(normalizedMarkdown);
+    const html = markedInstance.parse(normalizedMarkdown);
+    if (options?.mode === 'publication-lab') {
+        return decoratePublicationHtml(html);
+    }
+    return html;
 }
 export function generatePureHTML(raw) {
     const normalizedMarkdown = normalizeMarkdownForWechat(raw || '');
