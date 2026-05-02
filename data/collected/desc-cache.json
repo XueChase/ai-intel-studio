@@ -3664,5 +3664,20 @@
   "https://www.v2ex.com/t/1209749": "前端开发 - @WuLiSenSen - 前端如何学习 AI? 我发现所有文章都是教你怎么写个 agent 或者讲 agent 实现原理什么的，就没有能在日常工作中 提效的吗？比如 skill 怎么搞。怎么在工作中使用各种技巧。我看场景的",
   "https://news.ycombinator.com/item?id=47961574": "They started so good, now a lot of people are pissed off. You are the next, unfortunately :(",
   "https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker": "Annoyingly enough, Mozilla decided to add a emoji picker to Firefox 150, which fair enough, probably some people like, but they did it by using the shortcut of Ctrl + . (Control + Dot), which also happens to be the exact same shortcut 1Password uses by default, and has been us...",
-  "https://firethering.com/granite-4-1-ibm-open-source-model-family": "IBM just released Granite 4.1, a family of open source language models built specifically for enterprise use. Three sizes, Apache 2.0 licensed and trained on 15 trillion tokens with a level of pipeline obsession that's worth understanding. But there's one result in the benchma..."
+  "https://firethering.com/granite-4-1-ibm-open-source-model-family": "IBM just released Granite 4.1, a family of open source language models built specifically for enterprise use. Three sizes, Apache 2.0 licensed and trained on 15 trillion tokens with a level of pipeline obsession that's worth understanding. But there's one result in the benchma...",
+  "https://www.techradar.com/pro/the-era-of-the-pilot-is-over-the-era-of-the-agent-is-here-google-cloud-wants-you-to-unlock-the-power-of-your-data": "Google Cloud knows most of your data is unstructured and lives in other environments – but it still wants to help you tap into the huge potential.",
+  "https://www.v2ex.com/t/1209674": "Local LLM - @alangz - 配置为 m1max 64g+1T ，最近搞了个小小龙虾，消耗的 token 太快了，打算部署各本地模型，一来了解了解，而来是想做下简单的翻译、文档处理的工作。能有合适的本地模型吗？",
+  "https://mastodon.social/@firefoxwebdevs/116492853483021978": "Chrome looks set to ship an LLM Prompt API to the web platform. At Mozilla, we oppose this API. We feel it has a large interoperability risk, and Google imposing T&Cs on a web API sets a dangerous precedent. Full details: https://github.com/mozilla/standards-positions/issues/1...",
+  "https://news.aibase.com/zh/news/27643": "Anthropic正加速推进IPO前最后一轮私募融资，估值已飙升至8500亿至9000亿美元，融资规模预计400亿至500亿美元。若成功，其估值将在数月内翻倍，凸显AI领域资本竞争白热化。",
+  "https://news.aibase.com/zh/news/27629": "DeepSeek在发布V4版五天后，灰度测试多模态识图功能，新增“识图模式”入口，支持图片理解。实测显示，其在基础视觉理解、复杂人物和环境识别上表现优异，标志着从文本向视觉交互的跨越。",
+  "https://www.36kr.com/newsflashes/3788697238166790": "36氪获悉，云迹科技2025年年报显示，期内总收入3.01亿元，同比增长23.1%。智能体应用收入增长194.1%，占总收入比重跃升至11.3%；HDOS订阅客户数大增925%；AI数字化系统收入增长57.3%，占比升至29.2%。海外收入增长92.1%，工厂场景增长393%。公司正从硬件供应商向服务智能体平台转型，收入结构迈向持续性现金流，估值逻辑重构。",
+  "https://www.ithome.com/0/945/401.htm": "科技媒体 Ars Technica 今天（4 月 30 日）发布博文，报道称在最新开源的 Codex CLI 代码中，OpenAI 披露了 GPT-5.5 模型的系统提示词，其中包含一条令人费解的禁令：严禁讨论哥布林、小精灵等生物。",
+  "http://www.techmeme.com/260429/p31": "Top news and commentary for technology's leaders, from all around the web.",
+  "https://news.aibase.com/zh/news/27642": "零犀科技通过自研因果大模型，在保险、金融等高门槛销售领域实现技术到业绩的闭环，2025年达成规模化盈利和正现金流。这解决了B端企业此前对大模型落地获得感低的问题，克服了通用模型在专业销售场景中的“幻觉”缺陷，提供了大模型应用的新范式。",
+  "https://www.v2ex.com/t/1209582": "Local LLM - @babymonster - 自己家里的 5070Ti 跑模型起来太费劲了，用了一下同事的 macbook 顶配版跑模型比 5070Ti 要强一点点，感觉都差不多，所以大佬可以指点下有没有必要搞一个 Mac studio 还是 N",
+  "https://www.bloomberg.com/opinion/articles/2026-04-30/chatgpt-maker-openai-has-just-the-right-person-to-curb-its-crazy-spending": "To continue, please click the box below to let us know you're not a robot.",
+  "https://www.v2ex.com/t/1209570": "DeepSeek - @PEALFK - 感觉怎么样",
+  "https://www.ithome.com/0/945/255.htm": "OpenAI 实际上仍会从 Nscale 的原“星际之门 · 挪威”数据中心站点获得算力资源，但将以 Nscale → Microsoft → OpenAI 的间接方式进行",
+  "https://www.ft.com/content/bc269ad5-d531-4c67-9e03-2e6268ce9c1e": "For help please visit help.ft.com. We apologise for any inconvenience.",
+  "https://www.ithome.com/0/945/251.htm": "考虑到该企业早前拒绝了投资者的 8000 亿美元估值报价，Anthropic 的估值有望达到 9000 亿美元。"
 }
