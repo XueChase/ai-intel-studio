@@ -1,6 +1,6 @@
 # Emotion Input Digest
 
-- Generated At: 2026-07-04T07:16:45.313+08:00
+- Generated At: 2026-07-04T11:46:28.491+08:00
 - Window Hours: 24
 - Total Items: 150
 - Source Count: 5
@@ -11,1053 +11,1053 @@
 
 ## Items
 
-### 澳大利亚vs埃及
+### 佛得角门将 封神
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 澳大利亚vs埃及
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9Avs%E5%9F%83%E5%8F%8A&from=hot_mine
+- Desc: 佛得角门将 封神 沸
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86+%E5%B0%81%E7%A5%9E&from=hot_mine
 
-### 孙颖莎vs梅谢芙
+### 西班牙此身从此分明了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 孙颖莎vs梅谢芙
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%A2%85%E8%B0%A2%E8%8A%99&from=hot_mine
-
-### 多重硬核成就彰显高质量发展底气
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 多重硬核成就彰显高质量发展底气
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%9A%E9%87%8D%E7%A1%AC%E6%A0%B8%E6%88%90%E5%B0%B1%E5%BD%B0%E6%98%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E5%BA%95%E6%B0%94&from=hot_mine
-
-### 邓为拎了6袋迪奥送花少嘉宾
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 邓为拎了6袋迪奥送花少嘉宾 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8B%8E%E4%BA%866%E8%A2%8B%E8%BF%AA%E5%A5%A5%E9%80%81%E8%8A%B1%E5%B0%91%E5%98%89%E5%AE%BE&from=hot_mine
-
-### 把会删Word空白页写进简历
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 把会删Word空白页写进简历
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%8A%8A%E4%BC%9A%E5%88%A0Word%E7%A9%BA%E7%99%BD%E9%A1%B5%E5%86%99%E8%BF%9B%E7%AE%80%E5%8E%86&from=hot_mine
-
-### 阿根廷vs佛得角
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 阿根廷vs佛得角 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92&from=hot_mine
-
-### 阿根廷进球
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 阿根廷进球 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9B%E7%90%83&from=hot_mine
-
-### 王俊凯演唱会票价
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 王俊凯演唱会票价
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&from=hot_mine
-
-### 歌手排名
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 歌手排名
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&from=hot_mine
-
-### 建议大家千万不要再熬夜了
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 建议大家千万不要再熬夜了
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%86%8D%E7%86%AC%E5%A4%9C%E4%BA%86&from=hot_mine
-
-### 15岁少年家中赤裸死亡父亲回应
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 15岁少年家中赤裸死亡父亲回应 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=15%E5%B2%81%E5%B0%91%E5%B9%B4%E5%AE%B6%E4%B8%AD%E8%B5%A4%E8%A3%B8%E6%AD%BB%E4%BA%A1%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94&from=hot_mine
-
-### 高血压女子连喝三天绿豆汤致脑出血
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 高血压女子连喝三天绿豆汤致脑出血 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E8%A1%80%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%96%9D%E4%B8%89%E5%A4%A9%E7%BB%BF%E8%B1%86%E6%B1%A4%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80&from=hot_mine
-
-### 鸭血粉丝店也遭LV起诉
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 鸭血粉丝店也遭LV起诉
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%E7%B2%89%E4%B8%9D%E5%BA%97%E4%B9%9F%E9%81%ADLV%E8%B5%B7%E8%AF%89&from=hot_mine
-
-### 克罗地亚媒体怒批球队被抢劫
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 克罗地亚媒体怒批球队被抢劫
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%AA%92%E4%BD%93%E6%80%92%E6%89%B9%E7%90%83%E9%98%9F%E8%A2%AB%E6%8A%A2%E5%8A%AB&from=hot_mine
-
-### 王俊凯王源演唱会撞档
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 王俊凯王源演唱会撞档
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E6%92%9E%E6%A1%A3&from=hot_mine
-
-### 买保险30年月领50万仅领1月被拒
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 买保险30年月领50万仅领1月被拒
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BF%9D%E9%99%A930%E5%B9%B4%E6%9C%88%E9%A2%8650%E4%B8%87%E4%BB%85%E9%A2%861%E6%9C%88%E8%A2%AB%E6%8B%92&from=hot_mine
-
-### C罗拉着我进消防通道合影签名
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: C罗拉着我进消防通道合影签名
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%8B%89%E7%9D%80%E6%88%91%E8%BF%9B%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E5%90%88%E5%BD%B1%E7%AD%BE%E5%90%8D&from=hot_mine
-
-### 国乒男单绝对统治力正在逐步消解
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 国乒男单绝对统治力正在逐步消解
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E7%BB%9D%E5%AF%B9%E7%BB%9F%E6%B2%BB%E5%8A%9B%E6%AD%A3%E5%9C%A8%E9%80%90%E6%AD%A5%E6%B6%88%E8%A7%A3&from=hot_mine
-
-### 如何看待AI模型蒸馏
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 如何看待AI模型蒸馏 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F&from=hot_mine
-
-### 终于有人说SML码抽纸了
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 终于有人说SML码抽纸了
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4SML%E7%A0%81%E6%8A%BD%E7%BA%B8%E4%BA%86&from=hot_mine
-
-### 买超 邵晴
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 买超 邵晴 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E9%82%B5%E6%99%B4&from=hot_mine
-
-### 生理性喜欢就是电光火石
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 生理性喜欢就是电光火石
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E5%B0%B1%E6%98%AF%E7%94%B5%E5%85%89%E7%81%AB%E7%9F%B3&from=hot_mine
-
-### 女孩摸自行车把手遭掌掴妈妈发声
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 女孩摸自行车把手遭掌掴妈妈发声
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8A%8A%E6%89%8B%E9%81%AD%E6%8E%8C%E6%8E%B4%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&from=hot_mine
-
-### 李沁撑得起李清照的少女感与晚年的孤傲
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 李沁撑得起李清照的少女感与晚年的孤傲 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%81%E6%92%91%E5%BE%97%E8%B5%B7%E6%9D%8E%E6%B8%85%E7%85%A7%E7%9A%84%E5%B0%91%E5%A5%B3%E6%84%9F%E4%B8%8E%E6%99%9A%E5%B9%B4%E7%9A%84%E5%AD%A4%E5%82%B2&from=hot_mine
-
-### 林俊杰檀健次就这个双强爽
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 林俊杰檀健次就这个双强爽
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B0%B1%E8%BF%99%E4%B8%AA%E5%8F%8C%E5%BC%BA%E7%88%BD&from=hot_mine
-
-### 产妇羊水栓塞丈夫在ICU拍下全家福
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 产妇羊水栓塞丈夫在ICU拍下全家福
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E4%B8%88%E5%A4%AB%E5%9C%A8ICU%E6%8B%8D%E4%B8%8B%E5%85%A8%E5%AE%B6%E7%A6%8F&from=hot_mine
-
-### 陈露称有录音及文字证据
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 陈露称有录音及文字证据 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E9%9C%B2%E7%A7%B0%E6%9C%89%E5%BD%95%E9%9F%B3%E5%8F%8A%E6%96%87%E5%AD%97%E8%AF%81%E6%8D%AE&from=hot_mine
-
-### 买超 张嘉倪
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 买超 张嘉倪
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E5%BC%A0%E5%98%89%E5%80%AA&from=hot_mine
-
-### 丁禹兮古装跳万物生
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 丁禹兮古装跳万物生
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8F%A4%E8%A3%85%E8%B7%B3%E4%B8%87%E7%89%A9%E7%94%9F&from=hot_mine
+- Desc: 西班牙此身从此分明了
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%AD%A4%E8%BA%AB%E4%BB%8E%E6%AD%A4%E5%88%86%E6%98%8E%E4%BA%86&from=hot_mine
 
 ### 升级版电影院要来了
 - Platform: weibo
 - Source: 微博热榜-mine
 - Desc: 升级版电影院要来了
-- Published At: 2026-07-03T23:16:45.313Z
+- Published At: 2026-07-04T03:46:28.491Z
 - URL: https://s.weibo.com/weibo?q=%E5%8D%87%E7%BA%A7%E7%89%88%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E6%9D%A5%E4%BA%86&from=hot_mine
 
-### 澳大利亚vs埃及
+### 佛得角门将 俱乐部不要他了
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 澳大利亚vs埃及
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9Avs%E5%9F%83%E5%8F%8A&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 佛得角门将 俱乐部不要他了 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86+%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%8D%E8%A6%81%E4%BB%96%E4%BA%86&from=hot_mine
 
-### 孙颖莎vs梅谢芙
+### 佛得角乌龙球
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 孙颖莎vs梅谢芙
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%A2%85%E8%B0%A2%E8%8A%99&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 佛得角乌龙球
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B9%8C%E9%BE%99%E7%90%83&from=hot_mine
 
-### 多重硬核成就彰显高质量发展底气
+### 佛得角战平3个世界杯冠军
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 多重硬核成就彰显高质量发展底气
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%9A%E9%87%8D%E7%A1%AC%E6%A0%B8%E6%88%90%E5%B0%B1%E5%BD%B0%E6%98%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E5%BA%95%E6%B0%94&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 佛得角战平3个世界杯冠军
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%88%98%E5%B9%B33%E4%B8%AA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&from=hot_mine
 
-### 邓为拎了6袋迪奥送花少嘉宾
+### 王俊凯刷新内娱演唱会想看最快纪录
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 邓为拎了6袋迪奥送花少嘉宾 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8B%8E%E4%BA%866%E8%A2%8B%E8%BF%AA%E5%A5%A5%E9%80%81%E8%8A%B1%E5%B0%91%E5%98%89%E5%AE%BE&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 王俊凯刷新内娱演唱会想看最快纪录 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%88%B7%E6%96%B0%E5%86%85%E5%A8%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%B3%E7%9C%8B%E6%9C%80%E5%BF%AB%E7%BA%AA%E5%BD%95&from=hot_mine
 
-### 把会删Word空白页写进简历
+### 阿根廷 假摔
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 把会删Word空白页写进简历
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%8A%8A%E4%BC%9A%E5%88%A0Word%E7%A9%BA%E7%99%BD%E9%A1%B5%E5%86%99%E8%BF%9B%E7%AE%80%E5%8E%86&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 阿根廷 假摔
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%81%87%E6%91%94&from=hot_mine
 
-### 阿根廷vs佛得角
+### 这一秒过火
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 阿根廷vs佛得角 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 这一秒过火 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB&from=hot_mine
 
-### 阿根廷进球
+### 普京宣布俄军完全解放卢甘斯克
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 阿根廷进球 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9B%E7%90%83&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 普京宣布俄军完全解放卢甘斯克 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%BF%84%E5%86%9B%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%94%BE%E5%8D%A2%E7%94%98%E6%96%AF%E5%85%8B&from=hot_mine
 
-### 王俊凯演唱会票价
+### 张嘉倪获两子抚养权
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 王俊凯演唱会票价
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 张嘉倪获两子抚养权 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%98%89%E5%80%AA%E8%8E%B7%E4%B8%A4%E5%AD%90%E6%8A%9A%E5%85%BB%E6%9D%83&from=hot_mine
 
-### 歌手排名
+### 阿根廷 啃老
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 歌手排名
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 阿根廷 啃老 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%95%83%E8%80%81&from=hot_mine
 
-### 建议大家千万不要再熬夜了
+### 买超家对张嘉倪邵晴待遇反差
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 建议大家千万不要再熬夜了
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%86%8D%E7%86%AC%E5%A4%9C%E4%BA%86&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 买超家对张嘉倪邵晴待遇反差 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85%E5%AE%B6%E5%AF%B9%E5%BC%A0%E5%98%89%E5%80%AA%E9%82%B5%E6%99%B4%E5%BE%85%E9%81%87%E5%8F%8D%E5%B7%AE&from=hot_mine
 
-### 15岁少年家中赤裸死亡父亲回应
+### 迪丽热巴一出现全场的手机就醒了
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 15岁少年家中赤裸死亡父亲回应 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=15%E5%B2%81%E5%B0%91%E5%B9%B4%E5%AE%B6%E4%B8%AD%E8%B5%A4%E8%A3%B8%E6%AD%BB%E4%BA%A1%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 迪丽热巴一出现全场的手机就醒了
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%87%BA%E7%8E%B0%E5%85%A8%E5%9C%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%B0%B1%E9%86%92%E4%BA%86&from=hot_mine
 
-### 高血压女子连喝三天绿豆汤致脑出血
+### 佛得角淘汰
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 高血压女子连喝三天绿豆汤致脑出血 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E8%A1%80%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%96%9D%E4%B8%89%E5%A4%A9%E7%BB%BF%E8%B1%86%E6%B1%A4%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 佛得角淘汰
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%B7%98%E6%B1%B0&from=hot_mine
 
-### 鸭血粉丝店也遭LV起诉
+### YG艺人称SM是暧昧天堂
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 鸭血粉丝店也遭LV起诉
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%E7%B2%89%E4%B8%9D%E5%BA%97%E4%B9%9F%E9%81%ADLV%E8%B5%B7%E8%AF%89&from=hot_search
+- Source: 微博热榜-mine
+- Desc: YG艺人称SM是暧昧天堂 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=YG%E8%89%BA%E4%BA%BA%E7%A7%B0SM%E6%98%AF%E6%9A%A7%E6%98%A7%E5%A4%A9%E5%A0%82&from=hot_mine
 
-### 克罗地亚媒体怒批球队被抢劫
+### 密室大逃脱8定档官宣
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 克罗地亚媒体怒批球队被抢劫
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%AA%92%E4%BD%93%E6%80%92%E6%89%B9%E7%90%83%E9%98%9F%E8%A2%AB%E6%8A%A2%E5%8A%AB&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 密室大逃脱8定档官宣 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B18%E5%AE%9A%E6%A1%A3%E5%AE%98%E5%AE%A3&from=hot_mine
 
-### 王俊凯王源演唱会撞档
+### 台风
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 王俊凯王源演唱会撞档
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E6%92%9E%E6%A1%A3&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 台风
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&from=hot_mine
 
-### 买保险30年月领50万仅领1月被拒
+### 曝iPhone18无缘iOS27两大功能
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 买保险30年月领50万仅领1月被拒
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BF%9D%E9%99%A930%E5%B9%B4%E6%9C%88%E9%A2%8650%E4%B8%87%E4%BB%85%E9%A2%861%E6%9C%88%E8%A2%AB%E6%8B%92&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 曝iPhone18无缘iOS27两大功能 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD&from=hot_mine
 
-### C罗拉着我进消防通道合影签名
+### 存储芯片涨价
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: C罗拉着我进消防通道合影签名
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%8B%89%E7%9D%80%E6%88%91%E8%BF%9B%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E5%90%88%E5%BD%B1%E7%AD%BE%E5%90%8D&from=hot_search
-
-### 国乒男单绝对统治力正在逐步消解
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 国乒男单绝对统治力正在逐步消解
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E7%BB%9D%E5%AF%B9%E7%BB%9F%E6%B2%BB%E5%8A%9B%E6%AD%A3%E5%9C%A8%E9%80%90%E6%AD%A5%E6%B6%88%E8%A7%A3&from=hot_search
-
-### 如何看待AI模型蒸馏
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 如何看待AI模型蒸馏 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F&from=hot_search
-
-### 终于有人说SML码抽纸了
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 终于有人说SML码抽纸了
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4SML%E7%A0%81%E6%8A%BD%E7%BA%B8%E4%BA%86&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 存储芯片涨价
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&from=hot_mine
 
 ### 买超 邵晴
 - Platform: weibo
-- Source: 微博热榜-search
+- Source: 微博热榜-mine
 - Desc: 买超 邵晴 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E9%82%B5%E6%99%B4&from=hot_search
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E9%82%B5%E6%99%B4&from=hot_mine
 
-### 生理性喜欢就是电光火石
+### 菲律宾最新涉台表述
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 菲律宾最新涉台表述 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%80%E6%96%B0%E6%B6%89%E5%8F%B0%E8%A1%A8%E8%BF%B0&from=hot_mine
+
+### 杨丞琳 希望大家不要心疼我
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 杨丞琳 希望大家不要心疼我 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3+%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%BF%83%E7%96%BC%E6%88%91&from=hot_mine
+
+### 霉霉世纪婚礼
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 霉霉世纪婚礼
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E4%B8%96%E7%BA%AA%E5%A9%9A%E7%A4%BC&from=hot_mine
+
+### 阿根廷vs佛得角
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 阿根廷vs佛得角 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92&from=hot_mine
+
+### EXO老祖向杨博文道歉
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: EXO老祖向杨博文道歉 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=EXO%E8%80%81%E7%A5%96%E5%90%91%E6%9D%A8%E5%8D%9A%E6%96%87%E9%81%93%E6%AD%89&from=hot_mine
+
+### 佛得角世界波
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 佛得角世界波
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%B3%A2&from=hot_mine
+
+### 王俊凯演唱会万份伴手礼
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 王俊凯演唱会万份伴手礼
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BB%BD%E4%BC%B4%E6%89%8B%E7%A4%BC&from=hot_mine
+
+### 邓为拎了6袋迪奥送花少嘉宾
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 邓为拎了6袋迪奥送花少嘉宾
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8B%8E%E4%BA%866%E8%A2%8B%E8%BF%AA%E5%A5%A5%E9%80%81%E8%8A%B1%E5%B0%91%E5%98%89%E5%AE%BE&from=hot_mine
+
+### 张本智和0比3希德仁科
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 张本智和0比3希德仁科 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C0%E6%AF%943%E5%B8%8C%E5%BE%B7%E4%BB%81%E7%A7%91&from=hot_mine
+
+### 佛得角门将 封神
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 生理性喜欢就是电光火石
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E5%B0%B1%E6%98%AF%E7%94%B5%E5%85%89%E7%81%AB%E7%9F%B3&from=hot_search
+- Desc: 佛得角门将 封神 沸
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86+%E5%B0%81%E7%A5%9E&from=hot_search
 
-### 女孩摸自行车把手遭掌掴妈妈发声
+### 西班牙此身从此分明了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 女孩摸自行车把手遭掌掴妈妈发声
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8A%8A%E6%89%8B%E9%81%AD%E6%8E%8C%E6%8E%B4%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&from=hot_search
-
-### 李沁撑得起李清照的少女感与晚年的孤傲
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 李沁撑得起李清照的少女感与晚年的孤傲 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%81%E6%92%91%E5%BE%97%E8%B5%B7%E6%9D%8E%E6%B8%85%E7%85%A7%E7%9A%84%E5%B0%91%E5%A5%B3%E6%84%9F%E4%B8%8E%E6%99%9A%E5%B9%B4%E7%9A%84%E5%AD%A4%E5%82%B2&from=hot_search
-
-### 林俊杰檀健次就这个双强爽
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 林俊杰檀健次就这个双强爽
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B0%B1%E8%BF%99%E4%B8%AA%E5%8F%8C%E5%BC%BA%E7%88%BD&from=hot_search
-
-### 产妇羊水栓塞丈夫在ICU拍下全家福
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 产妇羊水栓塞丈夫在ICU拍下全家福
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E4%B8%88%E5%A4%AB%E5%9C%A8ICU%E6%8B%8D%E4%B8%8B%E5%85%A8%E5%AE%B6%E7%A6%8F&from=hot_search
-
-### 陈露称有录音及文字证据
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 陈露称有录音及文字证据 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E9%9C%B2%E7%A7%B0%E6%9C%89%E5%BD%95%E9%9F%B3%E5%8F%8A%E6%96%87%E5%AD%97%E8%AF%81%E6%8D%AE&from=hot_search
-
-### 买超 张嘉倪
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 买超 张嘉倪
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E5%BC%A0%E5%98%89%E5%80%AA&from=hot_search
-
-### 丁禹兮古装跳万物生
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 丁禹兮古装跳万物生
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8F%A4%E8%A3%85%E8%B7%B3%E4%B8%87%E7%89%A9%E7%94%9F&from=hot_search
+- Desc: 西班牙此身从此分明了
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%AD%A4%E8%BA%AB%E4%BB%8E%E6%AD%A4%E5%88%86%E6%98%8E%E4%BA%86&from=hot_search
 
 ### 升级版电影院要来了
 - Platform: weibo
 - Source: 微博热榜-search
 - Desc: 升级版电影院要来了
-- Published At: 2026-07-03T23:16:45.313Z
+- Published At: 2026-07-04T03:46:28.491Z
 - URL: https://s.weibo.com/weibo?q=%E5%8D%87%E7%BA%A7%E7%89%88%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E6%9D%A5%E4%BA%86&from=hot_search
 
-### 澳大利亚vs埃及
+### 佛得角门将 俱乐部不要他了
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 澳大利亚vs埃及
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9Avs%E5%9F%83%E5%8F%8A&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 佛得角门将 俱乐部不要他了 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86+%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%8D%E8%A6%81%E4%BB%96%E4%BA%86&from=hot_search
 
-### 孙颖莎vs梅谢芙
+### 佛得角乌龙球
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 孙颖莎vs梅谢芙
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%A2%85%E8%B0%A2%E8%8A%99&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 佛得角乌龙球
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B9%8C%E9%BE%99%E7%90%83&from=hot_search
 
-### 多重硬核成就彰显高质量发展底气
+### 佛得角战平3个世界杯冠军
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 多重硬核成就彰显高质量发展底气
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%9A%E9%87%8D%E7%A1%AC%E6%A0%B8%E6%88%90%E5%B0%B1%E5%BD%B0%E6%98%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E5%BA%95%E6%B0%94&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 佛得角战平3个世界杯冠军
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%88%98%E5%B9%B33%E4%B8%AA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&from=hot_search
 
-### 邓为拎了6袋迪奥送花少嘉宾
+### 王俊凯刷新内娱演唱会想看最快纪录
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 邓为拎了6袋迪奥送花少嘉宾 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8B%8E%E4%BA%866%E8%A2%8B%E8%BF%AA%E5%A5%A5%E9%80%81%E8%8A%B1%E5%B0%91%E5%98%89%E5%AE%BE&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 王俊凯刷新内娱演唱会想看最快纪录 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%88%B7%E6%96%B0%E5%86%85%E5%A8%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%B3%E7%9C%8B%E6%9C%80%E5%BF%AB%E7%BA%AA%E5%BD%95&from=hot_search
 
-### 把会删Word空白页写进简历
+### 阿根廷 假摔
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 把会删Word空白页写进简历
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%8A%8A%E4%BC%9A%E5%88%A0Word%E7%A9%BA%E7%99%BD%E9%A1%B5%E5%86%99%E8%BF%9B%E7%AE%80%E5%8E%86&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 阿根廷 假摔
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%81%87%E6%91%94&from=hot_search
 
-### 阿根廷vs佛得角
+### 这一秒过火
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 阿根廷vs佛得角 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 这一秒过火 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB&from=hot_search
 
-### 阿根廷进球
+### 普京宣布俄军完全解放卢甘斯克
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 阿根廷进球 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9B%E7%90%83&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 普京宣布俄军完全解放卢甘斯克 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%BF%84%E5%86%9B%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%94%BE%E5%8D%A2%E7%94%98%E6%96%AF%E5%85%8B&from=hot_search
 
-### 王俊凯演唱会票价
+### 张嘉倪获两子抚养权
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 王俊凯演唱会票价
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 张嘉倪获两子抚养权 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%98%89%E5%80%AA%E8%8E%B7%E4%B8%A4%E5%AD%90%E6%8A%9A%E5%85%BB%E6%9D%83&from=hot_search
 
-### 歌手排名
+### 阿根廷 啃老
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 歌手排名
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 阿根廷 啃老 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%95%83%E8%80%81&from=hot_search
 
-### 建议大家千万不要再熬夜了
+### 买超家对张嘉倪邵晴待遇反差
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 建议大家千万不要再熬夜了
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%86%8D%E7%86%AC%E5%A4%9C%E4%BA%86&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 买超家对张嘉倪邵晴待遇反差 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85%E5%AE%B6%E5%AF%B9%E5%BC%A0%E5%98%89%E5%80%AA%E9%82%B5%E6%99%B4%E5%BE%85%E9%81%87%E5%8F%8D%E5%B7%AE&from=hot_search
 
-### 15岁少年家中赤裸死亡父亲回应
+### 迪丽热巴一出现全场的手机就醒了
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 15岁少年家中赤裸死亡父亲回应 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=15%E5%B2%81%E5%B0%91%E5%B9%B4%E5%AE%B6%E4%B8%AD%E8%B5%A4%E8%A3%B8%E6%AD%BB%E4%BA%A1%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 迪丽热巴一出现全场的手机就醒了
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%87%BA%E7%8E%B0%E5%85%A8%E5%9C%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%B0%B1%E9%86%92%E4%BA%86&from=hot_search
 
-### 高血压女子连喝三天绿豆汤致脑出血
+### 佛得角淘汰
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 高血压女子连喝三天绿豆汤致脑出血 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E8%A1%80%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%96%9D%E4%B8%89%E5%A4%A9%E7%BB%BF%E8%B1%86%E6%B1%A4%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 佛得角淘汰
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%B7%98%E6%B1%B0&from=hot_search
 
-### 鸭血粉丝店也遭LV起诉
+### YG艺人称SM是暧昧天堂
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 鸭血粉丝店也遭LV起诉
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%E7%B2%89%E4%B8%9D%E5%BA%97%E4%B9%9F%E9%81%ADLV%E8%B5%B7%E8%AF%89&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: YG艺人称SM是暧昧天堂 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=YG%E8%89%BA%E4%BA%BA%E7%A7%B0SM%E6%98%AF%E6%9A%A7%E6%98%A7%E5%A4%A9%E5%A0%82&from=hot_search
 
-### 克罗地亚媒体怒批球队被抢劫
+### 密室大逃脱8定档官宣
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 克罗地亚媒体怒批球队被抢劫
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%AA%92%E4%BD%93%E6%80%92%E6%89%B9%E7%90%83%E9%98%9F%E8%A2%AB%E6%8A%A2%E5%8A%AB&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 密室大逃脱8定档官宣 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B18%E5%AE%9A%E6%A1%A3%E5%AE%98%E5%AE%A3&from=hot_search
 
-### 王俊凯王源演唱会撞档
+### 台风
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 王俊凯王源演唱会撞档
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E6%92%9E%E6%A1%A3&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 台风
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&from=hot_search
 
-### 买保险30年月领50万仅领1月被拒
+### 曝iPhone18无缘iOS27两大功能
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 买保险30年月领50万仅领1月被拒
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BF%9D%E9%99%A930%E5%B9%B4%E6%9C%88%E9%A2%8650%E4%B8%87%E4%BB%85%E9%A2%861%E6%9C%88%E8%A2%AB%E6%8B%92&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 曝iPhone18无缘iOS27两大功能 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD&from=hot_search
 
-### C罗拉着我进消防通道合影签名
+### 存储芯片涨价
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: C罗拉着我进消防通道合影签名
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%8B%89%E7%9D%80%E6%88%91%E8%BF%9B%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E5%90%88%E5%BD%B1%E7%AD%BE%E5%90%8D&from=hot_entertainment
-
-### 国乒男单绝对统治力正在逐步消解
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 国乒男单绝对统治力正在逐步消解
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E7%BB%9D%E5%AF%B9%E7%BB%9F%E6%B2%BB%E5%8A%9B%E6%AD%A3%E5%9C%A8%E9%80%90%E6%AD%A5%E6%B6%88%E8%A7%A3&from=hot_entertainment
-
-### 如何看待AI模型蒸馏
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 如何看待AI模型蒸馏 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F&from=hot_entertainment
-
-### 终于有人说SML码抽纸了
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 终于有人说SML码抽纸了
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4SML%E7%A0%81%E6%8A%BD%E7%BA%B8%E4%BA%86&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 存储芯片涨价
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&from=hot_search
 
 ### 买超 邵晴
 - Platform: weibo
-- Source: 微博热榜-entertainment
+- Source: 微博热榜-search
 - Desc: 买超 邵晴 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E9%82%B5%E6%99%B4&from=hot_entertainment
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E9%82%B5%E6%99%B4&from=hot_search
 
-### 生理性喜欢就是电光火石
+### 菲律宾最新涉台表述
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 菲律宾最新涉台表述 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%80%E6%96%B0%E6%B6%89%E5%8F%B0%E8%A1%A8%E8%BF%B0&from=hot_search
+
+### 杨丞琳 希望大家不要心疼我
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 杨丞琳 希望大家不要心疼我 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3+%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%BF%83%E7%96%BC%E6%88%91&from=hot_search
+
+### 霉霉世纪婚礼
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 霉霉世纪婚礼
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E4%B8%96%E7%BA%AA%E5%A9%9A%E7%A4%BC&from=hot_search
+
+### 阿根廷vs佛得角
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 阿根廷vs佛得角 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92&from=hot_search
+
+### EXO老祖向杨博文道歉
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: EXO老祖向杨博文道歉 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=EXO%E8%80%81%E7%A5%96%E5%90%91%E6%9D%A8%E5%8D%9A%E6%96%87%E9%81%93%E6%AD%89&from=hot_search
+
+### 佛得角世界波
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 佛得角世界波
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%B3%A2&from=hot_search
+
+### 王俊凯演唱会万份伴手礼
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 王俊凯演唱会万份伴手礼
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BB%BD%E4%BC%B4%E6%89%8B%E7%A4%BC&from=hot_search
+
+### 邓为拎了6袋迪奥送花少嘉宾
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 邓为拎了6袋迪奥送花少嘉宾
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8B%8E%E4%BA%866%E8%A2%8B%E8%BF%AA%E5%A5%A5%E9%80%81%E8%8A%B1%E5%B0%91%E5%98%89%E5%AE%BE&from=hot_search
+
+### 张本智和0比3希德仁科
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 张本智和0比3希德仁科 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C0%E6%AF%943%E5%B8%8C%E5%BE%B7%E4%BB%81%E7%A7%91&from=hot_search
+
+### 佛得角门将 封神
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 生理性喜欢就是电光火石
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E5%B0%B1%E6%98%AF%E7%94%B5%E5%85%89%E7%81%AB%E7%9F%B3&from=hot_entertainment
+- Desc: 佛得角门将 封神 沸
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86+%E5%B0%81%E7%A5%9E&from=hot_entertainment
 
-### 女孩摸自行车把手遭掌掴妈妈发声
+### 西班牙此身从此分明了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 女孩摸自行车把手遭掌掴妈妈发声
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8A%8A%E6%89%8B%E9%81%AD%E6%8E%8C%E6%8E%B4%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&from=hot_entertainment
-
-### 李沁撑得起李清照的少女感与晚年的孤傲
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 李沁撑得起李清照的少女感与晚年的孤傲 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%81%E6%92%91%E5%BE%97%E8%B5%B7%E6%9D%8E%E6%B8%85%E7%85%A7%E7%9A%84%E5%B0%91%E5%A5%B3%E6%84%9F%E4%B8%8E%E6%99%9A%E5%B9%B4%E7%9A%84%E5%AD%A4%E5%82%B2&from=hot_entertainment
-
-### 林俊杰檀健次就这个双强爽
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 林俊杰檀健次就这个双强爽
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B0%B1%E8%BF%99%E4%B8%AA%E5%8F%8C%E5%BC%BA%E7%88%BD&from=hot_entertainment
-
-### 产妇羊水栓塞丈夫在ICU拍下全家福
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 产妇羊水栓塞丈夫在ICU拍下全家福
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E4%B8%88%E5%A4%AB%E5%9C%A8ICU%E6%8B%8D%E4%B8%8B%E5%85%A8%E5%AE%B6%E7%A6%8F&from=hot_entertainment
-
-### 陈露称有录音及文字证据
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 陈露称有录音及文字证据 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E9%9C%B2%E7%A7%B0%E6%9C%89%E5%BD%95%E9%9F%B3%E5%8F%8A%E6%96%87%E5%AD%97%E8%AF%81%E6%8D%AE&from=hot_entertainment
-
-### 买超 张嘉倪
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 买超 张嘉倪
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E5%BC%A0%E5%98%89%E5%80%AA&from=hot_entertainment
-
-### 丁禹兮古装跳万物生
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 丁禹兮古装跳万物生
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8F%A4%E8%A3%85%E8%B7%B3%E4%B8%87%E7%89%A9%E7%94%9F&from=hot_entertainment
+- Desc: 西班牙此身从此分明了
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%AD%A4%E8%BA%AB%E4%BB%8E%E6%AD%A4%E5%88%86%E6%98%8E%E4%BA%86&from=hot_entertainment
 
 ### 升级版电影院要来了
 - Platform: weibo
 - Source: 微博热榜-entertainment
 - Desc: 升级版电影院要来了
-- Published At: 2026-07-03T23:16:45.313Z
+- Published At: 2026-07-04T03:46:28.491Z
 - URL: https://s.weibo.com/weibo?q=%E5%8D%87%E7%BA%A7%E7%89%88%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E6%9D%A5%E4%BA%86&from=hot_entertainment
 
-### 澳大利亚vs埃及
+### 佛得角门将 俱乐部不要他了
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 澳大利亚vs埃及
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9Avs%E5%9F%83%E5%8F%8A&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 佛得角门将 俱乐部不要他了 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86+%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%8D%E8%A6%81%E4%BB%96%E4%BA%86&from=hot_entertainment
 
-### 孙颖莎vs梅谢芙
+### 佛得角乌龙球
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 孙颖莎vs梅谢芙
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%A2%85%E8%B0%A2%E8%8A%99&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 佛得角乌龙球
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B9%8C%E9%BE%99%E7%90%83&from=hot_entertainment
 
-### 多重硬核成就彰显高质量发展底气
+### 佛得角战平3个世界杯冠军
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 多重硬核成就彰显高质量发展底气
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%9A%E9%87%8D%E7%A1%AC%E6%A0%B8%E6%88%90%E5%B0%B1%E5%BD%B0%E6%98%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E5%BA%95%E6%B0%94&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 佛得角战平3个世界杯冠军
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%88%98%E5%B9%B33%E4%B8%AA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&from=hot_entertainment
 
-### 邓为拎了6袋迪奥送花少嘉宾
+### 王俊凯刷新内娱演唱会想看最快纪录
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 邓为拎了6袋迪奥送花少嘉宾 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8B%8E%E4%BA%866%E8%A2%8B%E8%BF%AA%E5%A5%A5%E9%80%81%E8%8A%B1%E5%B0%91%E5%98%89%E5%AE%BE&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 王俊凯刷新内娱演唱会想看最快纪录 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%88%B7%E6%96%B0%E5%86%85%E5%A8%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%B3%E7%9C%8B%E6%9C%80%E5%BF%AB%E7%BA%AA%E5%BD%95&from=hot_entertainment
 
-### 把会删Word空白页写进简历
+### 阿根廷 假摔
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 把会删Word空白页写进简历
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%8A%8A%E4%BC%9A%E5%88%A0Word%E7%A9%BA%E7%99%BD%E9%A1%B5%E5%86%99%E8%BF%9B%E7%AE%80%E5%8E%86&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 阿根廷 假摔
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%81%87%E6%91%94&from=hot_entertainment
 
-### 阿根廷vs佛得角
+### 这一秒过火
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 阿根廷vs佛得角 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 这一秒过火 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB&from=hot_entertainment
 
-### 阿根廷进球
+### 普京宣布俄军完全解放卢甘斯克
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 阿根廷进球 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9B%E7%90%83&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 普京宣布俄军完全解放卢甘斯克 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%BF%84%E5%86%9B%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%94%BE%E5%8D%A2%E7%94%98%E6%96%AF%E5%85%8B&from=hot_entertainment
 
-### 王俊凯演唱会票价
+### 张嘉倪获两子抚养权
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 王俊凯演唱会票价
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 张嘉倪获两子抚养权 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%98%89%E5%80%AA%E8%8E%B7%E4%B8%A4%E5%AD%90%E6%8A%9A%E5%85%BB%E6%9D%83&from=hot_entertainment
 
-### 歌手排名
+### 阿根廷 啃老
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 歌手排名
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 阿根廷 啃老 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%95%83%E8%80%81&from=hot_entertainment
 
-### 建议大家千万不要再熬夜了
+### 买超家对张嘉倪邵晴待遇反差
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 建议大家千万不要再熬夜了
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%86%8D%E7%86%AC%E5%A4%9C%E4%BA%86&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 买超家对张嘉倪邵晴待遇反差 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85%E5%AE%B6%E5%AF%B9%E5%BC%A0%E5%98%89%E5%80%AA%E9%82%B5%E6%99%B4%E5%BE%85%E9%81%87%E5%8F%8D%E5%B7%AE&from=hot_entertainment
 
-### 15岁少年家中赤裸死亡父亲回应
+### 迪丽热巴一出现全场的手机就醒了
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 15岁少年家中赤裸死亡父亲回应 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=15%E5%B2%81%E5%B0%91%E5%B9%B4%E5%AE%B6%E4%B8%AD%E8%B5%A4%E8%A3%B8%E6%AD%BB%E4%BA%A1%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 迪丽热巴一出现全场的手机就醒了
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%87%BA%E7%8E%B0%E5%85%A8%E5%9C%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%B0%B1%E9%86%92%E4%BA%86&from=hot_entertainment
 
-### 高血压女子连喝三天绿豆汤致脑出血
+### 佛得角淘汰
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 高血压女子连喝三天绿豆汤致脑出血 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E8%A1%80%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%96%9D%E4%B8%89%E5%A4%A9%E7%BB%BF%E8%B1%86%E6%B1%A4%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 佛得角淘汰
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%B7%98%E6%B1%B0&from=hot_entertainment
 
-### 鸭血粉丝店也遭LV起诉
+### YG艺人称SM是暧昧天堂
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 鸭血粉丝店也遭LV起诉
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%E7%B2%89%E4%B8%9D%E5%BA%97%E4%B9%9F%E9%81%ADLV%E8%B5%B7%E8%AF%89&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: YG艺人称SM是暧昧天堂 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=YG%E8%89%BA%E4%BA%BA%E7%A7%B0SM%E6%98%AF%E6%9A%A7%E6%98%A7%E5%A4%A9%E5%A0%82&from=hot_entertainment
 
-### 克罗地亚媒体怒批球队被抢劫
+### 密室大逃脱8定档官宣
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 克罗地亚媒体怒批球队被抢劫
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%AA%92%E4%BD%93%E6%80%92%E6%89%B9%E7%90%83%E9%98%9F%E8%A2%AB%E6%8A%A2%E5%8A%AB&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 密室大逃脱8定档官宣 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B18%E5%AE%9A%E6%A1%A3%E5%AE%98%E5%AE%A3&from=hot_entertainment
 
-### 王俊凯王源演唱会撞档
+### 台风
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 王俊凯王源演唱会撞档
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E6%92%9E%E6%A1%A3&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 台风
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&from=hot_entertainment
 
-### 买保险30年月领50万仅领1月被拒
+### 曝iPhone18无缘iOS27两大功能
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 买保险30年月领50万仅领1月被拒
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BF%9D%E9%99%A930%E5%B9%B4%E6%9C%88%E9%A2%8650%E4%B8%87%E4%BB%85%E9%A2%861%E6%9C%88%E8%A2%AB%E6%8B%92&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 曝iPhone18无缘iOS27两大功能 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD&from=hot_entertainment
 
-### C罗拉着我进消防通道合影签名
+### 存储芯片涨价
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: C罗拉着我进消防通道合影签名
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%8B%89%E7%9D%80%E6%88%91%E8%BF%9B%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E5%90%88%E5%BD%B1%E7%AD%BE%E5%90%8D&from=hot_life
-
-### 国乒男单绝对统治力正在逐步消解
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 国乒男单绝对统治力正在逐步消解
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E7%BB%9D%E5%AF%B9%E7%BB%9F%E6%B2%BB%E5%8A%9B%E6%AD%A3%E5%9C%A8%E9%80%90%E6%AD%A5%E6%B6%88%E8%A7%A3&from=hot_life
-
-### 如何看待AI模型蒸馏
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 如何看待AI模型蒸馏 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F&from=hot_life
-
-### 终于有人说SML码抽纸了
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 终于有人说SML码抽纸了
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4SML%E7%A0%81%E6%8A%BD%E7%BA%B8%E4%BA%86&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 存储芯片涨价
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&from=hot_entertainment
 
 ### 买超 邵晴
 - Platform: weibo
-- Source: 微博热榜-life
+- Source: 微博热榜-entertainment
 - Desc: 买超 邵晴 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E9%82%B5%E6%99%B4&from=hot_life
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E9%82%B5%E6%99%B4&from=hot_entertainment
 
-### 生理性喜欢就是电光火石
+### 菲律宾最新涉台表述
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 菲律宾最新涉台表述 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%80%E6%96%B0%E6%B6%89%E5%8F%B0%E8%A1%A8%E8%BF%B0&from=hot_entertainment
+
+### 杨丞琳 希望大家不要心疼我
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 杨丞琳 希望大家不要心疼我 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3+%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%BF%83%E7%96%BC%E6%88%91&from=hot_entertainment
+
+### 霉霉世纪婚礼
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 霉霉世纪婚礼
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E4%B8%96%E7%BA%AA%E5%A9%9A%E7%A4%BC&from=hot_entertainment
+
+### 阿根廷vs佛得角
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 阿根廷vs佛得角 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92&from=hot_entertainment
+
+### EXO老祖向杨博文道歉
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: EXO老祖向杨博文道歉 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=EXO%E8%80%81%E7%A5%96%E5%90%91%E6%9D%A8%E5%8D%9A%E6%96%87%E9%81%93%E6%AD%89&from=hot_entertainment
+
+### 佛得角世界波
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 佛得角世界波
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%B3%A2&from=hot_entertainment
+
+### 王俊凯演唱会万份伴手礼
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 王俊凯演唱会万份伴手礼
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BB%BD%E4%BC%B4%E6%89%8B%E7%A4%BC&from=hot_entertainment
+
+### 邓为拎了6袋迪奥送花少嘉宾
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 邓为拎了6袋迪奥送花少嘉宾
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8B%8E%E4%BA%866%E8%A2%8B%E8%BF%AA%E5%A5%A5%E9%80%81%E8%8A%B1%E5%B0%91%E5%98%89%E5%AE%BE&from=hot_entertainment
+
+### 张本智和0比3希德仁科
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 张本智和0比3希德仁科 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C0%E6%AF%943%E5%B8%8C%E5%BE%B7%E4%BB%81%E7%A7%91&from=hot_entertainment
+
+### 佛得角门将 封神
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 生理性喜欢就是电光火石
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E5%B0%B1%E6%98%AF%E7%94%B5%E5%85%89%E7%81%AB%E7%9F%B3&from=hot_life
+- Desc: 佛得角门将 封神 沸
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86+%E5%B0%81%E7%A5%9E&from=hot_life
 
-### 女孩摸自行车把手遭掌掴妈妈发声
+### 西班牙此身从此分明了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 女孩摸自行车把手遭掌掴妈妈发声
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8A%8A%E6%89%8B%E9%81%AD%E6%8E%8C%E6%8E%B4%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&from=hot_life
-
-### 李沁撑得起李清照的少女感与晚年的孤傲
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 李沁撑得起李清照的少女感与晚年的孤傲 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%81%E6%92%91%E5%BE%97%E8%B5%B7%E6%9D%8E%E6%B8%85%E7%85%A7%E7%9A%84%E5%B0%91%E5%A5%B3%E6%84%9F%E4%B8%8E%E6%99%9A%E5%B9%B4%E7%9A%84%E5%AD%A4%E5%82%B2&from=hot_life
-
-### 林俊杰檀健次就这个双强爽
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 林俊杰檀健次就这个双强爽
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B0%B1%E8%BF%99%E4%B8%AA%E5%8F%8C%E5%BC%BA%E7%88%BD&from=hot_life
-
-### 产妇羊水栓塞丈夫在ICU拍下全家福
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 产妇羊水栓塞丈夫在ICU拍下全家福
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E4%B8%88%E5%A4%AB%E5%9C%A8ICU%E6%8B%8D%E4%B8%8B%E5%85%A8%E5%AE%B6%E7%A6%8F&from=hot_life
-
-### 陈露称有录音及文字证据
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 陈露称有录音及文字证据 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E9%9C%B2%E7%A7%B0%E6%9C%89%E5%BD%95%E9%9F%B3%E5%8F%8A%E6%96%87%E5%AD%97%E8%AF%81%E6%8D%AE&from=hot_life
-
-### 买超 张嘉倪
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 买超 张嘉倪
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E5%BC%A0%E5%98%89%E5%80%AA&from=hot_life
-
-### 丁禹兮古装跳万物生
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 丁禹兮古装跳万物生
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8F%A4%E8%A3%85%E8%B7%B3%E4%B8%87%E7%89%A9%E7%94%9F&from=hot_life
+- Desc: 西班牙此身从此分明了
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%AD%A4%E8%BA%AB%E4%BB%8E%E6%AD%A4%E5%88%86%E6%98%8E%E4%BA%86&from=hot_life
 
 ### 升级版电影院要来了
 - Platform: weibo
 - Source: 微博热榜-life
 - Desc: 升级版电影院要来了
-- Published At: 2026-07-03T23:16:45.313Z
+- Published At: 2026-07-04T03:46:28.491Z
 - URL: https://s.weibo.com/weibo?q=%E5%8D%87%E7%BA%A7%E7%89%88%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E6%9D%A5%E4%BA%86&from=hot_life
 
-### 澳大利亚vs埃及
+### 佛得角门将 俱乐部不要他了
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 澳大利亚vs埃及
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9Avs%E5%9F%83%E5%8F%8A&from=hot_social
+- Source: 微博热榜-life
+- Desc: 佛得角门将 俱乐部不要他了 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86+%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%8D%E8%A6%81%E4%BB%96%E4%BA%86&from=hot_life
 
-### 孙颖莎vs梅谢芙
+### 佛得角乌龙球
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 孙颖莎vs梅谢芙
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%A2%85%E8%B0%A2%E8%8A%99&from=hot_social
+- Source: 微博热榜-life
+- Desc: 佛得角乌龙球
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B9%8C%E9%BE%99%E7%90%83&from=hot_life
 
-### 多重硬核成就彰显高质量发展底气
+### 佛得角战平3个世界杯冠军
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 多重硬核成就彰显高质量发展底气
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%9A%E9%87%8D%E7%A1%AC%E6%A0%B8%E6%88%90%E5%B0%B1%E5%BD%B0%E6%98%BE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E5%BA%95%E6%B0%94&from=hot_social
+- Source: 微博热榜-life
+- Desc: 佛得角战平3个世界杯冠军
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%88%98%E5%B9%B33%E4%B8%AA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&from=hot_life
 
-### 邓为拎了6袋迪奥送花少嘉宾
+### 王俊凯刷新内娱演唱会想看最快纪录
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 邓为拎了6袋迪奥送花少嘉宾 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8B%8E%E4%BA%866%E8%A2%8B%E8%BF%AA%E5%A5%A5%E9%80%81%E8%8A%B1%E5%B0%91%E5%98%89%E5%AE%BE&from=hot_social
+- Source: 微博热榜-life
+- Desc: 王俊凯刷新内娱演唱会想看最快纪录 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%88%B7%E6%96%B0%E5%86%85%E5%A8%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%B3%E7%9C%8B%E6%9C%80%E5%BF%AB%E7%BA%AA%E5%BD%95&from=hot_life
 
-### 把会删Word空白页写进简历
+### 阿根廷 假摔
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 把会删Word空白页写进简历
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%8A%8A%E4%BC%9A%E5%88%A0Word%E7%A9%BA%E7%99%BD%E9%A1%B5%E5%86%99%E8%BF%9B%E7%AE%80%E5%8E%86&from=hot_social
+- Source: 微博热榜-life
+- Desc: 阿根廷 假摔
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%81%87%E6%91%94&from=hot_life
 
-### 阿根廷vs佛得角
+### 这一秒过火
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 阿根廷vs佛得角 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92&from=hot_social
+- Source: 微博热榜-life
+- Desc: 这一秒过火 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB&from=hot_life
 
-### 阿根廷进球
+### 普京宣布俄军完全解放卢甘斯克
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 阿根廷进球 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9B%E7%90%83&from=hot_social
+- Source: 微博热榜-life
+- Desc: 普京宣布俄军完全解放卢甘斯克 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%BF%84%E5%86%9B%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%94%BE%E5%8D%A2%E7%94%98%E6%96%AF%E5%85%8B&from=hot_life
 
-### 王俊凯演唱会票价
+### 张嘉倪获两子抚养权
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 王俊凯演唱会票价
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7&from=hot_social
+- Source: 微博热榜-life
+- Desc: 张嘉倪获两子抚养权 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%98%89%E5%80%AA%E8%8E%B7%E4%B8%A4%E5%AD%90%E6%8A%9A%E5%85%BB%E6%9D%83&from=hot_life
 
-### 歌手排名
+### 阿根廷 啃老
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 歌手排名
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&from=hot_social
+- Source: 微博热榜-life
+- Desc: 阿根廷 啃老 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%95%83%E8%80%81&from=hot_life
 
-### 建议大家千万不要再熬夜了
+### 买超家对张嘉倪邵晴待遇反差
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 建议大家千万不要再熬夜了
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%86%8D%E7%86%AC%E5%A4%9C%E4%BA%86&from=hot_social
+- Source: 微博热榜-life
+- Desc: 买超家对张嘉倪邵晴待遇反差 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85%E5%AE%B6%E5%AF%B9%E5%BC%A0%E5%98%89%E5%80%AA%E9%82%B5%E6%99%B4%E5%BE%85%E9%81%87%E5%8F%8D%E5%B7%AE&from=hot_life
 
-### 15岁少年家中赤裸死亡父亲回应
+### 迪丽热巴一出现全场的手机就醒了
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 15岁少年家中赤裸死亡父亲回应 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=15%E5%B2%81%E5%B0%91%E5%B9%B4%E5%AE%B6%E4%B8%AD%E8%B5%A4%E8%A3%B8%E6%AD%BB%E4%BA%A1%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94&from=hot_social
+- Source: 微博热榜-life
+- Desc: 迪丽热巴一出现全场的手机就醒了
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%87%BA%E7%8E%B0%E5%85%A8%E5%9C%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%B0%B1%E9%86%92%E4%BA%86&from=hot_life
 
-### 高血压女子连喝三天绿豆汤致脑出血
+### 佛得角淘汰
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 高血压女子连喝三天绿豆汤致脑出血 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E8%A1%80%E5%8E%8B%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%96%9D%E4%B8%89%E5%A4%A9%E7%BB%BF%E8%B1%86%E6%B1%A4%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80&from=hot_social
+- Source: 微博热榜-life
+- Desc: 佛得角淘汰
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%B7%98%E6%B1%B0&from=hot_life
 
-### 鸭血粉丝店也遭LV起诉
+### YG艺人称SM是暧昧天堂
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 鸭血粉丝店也遭LV起诉
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%B8%AD%E8%A1%80%E7%B2%89%E4%B8%9D%E5%BA%97%E4%B9%9F%E9%81%ADLV%E8%B5%B7%E8%AF%89&from=hot_social
+- Source: 微博热榜-life
+- Desc: YG艺人称SM是暧昧天堂 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=YG%E8%89%BA%E4%BA%BA%E7%A7%B0SM%E6%98%AF%E6%9A%A7%E6%98%A7%E5%A4%A9%E5%A0%82&from=hot_life
 
-### 克罗地亚媒体怒批球队被抢劫
+### 密室大逃脱8定档官宣
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 克罗地亚媒体怒批球队被抢劫
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%AA%92%E4%BD%93%E6%80%92%E6%89%B9%E7%90%83%E9%98%9F%E8%A2%AB%E6%8A%A2%E5%8A%AB&from=hot_social
+- Source: 微博热榜-life
+- Desc: 密室大逃脱8定档官宣 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B18%E5%AE%9A%E6%A1%A3%E5%AE%98%E5%AE%A3&from=hot_life
 
-### 王俊凯王源演唱会撞档
+### 台风
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 王俊凯王源演唱会撞档
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E6%92%9E%E6%A1%A3&from=hot_social
+- Source: 微博热榜-life
+- Desc: 台风
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&from=hot_life
 
-### 买保险30年月领50万仅领1月被拒
+### 曝iPhone18无缘iOS27两大功能
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: 买保险30年月领50万仅领1月被拒
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BF%9D%E9%99%A930%E5%B9%B4%E6%9C%88%E9%A2%8650%E4%B8%87%E4%BB%85%E9%A2%861%E6%9C%88%E8%A2%AB%E6%8B%92&from=hot_social
+- Source: 微博热榜-life
+- Desc: 曝iPhone18无缘iOS27两大功能 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD&from=hot_life
 
-### C罗拉着我进消防通道合影签名
+### 存储芯片涨价
 - Platform: weibo
-- Source: 微博热榜-social
-- Desc: C罗拉着我进消防通道合影签名
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%8B%89%E7%9D%80%E6%88%91%E8%BF%9B%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93%E5%90%88%E5%BD%B1%E7%AD%BE%E5%90%8D&from=hot_social
-
-### 国乒男单绝对统治力正在逐步消解
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 国乒男单绝对统治力正在逐步消解
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E7%BB%9D%E5%AF%B9%E7%BB%9F%E6%B2%BB%E5%8A%9B%E6%AD%A3%E5%9C%A8%E9%80%90%E6%AD%A5%E6%B6%88%E8%A7%A3&from=hot_social
-
-### 如何看待AI模型蒸馏
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 如何看待AI模型蒸馏 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F&from=hot_social
-
-### 终于有人说SML码抽纸了
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 终于有人说SML码抽纸了
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4SML%E7%A0%81%E6%8A%BD%E7%BA%B8%E4%BA%86&from=hot_social
+- Source: 微博热榜-life
+- Desc: 存储芯片涨价
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&from=hot_life
 
 ### 买超 邵晴
 - Platform: weibo
-- Source: 微博热榜-social
+- Source: 微博热榜-life
 - Desc: 买超 邵晴 热
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E9%82%B5%E6%99%B4&from=hot_social
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E9%82%B5%E6%99%B4&from=hot_life
 
-### 生理性喜欢就是电光火石
+### 菲律宾最新涉台表述
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 菲律宾最新涉台表述 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%80%E6%96%B0%E6%B6%89%E5%8F%B0%E8%A1%A8%E8%BF%B0&from=hot_life
+
+### 杨丞琳 希望大家不要心疼我
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 杨丞琳 希望大家不要心疼我 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3+%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%BF%83%E7%96%BC%E6%88%91&from=hot_life
+
+### 霉霉世纪婚礼
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 霉霉世纪婚礼
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E4%B8%96%E7%BA%AA%E5%A9%9A%E7%A4%BC&from=hot_life
+
+### 阿根廷vs佛得角
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 阿根廷vs佛得角 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92&from=hot_life
+
+### EXO老祖向杨博文道歉
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: EXO老祖向杨博文道歉 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=EXO%E8%80%81%E7%A5%96%E5%90%91%E6%9D%A8%E5%8D%9A%E6%96%87%E9%81%93%E6%AD%89&from=hot_life
+
+### 佛得角世界波
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 佛得角世界波
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%B3%A2&from=hot_life
+
+### 王俊凯演唱会万份伴手礼
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 王俊凯演唱会万份伴手礼
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BB%BD%E4%BC%B4%E6%89%8B%E7%A4%BC&from=hot_life
+
+### 邓为拎了6袋迪奥送花少嘉宾
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 邓为拎了6袋迪奥送花少嘉宾
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8B%8E%E4%BA%866%E8%A2%8B%E8%BF%AA%E5%A5%A5%E9%80%81%E8%8A%B1%E5%B0%91%E5%98%89%E5%AE%BE&from=hot_life
+
+### 张本智和0比3希德仁科
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 张本智和0比3希德仁科 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C0%E6%AF%943%E5%B8%8C%E5%BE%B7%E4%BB%81%E7%A7%91&from=hot_life
+
+### 佛得角门将 封神
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 生理性喜欢就是电光火石
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E5%B0%B1%E6%98%AF%E7%94%B5%E5%85%89%E7%81%AB%E7%9F%B3&from=hot_social
+- Desc: 佛得角门将 封神 沸
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86+%E5%B0%81%E7%A5%9E&from=hot_social
 
-### 女孩摸自行车把手遭掌掴妈妈发声
+### 西班牙此身从此分明了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 女孩摸自行车把手遭掌掴妈妈发声
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%91%B8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%8A%8A%E6%89%8B%E9%81%AD%E6%8E%8C%E6%8E%B4%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0&from=hot_social
-
-### 李沁撑得起李清照的少女感与晚年的孤傲
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 李沁撑得起李清照的少女感与晚年的孤傲 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%81%E6%92%91%E5%BE%97%E8%B5%B7%E6%9D%8E%E6%B8%85%E7%85%A7%E7%9A%84%E5%B0%91%E5%A5%B3%E6%84%9F%E4%B8%8E%E6%99%9A%E5%B9%B4%E7%9A%84%E5%AD%A4%E5%82%B2&from=hot_social
-
-### 林俊杰檀健次就这个双强爽
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 林俊杰檀健次就这个双强爽
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B0%B1%E8%BF%99%E4%B8%AA%E5%8F%8C%E5%BC%BA%E7%88%BD&from=hot_social
-
-### 产妇羊水栓塞丈夫在ICU拍下全家福
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 产妇羊水栓塞丈夫在ICU拍下全家福
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E4%B8%88%E5%A4%AB%E5%9C%A8ICU%E6%8B%8D%E4%B8%8B%E5%85%A8%E5%AE%B6%E7%A6%8F&from=hot_social
-
-### 陈露称有录音及文字证据
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 陈露称有录音及文字证据 新
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E9%9C%B2%E7%A7%B0%E6%9C%89%E5%BD%95%E9%9F%B3%E5%8F%8A%E6%96%87%E5%AD%97%E8%AF%81%E6%8D%AE&from=hot_social
-
-### 买超 张嘉倪
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 买超 张嘉倪
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E5%BC%A0%E5%98%89%E5%80%AA&from=hot_social
-
-### 丁禹兮古装跳万物生
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 丁禹兮古装跳万物生
-- Published At: 2026-07-03T23:16:45.313Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8F%A4%E8%A3%85%E8%B7%B3%E4%B8%87%E7%89%A9%E7%94%9F&from=hot_social
+- Desc: 西班牙此身从此分明了
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%AD%A4%E8%BA%AB%E4%BB%8E%E6%AD%A4%E5%88%86%E6%98%8E%E4%BA%86&from=hot_social
 
 ### 升级版电影院要来了
 - Platform: weibo
 - Source: 微博热榜-social
 - Desc: 升级版电影院要来了
-- Published At: 2026-07-03T23:16:45.313Z
+- Published At: 2026-07-04T03:46:28.491Z
 - URL: https://s.weibo.com/weibo?q=%E5%8D%87%E7%BA%A7%E7%89%88%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E6%9D%A5%E4%BA%86&from=hot_social
+
+### 佛得角门将 俱乐部不要他了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 佛得角门将 俱乐部不要他了 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86+%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%8D%E8%A6%81%E4%BB%96%E4%BA%86&from=hot_social
+
+### 佛得角乌龙球
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 佛得角乌龙球
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B9%8C%E9%BE%99%E7%90%83&from=hot_social
+
+### 佛得角战平3个世界杯冠军
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 佛得角战平3个世界杯冠军
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%88%98%E5%B9%B33%E4%B8%AA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B&from=hot_social
+
+### 王俊凯刷新内娱演唱会想看最快纪录
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 王俊凯刷新内娱演唱会想看最快纪录 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%88%B7%E6%96%B0%E5%86%85%E5%A8%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%B3%E7%9C%8B%E6%9C%80%E5%BF%AB%E7%BA%AA%E5%BD%95&from=hot_social
+
+### 阿根廷 假摔
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 阿根廷 假摔
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%81%87%E6%91%94&from=hot_social
+
+### 这一秒过火
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 这一秒过火 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB&from=hot_social
+
+### 普京宣布俄军完全解放卢甘斯克
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 普京宣布俄军完全解放卢甘斯克 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%BF%84%E5%86%9B%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%94%BE%E5%8D%A2%E7%94%98%E6%96%AF%E5%85%8B&from=hot_social
+
+### 张嘉倪获两子抚养权
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 张嘉倪获两子抚养权 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%98%89%E5%80%AA%E8%8E%B7%E4%B8%A4%E5%AD%90%E6%8A%9A%E5%85%BB%E6%9D%83&from=hot_social
+
+### 阿根廷 啃老
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 阿根廷 啃老 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%95%83%E8%80%81&from=hot_social
+
+### 买超家对张嘉倪邵晴待遇反差
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 买超家对张嘉倪邵晴待遇反差 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85%E5%AE%B6%E5%AF%B9%E5%BC%A0%E5%98%89%E5%80%AA%E9%82%B5%E6%99%B4%E5%BE%85%E9%81%87%E5%8F%8D%E5%B7%AE&from=hot_social
+
+### 迪丽热巴一出现全场的手机就醒了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 迪丽热巴一出现全场的手机就醒了
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%87%BA%E7%8E%B0%E5%85%A8%E5%9C%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%B0%B1%E9%86%92%E4%BA%86&from=hot_social
+
+### 佛得角淘汰
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 佛得角淘汰
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%B7%98%E6%B1%B0&from=hot_social
+
+### YG艺人称SM是暧昧天堂
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: YG艺人称SM是暧昧天堂 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=YG%E8%89%BA%E4%BA%BA%E7%A7%B0SM%E6%98%AF%E6%9A%A7%E6%98%A7%E5%A4%A9%E5%A0%82&from=hot_social
+
+### 密室大逃脱8定档官宣
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 密室大逃脱8定档官宣 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B18%E5%AE%9A%E6%A1%A3%E5%AE%98%E5%AE%A3&from=hot_social
+
+### 台风
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 台风
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&from=hot_social
+
+### 曝iPhone18无缘iOS27两大功能
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 曝iPhone18无缘iOS27两大功能 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD&from=hot_social
+
+### 存储芯片涨价
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 存储芯片涨价
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&from=hot_social
+
+### 买超 邵晴
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 买超 邵晴 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%B6%85+%E9%82%B5%E6%99%B4&from=hot_social
+
+### 菲律宾最新涉台表述
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 菲律宾最新涉台表述 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%80%E6%96%B0%E6%B6%89%E5%8F%B0%E8%A1%A8%E8%BF%B0&from=hot_social
+
+### 杨丞琳 希望大家不要心疼我
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 杨丞琳 希望大家不要心疼我 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3+%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%BF%83%E7%96%BC%E6%88%91&from=hot_social
+
+### 霉霉世纪婚礼
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 霉霉世纪婚礼
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E4%B8%96%E7%BA%AA%E5%A9%9A%E7%A4%BC&from=hot_social
+
+### 阿根廷vs佛得角
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 阿根廷vs佛得角 热
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92&from=hot_social
+
+### EXO老祖向杨博文道歉
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: EXO老祖向杨博文道歉 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=EXO%E8%80%81%E7%A5%96%E5%90%91%E6%9D%A8%E5%8D%9A%E6%96%87%E9%81%93%E6%AD%89&from=hot_social
+
+### 佛得角世界波
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 佛得角世界波
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%B3%A2&from=hot_social
+
+### 王俊凯演唱会万份伴手礼
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 王俊凯演唱会万份伴手礼
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BB%BD%E4%BC%B4%E6%89%8B%E7%A4%BC&from=hot_social
+
+### 邓为拎了6袋迪奥送花少嘉宾
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 邓为拎了6袋迪奥送花少嘉宾
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%8B%8E%E4%BA%866%E8%A2%8B%E8%BF%AA%E5%A5%A5%E9%80%81%E8%8A%B1%E5%B0%91%E5%98%89%E5%AE%BE&from=hot_social
+
+### 张本智和0比3希德仁科
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 张本智和0比3希德仁科 新
+- Published At: 2026-07-04T03:46:28.491Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C0%E6%AF%943%E5%B8%8C%E5%BE%B7%E4%BB%81%E7%A7%91&from=hot_social
 
