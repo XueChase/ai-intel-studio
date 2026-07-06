@@ -1,38 +1,40 @@
-<!-- source_generated_at: 2026-07-05T23:20:02.865Z -->
-<!-- source_generated_at_local: 2026-07-06T07:20:02.865+08:00 -->
+<!-- source_generated_at: 2026-07-06T23:24:07.695Z -->
+<!-- source_generated_at_local: 2026-07-07T07:24:07.695+08:00 -->
 <!-- model: qwen3-max -->
 <!-- reasoning_chars: 0 -->
 
-# AI 24小时：当“系统提示词”开始被当作产品核心资产
+# AI 24小时：Agentic工作流正从“能用”转向“被信任”
 
-> **Claude的design system prompt被逆向工程并开源，不是又一次prompt泄露，而是首次有人把系统级prompt当作可复用、可移植的智能体行为规范——这意味着模型的“性格”和“专业边界”正从黑箱配置转向可审计、可继承的产品组件。**
+> **DeepSeek V4在OpenRouter上的token share翻倍、OfficeCLI与Agentic BI Team等工具链涌现，共同指向一个新现实：Agent不再是炫技玩具，而是正在嵌入真实生产环境的workflow组件——但信任门槛比能力门槛更高。**
 
-过去一周，我们反复讨论Agent的信任危机、定价策略与安全漏洞，但今天出现了一个更底层的变化：**系统提示词（system prompt）本身正在成为产品化的核心单元**。它不再只是模型内部的一段初始化指令，而是被开发者视为可封装、可共享、可版本控制的“行为契约”。这一转变，标志着Agentic AI正从能力演示迈向工程化落地的关键一步。
+过去一周，我们反复讨论Agent的定价、安全漏洞和系统prompt的可审计性。今天，一个新的信号浮出水面：**Agentic能力正在从“演示可用”进入“部署可信”的临界阶段**。DeepSeek V4凭借Flash版本在OpenRouter上实现token share翻倍，背后驱动的正是agentic workloads；与此同时，开发者社区快速构建出OfficeCLI、Agentic BI Team等面向具体场景的agent工具链。这些不是孤立的技术实验，而是企业级workflow开始接纳Agent的早期证据。但问题也随之而来：当Agent真正跑在生产环境中，用户是否还愿意相信它？
 
 ## 先划重点
-- 系统提示词正从内部配置升级为可复用的产品资产。
-- 开发者开始围绕特定专业场景（如设计协作）构建结构化prompt库。
-- 这种做法本质上是在为Agent定义“职业操守”和“工作边界”。
+
+- Agentic工作流正从技术demo进入真实部署，token usage是最诚实的投票。
+- 开发者工具链（如OfficeCLI）开始围绕Agent重构，说明workflow层面的集成已启动。
+- 信任仍是最大瓶颈——能力越强，行为越不可控，用户越警惕。
 
 ## 这件事为什么值得看
 
-### 1. Claude Design System Prompt被逆向并开源  
-GitHub上出现了一个名为 `claude-design-system-prompt` 的项目，其核心是一套reverse-engineered的系统提示词与技能库，专门用于将通用LLM转化为具备设计领域判断力、无障碍意识且能抵抗“AI slop”（低质量生成）的协作伙伴。该项目不仅定义了输出格式、交互原则，还嵌入了accessibility best practices和anti-hallucination guardrails。这不再是简单的角色扮演prompt，而是一套完整的专业行为规范。
+### 1. DeepSeek V4的token share翻倍，agentic workloads是主因
 
-### 2. sqlite-utils 4.0rc2由Claude Fable编写，成本明确计入开发账本  
-Simon Willison在发布sqlite-utils新版本时明确指出，该版本“主要由Claude Fable编写”，并附上了精确到 $149.25的调用成本。更重要的是，他强调这是在Fable订阅即将到期前的“冲刺开发”。这说明开发者已将特定模型（及其背后的系统设定）视为可计量、可预算的开发资源，而非模糊的“AI助手”。模型的行为一致性与专业性，直接决定了其能否被纳入正式workflow。
+DeepSeek V4在OpenRouter平台上的token使用份额半年内翻倍，核心驱动力来自V4 Flash模型在agentic场景中的广泛采用。这并非营销数据，而是开发者真金白银调用的结果。当用户愿意把实际任务交给Agent执行，并持续产生token消耗，说明这类工作流已越过“尝鲜”阶段，进入实用考量。尤其值得注意的是，V4 Flash并非最强模型，但其在latency和cost之间的平衡，恰好契合了agentic workflow对“可靠响应”而非“极致智能”的需求。
 
-### 3. Mouse工具提升AI coding agent的编辑精度，隐含对底层行为约束的需求  
-新工具Mouse声称通过提供“精准文件编辑能力”，使AI coding agent的准确率提升56%、成本降低58%。其背后逻辑是：通用代码生成容易出错，但若在编辑动作层面施加结构化约束（如只允许修改指定函数、禁止删除注释等），Agent的可靠性会显著提升。这与design system prompt的思路一致——**不是让模型更聪明，而是让它更守规矩**。
+### 2. OfficeCLI：Agent与企业级文档生态的首次深度耦合
+
+OfficeCLI的出现，标志着Agent开始嵌入Microsoft Office这类高价值、高敏感度的企业文档生态。它允许AI agent直接读写Word、Excel、PPT文件，相当于为Claude Code或类似coding agent提供了通往企业数据核心的接口。这种工具不是炫技，而是解决真实痛点：企业里大量业务逻辑仍沉淀在Office文档中。一旦Agent能安全、可控地操作这些文件，其workflow价值将指数级提升。这也解释了为何社区将其形容为“Claude Code与Microsoft Office的孩子”——它代表了agentic能力向主流生产力工具的渗透。
+
+### 3. Agentic BI Team：从单点Agent到团队化workflow编排
+
+Agentic BI Team项目展示了更进一步的趋势：不再依赖单一Agent，而是通过CLI快速部署一个由8个specialist agents组成的虚拟团队，覆盖数据清洗、建模、可视化等完整BI流程。用户只需填写一份charter，即可启动整套workflow。这种模式跳出了“一个模型干所有事”的思路，转而采用角色分工、知识共享、流程协同的架构。它暗示着未来的agentic应用将不再是monolithic agent，而是可配置、可组合的workflow engine——而这恰恰是企业级adoption的前提。
 
 ## 主编判断
 
-今天真正的变化，不是某段prompt被泄露，而是社区开始系统性地将系统提示词视为可工程化的组件。过去，我们默认模型的能力由参数和训练数据决定，prompt只是临时引导；但现在，**prompt正在成为定义Agent “职业身份”的关键载体**——它规定了模型在特定场景下“能做什么、不能做什么、如何证明自己没做错”。
+今天真正的变化，不是又一个模型或工具发布，而是 **Agentic能力正从“能否做”转向“是否敢用”**。DeepSeek的token增长证明市场有真实需求，OfficeCLI和Agentic BI Team则说明开发者已在构建配套infra。但与此同时，Anthropic被曝在中国用户端秘密植入tracker，再次提醒我们：**当Agent获得操作权限，信任就成为比性能更稀缺的资源**。过去，我们关注Agent能否写代码、分析数据；现在，我们必须追问：它是否会在用户不知情时上传文件？是否会因过度乐于助人而执行恶意指令？这些问题的答案，将决定Agentic workflow能走多远。
 
-这种趋势意味着，未来竞争可能不再仅聚焦于base model的benchmark分数，而会延伸到“专业行为包”的丰富度与可靠性。一个医疗Agent的价值，不仅在于它懂医学知识，更在于它的系统prompt是否内嵌了HIPAA合规检查、是否拒绝生成未经验证的诊疗建议。同样，一个设计Agent的可信度，取决于它是否主动规避color contrast violation或semantic HTML misuse。
-
-接下来要盯的，不是谁发布了更强的模型，而是谁率先建立起可验证、可组合、可审计的prompt-as-a-product生态。
+接下来，要盯住两个信号：一是主流SaaS平台（如Notion、Airtable、Microsoft 365）是否会开放官方Agent API，二是企业是否开始要求agentic工具提供行为日志、权限沙箱和人工fallback机制。前者决定生态广度，后者决定信任深度。
 
 ## 总结
 
-当系统提示词从黑箱配置变成可开源、可计价、可集成的产品组件，Agentic AI才真正开始走出demo阶段——因为只有行为可约束，责任才可追溯，信任才可建立。
+Agentic workflow的adoption曲线已经启动，但它的天花板不在技术，而在信任——**用户愿意让Agent做多少事，取决于他们能在多大程度上理解、控制和审计它的行为**。今天的所有进展，都在为这个新平衡点探路。
