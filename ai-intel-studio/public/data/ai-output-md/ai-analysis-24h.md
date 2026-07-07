@@ -1,40 +1,38 @@
-<!-- source_generated_at: 2026-07-06T23:24:07.695Z -->
-<!-- source_generated_at_local: 2026-07-07T07:24:07.695+08:00 -->
+<!-- source_generated_at: 2026-07-07T23:28:05.818Z -->
+<!-- source_generated_at_local: 2026-07-08T07:28:05.818+08:00 -->
 <!-- model: qwen3-max -->
 <!-- reasoning_chars: 0 -->
 
-# AI 24小时：Agentic工作流正从“能用”转向“被信任”
+# AI 24小时：Agentic工作流正从“能跑”转向“能离线”
 
-> **DeepSeek V4在OpenRouter上的token share翻倍、OfficeCLI与Agentic BI Team等工具链涌现，共同指向一个新现实：Agent不再是炫技玩具，而是正在嵌入真实生产环境的workflow组件——但信任门槛比能力门槛更高。**
+> **今天最清晰的信号不是谁又发布了新模型，而是Agent开始摆脱对笔记本电脑和持续联网的依赖——Anthropic让Claude Cowork在手机上继续运行任务，开发者社区同步推出本地化记忆与CI工具，共同指向一个临界点：真正的Agentic workflow必须能在人类离席时自主推进。**
 
-过去一周，我们反复讨论Agent的定价、安全漏洞和系统prompt的可审计性。今天，一个新的信号浮出水面：**Agentic能力正在从“演示可用”进入“部署可信”的临界阶段**。DeepSeek V4凭借Flash版本在OpenRouter上实现token share翻倍，背后驱动的正是agentic workloads；与此同时，开发者社区快速构建出OfficeCLI、Agentic BI Team等面向具体场景的agent工具链。这些不是孤立的技术实验，而是企业级workflow开始接纳Agent的早期证据。但问题也随之而来：当Agent真正跑在生产环境中，用户是否还愿意相信它？
+过去一周，我们反复讨论Agentic系统如何从“炫技”走向“被信任”。但信任的前提，是Agent能在真实世界中持续运转，而不是只在演示视频里闪光。今天，两条高权重事件不约而同地指向同一个方向：**Agent正在挣脱“必须开着电脑、连着网络”的束缚**。Anthropic将Claude Cowork扩展至移动端，允许任务在用户合上笔记本后继续执行；与此同时，Hacker News上多个开发者项目聚焦本地化能力——Activity-frames为Agent提供离线屏幕记忆，Agent-CI则让AI能在本地修复CI失败而无需反复推送代码。这些动作看似分散，实则共同回应同一个问题：如果Agent不能在人类不在场时可靠运行，它就永远只是辅助工具，而非workflow的一部分。
 
 ## 先划重点
 
-- Agentic工作流正从技术demo进入真实部署，token usage是最诚实的投票。
-- 开发者工具链（如OfficeCLI）开始围绕Agent重构，说明workflow层面的集成已启动。
-- 信任仍是最大瓶颈——能力越强，行为越不可控，用户越警惕。
+- Agent的下一阶段竞争，不再是“能不能做”，而是“能不能在人离开后继续做”。
+- 离线能力、本地记忆、设备端执行，正成为Agentic产品的新门槛。
+- 开发者工具链已开始围绕“无监督运行”重构，这比模型能力升级更贴近真实部署需求。
 
 ## 这件事为什么值得看
 
-### 1. DeepSeek V4的token share翻倍，agentic workloads是主因
+### 1. Anthropic让Claude Cowork脱离笔记本，转战手机端
 
-DeepSeek V4在OpenRouter平台上的token使用份额半年内翻倍，核心驱动力来自V4 Flash模型在agentic场景中的广泛采用。这并非营销数据，而是开发者真金白银调用的结果。当用户愿意把实际任务交给Agent执行，并持续产生token消耗，说明这类工作流已越过“尝鲜”阶段，进入实用考量。尤其值得注意的是，V4 Flash并非最强模型，但其在latency和cost之间的平衡，恰好契合了agentic workflow对“可靠响应”而非“极致智能”的需求。
+Anthropic正式将Claude Cowork扩展至Web和移动端，核心变化在于：用户关闭笔记本后，Agent仍可继续执行任务。这一调整看似是平台适配，实则是对Agentic工作流本质的重新定义——过去Agent依赖用户保持会话活跃，现在它被设计为可在后台异步推进。这直接回应了企业用户对“持续性”的隐性需求：真正的办公Agent不应因设备休眠而中断流程。
 
-### 2. OfficeCLI：Agent与企业级文档生态的首次深度耦合
+### 2. Activity-frames为Agent提供本地化“眼睛”
 
-OfficeCLI的出现，标志着Agent开始嵌入Microsoft Office这类高价值、高敏感度的企业文档生态。它允许AI agent直接读写Word、Excel、PPT文件，相当于为Claude Code或类似coding agent提供了通往企业数据核心的接口。这种工具不是炫技，而是解决真实痛点：企业里大量业务逻辑仍沉淀在Office文档中。一旦Agent能安全、可控地操作这些文件，其workflow价值将指数级提升。这也解释了为何社区将其形容为“Claude Code与Microsoft Office的孩子”——它代表了agentic能力向主流生产力工具的渗透。
+GitHub上新出现的Activity-frames项目，通过在本地录制屏幕并结构化为“activity frames”，再经MCP协议供Agent调用，全程无需上传云端或调用LLM。这意味着Agent可基于用户真实操作历史进行推理，而不依赖实时网络连接或远程API。这种episodic memory机制，解决了Agentic系统在离线场景下的上下文缺失问题，是迈向自主运行的关键基础设施。
 
-### 3. Agentic BI Team：从单点Agent到团队化workflow编排
+### 3. Agent-CI让修复流程留在本地机器
 
-Agentic BI Team项目展示了更进一步的趋势：不再依赖单一Agent，而是通过CLI快速部署一个由8个specialist agents组成的虚拟团队，覆盖数据清洗、建模、可视化等完整BI流程。用户只需填写一份charter，即可启动整套workflow。这种模式跳出了“一个模型干所有事”的思路，转而采用角色分工、知识共享、流程协同的架构。它暗示着未来的agentic应用将不再是monolithic agent，而是可配置、可组合的workflow engine——而这恰恰是企业级adoption的前提。
+Agent-CI工具允许开发者在本地运行GitHub Actions，并在失败时暂停，由AI Agent直接在本机诊断、修复并重试，无需反复提交代码到远程仓库。这不仅提升迭代效率，更重要的是将Agentic debugging从“云端服务”转变为“本地能力”。当CI/CD这类高频开发场景开始内嵌离线Agent支持，说明开发者已默认Agentic行为应具备独立于网络的容错与执行能力。
 
 ## 主编判断
 
-今天真正的变化，不是又一个模型或工具发布，而是 **Agentic能力正从“能否做”转向“是否敢用”**。DeepSeek的token增长证明市场有真实需求，OfficeCLI和Agentic BI Team则说明开发者已在构建配套infra。但与此同时，Anthropic被曝在中国用户端秘密植入tracker，再次提醒我们：**当Agent获得操作权限，信任就成为比性能更稀缺的资源**。过去，我们关注Agent能否写代码、分析数据；现在，我们必须追问：它是否会在用户不知情时上传文件？是否会因过度乐于助人而执行恶意指令？这些问题的答案，将决定Agentic workflow能走多远。
-
-接下来，要盯住两个信号：一是主流SaaS平台（如Notion、Airtable、Microsoft 365）是否会开放官方Agent API，二是企业是否开始要求agentic工具提供行为日志、权限沙箱和人工fallback机制。前者决定生态广度，后者决定信任深度。
+今天的变化，表面看是产品形态的演进，深层则是Agentic范式的一次校准。过去半年，行业热衷于展示Agent能自动写代码、提PR、部署服务，但这些演示大多假设理想环境：稳定网络、持续供电、用户在线。现实中的生产环境恰恰相反——设备会休眠、网络会波动、人会离开。Anthropic和开发者社区同步转向离线优先的设计，说明市场已意识到：**Agentic系统的价值不在于它能做什么，而在于它在人类缺席时依然可靠**。接下来，真正值得盯的不是模型benchmark，而是那些能让Agent在断网、关机、跨设备切换等边缘场景下保持连贯性的infra层创新。
 
 ## 总结
 
-Agentic workflow的adoption曲线已经启动，但它的天花板不在技术，而在信任——**用户愿意让Agent做多少事，取决于他们能在多大程度上理解、控制和审计它的行为**。今天的所有进展，都在为这个新平衡点探路。
+Agentic工作流的成熟标志，不是它能在演示中完成多复杂的任务，而是它能在你合上电脑后，依然默默把事情做完。
