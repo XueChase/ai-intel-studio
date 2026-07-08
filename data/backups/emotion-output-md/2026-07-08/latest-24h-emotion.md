@@ -1,6 +1,6 @@
 # Emotion Input Digest
 
-- Generated At: 2026-07-08T07:14:02.825+08:00
+- Generated At: 2026-07-08T11:30:48.963+08:00
 - Window Hours: 24
 - Total Items: 150
 - Source Count: 5
@@ -11,1053 +11,1053 @@
 
 ## Items
 
+### 埃及足协正式申诉 要求调查主裁判
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 埃及足协正式申诉 要求调查主裁判 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89+%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4&from=hot_mine
+
 ### 阿根廷 脏
 - Platform: weibo
 - Source: 微博热榜-mine
 - Desc: 阿根廷 脏 热
-- Published At: 2026-07-07T23:14:02.825Z
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E8%84%8F&from=hot_mine
 
-### 世界杯冠军直接颁给门将吧
+### 超8000人投入广西抗洪
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 世界杯冠军直接颁给门将吧 热
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E7%9B%B4%E6%8E%A5%E9%A2%81%E7%BB%99%E9%97%A8%E5%B0%86%E5%90%A7&from=hot_mine
+- Desc: 超8000人投入广西抗洪 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%B6%858000%E4%BA%BA%E6%8A%95%E5%85%A5%E5%B9%BF%E8%A5%BF%E6%8A%97%E6%B4%AA&from=hot_mine
 
-### 探访三江源
+### 王俊凯王一博作词
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 探访三江源
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E6%8E%A2%E8%AE%BF%E4%B8%89%E6%B1%9F%E6%BA%90&from=hot_mine
+- Desc: 王俊凯王一博作词 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BD%9C%E8%AF%8D&from=hot_mine
 
-### 阿根廷3比2埃及
+### 广西升级发布洪水红色预警
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 阿根廷3比2埃及
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%AF%942%E5%9F%83%E5%8F%8A&from=hot_mine
-
-### 瑞士vs哥伦比亚
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 瑞士vs哥伦比亚
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A&from=hot_mine
-
-### 男子父母被卷至百米高空后遇难
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 男子父母被卷至百米高空后遇难 热
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%88%B6%E6%AF%8D%E8%A2%AB%E5%8D%B7%E8%87%B3%E7%99%BE%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%90%8E%E9%81%87%E9%9A%BE&from=hot_mine
-
-### 埃及进球取消黄牌取消不了
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 埃及进球取消黄牌取消不了
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%BF%9B%E7%90%83%E5%8F%96%E6%B6%88%E9%BB%84%E7%89%8C%E5%8F%96%E6%B6%88%E4%B8%8D%E4%BA%86&from=hot_mine
-
-### 埃及队抗议
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 埃及队抗议 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E9%98%9F%E6%8A%97%E8%AE%AE&from=hot_mine
-
-### 现在就出发4
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 现在就出发4
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914&from=hot_mine
-
-### 虞书欣张婧仪决战95花现偶之巅
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 虞书欣张婧仪决战95花现偶之巅
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%86%B3%E6%88%9895%E8%8A%B1%E7%8E%B0%E5%81%B6%E4%B9%8B%E5%B7%85&from=hot_mine
+- Desc: 广西升级发布洪水红色预警 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&from=hot_mine
 
 ### 脱口秀唐香玉拒不道歉被强执
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 脱口秀唐香玉拒不道歉被强执 热
-- Published At: 2026-07-07T23:14:02.825Z
+- Desc: 脱口秀唐香玉拒不道歉被强执
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E5%94%90%E9%A6%99%E7%8E%89%E6%8B%92%E4%B8%8D%E9%81%93%E6%AD%89%E8%A2%AB%E5%BC%BA%E6%89%A7&from=hot_mine
 
-### 苏醒 球王这点球太臭了
+### 小米汽车新系列
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 苏醒 球王这点球太臭了 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92+%E7%90%83%E7%8E%8B%E8%BF%99%E7%82%B9%E7%90%83%E5%A4%AA%E8%87%AD%E4%BA%86&from=hot_mine
+- Desc: 小米汽车新系列
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97&from=hot_mine
+
+### 恐怖游轮定档
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 恐怖游轮定档 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%81%90%E6%80%96%E6%B8%B8%E8%BD%AE%E5%AE%9A%E6%A1%A3&from=hot_mine
+
+### 阿里 全员卸载Claude
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 阿里 全员卸载Claude 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C+%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&from=hot_mine
+
+### 国际足联社媒被冲
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 国际足联社媒被冲 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A4%BE%E5%AA%92%E8%A2%AB%E5%86%B2&from=hot_mine
+
+### 埃及总统赛后发文
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 埃及总统赛后发文 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87&from=hot_mine
+
+### 本届世界杯首次所有裁判来自同一国家
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 本届世界杯首次所有裁判来自同一国家
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%AC%A1%E6%89%80%E6%9C%89%E8%A3%81%E5%88%A4%E6%9D%A5%E8%87%AA%E5%90%8C%E4%B8%80%E5%9B%BD%E5%AE%B6&from=hot_mine
+
+### 霉霉已经可以买下月球了
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 霉霉已经可以买下月球了
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E5%B7%B2%E7%BB%8F%E5%8F%AF%E4%BB%A5%E4%B9%B0%E4%B8%8B%E6%9C%88%E7%90%83%E4%BA%86&from=hot_mine
+
+### 张馨予时装周瘦到98斤
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 张馨予时装周瘦到98斤 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%97%B6%E8%A3%85%E5%91%A8%E7%98%A6%E5%88%B098%E6%96%A4&from=hot_mine
+
+### 别花钱买增加情绪劳动的东西
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 别花钱买增加情绪劳动的东西 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%AB%E8%8A%B1%E9%92%B1%E4%B9%B0%E5%A2%9E%E5%8A%A0%E6%83%85%E7%BB%AA%E5%8A%B3%E5%8A%A8%E7%9A%84%E4%B8%9C%E8%A5%BF&from=hot_mine
+
+### 湖北雷暴龙卷风
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 湖北雷暴龙卷风 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E9%9B%B7%E6%9A%B4%E9%BE%99%E5%8D%B7%E9%A3%8E&from=hot_mine
 
 ### 宜宾地震
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 宜宾地震 新
-- Published At: 2026-07-07T23:14:02.825Z
+- Desc: 宜宾地震 热
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87&from=hot_mine
 
-### 萨拉赫 点球争议
+### 台风巴威今夜进入48小时警戒线
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 萨拉赫 点球争议 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%90%A8%E6%8B%89%E8%B5%AB+%E7%82%B9%E7%90%83%E4%BA%89%E8%AE%AE&from=hot_mine
+- Desc: 台风巴威今夜进入48小时警戒线 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BB%8A%E5%A4%9C%E8%BF%9B%E5%85%A548%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF&from=hot_mine
 
-### 埃及 赛后抗议连续吃牌
+### 广西贵港紧急通知不要直接饮用自来水
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 埃及 赛后抗议连续吃牌 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A+%E8%B5%9B%E5%90%8E%E6%8A%97%E8%AE%AE%E8%BF%9E%E7%BB%AD%E5%90%83%E7%89%8C&from=hot_mine
+- Desc: 广西贵港紧急通知不要直接饮用自来水 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E4%B8%8D%E8%A6%81%E7%9B%B4%E6%8E%A5%E9%A5%AE%E7%94%A8%E8%87%AA%E6%9D%A5%E6%B0%B4&from=hot_mine
 
-### 裁判 忘穿阿根廷球衣了
+### 苏醒回应阿根廷队黑赢
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 裁判 忘穿阿根廷球衣了
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4+%E5%BF%98%E7%A9%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%A1%A3%E4%BA%86&from=hot_mine
+- Desc: 苏醒回应阿根廷队黑赢
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E5%9B%9E%E5%BA%94%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%BB%91%E8%B5%A2&from=hot_mine
 
-### 感觉江浙沪对于台风反应都很平静
+### 野狗骨头把女生黄体破裂拍出来了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 感觉江浙沪对于台风反应都很平静
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%AF%B9%E4%BA%8E%E5%8F%B0%E9%A3%8E%E5%8F%8D%E5%BA%94%E9%83%BD%E5%BE%88%E5%B9%B3%E9%9D%99&from=hot_mine
+- Desc: 野狗骨头把女生黄体破裂拍出来了 热
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8A%8A%E5%A5%B3%E7%94%9F%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86&from=hot_mine
 
-### 美股
+### 特朗普说中国威胁论纯属危言耸听
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 美股
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&from=hot_mine
+- Desc: 特朗普说中国威胁论纯属危言耸听
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E7%BA%AF%E5%B1%9E%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC&from=hot_mine
 
-### 冬风吹又生 陈都灵屈楚萧
+### 唐香玉 埃克
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 冬风吹又生 陈都灵屈楚萧 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%86%AC%E9%A3%8E%E5%90%B9%E5%8F%88%E7%94%9F+%E9%99%88%E9%83%BD%E7%81%B5%E5%B1%88%E6%A5%9A%E8%90%A7&from=hot_mine
+- Desc: 唐香玉 埃克 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%94%90%E9%A6%99%E7%8E%89+%E5%9F%83%E5%85%8B&from=hot_mine
 
-### 阿根廷回应让2追3
+### 现在就出发4 金晨
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 阿根廷回应让2追3 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%9E%E5%BA%94%E8%AE%A92%E8%BF%BD3&from=hot_mine
+- Desc: 现在就出发4 金晨
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914+%E9%87%91%E6%99%A8&from=hot_mine
 
-### 人一定要频繁大量记录自己
+### 一觉醒来黄金又跌了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 人一定要频繁大量记录自己
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E5%A4%A7%E9%87%8F%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1&from=hot_mine
+- Desc: 一觉醒来黄金又跌了 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E4%BA%86&from=hot_mine
 
-### 埃及抗议裁判判罚
+### 董宇辉陪昆凌和孩子们爬长城
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 埃及抗议裁判判罚
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%8A%97%E8%AE%AE%E8%A3%81%E5%88%A4%E5%88%A4%E7%BD%9A&from=hot_mine
+- Desc: 董宇辉陪昆凌和孩子们爬长城
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E9%99%AA%E6%98%86%E5%87%8C%E5%92%8C%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%88%AC%E9%95%BF%E5%9F%8E&from=hot_mine
 
-### 阿根廷惊天大逆转
+### by5团综真的来了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 阿根廷惊天大逆转 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%83%8A%E5%A4%A9%E5%A4%A7%E9%80%86%E8%BD%AC&from=hot_mine
+- Desc: by5团综真的来了 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=by5%E5%9B%A2%E7%BB%BC%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86&from=hot_mine
 
-### 龙卷风
+### 阿根廷战埃及裁判称判罚非常公平
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 龙卷风
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%BE%99%E5%8D%B7%E9%A3%8E&from=hot_mine
+- Desc: 阿根廷战埃及裁判称判罚非常公平 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%88%98%E5%9F%83%E5%8F%8A%E8%A3%81%E5%88%A4%E7%A7%B0%E5%88%A4%E7%BD%9A%E9%9D%9E%E5%B8%B8%E5%85%AC%E5%B9%B3&from=hot_mine
 
-### 49岁男子招嫖被骗90万气晕妻子
+### TOP偷偷藏不住
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 49岁男子招嫖被骗90万气晕妻子
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=49%E5%B2%81%E7%94%B7%E5%AD%90%E6%8B%9B%E5%AB%96%E8%A2%AB%E9%AA%9790%E4%B8%87%E6%B0%94%E6%99%95%E5%A6%BB%E5%AD%90&from=hot_mine
+- Desc: TOP偷偷藏不住 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=TOP%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F&from=hot_mine
 
-### 阿根廷vs埃及
+### 余承东发了带车顶帐篷的享界G9
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 阿根廷vs埃及
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%9F%83%E5%8F%8A&from=hot_mine
+- Desc: 余承东发了带车顶帐篷的享界G9
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E4%BA%86%E5%B8%A6%E8%BD%A6%E9%A1%B6%E5%B8%90%E7%AF%B7%E7%9A%84%E4%BA%AB%E7%95%8CG9&from=hot_mine
 
-### 印度男子遭狮子袭击被按住双腿
+### 埃及足协正式申诉 要求调查主裁判
 - Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 印度男子遭狮子袭击被按住双腿 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E9%81%AD%E7%8B%AE%E5%AD%90%E8%A2%AD%E5%87%BB%E8%A2%AB%E6%8C%89%E4%BD%8F%E5%8F%8C%E8%85%BF&from=hot_mine
-
-### 陈异苗靖一起看亲密戏的反应
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 陈异苗靖一起看亲密戏的反应 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%BC%82%E8%8B%97%E9%9D%96%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%BA%B2%E5%AF%86%E6%88%8F%E7%9A%84%E5%8F%8D%E5%BA%94&from=hot_mine
-
-### 广东广西洪涝
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 广东广西洪涝 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B6%9D&from=hot_mine
-
-### 被龙卷风从12楼吸走男子仍在抢救
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 被龙卷风从12楼吸走男子仍在抢救
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%A2%AB%E9%BE%99%E5%8D%B7%E9%A3%8E%E4%BB%8E12%E6%A5%BC%E5%90%B8%E8%B5%B0%E7%94%B7%E5%AD%90%E4%BB%8D%E5%9C%A8%E6%8A%A2%E6%95%91&from=hot_mine
+- Source: 微博热榜-search
+- Desc: 埃及足协正式申诉 要求调查主裁判 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89+%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4&from=hot_search
 
 ### 阿根廷 脏
 - Platform: weibo
 - Source: 微博热榜-search
 - Desc: 阿根廷 脏 热
-- Published At: 2026-07-07T23:14:02.825Z
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E8%84%8F&from=hot_search
 
-### 世界杯冠军直接颁给门将吧
+### 超8000人投入广西抗洪
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 世界杯冠军直接颁给门将吧 热
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E7%9B%B4%E6%8E%A5%E9%A2%81%E7%BB%99%E9%97%A8%E5%B0%86%E5%90%A7&from=hot_search
+- Desc: 超8000人投入广西抗洪 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%B6%858000%E4%BA%BA%E6%8A%95%E5%85%A5%E5%B9%BF%E8%A5%BF%E6%8A%97%E6%B4%AA&from=hot_search
 
-### 探访三江源
+### 王俊凯王一博作词
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 探访三江源
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E6%8E%A2%E8%AE%BF%E4%B8%89%E6%B1%9F%E6%BA%90&from=hot_search
+- Desc: 王俊凯王一博作词 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BD%9C%E8%AF%8D&from=hot_search
 
-### 阿根廷3比2埃及
+### 广西升级发布洪水红色预警
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 阿根廷3比2埃及
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%AF%942%E5%9F%83%E5%8F%8A&from=hot_search
-
-### 瑞士vs哥伦比亚
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 瑞士vs哥伦比亚
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A&from=hot_search
-
-### 男子父母被卷至百米高空后遇难
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 男子父母被卷至百米高空后遇难 热
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%88%B6%E6%AF%8D%E8%A2%AB%E5%8D%B7%E8%87%B3%E7%99%BE%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%90%8E%E9%81%87%E9%9A%BE&from=hot_search
-
-### 埃及进球取消黄牌取消不了
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 埃及进球取消黄牌取消不了
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%BF%9B%E7%90%83%E5%8F%96%E6%B6%88%E9%BB%84%E7%89%8C%E5%8F%96%E6%B6%88%E4%B8%8D%E4%BA%86&from=hot_search
-
-### 埃及队抗议
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 埃及队抗议 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E9%98%9F%E6%8A%97%E8%AE%AE&from=hot_search
-
-### 现在就出发4
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 现在就出发4
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914&from=hot_search
-
-### 虞书欣张婧仪决战95花现偶之巅
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 虞书欣张婧仪决战95花现偶之巅
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%86%B3%E6%88%9895%E8%8A%B1%E7%8E%B0%E5%81%B6%E4%B9%8B%E5%B7%85&from=hot_search
+- Desc: 广西升级发布洪水红色预警 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&from=hot_search
 
 ### 脱口秀唐香玉拒不道歉被强执
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 脱口秀唐香玉拒不道歉被强执 热
-- Published At: 2026-07-07T23:14:02.825Z
+- Desc: 脱口秀唐香玉拒不道歉被强执
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E5%94%90%E9%A6%99%E7%8E%89%E6%8B%92%E4%B8%8D%E9%81%93%E6%AD%89%E8%A2%AB%E5%BC%BA%E6%89%A7&from=hot_search
 
-### 苏醒 球王这点球太臭了
+### 小米汽车新系列
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 苏醒 球王这点球太臭了 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92+%E7%90%83%E7%8E%8B%E8%BF%99%E7%82%B9%E7%90%83%E5%A4%AA%E8%87%AD%E4%BA%86&from=hot_search
+- Desc: 小米汽车新系列
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97&from=hot_search
+
+### 恐怖游轮定档
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 恐怖游轮定档 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%81%90%E6%80%96%E6%B8%B8%E8%BD%AE%E5%AE%9A%E6%A1%A3&from=hot_search
+
+### 阿里 全员卸载Claude
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 阿里 全员卸载Claude 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C+%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&from=hot_search
+
+### 国际足联社媒被冲
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 国际足联社媒被冲 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A4%BE%E5%AA%92%E8%A2%AB%E5%86%B2&from=hot_search
+
+### 埃及总统赛后发文
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 埃及总统赛后发文 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87&from=hot_search
+
+### 本届世界杯首次所有裁判来自同一国家
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 本届世界杯首次所有裁判来自同一国家
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%AC%A1%E6%89%80%E6%9C%89%E8%A3%81%E5%88%A4%E6%9D%A5%E8%87%AA%E5%90%8C%E4%B8%80%E5%9B%BD%E5%AE%B6&from=hot_search
+
+### 霉霉已经可以买下月球了
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 霉霉已经可以买下月球了
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E5%B7%B2%E7%BB%8F%E5%8F%AF%E4%BB%A5%E4%B9%B0%E4%B8%8B%E6%9C%88%E7%90%83%E4%BA%86&from=hot_search
+
+### 张馨予时装周瘦到98斤
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 张馨予时装周瘦到98斤 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%97%B6%E8%A3%85%E5%91%A8%E7%98%A6%E5%88%B098%E6%96%A4&from=hot_search
+
+### 别花钱买增加情绪劳动的东西
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 别花钱买增加情绪劳动的东西 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%AB%E8%8A%B1%E9%92%B1%E4%B9%B0%E5%A2%9E%E5%8A%A0%E6%83%85%E7%BB%AA%E5%8A%B3%E5%8A%A8%E7%9A%84%E4%B8%9C%E8%A5%BF&from=hot_search
+
+### 湖北雷暴龙卷风
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 湖北雷暴龙卷风 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E9%9B%B7%E6%9A%B4%E9%BE%99%E5%8D%B7%E9%A3%8E&from=hot_search
 
 ### 宜宾地震
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 宜宾地震 新
-- Published At: 2026-07-07T23:14:02.825Z
+- Desc: 宜宾地震 热
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87&from=hot_search
 
-### 萨拉赫 点球争议
+### 台风巴威今夜进入48小时警戒线
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 萨拉赫 点球争议 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%90%A8%E6%8B%89%E8%B5%AB+%E7%82%B9%E7%90%83%E4%BA%89%E8%AE%AE&from=hot_search
+- Desc: 台风巴威今夜进入48小时警戒线 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BB%8A%E5%A4%9C%E8%BF%9B%E5%85%A548%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF&from=hot_search
 
-### 埃及 赛后抗议连续吃牌
+### 广西贵港紧急通知不要直接饮用自来水
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 埃及 赛后抗议连续吃牌 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A+%E8%B5%9B%E5%90%8E%E6%8A%97%E8%AE%AE%E8%BF%9E%E7%BB%AD%E5%90%83%E7%89%8C&from=hot_search
+- Desc: 广西贵港紧急通知不要直接饮用自来水 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E4%B8%8D%E8%A6%81%E7%9B%B4%E6%8E%A5%E9%A5%AE%E7%94%A8%E8%87%AA%E6%9D%A5%E6%B0%B4&from=hot_search
 
-### 裁判 忘穿阿根廷球衣了
+### 苏醒回应阿根廷队黑赢
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 裁判 忘穿阿根廷球衣了
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4+%E5%BF%98%E7%A9%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%A1%A3%E4%BA%86&from=hot_search
+- Desc: 苏醒回应阿根廷队黑赢
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E5%9B%9E%E5%BA%94%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%BB%91%E8%B5%A2&from=hot_search
 
-### 感觉江浙沪对于台风反应都很平静
+### 野狗骨头把女生黄体破裂拍出来了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 感觉江浙沪对于台风反应都很平静
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%AF%B9%E4%BA%8E%E5%8F%B0%E9%A3%8E%E5%8F%8D%E5%BA%94%E9%83%BD%E5%BE%88%E5%B9%B3%E9%9D%99&from=hot_search
+- Desc: 野狗骨头把女生黄体破裂拍出来了 热
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8A%8A%E5%A5%B3%E7%94%9F%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86&from=hot_search
 
-### 美股
+### 特朗普说中国威胁论纯属危言耸听
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 美股
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&from=hot_search
+- Desc: 特朗普说中国威胁论纯属危言耸听
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E7%BA%AF%E5%B1%9E%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC&from=hot_search
 
-### 冬风吹又生 陈都灵屈楚萧
+### 唐香玉 埃克
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 冬风吹又生 陈都灵屈楚萧 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%86%AC%E9%A3%8E%E5%90%B9%E5%8F%88%E7%94%9F+%E9%99%88%E9%83%BD%E7%81%B5%E5%B1%88%E6%A5%9A%E8%90%A7&from=hot_search
+- Desc: 唐香玉 埃克 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%94%90%E9%A6%99%E7%8E%89+%E5%9F%83%E5%85%8B&from=hot_search
 
-### 阿根廷回应让2追3
+### 现在就出发4 金晨
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 阿根廷回应让2追3 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%9E%E5%BA%94%E8%AE%A92%E8%BF%BD3&from=hot_search
+- Desc: 现在就出发4 金晨
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914+%E9%87%91%E6%99%A8&from=hot_search
 
-### 人一定要频繁大量记录自己
+### 一觉醒来黄金又跌了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 人一定要频繁大量记录自己
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E5%A4%A7%E9%87%8F%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1&from=hot_search
+- Desc: 一觉醒来黄金又跌了 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E4%BA%86&from=hot_search
 
-### 埃及抗议裁判判罚
+### 董宇辉陪昆凌和孩子们爬长城
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 埃及抗议裁判判罚
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%8A%97%E8%AE%AE%E8%A3%81%E5%88%A4%E5%88%A4%E7%BD%9A&from=hot_search
+- Desc: 董宇辉陪昆凌和孩子们爬长城
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E9%99%AA%E6%98%86%E5%87%8C%E5%92%8C%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%88%AC%E9%95%BF%E5%9F%8E&from=hot_search
 
-### 阿根廷惊天大逆转
+### by5团综真的来了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 阿根廷惊天大逆转 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%83%8A%E5%A4%A9%E5%A4%A7%E9%80%86%E8%BD%AC&from=hot_search
+- Desc: by5团综真的来了 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=by5%E5%9B%A2%E7%BB%BC%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86&from=hot_search
 
-### 龙卷风
+### 阿根廷战埃及裁判称判罚非常公平
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 龙卷风
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%BE%99%E5%8D%B7%E9%A3%8E&from=hot_search
+- Desc: 阿根廷战埃及裁判称判罚非常公平 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%88%98%E5%9F%83%E5%8F%8A%E8%A3%81%E5%88%A4%E7%A7%B0%E5%88%A4%E7%BD%9A%E9%9D%9E%E5%B8%B8%E5%85%AC%E5%B9%B3&from=hot_search
 
-### 49岁男子招嫖被骗90万气晕妻子
+### TOP偷偷藏不住
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 49岁男子招嫖被骗90万气晕妻子
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=49%E5%B2%81%E7%94%B7%E5%AD%90%E6%8B%9B%E5%AB%96%E8%A2%AB%E9%AA%9790%E4%B8%87%E6%B0%94%E6%99%95%E5%A6%BB%E5%AD%90&from=hot_search
+- Desc: TOP偷偷藏不住 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=TOP%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F&from=hot_search
 
-### 阿根廷vs埃及
+### 余承东发了带车顶帐篷的享界G9
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 阿根廷vs埃及
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%9F%83%E5%8F%8A&from=hot_search
+- Desc: 余承东发了带车顶帐篷的享界G9
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E4%BA%86%E5%B8%A6%E8%BD%A6%E9%A1%B6%E5%B8%90%E7%AF%B7%E7%9A%84%E4%BA%AB%E7%95%8CG9&from=hot_search
 
-### 印度男子遭狮子袭击被按住双腿
+### 埃及足协正式申诉 要求调查主裁判
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 印度男子遭狮子袭击被按住双腿 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E9%81%AD%E7%8B%AE%E5%AD%90%E8%A2%AD%E5%87%BB%E8%A2%AB%E6%8C%89%E4%BD%8F%E5%8F%8C%E8%85%BF&from=hot_search
-
-### 陈异苗靖一起看亲密戏的反应
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 陈异苗靖一起看亲密戏的反应 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%BC%82%E8%8B%97%E9%9D%96%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%BA%B2%E5%AF%86%E6%88%8F%E7%9A%84%E5%8F%8D%E5%BA%94&from=hot_search
-
-### 广东广西洪涝
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 广东广西洪涝 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B6%9D&from=hot_search
-
-### 被龙卷风从12楼吸走男子仍在抢救
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 被龙卷风从12楼吸走男子仍在抢救
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%A2%AB%E9%BE%99%E5%8D%B7%E9%A3%8E%E4%BB%8E12%E6%A5%BC%E5%90%B8%E8%B5%B0%E7%94%B7%E5%AD%90%E4%BB%8D%E5%9C%A8%E6%8A%A2%E6%95%91&from=hot_search
+- Source: 微博热榜-entertainment
+- Desc: 埃及足协正式申诉 要求调查主裁判 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89+%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4&from=hot_entertainment
 
 ### 阿根廷 脏
 - Platform: weibo
 - Source: 微博热榜-entertainment
 - Desc: 阿根廷 脏 热
-- Published At: 2026-07-07T23:14:02.825Z
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E8%84%8F&from=hot_entertainment
 
-### 世界杯冠军直接颁给门将吧
+### 超8000人投入广西抗洪
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 世界杯冠军直接颁给门将吧 热
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E7%9B%B4%E6%8E%A5%E9%A2%81%E7%BB%99%E9%97%A8%E5%B0%86%E5%90%A7&from=hot_entertainment
+- Desc: 超8000人投入广西抗洪 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%B6%858000%E4%BA%BA%E6%8A%95%E5%85%A5%E5%B9%BF%E8%A5%BF%E6%8A%97%E6%B4%AA&from=hot_entertainment
 
-### 探访三江源
+### 王俊凯王一博作词
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 探访三江源
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E6%8E%A2%E8%AE%BF%E4%B8%89%E6%B1%9F%E6%BA%90&from=hot_entertainment
+- Desc: 王俊凯王一博作词 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BD%9C%E8%AF%8D&from=hot_entertainment
 
-### 阿根廷3比2埃及
+### 广西升级发布洪水红色预警
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 阿根廷3比2埃及
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%AF%942%E5%9F%83%E5%8F%8A&from=hot_entertainment
-
-### 瑞士vs哥伦比亚
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 瑞士vs哥伦比亚
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A&from=hot_entertainment
-
-### 男子父母被卷至百米高空后遇难
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 男子父母被卷至百米高空后遇难 热
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%88%B6%E6%AF%8D%E8%A2%AB%E5%8D%B7%E8%87%B3%E7%99%BE%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%90%8E%E9%81%87%E9%9A%BE&from=hot_entertainment
-
-### 埃及进球取消黄牌取消不了
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 埃及进球取消黄牌取消不了
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%BF%9B%E7%90%83%E5%8F%96%E6%B6%88%E9%BB%84%E7%89%8C%E5%8F%96%E6%B6%88%E4%B8%8D%E4%BA%86&from=hot_entertainment
-
-### 埃及队抗议
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 埃及队抗议 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E9%98%9F%E6%8A%97%E8%AE%AE&from=hot_entertainment
-
-### 现在就出发4
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 现在就出发4
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914&from=hot_entertainment
-
-### 虞书欣张婧仪决战95花现偶之巅
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 虞书欣张婧仪决战95花现偶之巅
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%86%B3%E6%88%9895%E8%8A%B1%E7%8E%B0%E5%81%B6%E4%B9%8B%E5%B7%85&from=hot_entertainment
+- Desc: 广西升级发布洪水红色预警 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&from=hot_entertainment
 
 ### 脱口秀唐香玉拒不道歉被强执
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 脱口秀唐香玉拒不道歉被强执 热
-- Published At: 2026-07-07T23:14:02.825Z
+- Desc: 脱口秀唐香玉拒不道歉被强执
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E5%94%90%E9%A6%99%E7%8E%89%E6%8B%92%E4%B8%8D%E9%81%93%E6%AD%89%E8%A2%AB%E5%BC%BA%E6%89%A7&from=hot_entertainment
 
-### 苏醒 球王这点球太臭了
+### 小米汽车新系列
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 苏醒 球王这点球太臭了 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92+%E7%90%83%E7%8E%8B%E8%BF%99%E7%82%B9%E7%90%83%E5%A4%AA%E8%87%AD%E4%BA%86&from=hot_entertainment
+- Desc: 小米汽车新系列
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97&from=hot_entertainment
+
+### 恐怖游轮定档
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 恐怖游轮定档 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%81%90%E6%80%96%E6%B8%B8%E8%BD%AE%E5%AE%9A%E6%A1%A3&from=hot_entertainment
+
+### 阿里 全员卸载Claude
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 阿里 全员卸载Claude 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C+%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&from=hot_entertainment
+
+### 国际足联社媒被冲
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 国际足联社媒被冲 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A4%BE%E5%AA%92%E8%A2%AB%E5%86%B2&from=hot_entertainment
+
+### 埃及总统赛后发文
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 埃及总统赛后发文 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87&from=hot_entertainment
+
+### 本届世界杯首次所有裁判来自同一国家
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 本届世界杯首次所有裁判来自同一国家
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%AC%A1%E6%89%80%E6%9C%89%E8%A3%81%E5%88%A4%E6%9D%A5%E8%87%AA%E5%90%8C%E4%B8%80%E5%9B%BD%E5%AE%B6&from=hot_entertainment
+
+### 霉霉已经可以买下月球了
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 霉霉已经可以买下月球了
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E5%B7%B2%E7%BB%8F%E5%8F%AF%E4%BB%A5%E4%B9%B0%E4%B8%8B%E6%9C%88%E7%90%83%E4%BA%86&from=hot_entertainment
+
+### 张馨予时装周瘦到98斤
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 张馨予时装周瘦到98斤 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%97%B6%E8%A3%85%E5%91%A8%E7%98%A6%E5%88%B098%E6%96%A4&from=hot_entertainment
+
+### 别花钱买增加情绪劳动的东西
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 别花钱买增加情绪劳动的东西 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%AB%E8%8A%B1%E9%92%B1%E4%B9%B0%E5%A2%9E%E5%8A%A0%E6%83%85%E7%BB%AA%E5%8A%B3%E5%8A%A8%E7%9A%84%E4%B8%9C%E8%A5%BF&from=hot_entertainment
+
+### 湖北雷暴龙卷风
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 湖北雷暴龙卷风 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E9%9B%B7%E6%9A%B4%E9%BE%99%E5%8D%B7%E9%A3%8E&from=hot_entertainment
 
 ### 宜宾地震
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 宜宾地震 新
-- Published At: 2026-07-07T23:14:02.825Z
+- Desc: 宜宾地震 热
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87&from=hot_entertainment
 
-### 萨拉赫 点球争议
+### 台风巴威今夜进入48小时警戒线
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 萨拉赫 点球争议 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%90%A8%E6%8B%89%E8%B5%AB+%E7%82%B9%E7%90%83%E4%BA%89%E8%AE%AE&from=hot_entertainment
+- Desc: 台风巴威今夜进入48小时警戒线 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BB%8A%E5%A4%9C%E8%BF%9B%E5%85%A548%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF&from=hot_entertainment
 
-### 埃及 赛后抗议连续吃牌
+### 广西贵港紧急通知不要直接饮用自来水
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 埃及 赛后抗议连续吃牌 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A+%E8%B5%9B%E5%90%8E%E6%8A%97%E8%AE%AE%E8%BF%9E%E7%BB%AD%E5%90%83%E7%89%8C&from=hot_entertainment
+- Desc: 广西贵港紧急通知不要直接饮用自来水 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E4%B8%8D%E8%A6%81%E7%9B%B4%E6%8E%A5%E9%A5%AE%E7%94%A8%E8%87%AA%E6%9D%A5%E6%B0%B4&from=hot_entertainment
 
-### 裁判 忘穿阿根廷球衣了
+### 苏醒回应阿根廷队黑赢
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 裁判 忘穿阿根廷球衣了
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4+%E5%BF%98%E7%A9%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%A1%A3%E4%BA%86&from=hot_entertainment
+- Desc: 苏醒回应阿根廷队黑赢
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E5%9B%9E%E5%BA%94%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%BB%91%E8%B5%A2&from=hot_entertainment
 
-### 感觉江浙沪对于台风反应都很平静
+### 野狗骨头把女生黄体破裂拍出来了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 感觉江浙沪对于台风反应都很平静
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%AF%B9%E4%BA%8E%E5%8F%B0%E9%A3%8E%E5%8F%8D%E5%BA%94%E9%83%BD%E5%BE%88%E5%B9%B3%E9%9D%99&from=hot_entertainment
+- Desc: 野狗骨头把女生黄体破裂拍出来了 热
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8A%8A%E5%A5%B3%E7%94%9F%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86&from=hot_entertainment
 
-### 美股
+### 特朗普说中国威胁论纯属危言耸听
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 美股
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&from=hot_entertainment
+- Desc: 特朗普说中国威胁论纯属危言耸听
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E7%BA%AF%E5%B1%9E%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC&from=hot_entertainment
 
-### 冬风吹又生 陈都灵屈楚萧
+### 唐香玉 埃克
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 冬风吹又生 陈都灵屈楚萧 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%86%AC%E9%A3%8E%E5%90%B9%E5%8F%88%E7%94%9F+%E9%99%88%E9%83%BD%E7%81%B5%E5%B1%88%E6%A5%9A%E8%90%A7&from=hot_entertainment
+- Desc: 唐香玉 埃克 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%94%90%E9%A6%99%E7%8E%89+%E5%9F%83%E5%85%8B&from=hot_entertainment
 
-### 阿根廷回应让2追3
+### 现在就出发4 金晨
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 阿根廷回应让2追3 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%9E%E5%BA%94%E8%AE%A92%E8%BF%BD3&from=hot_entertainment
+- Desc: 现在就出发4 金晨
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914+%E9%87%91%E6%99%A8&from=hot_entertainment
 
-### 人一定要频繁大量记录自己
+### 一觉醒来黄金又跌了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 人一定要频繁大量记录自己
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E5%A4%A7%E9%87%8F%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1&from=hot_entertainment
+- Desc: 一觉醒来黄金又跌了 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E4%BA%86&from=hot_entertainment
 
-### 埃及抗议裁判判罚
+### 董宇辉陪昆凌和孩子们爬长城
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 埃及抗议裁判判罚
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%8A%97%E8%AE%AE%E8%A3%81%E5%88%A4%E5%88%A4%E7%BD%9A&from=hot_entertainment
+- Desc: 董宇辉陪昆凌和孩子们爬长城
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E9%99%AA%E6%98%86%E5%87%8C%E5%92%8C%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%88%AC%E9%95%BF%E5%9F%8E&from=hot_entertainment
 
-### 阿根廷惊天大逆转
+### by5团综真的来了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 阿根廷惊天大逆转 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%83%8A%E5%A4%A9%E5%A4%A7%E9%80%86%E8%BD%AC&from=hot_entertainment
+- Desc: by5团综真的来了 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=by5%E5%9B%A2%E7%BB%BC%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86&from=hot_entertainment
 
-### 龙卷风
+### 阿根廷战埃及裁判称判罚非常公平
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 龙卷风
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%BE%99%E5%8D%B7%E9%A3%8E&from=hot_entertainment
+- Desc: 阿根廷战埃及裁判称判罚非常公平 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%88%98%E5%9F%83%E5%8F%8A%E8%A3%81%E5%88%A4%E7%A7%B0%E5%88%A4%E7%BD%9A%E9%9D%9E%E5%B8%B8%E5%85%AC%E5%B9%B3&from=hot_entertainment
 
-### 49岁男子招嫖被骗90万气晕妻子
+### TOP偷偷藏不住
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 49岁男子招嫖被骗90万气晕妻子
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=49%E5%B2%81%E7%94%B7%E5%AD%90%E6%8B%9B%E5%AB%96%E8%A2%AB%E9%AA%9790%E4%B8%87%E6%B0%94%E6%99%95%E5%A6%BB%E5%AD%90&from=hot_entertainment
+- Desc: TOP偷偷藏不住 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=TOP%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F&from=hot_entertainment
 
-### 阿根廷vs埃及
+### 余承东发了带车顶帐篷的享界G9
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 阿根廷vs埃及
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%9F%83%E5%8F%8A&from=hot_entertainment
+- Desc: 余承东发了带车顶帐篷的享界G9
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E4%BA%86%E5%B8%A6%E8%BD%A6%E9%A1%B6%E5%B8%90%E7%AF%B7%E7%9A%84%E4%BA%AB%E7%95%8CG9&from=hot_entertainment
 
-### 印度男子遭狮子袭击被按住双腿
+### 埃及足协正式申诉 要求调查主裁判
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 印度男子遭狮子袭击被按住双腿 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E9%81%AD%E7%8B%AE%E5%AD%90%E8%A2%AD%E5%87%BB%E8%A2%AB%E6%8C%89%E4%BD%8F%E5%8F%8C%E8%85%BF&from=hot_entertainment
-
-### 陈异苗靖一起看亲密戏的反应
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 陈异苗靖一起看亲密戏的反应 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%BC%82%E8%8B%97%E9%9D%96%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%BA%B2%E5%AF%86%E6%88%8F%E7%9A%84%E5%8F%8D%E5%BA%94&from=hot_entertainment
-
-### 广东广西洪涝
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 广东广西洪涝 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B6%9D&from=hot_entertainment
-
-### 被龙卷风从12楼吸走男子仍在抢救
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 被龙卷风从12楼吸走男子仍在抢救
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%A2%AB%E9%BE%99%E5%8D%B7%E9%A3%8E%E4%BB%8E12%E6%A5%BC%E5%90%B8%E8%B5%B0%E7%94%B7%E5%AD%90%E4%BB%8D%E5%9C%A8%E6%8A%A2%E6%95%91&from=hot_entertainment
+- Source: 微博热榜-life
+- Desc: 埃及足协正式申诉 要求调查主裁判 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89+%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4&from=hot_life
 
 ### 阿根廷 脏
 - Platform: weibo
 - Source: 微博热榜-life
 - Desc: 阿根廷 脏 热
-- Published At: 2026-07-07T23:14:02.825Z
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E8%84%8F&from=hot_life
 
-### 世界杯冠军直接颁给门将吧
+### 超8000人投入广西抗洪
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 世界杯冠军直接颁给门将吧 热
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E7%9B%B4%E6%8E%A5%E9%A2%81%E7%BB%99%E9%97%A8%E5%B0%86%E5%90%A7&from=hot_life
+- Desc: 超8000人投入广西抗洪 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%B6%858000%E4%BA%BA%E6%8A%95%E5%85%A5%E5%B9%BF%E8%A5%BF%E6%8A%97%E6%B4%AA&from=hot_life
 
-### 探访三江源
+### 王俊凯王一博作词
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 探访三江源
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E6%8E%A2%E8%AE%BF%E4%B8%89%E6%B1%9F%E6%BA%90&from=hot_life
+- Desc: 王俊凯王一博作词 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BD%9C%E8%AF%8D&from=hot_life
 
-### 阿根廷3比2埃及
+### 广西升级发布洪水红色预警
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 阿根廷3比2埃及
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%AF%942%E5%9F%83%E5%8F%8A&from=hot_life
-
-### 瑞士vs哥伦比亚
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 瑞士vs哥伦比亚
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A&from=hot_life
-
-### 男子父母被卷至百米高空后遇难
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 男子父母被卷至百米高空后遇难 热
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%88%B6%E6%AF%8D%E8%A2%AB%E5%8D%B7%E8%87%B3%E7%99%BE%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%90%8E%E9%81%87%E9%9A%BE&from=hot_life
-
-### 埃及进球取消黄牌取消不了
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 埃及进球取消黄牌取消不了
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%BF%9B%E7%90%83%E5%8F%96%E6%B6%88%E9%BB%84%E7%89%8C%E5%8F%96%E6%B6%88%E4%B8%8D%E4%BA%86&from=hot_life
-
-### 埃及队抗议
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 埃及队抗议 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E9%98%9F%E6%8A%97%E8%AE%AE&from=hot_life
-
-### 现在就出发4
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 现在就出发4
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914&from=hot_life
-
-### 虞书欣张婧仪决战95花现偶之巅
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 虞书欣张婧仪决战95花现偶之巅
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%86%B3%E6%88%9895%E8%8A%B1%E7%8E%B0%E5%81%B6%E4%B9%8B%E5%B7%85&from=hot_life
+- Desc: 广西升级发布洪水红色预警 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&from=hot_life
 
 ### 脱口秀唐香玉拒不道歉被强执
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 脱口秀唐香玉拒不道歉被强执 热
-- Published At: 2026-07-07T23:14:02.825Z
+- Desc: 脱口秀唐香玉拒不道歉被强执
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E5%94%90%E9%A6%99%E7%8E%89%E6%8B%92%E4%B8%8D%E9%81%93%E6%AD%89%E8%A2%AB%E5%BC%BA%E6%89%A7&from=hot_life
 
-### 苏醒 球王这点球太臭了
+### 小米汽车新系列
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 苏醒 球王这点球太臭了 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92+%E7%90%83%E7%8E%8B%E8%BF%99%E7%82%B9%E7%90%83%E5%A4%AA%E8%87%AD%E4%BA%86&from=hot_life
+- Desc: 小米汽车新系列
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97&from=hot_life
+
+### 恐怖游轮定档
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 恐怖游轮定档 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%81%90%E6%80%96%E6%B8%B8%E8%BD%AE%E5%AE%9A%E6%A1%A3&from=hot_life
+
+### 阿里 全员卸载Claude
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 阿里 全员卸载Claude 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C+%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&from=hot_life
+
+### 国际足联社媒被冲
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 国际足联社媒被冲 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A4%BE%E5%AA%92%E8%A2%AB%E5%86%B2&from=hot_life
+
+### 埃及总统赛后发文
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 埃及总统赛后发文 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87&from=hot_life
+
+### 本届世界杯首次所有裁判来自同一国家
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 本届世界杯首次所有裁判来自同一国家
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%AC%A1%E6%89%80%E6%9C%89%E8%A3%81%E5%88%A4%E6%9D%A5%E8%87%AA%E5%90%8C%E4%B8%80%E5%9B%BD%E5%AE%B6&from=hot_life
+
+### 霉霉已经可以买下月球了
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 霉霉已经可以买下月球了
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E5%B7%B2%E7%BB%8F%E5%8F%AF%E4%BB%A5%E4%B9%B0%E4%B8%8B%E6%9C%88%E7%90%83%E4%BA%86&from=hot_life
+
+### 张馨予时装周瘦到98斤
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 张馨予时装周瘦到98斤 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%97%B6%E8%A3%85%E5%91%A8%E7%98%A6%E5%88%B098%E6%96%A4&from=hot_life
+
+### 别花钱买增加情绪劳动的东西
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 别花钱买增加情绪劳动的东西 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%AB%E8%8A%B1%E9%92%B1%E4%B9%B0%E5%A2%9E%E5%8A%A0%E6%83%85%E7%BB%AA%E5%8A%B3%E5%8A%A8%E7%9A%84%E4%B8%9C%E8%A5%BF&from=hot_life
+
+### 湖北雷暴龙卷风
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 湖北雷暴龙卷风 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E9%9B%B7%E6%9A%B4%E9%BE%99%E5%8D%B7%E9%A3%8E&from=hot_life
 
 ### 宜宾地震
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 宜宾地震 新
-- Published At: 2026-07-07T23:14:02.825Z
+- Desc: 宜宾地震 热
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87&from=hot_life
 
-### 萨拉赫 点球争议
+### 台风巴威今夜进入48小时警戒线
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 萨拉赫 点球争议 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%90%A8%E6%8B%89%E8%B5%AB+%E7%82%B9%E7%90%83%E4%BA%89%E8%AE%AE&from=hot_life
+- Desc: 台风巴威今夜进入48小时警戒线 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BB%8A%E5%A4%9C%E8%BF%9B%E5%85%A548%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF&from=hot_life
 
-### 埃及 赛后抗议连续吃牌
+### 广西贵港紧急通知不要直接饮用自来水
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 埃及 赛后抗议连续吃牌 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A+%E8%B5%9B%E5%90%8E%E6%8A%97%E8%AE%AE%E8%BF%9E%E7%BB%AD%E5%90%83%E7%89%8C&from=hot_life
+- Desc: 广西贵港紧急通知不要直接饮用自来水 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E4%B8%8D%E8%A6%81%E7%9B%B4%E6%8E%A5%E9%A5%AE%E7%94%A8%E8%87%AA%E6%9D%A5%E6%B0%B4&from=hot_life
 
-### 裁判 忘穿阿根廷球衣了
+### 苏醒回应阿根廷队黑赢
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 裁判 忘穿阿根廷球衣了
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4+%E5%BF%98%E7%A9%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%A1%A3%E4%BA%86&from=hot_life
+- Desc: 苏醒回应阿根廷队黑赢
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E5%9B%9E%E5%BA%94%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%BB%91%E8%B5%A2&from=hot_life
 
-### 感觉江浙沪对于台风反应都很平静
+### 野狗骨头把女生黄体破裂拍出来了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 感觉江浙沪对于台风反应都很平静
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%AF%B9%E4%BA%8E%E5%8F%B0%E9%A3%8E%E5%8F%8D%E5%BA%94%E9%83%BD%E5%BE%88%E5%B9%B3%E9%9D%99&from=hot_life
+- Desc: 野狗骨头把女生黄体破裂拍出来了 热
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8A%8A%E5%A5%B3%E7%94%9F%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86&from=hot_life
 
-### 美股
+### 特朗普说中国威胁论纯属危言耸听
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 美股
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&from=hot_life
+- Desc: 特朗普说中国威胁论纯属危言耸听
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E7%BA%AF%E5%B1%9E%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC&from=hot_life
 
-### 冬风吹又生 陈都灵屈楚萧
+### 唐香玉 埃克
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 冬风吹又生 陈都灵屈楚萧 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%86%AC%E9%A3%8E%E5%90%B9%E5%8F%88%E7%94%9F+%E9%99%88%E9%83%BD%E7%81%B5%E5%B1%88%E6%A5%9A%E8%90%A7&from=hot_life
+- Desc: 唐香玉 埃克 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%94%90%E9%A6%99%E7%8E%89+%E5%9F%83%E5%85%8B&from=hot_life
 
-### 阿根廷回应让2追3
+### 现在就出发4 金晨
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 阿根廷回应让2追3 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%9E%E5%BA%94%E8%AE%A92%E8%BF%BD3&from=hot_life
+- Desc: 现在就出发4 金晨
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914+%E9%87%91%E6%99%A8&from=hot_life
 
-### 人一定要频繁大量记录自己
+### 一觉醒来黄金又跌了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 人一定要频繁大量记录自己
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E5%A4%A7%E9%87%8F%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1&from=hot_life
+- Desc: 一觉醒来黄金又跌了 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E4%BA%86&from=hot_life
 
-### 埃及抗议裁判判罚
+### 董宇辉陪昆凌和孩子们爬长城
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 埃及抗议裁判判罚
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%8A%97%E8%AE%AE%E8%A3%81%E5%88%A4%E5%88%A4%E7%BD%9A&from=hot_life
+- Desc: 董宇辉陪昆凌和孩子们爬长城
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E9%99%AA%E6%98%86%E5%87%8C%E5%92%8C%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%88%AC%E9%95%BF%E5%9F%8E&from=hot_life
 
-### 阿根廷惊天大逆转
+### by5团综真的来了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 阿根廷惊天大逆转 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%83%8A%E5%A4%A9%E5%A4%A7%E9%80%86%E8%BD%AC&from=hot_life
+- Desc: by5团综真的来了 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=by5%E5%9B%A2%E7%BB%BC%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86&from=hot_life
 
-### 龙卷风
+### 阿根廷战埃及裁判称判罚非常公平
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 龙卷风
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%BE%99%E5%8D%B7%E9%A3%8E&from=hot_life
+- Desc: 阿根廷战埃及裁判称判罚非常公平 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%88%98%E5%9F%83%E5%8F%8A%E8%A3%81%E5%88%A4%E7%A7%B0%E5%88%A4%E7%BD%9A%E9%9D%9E%E5%B8%B8%E5%85%AC%E5%B9%B3&from=hot_life
 
-### 49岁男子招嫖被骗90万气晕妻子
+### TOP偷偷藏不住
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 49岁男子招嫖被骗90万气晕妻子
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=49%E5%B2%81%E7%94%B7%E5%AD%90%E6%8B%9B%E5%AB%96%E8%A2%AB%E9%AA%9790%E4%B8%87%E6%B0%94%E6%99%95%E5%A6%BB%E5%AD%90&from=hot_life
+- Desc: TOP偷偷藏不住 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=TOP%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F&from=hot_life
 
-### 阿根廷vs埃及
+### 余承东发了带车顶帐篷的享界G9
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 阿根廷vs埃及
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%9F%83%E5%8F%8A&from=hot_life
+- Desc: 余承东发了带车顶帐篷的享界G9
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E4%BA%86%E5%B8%A6%E8%BD%A6%E9%A1%B6%E5%B8%90%E7%AF%B7%E7%9A%84%E4%BA%AB%E7%95%8CG9&from=hot_life
 
-### 印度男子遭狮子袭击被按住双腿
+### 埃及足协正式申诉 要求调查主裁判
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 印度男子遭狮子袭击被按住双腿 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E9%81%AD%E7%8B%AE%E5%AD%90%E8%A2%AD%E5%87%BB%E8%A2%AB%E6%8C%89%E4%BD%8F%E5%8F%8C%E8%85%BF&from=hot_life
-
-### 陈异苗靖一起看亲密戏的反应
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 陈异苗靖一起看亲密戏的反应 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%BC%82%E8%8B%97%E9%9D%96%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%BA%B2%E5%AF%86%E6%88%8F%E7%9A%84%E5%8F%8D%E5%BA%94&from=hot_life
-
-### 广东广西洪涝
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 广东广西洪涝 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B6%9D&from=hot_life
-
-### 被龙卷风从12楼吸走男子仍在抢救
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 被龙卷风从12楼吸走男子仍在抢救
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%A2%AB%E9%BE%99%E5%8D%B7%E9%A3%8E%E4%BB%8E12%E6%A5%BC%E5%90%B8%E8%B5%B0%E7%94%B7%E5%AD%90%E4%BB%8D%E5%9C%A8%E6%8A%A2%E6%95%91&from=hot_life
+- Source: 微博热榜-social
+- Desc: 埃及足协正式申诉 要求调查主裁判 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89+%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4&from=hot_social
 
 ### 阿根廷 脏
 - Platform: weibo
 - Source: 微博热榜-social
 - Desc: 阿根廷 脏 热
-- Published At: 2026-07-07T23:14:02.825Z
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E8%84%8F&from=hot_social
 
-### 世界杯冠军直接颁给门将吧
+### 超8000人投入广西抗洪
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 世界杯冠军直接颁给门将吧 热
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E7%9B%B4%E6%8E%A5%E9%A2%81%E7%BB%99%E9%97%A8%E5%B0%86%E5%90%A7&from=hot_social
+- Desc: 超8000人投入广西抗洪 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%B6%858000%E4%BA%BA%E6%8A%95%E5%85%A5%E5%B9%BF%E8%A5%BF%E6%8A%97%E6%B4%AA&from=hot_social
 
-### 探访三江源
+### 王俊凯王一博作词
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 探访三江源
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E6%8E%A2%E8%AE%BF%E4%B8%89%E6%B1%9F%E6%BA%90&from=hot_social
+- Desc: 王俊凯王一博作词 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BD%9C%E8%AF%8D&from=hot_social
 
-### 阿根廷3比2埃及
+### 广西升级发布洪水红色预警
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 阿根廷3比2埃及
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%AF%942%E5%9F%83%E5%8F%8A&from=hot_social
-
-### 瑞士vs哥伦比亚
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 瑞士vs哥伦比亚
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A&from=hot_social
-
-### 男子父母被卷至百米高空后遇难
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 男子父母被卷至百米高空后遇难 热
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%88%B6%E6%AF%8D%E8%A2%AB%E5%8D%B7%E8%87%B3%E7%99%BE%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%90%8E%E9%81%87%E9%9A%BE&from=hot_social
-
-### 埃及进球取消黄牌取消不了
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 埃及进球取消黄牌取消不了
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%BF%9B%E7%90%83%E5%8F%96%E6%B6%88%E9%BB%84%E7%89%8C%E5%8F%96%E6%B6%88%E4%B8%8D%E4%BA%86&from=hot_social
-
-### 埃及队抗议
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 埃及队抗议 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E9%98%9F%E6%8A%97%E8%AE%AE&from=hot_social
-
-### 现在就出发4
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 现在就出发4
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914&from=hot_social
-
-### 虞书欣张婧仪决战95花现偶之巅
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 虞书欣张婧仪决战95花现偶之巅
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%86%B3%E6%88%9895%E8%8A%B1%E7%8E%B0%E5%81%B6%E4%B9%8B%E5%B7%85&from=hot_social
+- Desc: 广西升级发布洪水红色预警 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&from=hot_social
 
 ### 脱口秀唐香玉拒不道歉被强执
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 脱口秀唐香玉拒不道歉被强执 热
-- Published At: 2026-07-07T23:14:02.825Z
+- Desc: 脱口秀唐香玉拒不道歉被强执
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E5%94%90%E9%A6%99%E7%8E%89%E6%8B%92%E4%B8%8D%E9%81%93%E6%AD%89%E8%A2%AB%E5%BC%BA%E6%89%A7&from=hot_social
 
-### 苏醒 球王这点球太臭了
+### 小米汽车新系列
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 苏醒 球王这点球太臭了 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92+%E7%90%83%E7%8E%8B%E8%BF%99%E7%82%B9%E7%90%83%E5%A4%AA%E8%87%AD%E4%BA%86&from=hot_social
+- Desc: 小米汽车新系列
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97&from=hot_social
+
+### 恐怖游轮定档
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 恐怖游轮定档 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%81%90%E6%80%96%E6%B8%B8%E8%BD%AE%E5%AE%9A%E6%A1%A3&from=hot_social
+
+### 阿里 全员卸载Claude
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 阿里 全员卸载Claude 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C+%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&from=hot_social
+
+### 国际足联社媒被冲
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 国际足联社媒被冲 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A4%BE%E5%AA%92%E8%A2%AB%E5%86%B2&from=hot_social
+
+### 埃及总统赛后发文
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 埃及总统赛后发文 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87&from=hot_social
+
+### 本届世界杯首次所有裁判来自同一国家
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 本届世界杯首次所有裁判来自同一国家
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%AC%A1%E6%89%80%E6%9C%89%E8%A3%81%E5%88%A4%E6%9D%A5%E8%87%AA%E5%90%8C%E4%B8%80%E5%9B%BD%E5%AE%B6&from=hot_social
+
+### 霉霉已经可以买下月球了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 霉霉已经可以买下月球了
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E5%B7%B2%E7%BB%8F%E5%8F%AF%E4%BB%A5%E4%B9%B0%E4%B8%8B%E6%9C%88%E7%90%83%E4%BA%86&from=hot_social
+
+### 张馨予时装周瘦到98斤
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 张馨予时装周瘦到98斤 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%97%B6%E8%A3%85%E5%91%A8%E7%98%A6%E5%88%B098%E6%96%A4&from=hot_social
+
+### 别花钱买增加情绪劳动的东西
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 别花钱买增加情绪劳动的东西 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%AB%E8%8A%B1%E9%92%B1%E4%B9%B0%E5%A2%9E%E5%8A%A0%E6%83%85%E7%BB%AA%E5%8A%B3%E5%8A%A8%E7%9A%84%E4%B8%9C%E8%A5%BF&from=hot_social
+
+### 湖北雷暴龙卷风
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 湖北雷暴龙卷风 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E6%B9%96%E5%8C%97%E9%9B%B7%E6%9A%B4%E9%BE%99%E5%8D%B7%E9%A3%8E&from=hot_social
 
 ### 宜宾地震
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 宜宾地震 新
-- Published At: 2026-07-07T23:14:02.825Z
+- Desc: 宜宾地震 热
+- Published At: 2026-07-08T03:30:48.963Z
 - URL: https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87&from=hot_social
 
-### 萨拉赫 点球争议
+### 台风巴威今夜进入48小时警戒线
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 萨拉赫 点球争议 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%90%A8%E6%8B%89%E8%B5%AB+%E7%82%B9%E7%90%83%E4%BA%89%E8%AE%AE&from=hot_social
+- Desc: 台风巴威今夜进入48小时警戒线 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BB%8A%E5%A4%9C%E8%BF%9B%E5%85%A548%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF&from=hot_social
 
-### 埃及 赛后抗议连续吃牌
+### 广西贵港紧急通知不要直接饮用自来水
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 埃及 赛后抗议连续吃牌 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A+%E8%B5%9B%E5%90%8E%E6%8A%97%E8%AE%AE%E8%BF%9E%E7%BB%AD%E5%90%83%E7%89%8C&from=hot_social
+- Desc: 广西贵港紧急通知不要直接饮用自来水 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5%E4%B8%8D%E8%A6%81%E7%9B%B4%E6%8E%A5%E9%A5%AE%E7%94%A8%E8%87%AA%E6%9D%A5%E6%B0%B4&from=hot_social
 
-### 裁判 忘穿阿根廷球衣了
+### 苏醒回应阿根廷队黑赢
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 裁判 忘穿阿根廷球衣了
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4+%E5%BF%98%E7%A9%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%A1%A3%E4%BA%86&from=hot_social
+- Desc: 苏醒回应阿根廷队黑赢
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E5%9B%9E%E5%BA%94%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%BB%91%E8%B5%A2&from=hot_social
 
-### 感觉江浙沪对于台风反应都很平静
+### 野狗骨头把女生黄体破裂拍出来了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 感觉江浙沪对于台风反应都很平静
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%AF%B9%E4%BA%8E%E5%8F%B0%E9%A3%8E%E5%8F%8D%E5%BA%94%E9%83%BD%E5%BE%88%E5%B9%B3%E9%9D%99&from=hot_social
+- Desc: 野狗骨头把女生黄体破裂拍出来了 热
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8A%8A%E5%A5%B3%E7%94%9F%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86&from=hot_social
 
-### 美股
+### 特朗普说中国威胁论纯属危言耸听
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 美股
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&from=hot_social
+- Desc: 特朗普说中国威胁论纯属危言耸听
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E7%BA%AF%E5%B1%9E%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC&from=hot_social
 
-### 冬风吹又生 陈都灵屈楚萧
+### 唐香玉 埃克
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 冬风吹又生 陈都灵屈楚萧 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%86%AC%E9%A3%8E%E5%90%B9%E5%8F%88%E7%94%9F+%E9%99%88%E9%83%BD%E7%81%B5%E5%B1%88%E6%A5%9A%E8%90%A7&from=hot_social
+- Desc: 唐香玉 埃克 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E5%94%90%E9%A6%99%E7%8E%89+%E5%9F%83%E5%85%8B&from=hot_social
 
-### 阿根廷回应让2追3
+### 现在就出发4 金晨
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 阿根廷回应让2追3 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%9E%E5%BA%94%E8%AE%A92%E8%BF%BD3&from=hot_social
+- Desc: 现在就出发4 金晨
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914+%E9%87%91%E6%99%A8&from=hot_social
 
-### 人一定要频繁大量记录自己
+### 一觉醒来黄金又跌了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 人一定要频繁大量记录自己
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E5%A4%A7%E9%87%8F%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1&from=hot_social
+- Desc: 一觉醒来黄金又跌了 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E4%BA%86&from=hot_social
 
-### 埃及抗议裁判判罚
+### 董宇辉陪昆凌和孩子们爬长城
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 埃及抗议裁判判罚
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E6%8A%97%E8%AE%AE%E8%A3%81%E5%88%A4%E5%88%A4%E7%BD%9A&from=hot_social
+- Desc: 董宇辉陪昆凌和孩子们爬长城
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E9%99%AA%E6%98%86%E5%87%8C%E5%92%8C%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%88%AC%E9%95%BF%E5%9F%8E&from=hot_social
 
-### 阿根廷惊天大逆转
+### by5团综真的来了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 阿根廷惊天大逆转 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%83%8A%E5%A4%A9%E5%A4%A7%E9%80%86%E8%BD%AC&from=hot_social
+- Desc: by5团综真的来了 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=by5%E5%9B%A2%E7%BB%BC%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86&from=hot_social
 
-### 龙卷风
+### 阿根廷战埃及裁判称判罚非常公平
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 龙卷风
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%BE%99%E5%8D%B7%E9%A3%8E&from=hot_social
+- Desc: 阿根廷战埃及裁判称判罚非常公平 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%88%98%E5%9F%83%E5%8F%8A%E8%A3%81%E5%88%A4%E7%A7%B0%E5%88%A4%E7%BD%9A%E9%9D%9E%E5%B8%B8%E5%85%AC%E5%B9%B3&from=hot_social
 
-### 49岁男子招嫖被骗90万气晕妻子
+### TOP偷偷藏不住
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 49岁男子招嫖被骗90万气晕妻子
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=49%E5%B2%81%E7%94%B7%E5%AD%90%E6%8B%9B%E5%AB%96%E8%A2%AB%E9%AA%9790%E4%B8%87%E6%B0%94%E6%99%95%E5%A6%BB%E5%AD%90&from=hot_social
+- Desc: TOP偷偷藏不住 新
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=TOP%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F&from=hot_social
 
-### 阿根廷vs埃及
+### 余承东发了带车顶帐篷的享界G9
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 阿根廷vs埃及
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%9F%83%E5%8F%8A&from=hot_social
-
-### 印度男子遭狮子袭击被按住双腿
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 印度男子遭狮子袭击被按住双腿 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E9%81%AD%E7%8B%AE%E5%AD%90%E8%A2%AD%E5%87%BB%E8%A2%AB%E6%8C%89%E4%BD%8F%E5%8F%8C%E8%85%BF&from=hot_social
-
-### 陈异苗靖一起看亲密戏的反应
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 陈异苗靖一起看亲密戏的反应 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%BC%82%E8%8B%97%E9%9D%96%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%BA%B2%E5%AF%86%E6%88%8F%E7%9A%84%E5%8F%8D%E5%BA%94&from=hot_social
-
-### 广东广西洪涝
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 广东广西洪涝 新
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B6%9D&from=hot_social
-
-### 被龙卷风从12楼吸走男子仍在抢救
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 被龙卷风从12楼吸走男子仍在抢救
-- Published At: 2026-07-07T23:14:02.825Z
-- URL: https://s.weibo.com/weibo?q=%E8%A2%AB%E9%BE%99%E5%8D%B7%E9%A3%8E%E4%BB%8E12%E6%A5%BC%E5%90%B8%E8%B5%B0%E7%94%B7%E5%AD%90%E4%BB%8D%E5%9C%A8%E6%8A%A2%E6%95%91&from=hot_social
+- Desc: 余承东发了带车顶帐篷的享界G9
+- Published At: 2026-07-08T03:30:48.963Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E4%BA%86%E5%B8%A6%E8%BD%A6%E9%A1%B6%E5%B8%90%E7%AF%B7%E7%9A%84%E4%BA%AB%E7%95%8CG9&from=hot_social
 
