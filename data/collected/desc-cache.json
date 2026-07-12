@@ -8183,5 +8183,12 @@
   "https://phys.org/news/2026-07-national-drought-deepens-ai-demands.html": "We’re checking your connection to prevent automated abuse",
   "https://www.huxiu.com/article/4874465.html?f=rss": "2025年7月9日，OpenAI发布GPT-5.6和ChatGPT Work，两天前Anthropic刚将Claude Cowork扩展至网页和手机。通过WAIC功课、罗永浩使用指南、互相调研三个场景对比测试，ChatGPT Work在交付完成度上略胜，但两者均未达到可直接信任的水平。这一对比标志着OpenAI在办公AI领域首次追平Claude。",
   "https://www.huxiu.com/article/4874471.html?f=rss": "2026年7月10日，苹果向美国加州法院起诉OpenAI及硬件子公司io Products，指控其通过挖走员工、获取内部文件和接触供应商盗用苹果商业秘密。苹果提供具体证据链，包括前员工离职后继续访问内部系统、使用项目代号面试等。法院尚未作出事实认定，但苹果要求禁令和赔偿，若生效可能影响OpenAI硬件研发。",
-  "https://www.huxiu.com/article/4874482.html?f=rss": "高性能 JavaScript 运行时 Bun 被其创始人用 Rust 重写，原编程语言 Zig 创始人 Andrew Kelley 公开批评 Bun 创始人 Jarred Sumner 的工程习惯和 AI 生成代码的质量。该事件引发技术圈对 AI 辅助开发成本、技术债和开源文化的讨论。"
+  "https://www.huxiu.com/article/4874482.html?f=rss": "高性能 JavaScript 运行时 Bun 被其创始人用 Rust 重写，原编程语言 Zig 创始人 Andrew Kelley 公开批评 Bun 创始人 Jarred Sumner 的工程习惯和 AI 生成代码的质量。该事件引发技术圈对 AI 辅助开发成本、技术债和开源文化的讨论。",
+  "https://github.com/Anode1/iac": "Inter-agent communication: a minimal C99 dispatcher — rooms, broadcast/p2p/subset/whoever-is-free, flock presence. No deps, no network, ISC. - Anode1/iac",
+  "https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7": "The major AI labs, from OpenAI to Meta, have released a parade of new products in the last three days. Here's your rundown.",
+  "https://news.ycombinator.com/item?id=48861217": "My name is Clem, I've been a solo indie dev for a couple years now, exploring frontier tech like XR and agentic workflows in the context of creative / interactive work.",
+  "https://news.ycombinator.com/item?id=48858598": "> \"In most books, putting out of account those that are thoroughly bad, the author, when their content is not altogether empirical, has certainly thought but not perceived; he has written from reflection, not from intuition, and it is this that makes them commonplace and tedio...",
+  "https://torrentfreak.com/pirate-site-blocking-is-legally-impossible-in-bulgaria-supreme-court-ruled": "Bulgaria's highest court has ruled that civil site blocking is legally impossible under current national law.",
+  "https://magik.net/freecad": "It started with a Hacker News thread: LibreCAD, the whole Qt desktop application, compiled to WebAssembly and running in a tab. magik shipped that, then OpenSCAD, and the pattern looked like a recipe — Qt for WebAssembly, JSPI, a static dependency stack, and an honest audit of...",
+  "https://www.huxiu.com/article/4874251.html?f=rss": "7月9日智谱宣布以每股1588港元配售1978万股新股，净筹资约313.75亿港元。尽管股价相比上市时涨了14倍，但智谱IPO募资已花掉93%，2025年净亏损约47亿元，需持续融资以支持GLM-5.2的全球竞争与下一代模型研发。"
 }
