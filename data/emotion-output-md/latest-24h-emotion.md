@@ -1,6 +1,6 @@
 # Emotion Input Digest
 
-- Generated At: 2026-07-19T07:04:09.879+08:00
+- Generated At: 2026-07-19T11:34:36.339+08:00
 - Window Hours: 24
 - Total Items: 150
 - Source Count: 5
@@ -11,1053 +11,1053 @@
 
 ## Items
 
-### 法国vs英格兰
+### 姆巴佩历史第一
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 法国vs英格兰 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_mine
+- Desc: 姆巴佩历史第一
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80&from=hot_mine
 
-### 法国半场0比4英格兰
+### 王楚钦让孙颖莎别给自己太大压力
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 法国半场0比4英格兰 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_mine
+- Desc: 王楚钦让孙颖莎别给自己太大压力
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AE%A9%E5%AD%99%E9%A2%96%E8%8E%8E%E5%88%AB%E7%BB%99%E8%87%AA%E5%B7%B1%E5%A4%AA%E5%A4%A7%E5%8E%8B%E5%8A%9B&from=hot_mine
 
-### 中国天眼开辟宇宙研究新路径
+### 中国AI产业落地跑出加速度
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 中国天眼开辟宇宙研究新路径
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%BC%80%E8%BE%9F%E5%AE%87%E5%AE%99%E7%A0%94%E7%A9%B6%E6%96%B0%E8%B7%AF%E5%BE%84&from=hot_mine
-
-### 法国 不想踢
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 法国 不想踢 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD+%E4%B8%8D%E6%83%B3%E8%B8%A2&from=hot_mine
-
-### 女儿一个谎让父亲坐了两年牢
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 女儿一个谎让父亲坐了两年牢 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E4%B8%80%E4%B8%AA%E8%B0%8E%E8%AE%A9%E7%88%B6%E4%BA%B2%E5%9D%90%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%89%A2&from=hot_mine
-
-### 姆巴佩进球
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 姆巴佩进球 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E7%90%83&from=hot_mine
-
-### 法国英格兰 诚信互刷
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 法国英格兰 诚信互刷 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%8B%B1%E6%A0%BC%E5%85%B0+%E8%AF%9A%E4%BF%A1%E4%BA%92%E5%88%B7&from=hot_mine
+- Desc: 中国AI产业落地跑出加速度 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6&from=hot_mine
 
 ### 法国门将身价堪比一杯蜜雪冰城
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 法国门将身价堪比一杯蜜雪冰城 新
-- Published At: 2026-07-18T23:04:09.879Z
+- Desc: 法国门将身价堪比一杯蜜雪冰城
+- Published At: 2026-07-19T03:34:36.339Z
 - URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%97%A8%E5%B0%86%E8%BA%AB%E4%BB%B7%E5%A0%AA%E6%AF%94%E4%B8%80%E6%9D%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E&from=hot_mine
 
-### 刘宇宁说以后会加倍注意
+### 刘宇宁让粉丝删掉不好听的评论
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 刘宇宁说以后会加倍注意 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%BC%9A%E5%8A%A0%E5%80%8D%E6%B3%A8%E6%84%8F&from=hot_mine
+- Desc: 刘宇宁让粉丝删掉不好听的评论 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA&from=hot_mine
 
-### 王俊凯演唱会退场天才
+### 贝林厄姆 颜值
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 王俊凯演唱会退场天才
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E5%9C%BA%E5%A4%A9%E6%89%8D&from=hot_mine
+- Desc: 贝林厄姆 颜值
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86+%E9%A2%9C%E5%80%BC&from=hot_mine
 
-### 王楚钦孙颖莎止步半决赛
+### 法国4比6英格兰
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 王楚钦孙颖莎止步半决赛
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AD%A2%E6%AD%A5%E5%8D%8A%E5%86%B3%E8%B5%9B&from=hot_mine
+- Desc: 法国4比6英格兰
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD4%E6%AF%946%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_mine
 
-### 姆巴佩梅开二度
+### 为何穿凉鞋的人越来越少了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 姆巴佩梅开二度 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&from=hot_mine
+- Desc: 为何穿凉鞋的人越来越少了
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BD%95%E7%A9%BF%E5%87%89%E9%9E%8B%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86&from=hot_mine
 
-### 法国门将 没睡醒
+### 英格兰里程碑一战
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 法国门将 没睡醒 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%97%A8%E5%B0%86+%E6%B2%A1%E7%9D%A1%E9%86%92&from=hot_mine
+- Desc: 英格兰里程碑一战 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%87%8C%E7%A8%8B%E7%A2%91%E4%B8%80%E6%88%98&from=hot_mine
 
-### 萨卡帽子戏法
+### 王俊凯前助理去了王俊凯演唱会
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 萨卡帽子戏法 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%90%A8%E5%8D%A1%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95&from=hot_mine
+- Desc: 王俊凯前助理去了王俊凯演唱会 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&from=hot_mine
 
-### 英格兰又进了
+### 国家开发银行原行长欧阳卫民被查
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 英格兰又进了 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8F%88%E8%BF%9B%E4%BA%86&from=hot_mine
+- Desc: 国家开发银行原行长欧阳卫民被查 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E5%BC%80%E5%8F%91%E9%93%B6%E8%A1%8C%E5%8E%9F%E8%A1%8C%E9%95%BF%E6%AC%A7%E9%98%B3%E5%8D%AB%E6%B0%91%E8%A2%AB%E6%9F%A5&from=hot_mine
 
-### 贝林厄姆替补
+### 刘宇宁此事到此为止
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 贝林厄姆替补 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%9B%BF%E8%A1%A5&from=hot_mine
+- Desc: 刘宇宁此事到此为止 热
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%AD%A4%E4%BA%8B%E5%88%B0%E6%AD%A4%E4%B8%BA%E6%AD%A2&from=hot_mine
 
-### 姆巴佩图赫尔聊起来了
+### 曾沛慈回应老公当monitor
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 姆巴佩图赫尔聊起来了 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%9B%BE%E8%B5%AB%E5%B0%94%E8%81%8A%E8%B5%B7%E6%9D%A5%E4%BA%86&from=hot_mine
+- Desc: 曾沛慈回应老公当monitor
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E5%9B%9E%E5%BA%94%E8%80%81%E5%85%AC%E5%BD%93monitor&from=hot_mine
 
-### 上海暴雨
+### 吧唧 甲醛
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 上海暴雨
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&from=hot_mine
+- Desc: 吧唧 甲醛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%A7%E5%94%A7+%E7%94%B2%E9%86%9B&from=hot_mine
 
-### 想你了票房倒挂
+### 黄子韬看王鹤棣的眼神
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 想你了票房倒挂
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%83%B3%E4%BD%A0%E4%BA%86%E7%A5%A8%E6%88%BF%E5%80%92%E6%8C%82&from=hot_mine
+- Desc: 黄子韬看王鹤棣的眼神
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9C%8B%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E7%9C%BC%E7%A5%9E&from=hot_mine
 
-### 泰国总理夫人打卡成都宽窄巷子
+### 谁能拒绝三伏天的免费雪糕
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 泰国总理夫人打卡成都宽窄巷子 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%A4%AB%E4%BA%BA%E6%89%93%E5%8D%A1%E6%88%90%E9%83%BD%E5%AE%BD%E7%AA%84%E5%B7%B7%E5%AD%90&from=hot_mine
+- Desc: 谁能拒绝三伏天的免费雪糕 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E4%B8%89%E4%BC%8F%E5%A4%A9%E7%9A%84%E5%85%8D%E8%B4%B9%E9%9B%AA%E7%B3%95&from=hot_mine
 
-### 龚俊回应和刘宇宁争议
+### 伊朗称将转入全面毁灭性反击阶段
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 龚俊回应和刘宇宁争议 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%BE%9A%E4%BF%8A%E5%9B%9E%E5%BA%94%E5%92%8C%E5%88%98%E5%AE%87%E5%AE%81%E4%BA%89%E8%AE%AE&from=hot_mine
+- Desc: 伊朗称将转入全面毁灭性反击阶段
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E8%BD%AC%E5%85%A5%E5%85%A8%E9%9D%A2%E6%AF%81%E7%81%AD%E6%80%A7%E5%8F%8D%E5%87%BB%E9%98%B6%E6%AE%B5&from=hot_mine
 
-### 降低身体炎症水平的食物
+### 人类发现生命所需三大特征均具备行星
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 降低身体炎症水平的食物
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%8D%E4%BD%8E%E8%BA%AB%E4%BD%93%E7%82%8E%E7%97%87%E6%B0%B4%E5%B9%B3%E7%9A%84%E9%A3%9F%E7%89%A9&from=hot_mine
+- Desc: 人类发现生命所需三大特征均具备行星
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E7%B1%BB%E5%8F%91%E7%8E%B0%E7%94%9F%E5%91%BD%E6%89%80%E9%9C%80%E4%B8%89%E5%A4%A7%E7%89%B9%E5%BE%81%E5%9D%87%E5%85%B7%E5%A4%87%E8%A1%8C%E6%98%9F&from=hot_mine
 
-### 赖斯进球
+### 跟着欢乐节玩转海南岛
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 赖斯进球
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B5%96%E6%96%AF%E8%BF%9B%E7%90%83&from=hot_mine
+- Desc: 跟着欢乐节玩转海南岛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B7%9F%E7%9D%80%E6%AC%A2%E4%B9%90%E8%8A%82%E7%8E%A9%E8%BD%AC%E6%B5%B7%E5%8D%97%E5%B2%9B&from=hot_mine
 
-### 丁程鑫王楚然认识几年了
+### 申留真直播道歉
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 丁程鑫王楚然认识几年了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%AE%A4%E8%AF%86%E5%87%A0%E5%B9%B4%E4%BA%86&from=hot_mine
+- Desc: 申留真直播道歉
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B3%E7%95%99%E7%9C%9F%E7%9B%B4%E6%92%AD%E9%81%93%E6%AD%89&from=hot_mine
 
-### 空调开26度有臭味原因找到了
+### 王俊凯粉丝贴脸开大妆造师
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 空调开26度有臭味原因找到了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E5%BC%8026%E5%BA%A6%E6%9C%89%E8%87%AD%E5%91%B3%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&from=hot_mine
+- Desc: 王俊凯粉丝贴脸开大妆造师 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%B2%89%E4%B8%9D%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%E5%A6%86%E9%80%A0%E5%B8%88&from=hot_mine
 
-### 爱喝酒的人天塌了
+### 那些年一起追过的世界杯
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 爱喝酒的人天塌了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%88%B1%E5%96%9D%E9%85%92%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&from=hot_mine
+- Desc: 那些年一起追过的世界杯 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF&from=hot_mine
 
-### 法国连扳3球
+### Angelababy耳机一戴切换状态
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 法国连扳3球 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%89%B33%E7%90%83&from=hot_mine
+- Desc: Angelababy耳机一戴切换状态 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=Angelababy%E8%80%B3%E6%9C%BA%E4%B8%80%E6%88%B4%E5%88%87%E6%8D%A2%E7%8A%B6%E6%80%81&from=hot_mine
 
-### 超300款AI新品迎来全球首发
+### 曾沛慈老公
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 超300款AI新品迎来全球首发
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91&from=hot_mine
+- Desc: 曾沛慈老公
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E8%80%81%E5%85%AC&from=hot_mine
 
-### 下半年过得最爽的星座
+### 樊振东解说决赛
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 下半年过得最爽的星座
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%BF%87%E5%BE%97%E6%9C%80%E7%88%BD%E7%9A%84%E6%98%9F%E5%BA%A7&from=hot_mine
+- Desc: 樊振东解说决赛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%A7%A3%E8%AF%B4%E5%86%B3%E8%B5%9B&from=hot_mine
 
-### 重庆彭水山体崩塌搜救进展
+### 地球超新鲜回应争议
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 重庆彭水山体崩塌搜救进展
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E6%90%9C%E6%95%91%E8%BF%9B%E5%B1%95&from=hot_mine
+- Desc: 地球超新鲜回应争议
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE&from=hot_mine
 
-### 法国vs英格兰
+### 旭旭宝宝说对功夫女足不感兴趣
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 旭旭宝宝说对功夫女足不感兴趣
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E8%AF%B4%E5%AF%B9%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%8D%E6%84%9F%E5%85%B4%E8%B6%A3&from=hot_mine
+
+### 锂电池也要交消费税了
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 锂电池也要交消费税了
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%82%E7%94%B5%E6%B1%A0%E4%B9%9F%E8%A6%81%E4%BA%A4%E6%B6%88%E8%B4%B9%E7%A8%8E%E4%BA%86&from=hot_mine
+
+### 老外说被中国降温神器拯救了
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 老外说被中国降温神器拯救了 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%96%E8%AF%B4%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%99%8D%E6%B8%A9%E7%A5%9E%E5%99%A8%E6%8B%AF%E6%95%91%E4%BA%86&from=hot_mine
+
+### 姆巴佩说宁愿不成为历史最佳射手
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 姆巴佩说宁愿不成为历史最佳射手 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E5%AE%81%E6%84%BF%E4%B8%8D%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%B3%E5%B0%84%E6%89%8B&from=hot_mine
+
+### 姆巴佩历史第一
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 法国vs英格兰 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_search
+- Desc: 姆巴佩历史第一
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80&from=hot_search
 
-### 法国半场0比4英格兰
+### 王楚钦让孙颖莎别给自己太大压力
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 法国半场0比4英格兰 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_search
+- Desc: 王楚钦让孙颖莎别给自己太大压力
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AE%A9%E5%AD%99%E9%A2%96%E8%8E%8E%E5%88%AB%E7%BB%99%E8%87%AA%E5%B7%B1%E5%A4%AA%E5%A4%A7%E5%8E%8B%E5%8A%9B&from=hot_search
 
-### 中国天眼开辟宇宙研究新路径
+### 中国AI产业落地跑出加速度
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 中国天眼开辟宇宙研究新路径
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%BC%80%E8%BE%9F%E5%AE%87%E5%AE%99%E7%A0%94%E7%A9%B6%E6%96%B0%E8%B7%AF%E5%BE%84&from=hot_search
-
-### 法国 不想踢
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 法国 不想踢 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD+%E4%B8%8D%E6%83%B3%E8%B8%A2&from=hot_search
-
-### 女儿一个谎让父亲坐了两年牢
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 女儿一个谎让父亲坐了两年牢 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E4%B8%80%E4%B8%AA%E8%B0%8E%E8%AE%A9%E7%88%B6%E4%BA%B2%E5%9D%90%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%89%A2&from=hot_search
-
-### 姆巴佩进球
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 姆巴佩进球 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E7%90%83&from=hot_search
-
-### 法国英格兰 诚信互刷
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 法国英格兰 诚信互刷 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%8B%B1%E6%A0%BC%E5%85%B0+%E8%AF%9A%E4%BF%A1%E4%BA%92%E5%88%B7&from=hot_search
+- Desc: 中国AI产业落地跑出加速度 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6&from=hot_search
 
 ### 法国门将身价堪比一杯蜜雪冰城
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 法国门将身价堪比一杯蜜雪冰城 新
-- Published At: 2026-07-18T23:04:09.879Z
+- Desc: 法国门将身价堪比一杯蜜雪冰城
+- Published At: 2026-07-19T03:34:36.339Z
 - URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%97%A8%E5%B0%86%E8%BA%AB%E4%BB%B7%E5%A0%AA%E6%AF%94%E4%B8%80%E6%9D%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E&from=hot_search
 
-### 刘宇宁说以后会加倍注意
+### 刘宇宁让粉丝删掉不好听的评论
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 刘宇宁说以后会加倍注意 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%BC%9A%E5%8A%A0%E5%80%8D%E6%B3%A8%E6%84%8F&from=hot_search
+- Desc: 刘宇宁让粉丝删掉不好听的评论 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA&from=hot_search
 
-### 王俊凯演唱会退场天才
+### 贝林厄姆 颜值
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 王俊凯演唱会退场天才
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E5%9C%BA%E5%A4%A9%E6%89%8D&from=hot_search
+- Desc: 贝林厄姆 颜值
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86+%E9%A2%9C%E5%80%BC&from=hot_search
 
-### 王楚钦孙颖莎止步半决赛
+### 法国4比6英格兰
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 王楚钦孙颖莎止步半决赛
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AD%A2%E6%AD%A5%E5%8D%8A%E5%86%B3%E8%B5%9B&from=hot_search
+- Desc: 法国4比6英格兰
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD4%E6%AF%946%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_search
 
-### 姆巴佩梅开二度
+### 为何穿凉鞋的人越来越少了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 姆巴佩梅开二度 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&from=hot_search
+- Desc: 为何穿凉鞋的人越来越少了
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BD%95%E7%A9%BF%E5%87%89%E9%9E%8B%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86&from=hot_search
 
-### 法国门将 没睡醒
+### 英格兰里程碑一战
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 法国门将 没睡醒 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%97%A8%E5%B0%86+%E6%B2%A1%E7%9D%A1%E9%86%92&from=hot_search
+- Desc: 英格兰里程碑一战 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%87%8C%E7%A8%8B%E7%A2%91%E4%B8%80%E6%88%98&from=hot_search
 
-### 萨卡帽子戏法
+### 王俊凯前助理去了王俊凯演唱会
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 萨卡帽子戏法 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%90%A8%E5%8D%A1%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95&from=hot_search
+- Desc: 王俊凯前助理去了王俊凯演唱会 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&from=hot_search
 
-### 英格兰又进了
+### 国家开发银行原行长欧阳卫民被查
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 英格兰又进了 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8F%88%E8%BF%9B%E4%BA%86&from=hot_search
+- Desc: 国家开发银行原行长欧阳卫民被查 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E5%BC%80%E5%8F%91%E9%93%B6%E8%A1%8C%E5%8E%9F%E8%A1%8C%E9%95%BF%E6%AC%A7%E9%98%B3%E5%8D%AB%E6%B0%91%E8%A2%AB%E6%9F%A5&from=hot_search
 
-### 贝林厄姆替补
+### 刘宇宁此事到此为止
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 贝林厄姆替补 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%9B%BF%E8%A1%A5&from=hot_search
+- Desc: 刘宇宁此事到此为止 热
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%AD%A4%E4%BA%8B%E5%88%B0%E6%AD%A4%E4%B8%BA%E6%AD%A2&from=hot_search
 
-### 姆巴佩图赫尔聊起来了
+### 曾沛慈回应老公当monitor
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 姆巴佩图赫尔聊起来了 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%9B%BE%E8%B5%AB%E5%B0%94%E8%81%8A%E8%B5%B7%E6%9D%A5%E4%BA%86&from=hot_search
+- Desc: 曾沛慈回应老公当monitor
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E5%9B%9E%E5%BA%94%E8%80%81%E5%85%AC%E5%BD%93monitor&from=hot_search
 
-### 上海暴雨
+### 吧唧 甲醛
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 上海暴雨
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&from=hot_search
+- Desc: 吧唧 甲醛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%A7%E5%94%A7+%E7%94%B2%E9%86%9B&from=hot_search
 
-### 想你了票房倒挂
+### 黄子韬看王鹤棣的眼神
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 想你了票房倒挂
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%83%B3%E4%BD%A0%E4%BA%86%E7%A5%A8%E6%88%BF%E5%80%92%E6%8C%82&from=hot_search
+- Desc: 黄子韬看王鹤棣的眼神
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9C%8B%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E7%9C%BC%E7%A5%9E&from=hot_search
 
-### 泰国总理夫人打卡成都宽窄巷子
+### 谁能拒绝三伏天的免费雪糕
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 泰国总理夫人打卡成都宽窄巷子 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%A4%AB%E4%BA%BA%E6%89%93%E5%8D%A1%E6%88%90%E9%83%BD%E5%AE%BD%E7%AA%84%E5%B7%B7%E5%AD%90&from=hot_search
+- Desc: 谁能拒绝三伏天的免费雪糕 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E4%B8%89%E4%BC%8F%E5%A4%A9%E7%9A%84%E5%85%8D%E8%B4%B9%E9%9B%AA%E7%B3%95&from=hot_search
 
-### 龚俊回应和刘宇宁争议
+### 伊朗称将转入全面毁灭性反击阶段
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 龚俊回应和刘宇宁争议 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%BE%9A%E4%BF%8A%E5%9B%9E%E5%BA%94%E5%92%8C%E5%88%98%E5%AE%87%E5%AE%81%E4%BA%89%E8%AE%AE&from=hot_search
+- Desc: 伊朗称将转入全面毁灭性反击阶段
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E8%BD%AC%E5%85%A5%E5%85%A8%E9%9D%A2%E6%AF%81%E7%81%AD%E6%80%A7%E5%8F%8D%E5%87%BB%E9%98%B6%E6%AE%B5&from=hot_search
 
-### 降低身体炎症水平的食物
+### 人类发现生命所需三大特征均具备行星
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 降低身体炎症水平的食物
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%8D%E4%BD%8E%E8%BA%AB%E4%BD%93%E7%82%8E%E7%97%87%E6%B0%B4%E5%B9%B3%E7%9A%84%E9%A3%9F%E7%89%A9&from=hot_search
+- Desc: 人类发现生命所需三大特征均具备行星
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E7%B1%BB%E5%8F%91%E7%8E%B0%E7%94%9F%E5%91%BD%E6%89%80%E9%9C%80%E4%B8%89%E5%A4%A7%E7%89%B9%E5%BE%81%E5%9D%87%E5%85%B7%E5%A4%87%E8%A1%8C%E6%98%9F&from=hot_search
 
-### 赖斯进球
+### 跟着欢乐节玩转海南岛
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 赖斯进球
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B5%96%E6%96%AF%E8%BF%9B%E7%90%83&from=hot_search
+- Desc: 跟着欢乐节玩转海南岛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B7%9F%E7%9D%80%E6%AC%A2%E4%B9%90%E8%8A%82%E7%8E%A9%E8%BD%AC%E6%B5%B7%E5%8D%97%E5%B2%9B&from=hot_search
 
-### 丁程鑫王楚然认识几年了
+### 申留真直播道歉
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 丁程鑫王楚然认识几年了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%AE%A4%E8%AF%86%E5%87%A0%E5%B9%B4%E4%BA%86&from=hot_search
+- Desc: 申留真直播道歉
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B3%E7%95%99%E7%9C%9F%E7%9B%B4%E6%92%AD%E9%81%93%E6%AD%89&from=hot_search
 
-### 空调开26度有臭味原因找到了
+### 王俊凯粉丝贴脸开大妆造师
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 空调开26度有臭味原因找到了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E5%BC%8026%E5%BA%A6%E6%9C%89%E8%87%AD%E5%91%B3%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&from=hot_search
+- Desc: 王俊凯粉丝贴脸开大妆造师 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%B2%89%E4%B8%9D%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%E5%A6%86%E9%80%A0%E5%B8%88&from=hot_search
 
-### 爱喝酒的人天塌了
+### 那些年一起追过的世界杯
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 爱喝酒的人天塌了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%88%B1%E5%96%9D%E9%85%92%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&from=hot_search
+- Desc: 那些年一起追过的世界杯 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF&from=hot_search
 
-### 法国连扳3球
+### Angelababy耳机一戴切换状态
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 法国连扳3球 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%89%B33%E7%90%83&from=hot_search
+- Desc: Angelababy耳机一戴切换状态 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=Angelababy%E8%80%B3%E6%9C%BA%E4%B8%80%E6%88%B4%E5%88%87%E6%8D%A2%E7%8A%B6%E6%80%81&from=hot_search
 
-### 超300款AI新品迎来全球首发
+### 曾沛慈老公
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 超300款AI新品迎来全球首发
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91&from=hot_search
+- Desc: 曾沛慈老公
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E8%80%81%E5%85%AC&from=hot_search
 
-### 下半年过得最爽的星座
+### 樊振东解说决赛
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 下半年过得最爽的星座
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%BF%87%E5%BE%97%E6%9C%80%E7%88%BD%E7%9A%84%E6%98%9F%E5%BA%A7&from=hot_search
+- Desc: 樊振东解说决赛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%A7%A3%E8%AF%B4%E5%86%B3%E8%B5%9B&from=hot_search
 
-### 重庆彭水山体崩塌搜救进展
+### 地球超新鲜回应争议
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 重庆彭水山体崩塌搜救进展
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E6%90%9C%E6%95%91%E8%BF%9B%E5%B1%95&from=hot_search
+- Desc: 地球超新鲜回应争议
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE&from=hot_search
 
-### 法国vs英格兰
+### 旭旭宝宝说对功夫女足不感兴趣
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 旭旭宝宝说对功夫女足不感兴趣
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E8%AF%B4%E5%AF%B9%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%8D%E6%84%9F%E5%85%B4%E8%B6%A3&from=hot_search
+
+### 锂电池也要交消费税了
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 锂电池也要交消费税了
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%82%E7%94%B5%E6%B1%A0%E4%B9%9F%E8%A6%81%E4%BA%A4%E6%B6%88%E8%B4%B9%E7%A8%8E%E4%BA%86&from=hot_search
+
+### 老外说被中国降温神器拯救了
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 老外说被中国降温神器拯救了 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%96%E8%AF%B4%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%99%8D%E6%B8%A9%E7%A5%9E%E5%99%A8%E6%8B%AF%E6%95%91%E4%BA%86&from=hot_search
+
+### 姆巴佩说宁愿不成为历史最佳射手
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 姆巴佩说宁愿不成为历史最佳射手 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E5%AE%81%E6%84%BF%E4%B8%8D%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%B3%E5%B0%84%E6%89%8B&from=hot_search
+
+### 姆巴佩历史第一
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 法国vs英格兰 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_entertainment
+- Desc: 姆巴佩历史第一
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80&from=hot_entertainment
 
-### 法国半场0比4英格兰
+### 王楚钦让孙颖莎别给自己太大压力
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 法国半场0比4英格兰 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_entertainment
+- Desc: 王楚钦让孙颖莎别给自己太大压力
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AE%A9%E5%AD%99%E9%A2%96%E8%8E%8E%E5%88%AB%E7%BB%99%E8%87%AA%E5%B7%B1%E5%A4%AA%E5%A4%A7%E5%8E%8B%E5%8A%9B&from=hot_entertainment
 
-### 中国天眼开辟宇宙研究新路径
+### 中国AI产业落地跑出加速度
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 中国天眼开辟宇宙研究新路径
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%BC%80%E8%BE%9F%E5%AE%87%E5%AE%99%E7%A0%94%E7%A9%B6%E6%96%B0%E8%B7%AF%E5%BE%84&from=hot_entertainment
-
-### 法国 不想踢
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 法国 不想踢 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD+%E4%B8%8D%E6%83%B3%E8%B8%A2&from=hot_entertainment
-
-### 女儿一个谎让父亲坐了两年牢
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 女儿一个谎让父亲坐了两年牢 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E4%B8%80%E4%B8%AA%E8%B0%8E%E8%AE%A9%E7%88%B6%E4%BA%B2%E5%9D%90%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%89%A2&from=hot_entertainment
-
-### 姆巴佩进球
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 姆巴佩进球 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E7%90%83&from=hot_entertainment
-
-### 法国英格兰 诚信互刷
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 法国英格兰 诚信互刷 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%8B%B1%E6%A0%BC%E5%85%B0+%E8%AF%9A%E4%BF%A1%E4%BA%92%E5%88%B7&from=hot_entertainment
+- Desc: 中国AI产业落地跑出加速度 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6&from=hot_entertainment
 
 ### 法国门将身价堪比一杯蜜雪冰城
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 法国门将身价堪比一杯蜜雪冰城 新
-- Published At: 2026-07-18T23:04:09.879Z
+- Desc: 法国门将身价堪比一杯蜜雪冰城
+- Published At: 2026-07-19T03:34:36.339Z
 - URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%97%A8%E5%B0%86%E8%BA%AB%E4%BB%B7%E5%A0%AA%E6%AF%94%E4%B8%80%E6%9D%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E&from=hot_entertainment
 
-### 刘宇宁说以后会加倍注意
+### 刘宇宁让粉丝删掉不好听的评论
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 刘宇宁说以后会加倍注意 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%BC%9A%E5%8A%A0%E5%80%8D%E6%B3%A8%E6%84%8F&from=hot_entertainment
+- Desc: 刘宇宁让粉丝删掉不好听的评论 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA&from=hot_entertainment
 
-### 王俊凯演唱会退场天才
+### 贝林厄姆 颜值
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 王俊凯演唱会退场天才
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E5%9C%BA%E5%A4%A9%E6%89%8D&from=hot_entertainment
+- Desc: 贝林厄姆 颜值
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86+%E9%A2%9C%E5%80%BC&from=hot_entertainment
 
-### 王楚钦孙颖莎止步半决赛
+### 法国4比6英格兰
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 王楚钦孙颖莎止步半决赛
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AD%A2%E6%AD%A5%E5%8D%8A%E5%86%B3%E8%B5%9B&from=hot_entertainment
+- Desc: 法国4比6英格兰
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD4%E6%AF%946%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_entertainment
 
-### 姆巴佩梅开二度
+### 为何穿凉鞋的人越来越少了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 姆巴佩梅开二度 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&from=hot_entertainment
+- Desc: 为何穿凉鞋的人越来越少了
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BD%95%E7%A9%BF%E5%87%89%E9%9E%8B%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86&from=hot_entertainment
 
-### 法国门将 没睡醒
+### 英格兰里程碑一战
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 法国门将 没睡醒 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%97%A8%E5%B0%86+%E6%B2%A1%E7%9D%A1%E9%86%92&from=hot_entertainment
+- Desc: 英格兰里程碑一战 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%87%8C%E7%A8%8B%E7%A2%91%E4%B8%80%E6%88%98&from=hot_entertainment
 
-### 萨卡帽子戏法
+### 王俊凯前助理去了王俊凯演唱会
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 萨卡帽子戏法 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%90%A8%E5%8D%A1%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95&from=hot_entertainment
+- Desc: 王俊凯前助理去了王俊凯演唱会 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&from=hot_entertainment
 
-### 英格兰又进了
+### 国家开发银行原行长欧阳卫民被查
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 英格兰又进了 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8F%88%E8%BF%9B%E4%BA%86&from=hot_entertainment
+- Desc: 国家开发银行原行长欧阳卫民被查 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E5%BC%80%E5%8F%91%E9%93%B6%E8%A1%8C%E5%8E%9F%E8%A1%8C%E9%95%BF%E6%AC%A7%E9%98%B3%E5%8D%AB%E6%B0%91%E8%A2%AB%E6%9F%A5&from=hot_entertainment
 
-### 贝林厄姆替补
+### 刘宇宁此事到此为止
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 贝林厄姆替补 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%9B%BF%E8%A1%A5&from=hot_entertainment
+- Desc: 刘宇宁此事到此为止 热
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%AD%A4%E4%BA%8B%E5%88%B0%E6%AD%A4%E4%B8%BA%E6%AD%A2&from=hot_entertainment
 
-### 姆巴佩图赫尔聊起来了
+### 曾沛慈回应老公当monitor
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 姆巴佩图赫尔聊起来了 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%9B%BE%E8%B5%AB%E5%B0%94%E8%81%8A%E8%B5%B7%E6%9D%A5%E4%BA%86&from=hot_entertainment
+- Desc: 曾沛慈回应老公当monitor
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E5%9B%9E%E5%BA%94%E8%80%81%E5%85%AC%E5%BD%93monitor&from=hot_entertainment
 
-### 上海暴雨
+### 吧唧 甲醛
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 上海暴雨
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&from=hot_entertainment
+- Desc: 吧唧 甲醛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%A7%E5%94%A7+%E7%94%B2%E9%86%9B&from=hot_entertainment
 
-### 想你了票房倒挂
+### 黄子韬看王鹤棣的眼神
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 想你了票房倒挂
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%83%B3%E4%BD%A0%E4%BA%86%E7%A5%A8%E6%88%BF%E5%80%92%E6%8C%82&from=hot_entertainment
+- Desc: 黄子韬看王鹤棣的眼神
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9C%8B%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E7%9C%BC%E7%A5%9E&from=hot_entertainment
 
-### 泰国总理夫人打卡成都宽窄巷子
+### 谁能拒绝三伏天的免费雪糕
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 泰国总理夫人打卡成都宽窄巷子 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%A4%AB%E4%BA%BA%E6%89%93%E5%8D%A1%E6%88%90%E9%83%BD%E5%AE%BD%E7%AA%84%E5%B7%B7%E5%AD%90&from=hot_entertainment
+- Desc: 谁能拒绝三伏天的免费雪糕 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E4%B8%89%E4%BC%8F%E5%A4%A9%E7%9A%84%E5%85%8D%E8%B4%B9%E9%9B%AA%E7%B3%95&from=hot_entertainment
 
-### 龚俊回应和刘宇宁争议
+### 伊朗称将转入全面毁灭性反击阶段
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 龚俊回应和刘宇宁争议 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%BE%9A%E4%BF%8A%E5%9B%9E%E5%BA%94%E5%92%8C%E5%88%98%E5%AE%87%E5%AE%81%E4%BA%89%E8%AE%AE&from=hot_entertainment
+- Desc: 伊朗称将转入全面毁灭性反击阶段
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E8%BD%AC%E5%85%A5%E5%85%A8%E9%9D%A2%E6%AF%81%E7%81%AD%E6%80%A7%E5%8F%8D%E5%87%BB%E9%98%B6%E6%AE%B5&from=hot_entertainment
 
-### 降低身体炎症水平的食物
+### 人类发现生命所需三大特征均具备行星
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 降低身体炎症水平的食物
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%8D%E4%BD%8E%E8%BA%AB%E4%BD%93%E7%82%8E%E7%97%87%E6%B0%B4%E5%B9%B3%E7%9A%84%E9%A3%9F%E7%89%A9&from=hot_entertainment
+- Desc: 人类发现生命所需三大特征均具备行星
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E7%B1%BB%E5%8F%91%E7%8E%B0%E7%94%9F%E5%91%BD%E6%89%80%E9%9C%80%E4%B8%89%E5%A4%A7%E7%89%B9%E5%BE%81%E5%9D%87%E5%85%B7%E5%A4%87%E8%A1%8C%E6%98%9F&from=hot_entertainment
 
-### 赖斯进球
+### 跟着欢乐节玩转海南岛
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 赖斯进球
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B5%96%E6%96%AF%E8%BF%9B%E7%90%83&from=hot_entertainment
+- Desc: 跟着欢乐节玩转海南岛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B7%9F%E7%9D%80%E6%AC%A2%E4%B9%90%E8%8A%82%E7%8E%A9%E8%BD%AC%E6%B5%B7%E5%8D%97%E5%B2%9B&from=hot_entertainment
 
-### 丁程鑫王楚然认识几年了
+### 申留真直播道歉
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 丁程鑫王楚然认识几年了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%AE%A4%E8%AF%86%E5%87%A0%E5%B9%B4%E4%BA%86&from=hot_entertainment
+- Desc: 申留真直播道歉
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B3%E7%95%99%E7%9C%9F%E7%9B%B4%E6%92%AD%E9%81%93%E6%AD%89&from=hot_entertainment
 
-### 空调开26度有臭味原因找到了
+### 王俊凯粉丝贴脸开大妆造师
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 空调开26度有臭味原因找到了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E5%BC%8026%E5%BA%A6%E6%9C%89%E8%87%AD%E5%91%B3%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&from=hot_entertainment
+- Desc: 王俊凯粉丝贴脸开大妆造师 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%B2%89%E4%B8%9D%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%E5%A6%86%E9%80%A0%E5%B8%88&from=hot_entertainment
 
-### 爱喝酒的人天塌了
+### 那些年一起追过的世界杯
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 爱喝酒的人天塌了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%88%B1%E5%96%9D%E9%85%92%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&from=hot_entertainment
+- Desc: 那些年一起追过的世界杯 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF&from=hot_entertainment
 
-### 法国连扳3球
+### Angelababy耳机一戴切换状态
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 法国连扳3球 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%89%B33%E7%90%83&from=hot_entertainment
+- Desc: Angelababy耳机一戴切换状态 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=Angelababy%E8%80%B3%E6%9C%BA%E4%B8%80%E6%88%B4%E5%88%87%E6%8D%A2%E7%8A%B6%E6%80%81&from=hot_entertainment
 
-### 超300款AI新品迎来全球首发
+### 曾沛慈老公
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 超300款AI新品迎来全球首发
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91&from=hot_entertainment
+- Desc: 曾沛慈老公
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E8%80%81%E5%85%AC&from=hot_entertainment
 
-### 下半年过得最爽的星座
+### 樊振东解说决赛
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 下半年过得最爽的星座
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%BF%87%E5%BE%97%E6%9C%80%E7%88%BD%E7%9A%84%E6%98%9F%E5%BA%A7&from=hot_entertainment
+- Desc: 樊振东解说决赛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%A7%A3%E8%AF%B4%E5%86%B3%E8%B5%9B&from=hot_entertainment
 
-### 重庆彭水山体崩塌搜救进展
+### 地球超新鲜回应争议
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 重庆彭水山体崩塌搜救进展
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E6%90%9C%E6%95%91%E8%BF%9B%E5%B1%95&from=hot_entertainment
+- Desc: 地球超新鲜回应争议
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE&from=hot_entertainment
 
-### 法国vs英格兰
+### 旭旭宝宝说对功夫女足不感兴趣
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 旭旭宝宝说对功夫女足不感兴趣
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E8%AF%B4%E5%AF%B9%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%8D%E6%84%9F%E5%85%B4%E8%B6%A3&from=hot_entertainment
+
+### 锂电池也要交消费税了
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 锂电池也要交消费税了
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%82%E7%94%B5%E6%B1%A0%E4%B9%9F%E8%A6%81%E4%BA%A4%E6%B6%88%E8%B4%B9%E7%A8%8E%E4%BA%86&from=hot_entertainment
+
+### 老外说被中国降温神器拯救了
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 老外说被中国降温神器拯救了 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%96%E8%AF%B4%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%99%8D%E6%B8%A9%E7%A5%9E%E5%99%A8%E6%8B%AF%E6%95%91%E4%BA%86&from=hot_entertainment
+
+### 姆巴佩说宁愿不成为历史最佳射手
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 姆巴佩说宁愿不成为历史最佳射手 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E5%AE%81%E6%84%BF%E4%B8%8D%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%B3%E5%B0%84%E6%89%8B&from=hot_entertainment
+
+### 姆巴佩历史第一
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 法国vs英格兰 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_life
+- Desc: 姆巴佩历史第一
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80&from=hot_life
 
-### 法国半场0比4英格兰
+### 王楚钦让孙颖莎别给自己太大压力
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 法国半场0比4英格兰 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_life
+- Desc: 王楚钦让孙颖莎别给自己太大压力
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AE%A9%E5%AD%99%E9%A2%96%E8%8E%8E%E5%88%AB%E7%BB%99%E8%87%AA%E5%B7%B1%E5%A4%AA%E5%A4%A7%E5%8E%8B%E5%8A%9B&from=hot_life
 
-### 中国天眼开辟宇宙研究新路径
+### 中国AI产业落地跑出加速度
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 中国天眼开辟宇宙研究新路径
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%BC%80%E8%BE%9F%E5%AE%87%E5%AE%99%E7%A0%94%E7%A9%B6%E6%96%B0%E8%B7%AF%E5%BE%84&from=hot_life
-
-### 法国 不想踢
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 法国 不想踢 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD+%E4%B8%8D%E6%83%B3%E8%B8%A2&from=hot_life
-
-### 女儿一个谎让父亲坐了两年牢
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 女儿一个谎让父亲坐了两年牢 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E4%B8%80%E4%B8%AA%E8%B0%8E%E8%AE%A9%E7%88%B6%E4%BA%B2%E5%9D%90%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%89%A2&from=hot_life
-
-### 姆巴佩进球
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 姆巴佩进球 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E7%90%83&from=hot_life
-
-### 法国英格兰 诚信互刷
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 法国英格兰 诚信互刷 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%8B%B1%E6%A0%BC%E5%85%B0+%E8%AF%9A%E4%BF%A1%E4%BA%92%E5%88%B7&from=hot_life
+- Desc: 中国AI产业落地跑出加速度 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6&from=hot_life
 
 ### 法国门将身价堪比一杯蜜雪冰城
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 法国门将身价堪比一杯蜜雪冰城 新
-- Published At: 2026-07-18T23:04:09.879Z
+- Desc: 法国门将身价堪比一杯蜜雪冰城
+- Published At: 2026-07-19T03:34:36.339Z
 - URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%97%A8%E5%B0%86%E8%BA%AB%E4%BB%B7%E5%A0%AA%E6%AF%94%E4%B8%80%E6%9D%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E&from=hot_life
 
-### 刘宇宁说以后会加倍注意
+### 刘宇宁让粉丝删掉不好听的评论
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 刘宇宁说以后会加倍注意 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%BC%9A%E5%8A%A0%E5%80%8D%E6%B3%A8%E6%84%8F&from=hot_life
+- Desc: 刘宇宁让粉丝删掉不好听的评论 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA&from=hot_life
 
-### 王俊凯演唱会退场天才
+### 贝林厄姆 颜值
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 王俊凯演唱会退场天才
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E5%9C%BA%E5%A4%A9%E6%89%8D&from=hot_life
+- Desc: 贝林厄姆 颜值
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86+%E9%A2%9C%E5%80%BC&from=hot_life
 
-### 王楚钦孙颖莎止步半决赛
+### 法国4比6英格兰
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 王楚钦孙颖莎止步半决赛
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AD%A2%E6%AD%A5%E5%8D%8A%E5%86%B3%E8%B5%9B&from=hot_life
+- Desc: 法国4比6英格兰
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD4%E6%AF%946%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_life
 
-### 姆巴佩梅开二度
+### 为何穿凉鞋的人越来越少了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 姆巴佩梅开二度 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&from=hot_life
+- Desc: 为何穿凉鞋的人越来越少了
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BD%95%E7%A9%BF%E5%87%89%E9%9E%8B%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86&from=hot_life
 
-### 法国门将 没睡醒
+### 英格兰里程碑一战
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 法国门将 没睡醒 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%97%A8%E5%B0%86+%E6%B2%A1%E7%9D%A1%E9%86%92&from=hot_life
+- Desc: 英格兰里程碑一战 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%87%8C%E7%A8%8B%E7%A2%91%E4%B8%80%E6%88%98&from=hot_life
 
-### 萨卡帽子戏法
+### 王俊凯前助理去了王俊凯演唱会
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 萨卡帽子戏法 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%90%A8%E5%8D%A1%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95&from=hot_life
+- Desc: 王俊凯前助理去了王俊凯演唱会 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&from=hot_life
 
-### 英格兰又进了
+### 国家开发银行原行长欧阳卫民被查
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 英格兰又进了 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8F%88%E8%BF%9B%E4%BA%86&from=hot_life
+- Desc: 国家开发银行原行长欧阳卫民被查 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E5%BC%80%E5%8F%91%E9%93%B6%E8%A1%8C%E5%8E%9F%E8%A1%8C%E9%95%BF%E6%AC%A7%E9%98%B3%E5%8D%AB%E6%B0%91%E8%A2%AB%E6%9F%A5&from=hot_life
 
-### 贝林厄姆替补
+### 刘宇宁此事到此为止
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 贝林厄姆替补 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%9B%BF%E8%A1%A5&from=hot_life
+- Desc: 刘宇宁此事到此为止 热
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%AD%A4%E4%BA%8B%E5%88%B0%E6%AD%A4%E4%B8%BA%E6%AD%A2&from=hot_life
 
-### 姆巴佩图赫尔聊起来了
+### 曾沛慈回应老公当monitor
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 姆巴佩图赫尔聊起来了 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%9B%BE%E8%B5%AB%E5%B0%94%E8%81%8A%E8%B5%B7%E6%9D%A5%E4%BA%86&from=hot_life
+- Desc: 曾沛慈回应老公当monitor
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E5%9B%9E%E5%BA%94%E8%80%81%E5%85%AC%E5%BD%93monitor&from=hot_life
 
-### 上海暴雨
+### 吧唧 甲醛
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 上海暴雨
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&from=hot_life
+- Desc: 吧唧 甲醛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%A7%E5%94%A7+%E7%94%B2%E9%86%9B&from=hot_life
 
-### 想你了票房倒挂
+### 黄子韬看王鹤棣的眼神
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 想你了票房倒挂
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%83%B3%E4%BD%A0%E4%BA%86%E7%A5%A8%E6%88%BF%E5%80%92%E6%8C%82&from=hot_life
+- Desc: 黄子韬看王鹤棣的眼神
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9C%8B%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E7%9C%BC%E7%A5%9E&from=hot_life
 
-### 泰国总理夫人打卡成都宽窄巷子
+### 谁能拒绝三伏天的免费雪糕
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 泰国总理夫人打卡成都宽窄巷子 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%A4%AB%E4%BA%BA%E6%89%93%E5%8D%A1%E6%88%90%E9%83%BD%E5%AE%BD%E7%AA%84%E5%B7%B7%E5%AD%90&from=hot_life
+- Desc: 谁能拒绝三伏天的免费雪糕 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E4%B8%89%E4%BC%8F%E5%A4%A9%E7%9A%84%E5%85%8D%E8%B4%B9%E9%9B%AA%E7%B3%95&from=hot_life
 
-### 龚俊回应和刘宇宁争议
+### 伊朗称将转入全面毁灭性反击阶段
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 龚俊回应和刘宇宁争议 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%BE%9A%E4%BF%8A%E5%9B%9E%E5%BA%94%E5%92%8C%E5%88%98%E5%AE%87%E5%AE%81%E4%BA%89%E8%AE%AE&from=hot_life
+- Desc: 伊朗称将转入全面毁灭性反击阶段
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E8%BD%AC%E5%85%A5%E5%85%A8%E9%9D%A2%E6%AF%81%E7%81%AD%E6%80%A7%E5%8F%8D%E5%87%BB%E9%98%B6%E6%AE%B5&from=hot_life
 
-### 降低身体炎症水平的食物
+### 人类发现生命所需三大特征均具备行星
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 降低身体炎症水平的食物
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%8D%E4%BD%8E%E8%BA%AB%E4%BD%93%E7%82%8E%E7%97%87%E6%B0%B4%E5%B9%B3%E7%9A%84%E9%A3%9F%E7%89%A9&from=hot_life
+- Desc: 人类发现生命所需三大特征均具备行星
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E7%B1%BB%E5%8F%91%E7%8E%B0%E7%94%9F%E5%91%BD%E6%89%80%E9%9C%80%E4%B8%89%E5%A4%A7%E7%89%B9%E5%BE%81%E5%9D%87%E5%85%B7%E5%A4%87%E8%A1%8C%E6%98%9F&from=hot_life
 
-### 赖斯进球
+### 跟着欢乐节玩转海南岛
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 赖斯进球
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B5%96%E6%96%AF%E8%BF%9B%E7%90%83&from=hot_life
+- Desc: 跟着欢乐节玩转海南岛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B7%9F%E7%9D%80%E6%AC%A2%E4%B9%90%E8%8A%82%E7%8E%A9%E8%BD%AC%E6%B5%B7%E5%8D%97%E5%B2%9B&from=hot_life
 
-### 丁程鑫王楚然认识几年了
+### 申留真直播道歉
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 丁程鑫王楚然认识几年了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%AE%A4%E8%AF%86%E5%87%A0%E5%B9%B4%E4%BA%86&from=hot_life
+- Desc: 申留真直播道歉
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B3%E7%95%99%E7%9C%9F%E7%9B%B4%E6%92%AD%E9%81%93%E6%AD%89&from=hot_life
 
-### 空调开26度有臭味原因找到了
+### 王俊凯粉丝贴脸开大妆造师
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 空调开26度有臭味原因找到了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E5%BC%8026%E5%BA%A6%E6%9C%89%E8%87%AD%E5%91%B3%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&from=hot_life
+- Desc: 王俊凯粉丝贴脸开大妆造师 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%B2%89%E4%B8%9D%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%E5%A6%86%E9%80%A0%E5%B8%88&from=hot_life
 
-### 爱喝酒的人天塌了
+### 那些年一起追过的世界杯
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 爱喝酒的人天塌了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%88%B1%E5%96%9D%E9%85%92%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&from=hot_life
+- Desc: 那些年一起追过的世界杯 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF&from=hot_life
 
-### 法国连扳3球
+### Angelababy耳机一戴切换状态
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 法国连扳3球 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%89%B33%E7%90%83&from=hot_life
+- Desc: Angelababy耳机一戴切换状态 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=Angelababy%E8%80%B3%E6%9C%BA%E4%B8%80%E6%88%B4%E5%88%87%E6%8D%A2%E7%8A%B6%E6%80%81&from=hot_life
 
-### 超300款AI新品迎来全球首发
+### 曾沛慈老公
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 超300款AI新品迎来全球首发
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91&from=hot_life
+- Desc: 曾沛慈老公
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E8%80%81%E5%85%AC&from=hot_life
 
-### 下半年过得最爽的星座
+### 樊振东解说决赛
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 下半年过得最爽的星座
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%BF%87%E5%BE%97%E6%9C%80%E7%88%BD%E7%9A%84%E6%98%9F%E5%BA%A7&from=hot_life
+- Desc: 樊振东解说决赛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%A7%A3%E8%AF%B4%E5%86%B3%E8%B5%9B&from=hot_life
 
-### 重庆彭水山体崩塌搜救进展
+### 地球超新鲜回应争议
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 重庆彭水山体崩塌搜救进展
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E6%90%9C%E6%95%91%E8%BF%9B%E5%B1%95&from=hot_life
+- Desc: 地球超新鲜回应争议
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE&from=hot_life
 
-### 法国vs英格兰
+### 旭旭宝宝说对功夫女足不感兴趣
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 旭旭宝宝说对功夫女足不感兴趣
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E8%AF%B4%E5%AF%B9%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%8D%E6%84%9F%E5%85%B4%E8%B6%A3&from=hot_life
+
+### 锂电池也要交消费税了
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 锂电池也要交消费税了
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%82%E7%94%B5%E6%B1%A0%E4%B9%9F%E8%A6%81%E4%BA%A4%E6%B6%88%E8%B4%B9%E7%A8%8E%E4%BA%86&from=hot_life
+
+### 老外说被中国降温神器拯救了
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 老外说被中国降温神器拯救了 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%96%E8%AF%B4%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%99%8D%E6%B8%A9%E7%A5%9E%E5%99%A8%E6%8B%AF%E6%95%91%E4%BA%86&from=hot_life
+
+### 姆巴佩说宁愿不成为历史最佳射手
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 姆巴佩说宁愿不成为历史最佳射手 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E5%AE%81%E6%84%BF%E4%B8%8D%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%B3%E5%B0%84%E6%89%8B&from=hot_life
+
+### 姆巴佩历史第一
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 法国vs英格兰 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_social
+- Desc: 姆巴佩历史第一
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80&from=hot_social
 
-### 法国半场0比4英格兰
+### 王楚钦让孙颖莎别给自己太大压力
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 法国半场0比4英格兰 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_social
+- Desc: 王楚钦让孙颖莎别给自己太大压力
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AE%A9%E5%AD%99%E9%A2%96%E8%8E%8E%E5%88%AB%E7%BB%99%E8%87%AA%E5%B7%B1%E5%A4%AA%E5%A4%A7%E5%8E%8B%E5%8A%9B&from=hot_social
 
-### 中国天眼开辟宇宙研究新路径
+### 中国AI产业落地跑出加速度
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 中国天眼开辟宇宙研究新路径
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%BC%80%E8%BE%9F%E5%AE%87%E5%AE%99%E7%A0%94%E7%A9%B6%E6%96%B0%E8%B7%AF%E5%BE%84&from=hot_social
-
-### 法国 不想踢
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 法国 不想踢 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD+%E4%B8%8D%E6%83%B3%E8%B8%A2&from=hot_social
-
-### 女儿一个谎让父亲坐了两年牢
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 女儿一个谎让父亲坐了两年牢 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E4%B8%80%E4%B8%AA%E8%B0%8E%E8%AE%A9%E7%88%B6%E4%BA%B2%E5%9D%90%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%89%A2&from=hot_social
-
-### 姆巴佩进球
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 姆巴佩进球 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E7%90%83&from=hot_social
-
-### 法国英格兰 诚信互刷
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 法国英格兰 诚信互刷 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%8B%B1%E6%A0%BC%E5%85%B0+%E8%AF%9A%E4%BF%A1%E4%BA%92%E5%88%B7&from=hot_social
+- Desc: 中国AI产业落地跑出加速度 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%90%BD%E5%9C%B0%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6&from=hot_social
 
 ### 法国门将身价堪比一杯蜜雪冰城
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 法国门将身价堪比一杯蜜雪冰城 新
-- Published At: 2026-07-18T23:04:09.879Z
+- Desc: 法国门将身价堪比一杯蜜雪冰城
+- Published At: 2026-07-19T03:34:36.339Z
 - URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%97%A8%E5%B0%86%E8%BA%AB%E4%BB%B7%E5%A0%AA%E6%AF%94%E4%B8%80%E6%9D%AF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E&from=hot_social
 
-### 刘宇宁说以后会加倍注意
+### 刘宇宁让粉丝删掉不好听的评论
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 刘宇宁说以后会加倍注意 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%BC%9A%E5%8A%A0%E5%80%8D%E6%B3%A8%E6%84%8F&from=hot_social
+- Desc: 刘宇宁让粉丝删掉不好听的评论 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA&from=hot_social
 
-### 王俊凯演唱会退场天才
+### 贝林厄姆 颜值
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 王俊凯演唱会退场天才
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E5%9C%BA%E5%A4%A9%E6%89%8D&from=hot_social
+- Desc: 贝林厄姆 颜值
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86+%E9%A2%9C%E5%80%BC&from=hot_social
 
-### 王楚钦孙颖莎止步半决赛
+### 法国4比6英格兰
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 王楚钦孙颖莎止步半决赛
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AD%A2%E6%AD%A5%E5%8D%8A%E5%86%B3%E8%B5%9B&from=hot_social
+- Desc: 法国4比6英格兰
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD4%E6%AF%946%E8%8B%B1%E6%A0%BC%E5%85%B0&from=hot_social
 
-### 姆巴佩梅开二度
+### 为何穿凉鞋的人越来越少了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 姆巴佩梅开二度 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&from=hot_social
+- Desc: 为何穿凉鞋的人越来越少了
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BD%95%E7%A9%BF%E5%87%89%E9%9E%8B%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86&from=hot_social
 
-### 法国门将 没睡醒
+### 英格兰里程碑一战
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 法国门将 没睡醒 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%97%A8%E5%B0%86+%E6%B2%A1%E7%9D%A1%E9%86%92&from=hot_social
+- Desc: 英格兰里程碑一战 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%87%8C%E7%A8%8B%E7%A2%91%E4%B8%80%E6%88%98&from=hot_social
 
-### 萨卡帽子戏法
+### 王俊凯前助理去了王俊凯演唱会
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 萨卡帽子戏法 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%90%A8%E5%8D%A1%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95&from=hot_social
+- Desc: 王俊凯前助理去了王俊凯演唱会 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%89%8D%E5%8A%A9%E7%90%86%E5%8E%BB%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&from=hot_social
 
-### 英格兰又进了
+### 国家开发银行原行长欧阳卫民被查
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 英格兰又进了 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8F%88%E8%BF%9B%E4%BA%86&from=hot_social
+- Desc: 国家开发银行原行长欧阳卫民被查 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E5%BC%80%E5%8F%91%E9%93%B6%E8%A1%8C%E5%8E%9F%E8%A1%8C%E9%95%BF%E6%AC%A7%E9%98%B3%E5%8D%AB%E6%B0%91%E8%A2%AB%E6%9F%A5&from=hot_social
 
-### 贝林厄姆替补
+### 刘宇宁此事到此为止
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 贝林厄姆替补 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%9B%BF%E8%A1%A5&from=hot_social
+- Desc: 刘宇宁此事到此为止 热
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%AD%A4%E4%BA%8B%E5%88%B0%E6%AD%A4%E4%B8%BA%E6%AD%A2&from=hot_social
 
-### 姆巴佩图赫尔聊起来了
+### 曾沛慈回应老公当monitor
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 姆巴佩图赫尔聊起来了 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%9B%BE%E8%B5%AB%E5%B0%94%E8%81%8A%E8%B5%B7%E6%9D%A5%E4%BA%86&from=hot_social
+- Desc: 曾沛慈回应老公当monitor
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E5%9B%9E%E5%BA%94%E8%80%81%E5%85%AC%E5%BD%93monitor&from=hot_social
 
-### 上海暴雨
+### 吧唧 甲醛
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 上海暴雨
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&from=hot_social
+- Desc: 吧唧 甲醛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%A7%E5%94%A7+%E7%94%B2%E9%86%9B&from=hot_social
 
-### 想你了票房倒挂
+### 黄子韬看王鹤棣的眼神
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 想你了票房倒挂
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%83%B3%E4%BD%A0%E4%BA%86%E7%A5%A8%E6%88%BF%E5%80%92%E6%8C%82&from=hot_social
+- Desc: 黄子韬看王鹤棣的眼神
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9C%8B%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E7%9C%BC%E7%A5%9E&from=hot_social
 
-### 泰国总理夫人打卡成都宽窄巷子
+### 谁能拒绝三伏天的免费雪糕
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 泰国总理夫人打卡成都宽窄巷子 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%A4%AB%E4%BA%BA%E6%89%93%E5%8D%A1%E6%88%90%E9%83%BD%E5%AE%BD%E7%AA%84%E5%B7%B7%E5%AD%90&from=hot_social
+- Desc: 谁能拒绝三伏天的免费雪糕 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E4%B8%89%E4%BC%8F%E5%A4%A9%E7%9A%84%E5%85%8D%E8%B4%B9%E9%9B%AA%E7%B3%95&from=hot_social
 
-### 龚俊回应和刘宇宁争议
+### 伊朗称将转入全面毁灭性反击阶段
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 龚俊回应和刘宇宁争议 热
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%BE%9A%E4%BF%8A%E5%9B%9E%E5%BA%94%E5%92%8C%E5%88%98%E5%AE%87%E5%AE%81%E4%BA%89%E8%AE%AE&from=hot_social
+- Desc: 伊朗称将转入全面毁灭性反击阶段
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E8%BD%AC%E5%85%A5%E5%85%A8%E9%9D%A2%E6%AF%81%E7%81%AD%E6%80%A7%E5%8F%8D%E5%87%BB%E9%98%B6%E6%AE%B5&from=hot_social
 
-### 降低身体炎症水平的食物
+### 人类发现生命所需三大特征均具备行星
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 降低身体炎症水平的食物
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%8D%E4%BD%8E%E8%BA%AB%E4%BD%93%E7%82%8E%E7%97%87%E6%B0%B4%E5%B9%B3%E7%9A%84%E9%A3%9F%E7%89%A9&from=hot_social
+- Desc: 人类发现生命所需三大特征均具备行星
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E7%B1%BB%E5%8F%91%E7%8E%B0%E7%94%9F%E5%91%BD%E6%89%80%E9%9C%80%E4%B8%89%E5%A4%A7%E7%89%B9%E5%BE%81%E5%9D%87%E5%85%B7%E5%A4%87%E8%A1%8C%E6%98%9F&from=hot_social
 
-### 赖斯进球
+### 跟着欢乐节玩转海南岛
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 赖斯进球
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B5%96%E6%96%AF%E8%BF%9B%E7%90%83&from=hot_social
+- Desc: 跟着欢乐节玩转海南岛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%B7%9F%E7%9D%80%E6%AC%A2%E4%B9%90%E8%8A%82%E7%8E%A9%E8%BD%AC%E6%B5%B7%E5%8D%97%E5%B2%9B&from=hot_social
 
-### 丁程鑫王楚然认识几年了
+### 申留真直播道歉
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 丁程鑫王楚然认识几年了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%AE%A4%E8%AF%86%E5%87%A0%E5%B9%B4%E4%BA%86&from=hot_social
+- Desc: 申留真直播道歉
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B3%E7%95%99%E7%9C%9F%E7%9B%B4%E6%92%AD%E9%81%93%E6%AD%89&from=hot_social
 
-### 空调开26度有臭味原因找到了
+### 王俊凯粉丝贴脸开大妆造师
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 空调开26度有臭味原因找到了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E5%BC%8026%E5%BA%A6%E6%9C%89%E8%87%AD%E5%91%B3%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&from=hot_social
+- Desc: 王俊凯粉丝贴脸开大妆造师 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%B2%89%E4%B8%9D%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%E5%A6%86%E9%80%A0%E5%B8%88&from=hot_social
 
-### 爱喝酒的人天塌了
+### 那些年一起追过的世界杯
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 爱喝酒的人天塌了
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E7%88%B1%E5%96%9D%E9%85%92%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&from=hot_social
+- Desc: 那些年一起追过的世界杯 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%BF%87%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF&from=hot_social
 
-### 法国连扳3球
+### Angelababy耳机一戴切换状态
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 法国连扳3球 新
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%BF%9E%E6%89%B33%E7%90%83&from=hot_social
+- Desc: Angelababy耳机一戴切换状态 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=Angelababy%E8%80%B3%E6%9C%BA%E4%B8%80%E6%88%B4%E5%88%87%E6%8D%A2%E7%8A%B6%E6%80%81&from=hot_social
 
-### 超300款AI新品迎来全球首发
+### 曾沛慈老公
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 超300款AI新品迎来全球首发
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91&from=hot_social
+- Desc: 曾沛慈老公
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E8%80%81%E5%85%AC&from=hot_social
 
-### 下半年过得最爽的星座
+### 樊振东解说决赛
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 下半年过得最爽的星座
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%BF%87%E5%BE%97%E6%9C%80%E7%88%BD%E7%9A%84%E6%98%9F%E5%BA%A7&from=hot_social
+- Desc: 樊振东解说决赛 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%A7%A3%E8%AF%B4%E5%86%B3%E8%B5%9B&from=hot_social
 
-### 重庆彭水山体崩塌搜救进展
+### 地球超新鲜回应争议
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 重庆彭水山体崩塌搜救进展
-- Published At: 2026-07-18T23:04:09.879Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E6%90%9C%E6%95%91%E8%BF%9B%E5%B1%95&from=hot_social
+- Desc: 地球超新鲜回应争议
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE&from=hot_social
+
+### 旭旭宝宝说对功夫女足不感兴趣
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 旭旭宝宝说对功夫女足不感兴趣
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E8%AF%B4%E5%AF%B9%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%B8%8D%E6%84%9F%E5%85%B4%E8%B6%A3&from=hot_social
+
+### 锂电池也要交消费税了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 锂电池也要交消费税了
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%82%E7%94%B5%E6%B1%A0%E4%B9%9F%E8%A6%81%E4%BA%A4%E6%B6%88%E8%B4%B9%E7%A8%8E%E4%BA%86&from=hot_social
+
+### 老外说被中国降温神器拯救了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 老外说被中国降温神器拯救了 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%96%E8%AF%B4%E8%A2%AB%E4%B8%AD%E5%9B%BD%E9%99%8D%E6%B8%A9%E7%A5%9E%E5%99%A8%E6%8B%AF%E6%95%91%E4%BA%86&from=hot_social
+
+### 姆巴佩说宁愿不成为历史最佳射手
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 姆巴佩说宁愿不成为历史最佳射手 新
+- Published At: 2026-07-19T03:34:36.339Z
+- URL: https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%AF%B4%E5%AE%81%E6%84%BF%E4%B8%8D%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%B3%E5%B0%84%E6%89%8B&from=hot_social
 
