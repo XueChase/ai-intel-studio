@@ -1,6 +1,6 @@
 # Emotion Input Digest
 
-- Generated At: 2026-07-28T14:43:22.324+08:00
+- Generated At: 2026-07-28T18:52:01.940+08:00
 - Window Hours: 24
 - Total Items: 150
 - Source Count: 5
@@ -11,1053 +11,1053 @@
 
 ## Items
 
-### 地震50年后突然搜到已故父亲名字
+### 退货千万不要提前给取件码
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 地震50年后突然搜到已故父亲名字 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%8750%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E6%90%9C%E5%88%B0%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%90%8D%E5%AD%97&from=hot_mine
+- Desc: 退货千万不要提前给取件码 热
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E9%80%80%E8%B4%A7%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8F%90%E5%89%8D%E7%BB%99%E5%8F%96%E4%BB%B6%E7%A0%81&from=hot_mine
 
-### 小米展出澎程6万公里路测车
+### 感冒灵正式纳入禁驾清单
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 小米展出澎程6万公里路测车
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B1%95%E5%87%BA%E6%BE%8E%E7%A8%8B6%E4%B8%87%E5%85%AC%E9%87%8C%E8%B7%AF%E6%B5%8B%E8%BD%A6&from=hot_mine
+- Desc: 感冒灵正式纳入禁驾清单 热
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E7%81%B5%E6%AD%A3%E5%BC%8F%E7%BA%B3%E5%85%A5%E7%A6%81%E9%A9%BE%E6%B8%85%E5%8D%95&from=hot_mine
 
-### 紧急预拨1.8亿元支持6省防汛防台风
+### 请查收这份家庭防汛防灾应急包
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 紧急预拨1.8亿元支持6省防汛防台风
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A81.8%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%816%E7%9C%81%E9%98%B2%E6%B1%9B%E9%98%B2%E5%8F%B0%E9%A3%8E&from=hot_mine
+- Desc: 请查收这份家庭防汛防灾应急包
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%99%E4%BB%BD%E5%AE%B6%E5%BA%AD%E9%98%B2%E6%B1%9B%E9%98%B2%E7%81%BE%E5%BA%94%E6%80%A5%E5%8C%85&from=hot_mine
 
-### 泰国国家旅游局发文致歉
+### 日本7.1级地震江浙沪有震感
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 泰国国家旅游局发文致歉 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89&from=hot_mine
+- Desc: 日本7.1级地震江浙沪有震感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%9C%89%E9%9C%87%E6%84%9F&from=hot_mine
 
-### 改善脖子前倾最简单的动作
+### 日本7.1级地震民众哭喊声一片
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 改善脖子前倾最简单的动作
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%94%B9%E5%96%84%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%A8%E4%BD%9C&from=hot_mine
+- Desc: 日本7.1级地震民众哭喊声一片 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87&from=hot_mine
 
-### 在张雅琪身上看到了自己的同事
+### 天才程序员陨落
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 在张雅琪身上看到了自己的同事
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%9C%A8%E5%BC%A0%E9%9B%85%E7%90%AA%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%90%8C%E4%BA%8B&from=hot_mine
+- Desc: 天才程序员陨落
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%99%A8%E8%90%BD&from=hot_mine
 
-### 折个鸡
+### 爸妈吵了半小时孩子才同意买玩具
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 折个鸡 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%8A%98%E4%B8%AA%E9%B8%A1&from=hot_mine
+- Desc: 爸妈吵了半小时孩子才同意买玩具
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%88%B8%E5%A6%88%E5%90%B5%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%AD%A9%E5%AD%90%E6%89%8D%E5%90%8C%E6%84%8F%E4%B9%B0%E7%8E%A9%E5%85%B7&from=hot_mine
 
-### 詹姆斯引用中国名言却写错出处
+### 何与朋友圈健身照滤镜
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 詹姆斯引用中国名言却写错出处 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BC%95%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%90%8D%E8%A8%80%E5%8D%B4%E5%86%99%E9%94%99%E5%87%BA%E5%A4%84&from=hot_mine
-
-### 北大教授雷军为王虹写推荐信
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 北大教授雷军为王虹写推荐信
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%9B%B7%E5%86%9B%E4%B8%BA%E7%8E%8B%E8%99%B9%E5%86%99%E6%8E%A8%E8%8D%90%E4%BF%A1&from=hot_mine
-
-### 虞书欣 最后一个告别灿如繁星的人
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 虞书欣 最后一个告别灿如繁星的人 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3+%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%91%8A%E5%88%AB%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E7%9A%84%E4%BA%BA&from=hot_mine
-
-### 刘亦菲素颜女大
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 刘亦菲素颜女大 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%B4%A0%E9%A2%9C%E5%A5%B3%E5%A4%A7&from=hot_mine
-
-### 爱情公寓真的太超前了
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 爱情公寓真的太超前了 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%9C%9F%E7%9A%84%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&from=hot_mine
-
-### 杨天真 切胃瘦了但迅速又胖了
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 杨天真 切胃瘦了但迅速又胖了 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A4%A9%E7%9C%9F+%E5%88%87%E8%83%83%E7%98%A6%E4%BA%86%E4%BD%86%E8%BF%85%E9%80%9F%E5%8F%88%E8%83%96%E4%BA%86&from=hot_mine
-
-### 林志颖的基因彩票还在发力
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 林志颖的基因彩票还在发力 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96%E7%9A%84%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8%E8%BF%98%E5%9C%A8%E5%8F%91%E5%8A%9B&from=hot_mine
-
-### 青海地震
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 青海地震
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87&from=hot_mine
-
-### 黄磊小儿子长得好像黄磊
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 黄磊小儿子长得好像黄磊
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E5%B0%8F%E5%84%BF%E5%AD%90%E9%95%BF%E5%BE%97%E5%A5%BD%E5%83%8F%E9%BB%84%E7%A3%8A&from=hot_mine
-
-### 王祖蓝俩女儿颜值
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 王祖蓝俩女儿颜值
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%93%9D%E4%BF%A9%E5%A5%B3%E5%84%BF%E9%A2%9C%E5%80%BC&from=hot_mine
-
-### 高市早苗言论引爆日本舆论
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 高市早苗言论引爆日本舆论
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%AE%BA%E5%BC%95%E7%88%86%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA&from=hot_mine
+- Desc: 何与朋友圈健身照滤镜 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%95%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%81%A5%E8%BA%AB%E7%85%A7%E6%BB%A4%E9%95%9C&from=hot_mine
 
 ### C罗无世界杯冠军遭航空公司嘲讽
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: C罗无世界杯冠军遭航空公司嘲讽 新
-- Published At: 2026-07-28T06:43:22.324Z
+- Desc: C罗无世界杯冠军遭航空公司嘲讽
+- Published At: 2026-07-28T10:52:01.940Z
 - URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%97%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E9%81%AD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%98%B2%E8%AE%BD&from=hot_mine
 
-### 有女子怀胎9月逃离唐山大地震
+### 花儿与少年8录制回国
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 有女子怀胎9月逃离唐山大地震 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9C%89%E5%A5%B3%E5%AD%90%E6%80%80%E8%83%8E9%E6%9C%88%E9%80%83%E7%A6%BB%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87&from=hot_mine
+- Desc: 花儿与少年8录制回国 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B48%E5%BD%95%E5%88%B6%E5%9B%9E%E5%9B%BD&from=hot_mine
 
-### 当我发现同事是伪人
+### 张馨予海边比基尼大片
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 当我发现同事是伪人
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E5%8F%91%E7%8E%B0%E5%90%8C%E4%BA%8B%E6%98%AF%E4%BC%AA%E4%BA%BA&from=hot_mine
+- Desc: 张馨予海边比基尼大片 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%B5%B7%E8%BE%B9%E6%AF%94%E5%9F%BA%E5%B0%BC%E5%A4%A7%E7%89%87&from=hot_mine
 
-### discouraged
+### 齐达内出任法国国家队主教练
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: discouraged 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=discouraged&from=hot_mine
+- Desc: 齐达内出任法国国家队主教练 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E9%BD%90%E8%BE%BE%E5%86%85%E5%87%BA%E4%BB%BB%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83&from=hot_mine
 
-### 听泉赏宝宣布彻底告别股市
+### 刘亦菲 富有且大方
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 听泉赏宝宣布彻底告别股市 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%E5%AE%A3%E5%B8%83%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E8%82%A1%E5%B8%82&from=hot_mine
+- Desc: 刘亦菲 富有且大方 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2+%E5%AF%8C%E6%9C%89%E4%B8%94%E5%A4%A7%E6%96%B9&from=hot_mine
 
-### 全球芯片股暴跌原因找到了
+### 刘亦菲给员工送黄金
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 全球芯片股暴跌原因找到了 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&from=hot_mine
+- Desc: 刘亦菲给员工送黄金
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BB%99%E5%91%98%E5%B7%A5%E9%80%81%E9%BB%84%E9%87%91&from=hot_mine
 
-### 印度一警员用AK47驱散抗议人群
+### 日本地震
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 印度一警员用AK47驱散抗议人群 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E4%B8%80%E8%AD%A6%E5%91%98%E7%94%A8AK47%E9%A9%B1%E6%95%A3%E6%8A%97%E8%AE%AE%E4%BA%BA%E7%BE%A4&from=hot_mine
+- Desc: 日本地震
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&from=hot_mine
 
-### 御廷谣没播
+### 张馨予你辣到我了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 御廷谣没播
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%A1%E5%BB%B7%E8%B0%A3%E6%B2%A1%E6%92%AD&from=hot_mine
+- Desc: 张馨予你辣到我了 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%BD%A0%E8%BE%A3%E5%88%B0%E6%88%91%E4%BA%86&from=hot_mine
 
-### 博主凌晨机场打出租被司机抛在路边
+### 上海街头偶遇Angelababy
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 博主凌晨机场打出租被司机抛在路边 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%9A%E4%B8%BB%E5%87%8C%E6%99%A8%E6%9C%BA%E5%9C%BA%E6%89%93%E5%87%BA%E7%A7%9F%E8%A2%AB%E5%8F%B8%E6%9C%BA%E6%8A%9B%E5%9C%A8%E8%B7%AF%E8%BE%B9&from=hot_mine
-
-### 内娱来了三个手电筒
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 内娱来了三个手电筒
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%B8%89%E4%B8%AA%E6%89%8B%E7%94%B5%E7%AD%92&from=hot_mine
-
-### 白鹿丞磊王楚然包场陈哲远新剧
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 白鹿丞磊王楚然包场陈哲远新剧
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8C%85%E5%9C%BA%E9%99%88%E5%93%B2%E8%BF%9C%E6%96%B0%E5%89%A7&from=hot_mine
-
-### 禁止涉军队退役报废装备销售活动
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 禁止涉军队退役报废装备销售活动 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%A6%81%E6%AD%A2%E6%B6%89%E5%86%9B%E9%98%9F%E9%80%80%E5%BD%B9%E6%8A%A5%E5%BA%9F%E8%A3%85%E5%A4%87%E9%94%80%E5%94%AE%E6%B4%BB%E5%8A%A8&from=hot_mine
-
-### 地震50年后突然搜到已故父亲名字
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 地震50年后突然搜到已故父亲名字 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%8750%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E6%90%9C%E5%88%B0%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%90%8D%E5%AD%97&from=hot_search
-
-### 小米展出澎程6万公里路测车
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 小米展出澎程6万公里路测车
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B1%95%E5%87%BA%E6%BE%8E%E7%A8%8B6%E4%B8%87%E5%85%AC%E9%87%8C%E8%B7%AF%E6%B5%8B%E8%BD%A6&from=hot_search
-
-### 紧急预拨1.8亿元支持6省防汛防台风
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 紧急预拨1.8亿元支持6省防汛防台风
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A81.8%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%816%E7%9C%81%E9%98%B2%E6%B1%9B%E9%98%B2%E5%8F%B0%E9%A3%8E&from=hot_search
+- Desc: 上海街头偶遇Angelababy 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87Angelababy&from=hot_mine
 
 ### 泰国国家旅游局发文致歉
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 泰国国家旅游局发文致歉 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 泰国国家旅游局发文致歉
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89&from=hot_mine
+
+### 上海震感
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 上海震感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E9%9C%87%E6%84%9F&from=hot_mine
+
+### 王菊一念江南古装路透
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 王菊一念江南古装路透
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%8A%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E5%8F%A4%E8%A3%85%E8%B7%AF%E9%80%8F&from=hot_mine
+
+### GMM与当事人和解
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: GMM与当事人和解 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=GMM%E4%B8%8E%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%92%8C%E8%A7%A3&from=hot_mine
+
+### 全款买房的人变多
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 全款买房的人变多 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%98%E5%A4%9A&from=hot_mine
+
+### 患癌妻子申请销毁婚外胚胎遭拒
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 患癌妻子申请销毁婚外胚胎遭拒
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E9%94%80%E6%AF%81%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%81%AD%E6%8B%92&from=hot_mine
+
+### 王虹戴卡地亚且衣品好
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 王虹戴卡地亚且衣品好 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E8%99%B9%E6%88%B4%E5%8D%A1%E5%9C%B0%E4%BA%9A%E4%B8%94%E8%A1%A3%E5%93%81%E5%A5%BD&from=hot_mine
 
 ### 改善脖子前倾最简单的动作
 - Platform: weibo
-- Source: 微博热榜-search
+- Source: 微博热榜-mine
 - Desc: 改善脖子前倾最简单的动作
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%94%B9%E5%96%84%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%A8%E4%BD%9C&from=hot_search
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%94%B9%E5%96%84%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%A8%E4%BD%9C&from=hot_mine
 
-### 在张雅琪身上看到了自己的同事
+### 科技股大跌原因
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 在张雅琪身上看到了自己的同事
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%9C%A8%E5%BC%A0%E9%9B%85%E7%90%AA%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%90%8C%E4%BA%8B&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 科技股大跌原因 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0&from=hot_mine
+
+### 三甲医院凭假结婚证通过试管审核
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 三甲医院凭假结婚证通过试管审核 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%87%AD%E5%81%87%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%9A%E8%BF%87%E8%AF%95%E7%AE%A1%E5%AE%A1%E6%A0%B8&from=hot_mine
 
 ### 折个鸡
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 折个鸡 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%8A%98%E4%B8%AA%E9%B8%A1&from=hot_search
+- Source: 微博热榜-mine
+- Desc: 折个鸡
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%8A%98%E4%B8%AA%E9%B8%A1&from=hot_mine
 
-### 詹姆斯引用中国名言却写错出处
+### 念相思妆造廉价感
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 念相思妆造廉价感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BF%B5%E7%9B%B8%E6%80%9D%E5%A6%86%E9%80%A0%E5%BB%89%E4%BB%B7%E6%84%9F&from=hot_mine
+
+### 网传多位帝王专业户现身极氪门店
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 网传多位帝王专业户现身极氪门店
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%A4%9A%E4%BD%8D%E5%B8%9D%E7%8E%8B%E4%B8%93%E4%B8%9A%E6%88%B7%E7%8E%B0%E8%BA%AB%E6%9E%81%E6%B0%AA%E9%97%A8%E5%BA%97&from=hot_mine
+
+### 退货千万不要提前给取件码
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 詹姆斯引用中国名言却写错出处 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BC%95%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%90%8D%E8%A8%80%E5%8D%B4%E5%86%99%E9%94%99%E5%87%BA%E5%A4%84&from=hot_search
+- Desc: 退货千万不要提前给取件码 热
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E9%80%80%E8%B4%A7%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8F%90%E5%89%8D%E7%BB%99%E5%8F%96%E4%BB%B6%E7%A0%81&from=hot_search
 
-### 北大教授雷军为王虹写推荐信
+### 感冒灵正式纳入禁驾清单
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 北大教授雷军为王虹写推荐信
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%9B%B7%E5%86%9B%E4%B8%BA%E7%8E%8B%E8%99%B9%E5%86%99%E6%8E%A8%E8%8D%90%E4%BF%A1&from=hot_search
+- Desc: 感冒灵正式纳入禁驾清单 热
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E7%81%B5%E6%AD%A3%E5%BC%8F%E7%BA%B3%E5%85%A5%E7%A6%81%E9%A9%BE%E6%B8%85%E5%8D%95&from=hot_search
 
-### 虞书欣 最后一个告别灿如繁星的人
+### 请查收这份家庭防汛防灾应急包
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 虞书欣 最后一个告别灿如繁星的人 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3+%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%91%8A%E5%88%AB%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E7%9A%84%E4%BA%BA&from=hot_search
+- Desc: 请查收这份家庭防汛防灾应急包
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%99%E4%BB%BD%E5%AE%B6%E5%BA%AD%E9%98%B2%E6%B1%9B%E9%98%B2%E7%81%BE%E5%BA%94%E6%80%A5%E5%8C%85&from=hot_search
 
-### 刘亦菲素颜女大
+### 日本7.1级地震江浙沪有震感
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 刘亦菲素颜女大 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%B4%A0%E9%A2%9C%E5%A5%B3%E5%A4%A7&from=hot_search
+- Desc: 日本7.1级地震江浙沪有震感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%9C%89%E9%9C%87%E6%84%9F&from=hot_search
 
-### 爱情公寓真的太超前了
+### 日本7.1级地震民众哭喊声一片
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 爱情公寓真的太超前了 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%9C%9F%E7%9A%84%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&from=hot_search
+- Desc: 日本7.1级地震民众哭喊声一片 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87&from=hot_search
 
-### 杨天真 切胃瘦了但迅速又胖了
+### 天才程序员陨落
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 杨天真 切胃瘦了但迅速又胖了 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A4%A9%E7%9C%9F+%E5%88%87%E8%83%83%E7%98%A6%E4%BA%86%E4%BD%86%E8%BF%85%E9%80%9F%E5%8F%88%E8%83%96%E4%BA%86&from=hot_search
+- Desc: 天才程序员陨落
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%99%A8%E8%90%BD&from=hot_search
 
-### 林志颖的基因彩票还在发力
+### 爸妈吵了半小时孩子才同意买玩具
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 林志颖的基因彩票还在发力 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96%E7%9A%84%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8%E8%BF%98%E5%9C%A8%E5%8F%91%E5%8A%9B&from=hot_search
+- Desc: 爸妈吵了半小时孩子才同意买玩具
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%88%B8%E5%A6%88%E5%90%B5%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%AD%A9%E5%AD%90%E6%89%8D%E5%90%8C%E6%84%8F%E4%B9%B0%E7%8E%A9%E5%85%B7&from=hot_search
 
-### 青海地震
+### 何与朋友圈健身照滤镜
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 青海地震
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87&from=hot_search
-
-### 黄磊小儿子长得好像黄磊
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 黄磊小儿子长得好像黄磊
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E5%B0%8F%E5%84%BF%E5%AD%90%E9%95%BF%E5%BE%97%E5%A5%BD%E5%83%8F%E9%BB%84%E7%A3%8A&from=hot_search
-
-### 王祖蓝俩女儿颜值
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 王祖蓝俩女儿颜值
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%93%9D%E4%BF%A9%E5%A5%B3%E5%84%BF%E9%A2%9C%E5%80%BC&from=hot_search
-
-### 高市早苗言论引爆日本舆论
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 高市早苗言论引爆日本舆论
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%AE%BA%E5%BC%95%E7%88%86%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA&from=hot_search
+- Desc: 何与朋友圈健身照滤镜 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%95%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%81%A5%E8%BA%AB%E7%85%A7%E6%BB%A4%E9%95%9C&from=hot_search
 
 ### C罗无世界杯冠军遭航空公司嘲讽
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: C罗无世界杯冠军遭航空公司嘲讽 新
-- Published At: 2026-07-28T06:43:22.324Z
+- Desc: C罗无世界杯冠军遭航空公司嘲讽
+- Published At: 2026-07-28T10:52:01.940Z
 - URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%97%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E9%81%AD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%98%B2%E8%AE%BD&from=hot_search
 
-### 有女子怀胎9月逃离唐山大地震
+### 花儿与少年8录制回国
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 有女子怀胎9月逃离唐山大地震 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9C%89%E5%A5%B3%E5%AD%90%E6%80%80%E8%83%8E9%E6%9C%88%E9%80%83%E7%A6%BB%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87&from=hot_search
+- Desc: 花儿与少年8录制回国 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B48%E5%BD%95%E5%88%B6%E5%9B%9E%E5%9B%BD&from=hot_search
 
-### 当我发现同事是伪人
+### 张馨予海边比基尼大片
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 当我发现同事是伪人
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E5%8F%91%E7%8E%B0%E5%90%8C%E4%BA%8B%E6%98%AF%E4%BC%AA%E4%BA%BA&from=hot_search
+- Desc: 张馨予海边比基尼大片 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%B5%B7%E8%BE%B9%E6%AF%94%E5%9F%BA%E5%B0%BC%E5%A4%A7%E7%89%87&from=hot_search
 
-### discouraged
+### 齐达内出任法国国家队主教练
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: discouraged 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=discouraged&from=hot_search
+- Desc: 齐达内出任法国国家队主教练 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E9%BD%90%E8%BE%BE%E5%86%85%E5%87%BA%E4%BB%BB%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83&from=hot_search
 
-### 听泉赏宝宣布彻底告别股市
+### 刘亦菲 富有且大方
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 听泉赏宝宣布彻底告别股市 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%E5%AE%A3%E5%B8%83%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E8%82%A1%E5%B8%82&from=hot_search
+- Desc: 刘亦菲 富有且大方 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2+%E5%AF%8C%E6%9C%89%E4%B8%94%E5%A4%A7%E6%96%B9&from=hot_search
 
-### 全球芯片股暴跌原因找到了
+### 刘亦菲给员工送黄金
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 全球芯片股暴跌原因找到了 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&from=hot_search
+- Desc: 刘亦菲给员工送黄金
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BB%99%E5%91%98%E5%B7%A5%E9%80%81%E9%BB%84%E9%87%91&from=hot_search
 
-### 印度一警员用AK47驱散抗议人群
+### 日本地震
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 印度一警员用AK47驱散抗议人群 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E4%B8%80%E8%AD%A6%E5%91%98%E7%94%A8AK47%E9%A9%B1%E6%95%A3%E6%8A%97%E8%AE%AE%E4%BA%BA%E7%BE%A4&from=hot_search
+- Desc: 日本地震
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&from=hot_search
 
-### 御廷谣没播
+### 张馨予你辣到我了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 御廷谣没播
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%A1%E5%BB%B7%E8%B0%A3%E6%B2%A1%E6%92%AD&from=hot_search
+- Desc: 张馨予你辣到我了 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%BD%A0%E8%BE%A3%E5%88%B0%E6%88%91%E4%BA%86&from=hot_search
 
-### 博主凌晨机场打出租被司机抛在路边
+### 上海街头偶遇Angelababy
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 博主凌晨机场打出租被司机抛在路边 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%9A%E4%B8%BB%E5%87%8C%E6%99%A8%E6%9C%BA%E5%9C%BA%E6%89%93%E5%87%BA%E7%A7%9F%E8%A2%AB%E5%8F%B8%E6%9C%BA%E6%8A%9B%E5%9C%A8%E8%B7%AF%E8%BE%B9&from=hot_search
-
-### 内娱来了三个手电筒
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 内娱来了三个手电筒
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%B8%89%E4%B8%AA%E6%89%8B%E7%94%B5%E7%AD%92&from=hot_search
-
-### 白鹿丞磊王楚然包场陈哲远新剧
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 白鹿丞磊王楚然包场陈哲远新剧
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8C%85%E5%9C%BA%E9%99%88%E5%93%B2%E8%BF%9C%E6%96%B0%E5%89%A7&from=hot_search
-
-### 禁止涉军队退役报废装备销售活动
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 禁止涉军队退役报废装备销售活动 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%A6%81%E6%AD%A2%E6%B6%89%E5%86%9B%E9%98%9F%E9%80%80%E5%BD%B9%E6%8A%A5%E5%BA%9F%E8%A3%85%E5%A4%87%E9%94%80%E5%94%AE%E6%B4%BB%E5%8A%A8&from=hot_search
-
-### 地震50年后突然搜到已故父亲名字
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 地震50年后突然搜到已故父亲名字 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%8750%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E6%90%9C%E5%88%B0%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%90%8D%E5%AD%97&from=hot_entertainment
-
-### 小米展出澎程6万公里路测车
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 小米展出澎程6万公里路测车
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B1%95%E5%87%BA%E6%BE%8E%E7%A8%8B6%E4%B8%87%E5%85%AC%E9%87%8C%E8%B7%AF%E6%B5%8B%E8%BD%A6&from=hot_entertainment
-
-### 紧急预拨1.8亿元支持6省防汛防台风
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 紧急预拨1.8亿元支持6省防汛防台风
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A81.8%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%816%E7%9C%81%E9%98%B2%E6%B1%9B%E9%98%B2%E5%8F%B0%E9%A3%8E&from=hot_entertainment
+- Desc: 上海街头偶遇Angelababy 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87Angelababy&from=hot_search
 
 ### 泰国国家旅游局发文致歉
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 泰国国家旅游局发文致歉 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 泰国国家旅游局发文致歉
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89&from=hot_search
+
+### 上海震感
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 上海震感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E9%9C%87%E6%84%9F&from=hot_search
+
+### 王菊一念江南古装路透
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 王菊一念江南古装路透
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%8A%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E5%8F%A4%E8%A3%85%E8%B7%AF%E9%80%8F&from=hot_search
+
+### GMM与当事人和解
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: GMM与当事人和解 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=GMM%E4%B8%8E%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%92%8C%E8%A7%A3&from=hot_search
+
+### 全款买房的人变多
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 全款买房的人变多 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%98%E5%A4%9A&from=hot_search
+
+### 患癌妻子申请销毁婚外胚胎遭拒
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 患癌妻子申请销毁婚外胚胎遭拒
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E9%94%80%E6%AF%81%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%81%AD%E6%8B%92&from=hot_search
+
+### 王虹戴卡地亚且衣品好
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 王虹戴卡地亚且衣品好 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E8%99%B9%E6%88%B4%E5%8D%A1%E5%9C%B0%E4%BA%9A%E4%B8%94%E8%A1%A3%E5%93%81%E5%A5%BD&from=hot_search
 
 ### 改善脖子前倾最简单的动作
 - Platform: weibo
-- Source: 微博热榜-entertainment
+- Source: 微博热榜-search
 - Desc: 改善脖子前倾最简单的动作
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%94%B9%E5%96%84%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%A8%E4%BD%9C&from=hot_entertainment
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%94%B9%E5%96%84%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%A8%E4%BD%9C&from=hot_search
 
-### 在张雅琪身上看到了自己的同事
+### 科技股大跌原因
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 在张雅琪身上看到了自己的同事
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%9C%A8%E5%BC%A0%E9%9B%85%E7%90%AA%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%90%8C%E4%BA%8B&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 科技股大跌原因 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0&from=hot_search
+
+### 三甲医院凭假结婚证通过试管审核
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 三甲医院凭假结婚证通过试管审核 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%87%AD%E5%81%87%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%9A%E8%BF%87%E8%AF%95%E7%AE%A1%E5%AE%A1%E6%A0%B8&from=hot_search
 
 ### 折个鸡
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 折个鸡 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%8A%98%E4%B8%AA%E9%B8%A1&from=hot_entertainment
+- Source: 微博热榜-search
+- Desc: 折个鸡
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%8A%98%E4%B8%AA%E9%B8%A1&from=hot_search
 
-### 詹姆斯引用中国名言却写错出处
+### 念相思妆造廉价感
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 念相思妆造廉价感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BF%B5%E7%9B%B8%E6%80%9D%E5%A6%86%E9%80%A0%E5%BB%89%E4%BB%B7%E6%84%9F&from=hot_search
+
+### 网传多位帝王专业户现身极氪门店
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 网传多位帝王专业户现身极氪门店
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%A4%9A%E4%BD%8D%E5%B8%9D%E7%8E%8B%E4%B8%93%E4%B8%9A%E6%88%B7%E7%8E%B0%E8%BA%AB%E6%9E%81%E6%B0%AA%E9%97%A8%E5%BA%97&from=hot_search
+
+### 退货千万不要提前给取件码
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 詹姆斯引用中国名言却写错出处 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BC%95%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%90%8D%E8%A8%80%E5%8D%B4%E5%86%99%E9%94%99%E5%87%BA%E5%A4%84&from=hot_entertainment
+- Desc: 退货千万不要提前给取件码 热
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E9%80%80%E8%B4%A7%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8F%90%E5%89%8D%E7%BB%99%E5%8F%96%E4%BB%B6%E7%A0%81&from=hot_entertainment
 
-### 北大教授雷军为王虹写推荐信
+### 感冒灵正式纳入禁驾清单
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 北大教授雷军为王虹写推荐信
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%9B%B7%E5%86%9B%E4%B8%BA%E7%8E%8B%E8%99%B9%E5%86%99%E6%8E%A8%E8%8D%90%E4%BF%A1&from=hot_entertainment
+- Desc: 感冒灵正式纳入禁驾清单 热
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E7%81%B5%E6%AD%A3%E5%BC%8F%E7%BA%B3%E5%85%A5%E7%A6%81%E9%A9%BE%E6%B8%85%E5%8D%95&from=hot_entertainment
 
-### 虞书欣 最后一个告别灿如繁星的人
+### 请查收这份家庭防汛防灾应急包
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 虞书欣 最后一个告别灿如繁星的人 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3+%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%91%8A%E5%88%AB%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E7%9A%84%E4%BA%BA&from=hot_entertainment
+- Desc: 请查收这份家庭防汛防灾应急包
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%99%E4%BB%BD%E5%AE%B6%E5%BA%AD%E9%98%B2%E6%B1%9B%E9%98%B2%E7%81%BE%E5%BA%94%E6%80%A5%E5%8C%85&from=hot_entertainment
 
-### 刘亦菲素颜女大
+### 日本7.1级地震江浙沪有震感
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 刘亦菲素颜女大 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%B4%A0%E9%A2%9C%E5%A5%B3%E5%A4%A7&from=hot_entertainment
+- Desc: 日本7.1级地震江浙沪有震感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%9C%89%E9%9C%87%E6%84%9F&from=hot_entertainment
 
-### 爱情公寓真的太超前了
+### 日本7.1级地震民众哭喊声一片
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 爱情公寓真的太超前了 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%9C%9F%E7%9A%84%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&from=hot_entertainment
+- Desc: 日本7.1级地震民众哭喊声一片 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87&from=hot_entertainment
 
-### 杨天真 切胃瘦了但迅速又胖了
+### 天才程序员陨落
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 杨天真 切胃瘦了但迅速又胖了 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A4%A9%E7%9C%9F+%E5%88%87%E8%83%83%E7%98%A6%E4%BA%86%E4%BD%86%E8%BF%85%E9%80%9F%E5%8F%88%E8%83%96%E4%BA%86&from=hot_entertainment
+- Desc: 天才程序员陨落
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%99%A8%E8%90%BD&from=hot_entertainment
 
-### 林志颖的基因彩票还在发力
+### 爸妈吵了半小时孩子才同意买玩具
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 林志颖的基因彩票还在发力 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96%E7%9A%84%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8%E8%BF%98%E5%9C%A8%E5%8F%91%E5%8A%9B&from=hot_entertainment
+- Desc: 爸妈吵了半小时孩子才同意买玩具
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%88%B8%E5%A6%88%E5%90%B5%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%AD%A9%E5%AD%90%E6%89%8D%E5%90%8C%E6%84%8F%E4%B9%B0%E7%8E%A9%E5%85%B7&from=hot_entertainment
 
-### 青海地震
+### 何与朋友圈健身照滤镜
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 青海地震
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87&from=hot_entertainment
-
-### 黄磊小儿子长得好像黄磊
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 黄磊小儿子长得好像黄磊
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E5%B0%8F%E5%84%BF%E5%AD%90%E9%95%BF%E5%BE%97%E5%A5%BD%E5%83%8F%E9%BB%84%E7%A3%8A&from=hot_entertainment
-
-### 王祖蓝俩女儿颜值
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 王祖蓝俩女儿颜值
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%93%9D%E4%BF%A9%E5%A5%B3%E5%84%BF%E9%A2%9C%E5%80%BC&from=hot_entertainment
-
-### 高市早苗言论引爆日本舆论
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 高市早苗言论引爆日本舆论
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%AE%BA%E5%BC%95%E7%88%86%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA&from=hot_entertainment
+- Desc: 何与朋友圈健身照滤镜 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%95%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%81%A5%E8%BA%AB%E7%85%A7%E6%BB%A4%E9%95%9C&from=hot_entertainment
 
 ### C罗无世界杯冠军遭航空公司嘲讽
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: C罗无世界杯冠军遭航空公司嘲讽 新
-- Published At: 2026-07-28T06:43:22.324Z
+- Desc: C罗无世界杯冠军遭航空公司嘲讽
+- Published At: 2026-07-28T10:52:01.940Z
 - URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%97%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E9%81%AD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%98%B2%E8%AE%BD&from=hot_entertainment
 
-### 有女子怀胎9月逃离唐山大地震
+### 花儿与少年8录制回国
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 有女子怀胎9月逃离唐山大地震 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9C%89%E5%A5%B3%E5%AD%90%E6%80%80%E8%83%8E9%E6%9C%88%E9%80%83%E7%A6%BB%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87&from=hot_entertainment
+- Desc: 花儿与少年8录制回国 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B48%E5%BD%95%E5%88%B6%E5%9B%9E%E5%9B%BD&from=hot_entertainment
 
-### 当我发现同事是伪人
+### 张馨予海边比基尼大片
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 当我发现同事是伪人
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E5%8F%91%E7%8E%B0%E5%90%8C%E4%BA%8B%E6%98%AF%E4%BC%AA%E4%BA%BA&from=hot_entertainment
+- Desc: 张馨予海边比基尼大片 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%B5%B7%E8%BE%B9%E6%AF%94%E5%9F%BA%E5%B0%BC%E5%A4%A7%E7%89%87&from=hot_entertainment
 
-### discouraged
+### 齐达内出任法国国家队主教练
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: discouraged 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=discouraged&from=hot_entertainment
+- Desc: 齐达内出任法国国家队主教练 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E9%BD%90%E8%BE%BE%E5%86%85%E5%87%BA%E4%BB%BB%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83&from=hot_entertainment
 
-### 听泉赏宝宣布彻底告别股市
+### 刘亦菲 富有且大方
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 听泉赏宝宣布彻底告别股市 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%E5%AE%A3%E5%B8%83%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E8%82%A1%E5%B8%82&from=hot_entertainment
+- Desc: 刘亦菲 富有且大方 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2+%E5%AF%8C%E6%9C%89%E4%B8%94%E5%A4%A7%E6%96%B9&from=hot_entertainment
 
-### 全球芯片股暴跌原因找到了
+### 刘亦菲给员工送黄金
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 全球芯片股暴跌原因找到了 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&from=hot_entertainment
+- Desc: 刘亦菲给员工送黄金
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BB%99%E5%91%98%E5%B7%A5%E9%80%81%E9%BB%84%E9%87%91&from=hot_entertainment
 
-### 印度一警员用AK47驱散抗议人群
+### 日本地震
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 印度一警员用AK47驱散抗议人群 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E4%B8%80%E8%AD%A6%E5%91%98%E7%94%A8AK47%E9%A9%B1%E6%95%A3%E6%8A%97%E8%AE%AE%E4%BA%BA%E7%BE%A4&from=hot_entertainment
+- Desc: 日本地震
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&from=hot_entertainment
 
-### 御廷谣没播
+### 张馨予你辣到我了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 御廷谣没播
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%A1%E5%BB%B7%E8%B0%A3%E6%B2%A1%E6%92%AD&from=hot_entertainment
+- Desc: 张馨予你辣到我了 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%BD%A0%E8%BE%A3%E5%88%B0%E6%88%91%E4%BA%86&from=hot_entertainment
 
-### 博主凌晨机场打出租被司机抛在路边
+### 上海街头偶遇Angelababy
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 博主凌晨机场打出租被司机抛在路边 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%9A%E4%B8%BB%E5%87%8C%E6%99%A8%E6%9C%BA%E5%9C%BA%E6%89%93%E5%87%BA%E7%A7%9F%E8%A2%AB%E5%8F%B8%E6%9C%BA%E6%8A%9B%E5%9C%A8%E8%B7%AF%E8%BE%B9&from=hot_entertainment
-
-### 内娱来了三个手电筒
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 内娱来了三个手电筒
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%B8%89%E4%B8%AA%E6%89%8B%E7%94%B5%E7%AD%92&from=hot_entertainment
-
-### 白鹿丞磊王楚然包场陈哲远新剧
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 白鹿丞磊王楚然包场陈哲远新剧
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8C%85%E5%9C%BA%E9%99%88%E5%93%B2%E8%BF%9C%E6%96%B0%E5%89%A7&from=hot_entertainment
-
-### 禁止涉军队退役报废装备销售活动
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 禁止涉军队退役报废装备销售活动 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%A6%81%E6%AD%A2%E6%B6%89%E5%86%9B%E9%98%9F%E9%80%80%E5%BD%B9%E6%8A%A5%E5%BA%9F%E8%A3%85%E5%A4%87%E9%94%80%E5%94%AE%E6%B4%BB%E5%8A%A8&from=hot_entertainment
-
-### 地震50年后突然搜到已故父亲名字
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 地震50年后突然搜到已故父亲名字 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%8750%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E6%90%9C%E5%88%B0%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%90%8D%E5%AD%97&from=hot_life
-
-### 小米展出澎程6万公里路测车
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 小米展出澎程6万公里路测车
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B1%95%E5%87%BA%E6%BE%8E%E7%A8%8B6%E4%B8%87%E5%85%AC%E9%87%8C%E8%B7%AF%E6%B5%8B%E8%BD%A6&from=hot_life
-
-### 紧急预拨1.8亿元支持6省防汛防台风
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 紧急预拨1.8亿元支持6省防汛防台风
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A81.8%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%816%E7%9C%81%E9%98%B2%E6%B1%9B%E9%98%B2%E5%8F%B0%E9%A3%8E&from=hot_life
+- Desc: 上海街头偶遇Angelababy 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87Angelababy&from=hot_entertainment
 
 ### 泰国国家旅游局发文致歉
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 泰国国家旅游局发文致歉 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 泰国国家旅游局发文致歉
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89&from=hot_entertainment
+
+### 上海震感
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 上海震感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E9%9C%87%E6%84%9F&from=hot_entertainment
+
+### 王菊一念江南古装路透
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 王菊一念江南古装路透
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%8A%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E5%8F%A4%E8%A3%85%E8%B7%AF%E9%80%8F&from=hot_entertainment
+
+### GMM与当事人和解
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: GMM与当事人和解 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=GMM%E4%B8%8E%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%92%8C%E8%A7%A3&from=hot_entertainment
+
+### 全款买房的人变多
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 全款买房的人变多 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%98%E5%A4%9A&from=hot_entertainment
+
+### 患癌妻子申请销毁婚外胚胎遭拒
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 患癌妻子申请销毁婚外胚胎遭拒
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E9%94%80%E6%AF%81%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%81%AD%E6%8B%92&from=hot_entertainment
+
+### 王虹戴卡地亚且衣品好
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 王虹戴卡地亚且衣品好 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E8%99%B9%E6%88%B4%E5%8D%A1%E5%9C%B0%E4%BA%9A%E4%B8%94%E8%A1%A3%E5%93%81%E5%A5%BD&from=hot_entertainment
 
 ### 改善脖子前倾最简单的动作
 - Platform: weibo
-- Source: 微博热榜-life
+- Source: 微博热榜-entertainment
 - Desc: 改善脖子前倾最简单的动作
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%94%B9%E5%96%84%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%A8%E4%BD%9C&from=hot_life
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%94%B9%E5%96%84%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%A8%E4%BD%9C&from=hot_entertainment
 
-### 在张雅琪身上看到了自己的同事
+### 科技股大跌原因
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 在张雅琪身上看到了自己的同事
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%9C%A8%E5%BC%A0%E9%9B%85%E7%90%AA%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%90%8C%E4%BA%8B&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 科技股大跌原因 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0&from=hot_entertainment
+
+### 三甲医院凭假结婚证通过试管审核
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 三甲医院凭假结婚证通过试管审核 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%87%AD%E5%81%87%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%9A%E8%BF%87%E8%AF%95%E7%AE%A1%E5%AE%A1%E6%A0%B8&from=hot_entertainment
 
 ### 折个鸡
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 折个鸡 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%8A%98%E4%B8%AA%E9%B8%A1&from=hot_life
+- Source: 微博热榜-entertainment
+- Desc: 折个鸡
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%8A%98%E4%B8%AA%E9%B8%A1&from=hot_entertainment
 
-### 詹姆斯引用中国名言却写错出处
+### 念相思妆造廉价感
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 念相思妆造廉价感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BF%B5%E7%9B%B8%E6%80%9D%E5%A6%86%E9%80%A0%E5%BB%89%E4%BB%B7%E6%84%9F&from=hot_entertainment
+
+### 网传多位帝王专业户现身极氪门店
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 网传多位帝王专业户现身极氪门店
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%A4%9A%E4%BD%8D%E5%B8%9D%E7%8E%8B%E4%B8%93%E4%B8%9A%E6%88%B7%E7%8E%B0%E8%BA%AB%E6%9E%81%E6%B0%AA%E9%97%A8%E5%BA%97&from=hot_entertainment
+
+### 退货千万不要提前给取件码
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 詹姆斯引用中国名言却写错出处 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BC%95%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%90%8D%E8%A8%80%E5%8D%B4%E5%86%99%E9%94%99%E5%87%BA%E5%A4%84&from=hot_life
+- Desc: 退货千万不要提前给取件码 热
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E9%80%80%E8%B4%A7%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8F%90%E5%89%8D%E7%BB%99%E5%8F%96%E4%BB%B6%E7%A0%81&from=hot_life
 
-### 北大教授雷军为王虹写推荐信
+### 感冒灵正式纳入禁驾清单
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 北大教授雷军为王虹写推荐信
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%9B%B7%E5%86%9B%E4%B8%BA%E7%8E%8B%E8%99%B9%E5%86%99%E6%8E%A8%E8%8D%90%E4%BF%A1&from=hot_life
+- Desc: 感冒灵正式纳入禁驾清单 热
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E7%81%B5%E6%AD%A3%E5%BC%8F%E7%BA%B3%E5%85%A5%E7%A6%81%E9%A9%BE%E6%B8%85%E5%8D%95&from=hot_life
 
-### 虞书欣 最后一个告别灿如繁星的人
+### 请查收这份家庭防汛防灾应急包
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 虞书欣 最后一个告别灿如繁星的人 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3+%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%91%8A%E5%88%AB%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E7%9A%84%E4%BA%BA&from=hot_life
+- Desc: 请查收这份家庭防汛防灾应急包
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%99%E4%BB%BD%E5%AE%B6%E5%BA%AD%E9%98%B2%E6%B1%9B%E9%98%B2%E7%81%BE%E5%BA%94%E6%80%A5%E5%8C%85&from=hot_life
 
-### 刘亦菲素颜女大
+### 日本7.1级地震江浙沪有震感
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 刘亦菲素颜女大 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%B4%A0%E9%A2%9C%E5%A5%B3%E5%A4%A7&from=hot_life
+- Desc: 日本7.1级地震江浙沪有震感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%9C%89%E9%9C%87%E6%84%9F&from=hot_life
 
-### 爱情公寓真的太超前了
+### 日本7.1级地震民众哭喊声一片
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 爱情公寓真的太超前了 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%9C%9F%E7%9A%84%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&from=hot_life
+- Desc: 日本7.1级地震民众哭喊声一片 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87&from=hot_life
 
-### 杨天真 切胃瘦了但迅速又胖了
+### 天才程序员陨落
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 杨天真 切胃瘦了但迅速又胖了 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A4%A9%E7%9C%9F+%E5%88%87%E8%83%83%E7%98%A6%E4%BA%86%E4%BD%86%E8%BF%85%E9%80%9F%E5%8F%88%E8%83%96%E4%BA%86&from=hot_life
+- Desc: 天才程序员陨落
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%99%A8%E8%90%BD&from=hot_life
 
-### 林志颖的基因彩票还在发力
+### 爸妈吵了半小时孩子才同意买玩具
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 林志颖的基因彩票还在发力 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96%E7%9A%84%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8%E8%BF%98%E5%9C%A8%E5%8F%91%E5%8A%9B&from=hot_life
+- Desc: 爸妈吵了半小时孩子才同意买玩具
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%88%B8%E5%A6%88%E5%90%B5%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%AD%A9%E5%AD%90%E6%89%8D%E5%90%8C%E6%84%8F%E4%B9%B0%E7%8E%A9%E5%85%B7&from=hot_life
 
-### 青海地震
+### 何与朋友圈健身照滤镜
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 青海地震
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87&from=hot_life
-
-### 黄磊小儿子长得好像黄磊
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 黄磊小儿子长得好像黄磊
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E5%B0%8F%E5%84%BF%E5%AD%90%E9%95%BF%E5%BE%97%E5%A5%BD%E5%83%8F%E9%BB%84%E7%A3%8A&from=hot_life
-
-### 王祖蓝俩女儿颜值
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 王祖蓝俩女儿颜值
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%93%9D%E4%BF%A9%E5%A5%B3%E5%84%BF%E9%A2%9C%E5%80%BC&from=hot_life
-
-### 高市早苗言论引爆日本舆论
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 高市早苗言论引爆日本舆论
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%AE%BA%E5%BC%95%E7%88%86%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA&from=hot_life
+- Desc: 何与朋友圈健身照滤镜 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%95%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%81%A5%E8%BA%AB%E7%85%A7%E6%BB%A4%E9%95%9C&from=hot_life
 
 ### C罗无世界杯冠军遭航空公司嘲讽
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: C罗无世界杯冠军遭航空公司嘲讽 新
-- Published At: 2026-07-28T06:43:22.324Z
+- Desc: C罗无世界杯冠军遭航空公司嘲讽
+- Published At: 2026-07-28T10:52:01.940Z
 - URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%97%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E9%81%AD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%98%B2%E8%AE%BD&from=hot_life
 
-### 有女子怀胎9月逃离唐山大地震
+### 花儿与少年8录制回国
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 有女子怀胎9月逃离唐山大地震 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9C%89%E5%A5%B3%E5%AD%90%E6%80%80%E8%83%8E9%E6%9C%88%E9%80%83%E7%A6%BB%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87&from=hot_life
+- Desc: 花儿与少年8录制回国 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B48%E5%BD%95%E5%88%B6%E5%9B%9E%E5%9B%BD&from=hot_life
 
-### 当我发现同事是伪人
+### 张馨予海边比基尼大片
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 当我发现同事是伪人
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E5%8F%91%E7%8E%B0%E5%90%8C%E4%BA%8B%E6%98%AF%E4%BC%AA%E4%BA%BA&from=hot_life
+- Desc: 张馨予海边比基尼大片 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%B5%B7%E8%BE%B9%E6%AF%94%E5%9F%BA%E5%B0%BC%E5%A4%A7%E7%89%87&from=hot_life
 
-### discouraged
+### 齐达内出任法国国家队主教练
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: discouraged 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=discouraged&from=hot_life
+- Desc: 齐达内出任法国国家队主教练 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E9%BD%90%E8%BE%BE%E5%86%85%E5%87%BA%E4%BB%BB%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83&from=hot_life
 
-### 听泉赏宝宣布彻底告别股市
+### 刘亦菲 富有且大方
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 听泉赏宝宣布彻底告别股市 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%E5%AE%A3%E5%B8%83%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E8%82%A1%E5%B8%82&from=hot_life
+- Desc: 刘亦菲 富有且大方 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2+%E5%AF%8C%E6%9C%89%E4%B8%94%E5%A4%A7%E6%96%B9&from=hot_life
 
-### 全球芯片股暴跌原因找到了
+### 刘亦菲给员工送黄金
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 全球芯片股暴跌原因找到了 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&from=hot_life
+- Desc: 刘亦菲给员工送黄金
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BB%99%E5%91%98%E5%B7%A5%E9%80%81%E9%BB%84%E9%87%91&from=hot_life
 
-### 印度一警员用AK47驱散抗议人群
+### 日本地震
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 印度一警员用AK47驱散抗议人群 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E4%B8%80%E8%AD%A6%E5%91%98%E7%94%A8AK47%E9%A9%B1%E6%95%A3%E6%8A%97%E8%AE%AE%E4%BA%BA%E7%BE%A4&from=hot_life
+- Desc: 日本地震
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&from=hot_life
 
-### 御廷谣没播
+### 张馨予你辣到我了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 御廷谣没播
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%A1%E5%BB%B7%E8%B0%A3%E6%B2%A1%E6%92%AD&from=hot_life
+- Desc: 张馨予你辣到我了 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%BD%A0%E8%BE%A3%E5%88%B0%E6%88%91%E4%BA%86&from=hot_life
 
-### 博主凌晨机场打出租被司机抛在路边
+### 上海街头偶遇Angelababy
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 博主凌晨机场打出租被司机抛在路边 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%9A%E4%B8%BB%E5%87%8C%E6%99%A8%E6%9C%BA%E5%9C%BA%E6%89%93%E5%87%BA%E7%A7%9F%E8%A2%AB%E5%8F%B8%E6%9C%BA%E6%8A%9B%E5%9C%A8%E8%B7%AF%E8%BE%B9&from=hot_life
+- Desc: 上海街头偶遇Angelababy 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87Angelababy&from=hot_life
 
-### 内娱来了三个手电筒
+### 泰国国家旅游局发文致歉
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 内娱来了三个手电筒
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%B8%89%E4%B8%AA%E6%89%8B%E7%94%B5%E7%AD%92&from=hot_life
+- Desc: 泰国国家旅游局发文致歉
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89&from=hot_life
 
-### 白鹿丞磊王楚然包场陈哲远新剧
+### 上海震感
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 白鹿丞磊王楚然包场陈哲远新剧
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8C%85%E5%9C%BA%E9%99%88%E5%93%B2%E8%BF%9C%E6%96%B0%E5%89%A7&from=hot_life
+- Desc: 上海震感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E9%9C%87%E6%84%9F&from=hot_life
 
-### 禁止涉军队退役报废装备销售活动
+### 王菊一念江南古装路透
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 禁止涉军队退役报废装备销售活动 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%A6%81%E6%AD%A2%E6%B6%89%E5%86%9B%E9%98%9F%E9%80%80%E5%BD%B9%E6%8A%A5%E5%BA%9F%E8%A3%85%E5%A4%87%E9%94%80%E5%94%AE%E6%B4%BB%E5%8A%A8&from=hot_life
+- Desc: 王菊一念江南古装路透
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%8A%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E5%8F%A4%E8%A3%85%E8%B7%AF%E9%80%8F&from=hot_life
 
-### 地震50年后突然搜到已故父亲名字
+### GMM与当事人和解
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: GMM与当事人和解 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=GMM%E4%B8%8E%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%92%8C%E8%A7%A3&from=hot_life
+
+### 全款买房的人变多
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 全款买房的人变多 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%98%E5%A4%9A&from=hot_life
+
+### 患癌妻子申请销毁婚外胚胎遭拒
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 患癌妻子申请销毁婚外胚胎遭拒
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E9%94%80%E6%AF%81%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%81%AD%E6%8B%92&from=hot_life
+
+### 王虹戴卡地亚且衣品好
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 王虹戴卡地亚且衣品好 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E8%99%B9%E6%88%B4%E5%8D%A1%E5%9C%B0%E4%BA%9A%E4%B8%94%E8%A1%A3%E5%93%81%E5%A5%BD&from=hot_life
+
+### 改善脖子前倾最简单的动作
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 改善脖子前倾最简单的动作
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%94%B9%E5%96%84%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%A8%E4%BD%9C&from=hot_life
+
+### 科技股大跌原因
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 科技股大跌原因 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0&from=hot_life
+
+### 三甲医院凭假结婚证通过试管审核
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 三甲医院凭假结婚证通过试管审核 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%87%AD%E5%81%87%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%9A%E8%BF%87%E8%AF%95%E7%AE%A1%E5%AE%A1%E6%A0%B8&from=hot_life
+
+### 折个鸡
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 折个鸡
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%8A%98%E4%B8%AA%E9%B8%A1&from=hot_life
+
+### 念相思妆造廉价感
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 念相思妆造廉价感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BF%B5%E7%9B%B8%E6%80%9D%E5%A6%86%E9%80%A0%E5%BB%89%E4%BB%B7%E6%84%9F&from=hot_life
+
+### 网传多位帝王专业户现身极氪门店
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 网传多位帝王专业户现身极氪门店
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%A4%9A%E4%BD%8D%E5%B8%9D%E7%8E%8B%E4%B8%93%E4%B8%9A%E6%88%B7%E7%8E%B0%E8%BA%AB%E6%9E%81%E6%B0%AA%E9%97%A8%E5%BA%97&from=hot_life
+
+### 退货千万不要提前给取件码
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 地震50年后突然搜到已故父亲名字 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%9C%B0%E9%9C%8750%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E6%90%9C%E5%88%B0%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%90%8D%E5%AD%97&from=hot_social
+- Desc: 退货千万不要提前给取件码 热
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E9%80%80%E8%B4%A7%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8F%90%E5%89%8D%E7%BB%99%E5%8F%96%E4%BB%B6%E7%A0%81&from=hot_social
 
-### 小米展出澎程6万公里路测车
+### 感冒灵正式纳入禁驾清单
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 小米展出澎程6万公里路测车
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B1%95%E5%87%BA%E6%BE%8E%E7%A8%8B6%E4%B8%87%E5%85%AC%E9%87%8C%E8%B7%AF%E6%B5%8B%E8%BD%A6&from=hot_social
+- Desc: 感冒灵正式纳入禁驾清单 热
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E7%81%B5%E6%AD%A3%E5%BC%8F%E7%BA%B3%E5%85%A5%E7%A6%81%E9%A9%BE%E6%B8%85%E5%8D%95&from=hot_social
 
-### 紧急预拨1.8亿元支持6省防汛防台风
+### 请查收这份家庭防汛防灾应急包
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 紧急预拨1.8亿元支持6省防汛防台风
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A81.8%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%816%E7%9C%81%E9%98%B2%E6%B1%9B%E9%98%B2%E5%8F%B0%E9%A3%8E&from=hot_social
+- Desc: 请查收这份家庭防汛防灾应急包
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%99%E4%BB%BD%E5%AE%B6%E5%BA%AD%E9%98%B2%E6%B1%9B%E9%98%B2%E7%81%BE%E5%BA%94%E6%80%A5%E5%8C%85&from=hot_social
+
+### 日本7.1级地震江浙沪有震感
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 日本7.1级地震江浙沪有震感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%9C%89%E9%9C%87%E6%84%9F&from=hot_social
+
+### 日本7.1级地震民众哭喊声一片
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 日本7.1级地震民众哭喊声一片 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87&from=hot_social
+
+### 天才程序员陨落
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 天才程序员陨落
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%99%A8%E8%90%BD&from=hot_social
+
+### 爸妈吵了半小时孩子才同意买玩具
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 爸妈吵了半小时孩子才同意买玩具
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%88%B8%E5%A6%88%E5%90%B5%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%AD%A9%E5%AD%90%E6%89%8D%E5%90%8C%E6%84%8F%E4%B9%B0%E7%8E%A9%E5%85%B7&from=hot_social
+
+### 何与朋友圈健身照滤镜
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 何与朋友圈健身照滤镜 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%95%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%81%A5%E8%BA%AB%E7%85%A7%E6%BB%A4%E9%95%9C&from=hot_social
+
+### C罗无世界杯冠军遭航空公司嘲讽
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: C罗无世界杯冠军遭航空公司嘲讽
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%97%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E9%81%AD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%98%B2%E8%AE%BD&from=hot_social
+
+### 花儿与少年8录制回国
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 花儿与少年8录制回国 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B48%E5%BD%95%E5%88%B6%E5%9B%9E%E5%9B%BD&from=hot_social
+
+### 张馨予海边比基尼大片
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 张馨予海边比基尼大片 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%B5%B7%E8%BE%B9%E6%AF%94%E5%9F%BA%E5%B0%BC%E5%A4%A7%E7%89%87&from=hot_social
+
+### 齐达内出任法国国家队主教练
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 齐达内出任法国国家队主教练 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E9%BD%90%E8%BE%BE%E5%86%85%E5%87%BA%E4%BB%BB%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83&from=hot_social
+
+### 刘亦菲 富有且大方
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 刘亦菲 富有且大方 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2+%E5%AF%8C%E6%9C%89%E4%B8%94%E5%A4%A7%E6%96%B9&from=hot_social
+
+### 刘亦菲给员工送黄金
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 刘亦菲给员工送黄金
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BB%99%E5%91%98%E5%B7%A5%E9%80%81%E9%BB%84%E9%87%91&from=hot_social
+
+### 日本地震
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 日本地震
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&from=hot_social
+
+### 张馨予你辣到我了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 张馨予你辣到我了 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%BD%A0%E8%BE%A3%E5%88%B0%E6%88%91%E4%BA%86&from=hot_social
+
+### 上海街头偶遇Angelababy
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 上海街头偶遇Angelababy 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87Angelababy&from=hot_social
 
 ### 泰国国家旅游局发文致歉
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 泰国国家旅游局发文致歉 新
-- Published At: 2026-07-28T06:43:22.324Z
+- Desc: 泰国国家旅游局发文致歉
+- Published At: 2026-07-28T10:52:01.940Z
 - URL: https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89&from=hot_social
+
+### 上海震感
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 上海震感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E9%9C%87%E6%84%9F&from=hot_social
+
+### 王菊一念江南古装路透
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 王菊一念江南古装路透
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%8A%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E5%8F%A4%E8%A3%85%E8%B7%AF%E9%80%8F&from=hot_social
+
+### GMM与当事人和解
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: GMM与当事人和解 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=GMM%E4%B8%8E%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%92%8C%E8%A7%A3&from=hot_social
+
+### 全款买房的人变多
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 全款买房的人变多 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E5%8F%98%E5%A4%9A&from=hot_social
+
+### 患癌妻子申请销毁婚外胚胎遭拒
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 患癌妻子申请销毁婚外胚胎遭拒
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E9%94%80%E6%AF%81%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%81%AD%E6%8B%92&from=hot_social
+
+### 王虹戴卡地亚且衣品好
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 王虹戴卡地亚且衣品好 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E8%99%B9%E6%88%B4%E5%8D%A1%E5%9C%B0%E4%BA%9A%E4%B8%94%E8%A1%A3%E5%93%81%E5%A5%BD&from=hot_social
 
 ### 改善脖子前倾最简单的动作
 - Platform: weibo
 - Source: 微博热榜-social
 - Desc: 改善脖子前倾最简单的动作
-- Published At: 2026-07-28T06:43:22.324Z
+- Published At: 2026-07-28T10:52:01.940Z
 - URL: https://s.weibo.com/weibo?q=%E6%94%B9%E5%96%84%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%A8%E4%BD%9C&from=hot_social
 
-### 在张雅琪身上看到了自己的同事
+### 科技股大跌原因
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 在张雅琪身上看到了自己的同事
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%9C%A8%E5%BC%A0%E9%9B%85%E7%90%AA%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%90%8C%E4%BA%8B&from=hot_social
+- Desc: 科技股大跌原因 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0&from=hot_social
+
+### 三甲医院凭假结婚证通过试管审核
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 三甲医院凭假结婚证通过试管审核 新
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%87%AD%E5%81%87%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%9A%E8%BF%87%E8%AF%95%E7%AE%A1%E5%AE%A1%E6%A0%B8&from=hot_social
 
 ### 折个鸡
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 折个鸡 新
-- Published At: 2026-07-28T06:43:22.324Z
+- Desc: 折个鸡
+- Published At: 2026-07-28T10:52:01.940Z
 - URL: https://s.weibo.com/weibo?q=%E6%8A%98%E4%B8%AA%E9%B8%A1&from=hot_social
 
-### 詹姆斯引用中国名言却写错出处
+### 念相思妆造廉价感
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 詹姆斯引用中国名言却写错出处 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BC%95%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%90%8D%E8%A8%80%E5%8D%B4%E5%86%99%E9%94%99%E5%87%BA%E5%A4%84&from=hot_social
+- Desc: 念相思妆造廉价感
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E5%BF%B5%E7%9B%B8%E6%80%9D%E5%A6%86%E9%80%A0%E5%BB%89%E4%BB%B7%E6%84%9F&from=hot_social
 
-### 北大教授雷军为王虹写推荐信
+### 网传多位帝王专业户现身极氪门店
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 北大教授雷军为王虹写推荐信
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%9B%B7%E5%86%9B%E4%B8%BA%E7%8E%8B%E8%99%B9%E5%86%99%E6%8E%A8%E8%8D%90%E4%BF%A1&from=hot_social
-
-### 虞书欣 最后一个告别灿如繁星的人
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 虞书欣 最后一个告别灿如繁星的人 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3+%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%91%8A%E5%88%AB%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E7%9A%84%E4%BA%BA&from=hot_social
-
-### 刘亦菲素颜女大
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 刘亦菲素颜女大 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%B4%A0%E9%A2%9C%E5%A5%B3%E5%A4%A7&from=hot_social
-
-### 爱情公寓真的太超前了
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 爱情公寓真的太超前了 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%9C%9F%E7%9A%84%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&from=hot_social
-
-### 杨天真 切胃瘦了但迅速又胖了
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 杨天真 切胃瘦了但迅速又胖了 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A4%A9%E7%9C%9F+%E5%88%87%E8%83%83%E7%98%A6%E4%BA%86%E4%BD%86%E8%BF%85%E9%80%9F%E5%8F%88%E8%83%96%E4%BA%86&from=hot_social
-
-### 林志颖的基因彩票还在发力
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 林志颖的基因彩票还在发力 热
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96%E7%9A%84%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8%E8%BF%98%E5%9C%A8%E5%8F%91%E5%8A%9B&from=hot_social
-
-### 青海地震
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 青海地震
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87&from=hot_social
-
-### 黄磊小儿子长得好像黄磊
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 黄磊小儿子长得好像黄磊
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%BB%84%E7%A3%8A%E5%B0%8F%E5%84%BF%E5%AD%90%E9%95%BF%E5%BE%97%E5%A5%BD%E5%83%8F%E9%BB%84%E7%A3%8A&from=hot_social
-
-### 王祖蓝俩女儿颜值
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 王祖蓝俩女儿颜值
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%93%9D%E4%BF%A9%E5%A5%B3%E5%84%BF%E9%A2%9C%E5%80%BC&from=hot_social
-
-### 高市早苗言论引爆日本舆论
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 高市早苗言论引爆日本舆论
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%AE%BA%E5%BC%95%E7%88%86%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA&from=hot_social
-
-### C罗无世界杯冠军遭航空公司嘲讽
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: C罗无世界杯冠军遭航空公司嘲讽 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=C%E7%BD%97%E6%97%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E9%81%AD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%98%B2%E8%AE%BD&from=hot_social
-
-### 有女子怀胎9月逃离唐山大地震
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 有女子怀胎9月逃离唐山大地震 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E6%9C%89%E5%A5%B3%E5%AD%90%E6%80%80%E8%83%8E9%E6%9C%88%E9%80%83%E7%A6%BB%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87&from=hot_social
-
-### 当我发现同事是伪人
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 当我发现同事是伪人
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E5%8F%91%E7%8E%B0%E5%90%8C%E4%BA%8B%E6%98%AF%E4%BC%AA%E4%BA%BA&from=hot_social
-
-### discouraged
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: discouraged 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=discouraged&from=hot_social
-
-### 听泉赏宝宣布彻底告别股市
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 听泉赏宝宣布彻底告别股市 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%E5%AE%A3%E5%B8%83%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E8%82%A1%E5%B8%82&from=hot_social
-
-### 全球芯片股暴跌原因找到了
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 全球芯片股暴跌原因找到了 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&from=hot_social
-
-### 印度一警员用AK47驱散抗议人群
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 印度一警员用AK47驱散抗议人群 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E4%B8%80%E8%AD%A6%E5%91%98%E7%94%A8AK47%E9%A9%B1%E6%95%A3%E6%8A%97%E8%AE%AE%E4%BA%BA%E7%BE%A4&from=hot_social
-
-### 御廷谣没播
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 御廷谣没播
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%A1%E5%BB%B7%E8%B0%A3%E6%B2%A1%E6%92%AD&from=hot_social
-
-### 博主凌晨机场打出租被司机抛在路边
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 博主凌晨机场打出租被司机抛在路边 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%9A%E4%B8%BB%E5%87%8C%E6%99%A8%E6%9C%BA%E5%9C%BA%E6%89%93%E5%87%BA%E7%A7%9F%E8%A2%AB%E5%8F%B8%E6%9C%BA%E6%8A%9B%E5%9C%A8%E8%B7%AF%E8%BE%B9&from=hot_social
-
-### 内娱来了三个手电筒
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 内娱来了三个手电筒
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%B8%89%E4%B8%AA%E6%89%8B%E7%94%B5%E7%AD%92&from=hot_social
-
-### 白鹿丞磊王楚然包场陈哲远新剧
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 白鹿丞磊王楚然包场陈哲远新剧
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8C%85%E5%9C%BA%E9%99%88%E5%93%B2%E8%BF%9C%E6%96%B0%E5%89%A7&from=hot_social
-
-### 禁止涉军队退役报废装备销售活动
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 禁止涉军队退役报废装备销售活动 新
-- Published At: 2026-07-28T06:43:22.324Z
-- URL: https://s.weibo.com/weibo?q=%E7%A6%81%E6%AD%A2%E6%B6%89%E5%86%9B%E9%98%9F%E9%80%80%E5%BD%B9%E6%8A%A5%E5%BA%9F%E8%A3%85%E5%A4%87%E9%94%80%E5%94%AE%E6%B4%BB%E5%8A%A8&from=hot_social
+- Desc: 网传多位帝王专业户现身极氪门店
+- Published At: 2026-07-28T10:52:01.940Z
+- URL: https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%A4%9A%E4%BD%8D%E5%B8%9D%E7%8E%8B%E4%B8%93%E4%B8%9A%E6%88%B7%E7%8E%B0%E8%BA%AB%E6%9E%81%E6%B0%AA%E9%97%A8%E5%BA%97&from=hot_social
 
