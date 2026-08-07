@@ -1,6 +1,6 @@
 # Emotion Input Digest
 
-- Generated At: 2026-08-07T08:20:29.320+08:00
+- Generated At: 2026-08-07T12:42:12.268+08:00
 - Window Hours: 24
 - Total Items: 150
 - Source Count: 5
@@ -11,1053 +11,1053 @@
 
 ## Items
 
+### 泸溪河牙冠事件消费者已致歉
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 泸溪河牙冠事件消费者已致歉 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89&from=hot_mine
+
+### 泸溪河金属牙冠事件调查结果
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 泸溪河金属牙冠事件调查结果 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E9%87%91%E5%B1%9E%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&from=hot_mine
+
+### 秋天第1个节气
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 秋天第1个节气
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%A7%8B%E5%A4%A9%E7%AC%AC1%E4%B8%AA%E8%8A%82%E6%B0%94&from=hot_mine
+
+### 提离职被知道要裁员的领导硬留下
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 提离职被知道要裁员的领导硬留下 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%8F%90%E7%A6%BB%E8%81%8C%E8%A2%AB%E7%9F%A5%E9%81%93%E8%A6%81%E8%A3%81%E5%91%98%E7%9A%84%E9%A2%86%E5%AF%BC%E7%A1%AC%E7%95%99%E4%B8%8B&from=hot_mine
+
+### 于适 平儿都长这么大了
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 于适 平儿都长这么大了 热
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82+%E5%B9%B3%E5%84%BF%E9%83%BD%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86&from=hot_mine
+
+### 1岁宝宝碰坏纸巾盒三亚酒店索赔924元
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 1岁宝宝碰坏纸巾盒三亚酒店索赔924元
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=1%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%A2%B0%E5%9D%8F%E7%BA%B8%E5%B7%BE%E7%9B%92%E4%B8%89%E4%BA%9A%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%94924%E5%85%83&from=hot_mine
+
+### 张雅琪中餐厅早上读英语
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 张雅琪中餐厅早上读英语 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E4%B8%AD%E9%A4%90%E5%8E%85%E6%97%A9%E4%B8%8A%E8%AF%BB%E8%8B%B1%E8%AF%AD&from=hot_mine
+
+### 韩国被爆性贿赂世预赛裁判
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 韩国被爆性贿赂世预赛裁判 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4&from=hot_mine
+
+### 今年是闭眼秋
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 今年是闭眼秋
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E6%98%AF%E9%97%AD%E7%9C%BC%E7%A7%8B&from=hot_mine
+
+### 空调效果可视化了
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 空调效果可视化了 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E6%95%88%E6%9E%9C%E5%8F%AF%E8%A7%86%E5%8C%96%E4%BA%86&from=hot_mine
+
+### Mina同学发声
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: Mina同学发声 热
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=Mina%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0&from=hot_mine
+
+### 两儿子同患自毁容貌症妈妈说天塌了
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 两儿子同患自毁容貌症妈妈说天塌了
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%A4%E5%84%BF%E5%AD%90%E5%90%8C%E6%82%A3%E8%87%AA%E6%AF%81%E5%AE%B9%E8%B2%8C%E7%97%87%E5%A6%88%E5%A6%88%E8%AF%B4%E5%A4%A9%E5%A1%8C%E4%BA%86&from=hot_mine
+
+### 王垲智向侯卓成致歉
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 王垲智向侯卓成致歉
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E5%9E%B2%E6%99%BA%E5%90%91%E4%BE%AF%E5%8D%93%E6%88%90%E8%87%B4%E6%AD%89&from=hot_mine
+
 ### 央视网评银行午休
 - Platform: weibo
 - Source: 微博热榜-mine
 - Desc: 央视网评银行午休 热
-- Published At: 2026-08-07T00:20:29.320Z
+- Published At: 2026-08-07T04:42:12.268Z
 - URL: https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91&from=hot_mine
 
-### 立秋
+### 戚薇 AI漫剧
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 立秋 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B&from=hot_mine
+- Desc: 戚薇 AI漫剧 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87+AI%E6%BC%AB%E5%89%A7&from=hot_mine
 
-### 买火车票新增新生预约功能
+### 面试面出了吃火锅的感觉
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 买火车票新增新生预约功能
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%96%B0%E5%A2%9E%E6%96%B0%E7%94%9F%E9%A2%84%E7%BA%A6%E5%8A%9F%E8%83%BD&from=hot_mine
+- Desc: 面试面出了吃火锅的感觉 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E9%9D%A2%E8%AF%95%E9%9D%A2%E5%87%BA%E4%BA%86%E5%90%83%E7%81%AB%E9%94%85%E7%9A%84%E6%84%9F%E8%A7%89&from=hot_mine
 
-### 苍兰诀
+### 人活着是为了感受幸福的
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 苍兰诀 热
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80&from=hot_mine
+- Desc: 人活着是为了感受幸福的 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B4%BB%E7%9D%80%E6%98%AF%E4%B8%BA%E4%BA%86%E6%84%9F%E5%8F%97%E5%B9%B8%E7%A6%8F%E7%9A%84&from=hot_mine
 
-### 立秋节气有啥习俗
+### 中国五箭齐发反制美国
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 立秋节气有啥习俗 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B%E8%8A%82%E6%B0%94%E6%9C%89%E5%95%A5%E4%B9%A0%E4%BF%97&from=hot_mine
+- Desc: 中国五箭齐发反制美国 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%94%E7%AE%AD%E9%BD%90%E5%8F%91%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD&from=hot_mine
 
-### 没有中国人能笑着走出冬宫博物馆
+### 胚胎案原配说根源在医院不验结婚证
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 没有中国人能笑着走出冬宫博物馆
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%86%AC%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%A6%86&from=hot_mine
+- Desc: 胚胎案原配说根源在医院不验结婚证 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E8%AF%B4%E6%A0%B9%E6%BA%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E4%B8%8D%E9%AA%8C%E7%BB%93%E5%A9%9A%E8%AF%81&from=hot_mine
 
-### 韩国足协7场比赛性贿赂20名裁判
+### 以结婚为目的转账分手需返还
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 韩国足协7场比赛性贿赂20名裁判
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F7%E5%9C%BA%E6%AF%94%E8%B5%9B%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E8%A3%81%E5%88%A4&from=hot_mine
+- Desc: 以结婚为目的转账分手需返还 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%A5%E7%BB%93%E5%A9%9A%E4%B8%BA%E7%9B%AE%E7%9A%84%E8%BD%AC%E8%B4%A6%E5%88%86%E6%89%8B%E9%9C%80%E8%BF%94%E8%BF%98&from=hot_mine
 
-### 国企拖欠3700万致市政工程停工
+### 男子称记录生活时拍下技师不当举动
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 国企拖欠3700万致市政工程停工
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BC%81%E6%8B%96%E6%AC%A03700%E4%B8%87%E8%87%B4%E5%B8%82%E6%94%BF%E5%B7%A5%E7%A8%8B%E5%81%9C%E5%B7%A5&from=hot_mine
+- Desc: 男子称记录生活时拍下技师不当举动 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%A7%B0%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB%E6%97%B6%E6%8B%8D%E4%B8%8B%E6%8A%80%E5%B8%88%E4%B8%8D%E5%BD%93%E4%B8%BE%E5%8A%A8&from=hot_mine
 
-### 曝iPhone18Pro量产遇挑战
+### 商家称1小时被20条差评后门店倒闭
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 曝iPhone18Pro量产遇挑战 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18Pro%E9%87%8F%E4%BA%A7%E9%81%87%E6%8C%91%E6%88%98&from=hot_mine
+- Desc: 商家称1小时被20条差评后门店倒闭 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E5%95%86%E5%AE%B6%E7%A7%B01%E5%B0%8F%E6%97%B6%E8%A2%AB20%E6%9D%A1%E5%B7%AE%E8%AF%84%E5%90%8E%E9%97%A8%E5%BA%97%E5%80%92%E9%97%AD&from=hot_mine
 
-### 王俊凯吃了姜妍给的大药丸
+### iPhone18Pro十二大升级
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 王俊凯吃了姜妍给的大药丸 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%90%83%E4%BA%86%E5%A7%9C%E5%A6%8D%E7%BB%99%E7%9A%84%E5%A4%A7%E8%8D%AF%E4%B8%B8&from=hot_mine
+- Desc: iPhone18Pro十二大升级
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7&from=hot_mine
 
-### 外网热议Mina参加西村力签售
+### 你上班银行上班你午休银行午休
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 外网热议Mina参加西村力签售 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%96%E7%BD%91%E7%83%AD%E8%AE%AEMina%E5%8F%82%E5%8A%A0%E8%A5%BF%E6%9D%91%E5%8A%9B%E7%AD%BE%E5%94%AE&from=hot_mine
+- Desc: 你上班银行上班你午休银行午休 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%A0%E4%B8%8A%E7%8F%AD%E9%93%B6%E8%A1%8C%E4%B8%8A%E7%8F%AD%E4%BD%A0%E5%8D%88%E4%BC%91%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91&from=hot_mine
 
-### 特朗普对多晶硅加征关税
+### 伊能静自曝不太想录妻旅
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 特朗普对多晶硅加征关税 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E&from=hot_mine
-
-### 宋亚轩晒时代少年团合照
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 宋亚轩晒时代少年团合照 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%99%92%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%88%E7%85%A7&from=hot_mine
-
-### 日本网友为Mina发声
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 日本网友为Mina发声 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E4%B8%BAMina%E5%8F%91%E5%A3%B0&from=hot_mine
-
-### Mina轻生前求西村力粉丝别网暴自己
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: Mina轻生前求西村力粉丝别网暴自己
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=Mina%E8%BD%BB%E7%94%9F%E5%89%8D%E6%B1%82%E8%A5%BF%E6%9D%91%E5%8A%9B%E7%B2%89%E4%B8%9D%E5%88%AB%E7%BD%91%E6%9A%B4%E8%87%AA%E5%B7%B1&from=hot_mine
-
-### 我对二手烟就丁禹兮这个态度
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 我对二手烟就丁禹兮这个态度
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E5%AF%B9%E4%BA%8C%E6%89%8B%E7%83%9F%E5%B0%B1%E4%B8%81%E7%A6%B9%E5%85%AE%E8%BF%99%E4%B8%AA%E6%80%81%E5%BA%A6&from=hot_mine
-
-### 女孩只有你自己才是靠山
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 女孩只有你自己才是靠山
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E5%8F%AA%E6%9C%89%E4%BD%A0%E8%87%AA%E5%B7%B1%E6%89%8D%E6%98%AF%E9%9D%A0%E5%B1%B1&from=hot_mine
-
-### 徐洁云称有小米用户宠物叫孩go
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 徐洁云称有小米用户宠物叫孩go
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%90%E6%B4%81%E4%BA%91%E7%A7%B0%E6%9C%89%E5%B0%8F%E7%B1%B3%E7%94%A8%E6%88%B7%E5%AE%A0%E7%89%A9%E5%8F%AB%E5%AD%A9go&from=hot_mine
-
-### U17国足绝杀勒沃库森
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: U17国足绝杀勒沃库森 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%BB%9D%E6%9D%80%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE&from=hot_mine
-
-### 1504岁的小兰花
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 1504岁的小兰花 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=1504%E5%B2%81%E7%9A%84%E5%B0%8F%E5%85%B0%E8%8A%B1&from=hot_mine
+- Desc: 伊能静自曝不太想录妻旅
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%A4%AA%E6%83%B3%E5%BD%95%E5%A6%BB%E6%97%85&from=hot_mine
 
 ### 西村力大吧发长文回应
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 西村力大吧发长文回应 热
-- Published At: 2026-08-07T00:20:29.320Z
+- Desc: 西村力大吧发长文回应
+- Published At: 2026-08-07T04:42:12.268Z
 - URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B%E5%A4%A7%E5%90%A7%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94&from=hot_mine
 
-### 辅警受贿关照40名在押人员获刑1年
+### 粉笔公告自曝决策失误
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 辅警受贿关照40名在押人员获刑1年 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%BE%85%E8%AD%A6%E5%8F%97%E8%B4%BF%E5%85%B3%E7%85%A740%E5%90%8D%E5%9C%A8%E6%8A%BC%E4%BA%BA%E5%91%98%E8%8E%B7%E5%88%911%E5%B9%B4&from=hot_mine
+- Desc: 粉笔公告自曝决策失误
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A%E8%87%AA%E6%9B%9D%E5%86%B3%E7%AD%96%E5%A4%B1%E8%AF%AF&from=hot_mine
 
-### 26岁女儿谈47岁妈妈突然产女
+### TF五代见面会官宣
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 26岁女儿谈47岁妈妈突然产女 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=26%E5%B2%81%E5%A5%B3%E5%84%BF%E8%B0%8847%E5%B2%81%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E4%BA%A7%E5%A5%B3&from=hot_mine
+- Desc: TF五代见面会官宣
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=TF%E4%BA%94%E4%BB%A3%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%AE%98%E5%AE%A3&from=hot_mine
 
-### 女子怀孕以为发胖就医后产下第三胎
+### 美国科学家首次用AI设计出病毒
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 女子怀孕以为发胖就医后产下第三胎
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E4%BB%A5%E4%B8%BA%E5%8F%91%E8%83%96%E5%B0%B1%E5%8C%BB%E5%90%8E%E4%BA%A7%E4%B8%8B%E7%AC%AC%E4%B8%89%E8%83%8E&from=hot_mine
+- Desc: 美国科学家首次用AI设计出病毒 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92&from=hot_mine
 
-### 粉笔公告
+### Ning说TheShy贾克斯不如Bin
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 粉笔公告
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A&from=hot_mine
+- Desc: Ning说TheShy贾克斯不如Bin
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=Ning%E8%AF%B4TheShy%E8%B4%BE%E5%85%8B%E6%96%AF%E4%B8%8D%E5%A6%82Bin&from=hot_mine
 
-### 西村力 Mina
+### 泸溪河牙冠事件消费者已致歉
 - Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 西村力 Mina
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B+Mina&from=hot_mine
+- Source: 微博热榜-search
+- Desc: 泸溪河牙冠事件消费者已致歉 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89&from=hot_search
 
-### 汪峰公司因AI从1100人减到400人
+### 泸溪河金属牙冠事件调查结果
 - Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 汪峰公司因AI从1100人减到400人 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA&from=hot_mine
+- Source: 微博热榜-search
+- Desc: 泸溪河金属牙冠事件调查结果 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E9%87%91%E5%B1%9E%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&from=hot_search
 
-### 宇树科技发行价150.8元
+### 秋天第1个节气
 - Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 宇树科技发行价150.8元
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7150.8%E5%85%83&from=hot_mine
+- Source: 微博热榜-search
+- Desc: 秋天第1个节气
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%A7%8B%E5%A4%A9%E7%AC%AC1%E4%B8%AA%E8%8A%82%E6%B0%94&from=hot_search
 
-### 陈伟霆曾舜晞托举配角
+### 提离职被知道要裁员的领导硬留下
 - Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 陈伟霆曾舜晞托举配角
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E6%9B%BE%E8%88%9C%E6%99%9E%E6%89%98%E4%B8%BE%E9%85%8D%E8%A7%92&from=hot_mine
+- Source: 微博热榜-search
+- Desc: 提离职被知道要裁员的领导硬留下 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%8F%90%E7%A6%BB%E8%81%8C%E8%A2%AB%E7%9F%A5%E9%81%93%E8%A6%81%E8%A3%81%E5%91%98%E7%9A%84%E9%A2%86%E5%AF%BC%E7%A1%AC%E7%95%99%E4%B8%8B&from=hot_search
 
-### 我的鸵鸟先生开播
+### 于适 平儿都长这么大了
 - Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 我的鸵鸟先生开播 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E9%B8%B5%E9%B8%9F%E5%85%88%E7%94%9F%E5%BC%80%E6%92%AD&from=hot_mine
+- Source: 微博热榜-search
+- Desc: 于适 平儿都长这么大了 热
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82+%E5%B9%B3%E5%84%BF%E9%83%BD%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86&from=hot_search
+
+### 1岁宝宝碰坏纸巾盒三亚酒店索赔924元
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 1岁宝宝碰坏纸巾盒三亚酒店索赔924元
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=1%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%A2%B0%E5%9D%8F%E7%BA%B8%E5%B7%BE%E7%9B%92%E4%B8%89%E4%BA%9A%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%94924%E5%85%83&from=hot_search
+
+### 张雅琪中餐厅早上读英语
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 张雅琪中餐厅早上读英语 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E4%B8%AD%E9%A4%90%E5%8E%85%E6%97%A9%E4%B8%8A%E8%AF%BB%E8%8B%B1%E8%AF%AD&from=hot_search
+
+### 韩国被爆性贿赂世预赛裁判
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 韩国被爆性贿赂世预赛裁判 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4&from=hot_search
+
+### 今年是闭眼秋
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 今年是闭眼秋
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E6%98%AF%E9%97%AD%E7%9C%BC%E7%A7%8B&from=hot_search
+
+### 空调效果可视化了
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 空调效果可视化了 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E6%95%88%E6%9E%9C%E5%8F%AF%E8%A7%86%E5%8C%96%E4%BA%86&from=hot_search
+
+### Mina同学发声
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: Mina同学发声 热
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=Mina%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0&from=hot_search
+
+### 两儿子同患自毁容貌症妈妈说天塌了
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 两儿子同患自毁容貌症妈妈说天塌了
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%A4%E5%84%BF%E5%AD%90%E5%90%8C%E6%82%A3%E8%87%AA%E6%AF%81%E5%AE%B9%E8%B2%8C%E7%97%87%E5%A6%88%E5%A6%88%E8%AF%B4%E5%A4%A9%E5%A1%8C%E4%BA%86&from=hot_search
+
+### 王垲智向侯卓成致歉
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 王垲智向侯卓成致歉
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E5%9E%B2%E6%99%BA%E5%90%91%E4%BE%AF%E5%8D%93%E6%88%90%E8%87%B4%E6%AD%89&from=hot_search
 
 ### 央视网评银行午休
 - Platform: weibo
 - Source: 微博热榜-search
 - Desc: 央视网评银行午休 热
-- Published At: 2026-08-07T00:20:29.320Z
+- Published At: 2026-08-07T04:42:12.268Z
 - URL: https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91&from=hot_search
 
-### 立秋
+### 戚薇 AI漫剧
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 立秋 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B&from=hot_search
+- Desc: 戚薇 AI漫剧 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87+AI%E6%BC%AB%E5%89%A7&from=hot_search
 
-### 买火车票新增新生预约功能
+### 面试面出了吃火锅的感觉
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 买火车票新增新生预约功能
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%96%B0%E5%A2%9E%E6%96%B0%E7%94%9F%E9%A2%84%E7%BA%A6%E5%8A%9F%E8%83%BD&from=hot_search
+- Desc: 面试面出了吃火锅的感觉 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E9%9D%A2%E8%AF%95%E9%9D%A2%E5%87%BA%E4%BA%86%E5%90%83%E7%81%AB%E9%94%85%E7%9A%84%E6%84%9F%E8%A7%89&from=hot_search
 
-### 苍兰诀
+### 人活着是为了感受幸福的
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 苍兰诀 热
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80&from=hot_search
+- Desc: 人活着是为了感受幸福的 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B4%BB%E7%9D%80%E6%98%AF%E4%B8%BA%E4%BA%86%E6%84%9F%E5%8F%97%E5%B9%B8%E7%A6%8F%E7%9A%84&from=hot_search
 
-### 立秋节气有啥习俗
+### 中国五箭齐发反制美国
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 立秋节气有啥习俗 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B%E8%8A%82%E6%B0%94%E6%9C%89%E5%95%A5%E4%B9%A0%E4%BF%97&from=hot_search
+- Desc: 中国五箭齐发反制美国 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%94%E7%AE%AD%E9%BD%90%E5%8F%91%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD&from=hot_search
 
-### 没有中国人能笑着走出冬宫博物馆
+### 胚胎案原配说根源在医院不验结婚证
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 没有中国人能笑着走出冬宫博物馆
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%86%AC%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%A6%86&from=hot_search
+- Desc: 胚胎案原配说根源在医院不验结婚证 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E8%AF%B4%E6%A0%B9%E6%BA%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E4%B8%8D%E9%AA%8C%E7%BB%93%E5%A9%9A%E8%AF%81&from=hot_search
 
-### 韩国足协7场比赛性贿赂20名裁判
+### 以结婚为目的转账分手需返还
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 韩国足协7场比赛性贿赂20名裁判
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F7%E5%9C%BA%E6%AF%94%E8%B5%9B%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E8%A3%81%E5%88%A4&from=hot_search
+- Desc: 以结婚为目的转账分手需返还 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%A5%E7%BB%93%E5%A9%9A%E4%B8%BA%E7%9B%AE%E7%9A%84%E8%BD%AC%E8%B4%A6%E5%88%86%E6%89%8B%E9%9C%80%E8%BF%94%E8%BF%98&from=hot_search
 
-### 国企拖欠3700万致市政工程停工
+### 男子称记录生活时拍下技师不当举动
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 国企拖欠3700万致市政工程停工
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BC%81%E6%8B%96%E6%AC%A03700%E4%B8%87%E8%87%B4%E5%B8%82%E6%94%BF%E5%B7%A5%E7%A8%8B%E5%81%9C%E5%B7%A5&from=hot_search
+- Desc: 男子称记录生活时拍下技师不当举动 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%A7%B0%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB%E6%97%B6%E6%8B%8D%E4%B8%8B%E6%8A%80%E5%B8%88%E4%B8%8D%E5%BD%93%E4%B8%BE%E5%8A%A8&from=hot_search
 
-### 曝iPhone18Pro量产遇挑战
+### 商家称1小时被20条差评后门店倒闭
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 曝iPhone18Pro量产遇挑战 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18Pro%E9%87%8F%E4%BA%A7%E9%81%87%E6%8C%91%E6%88%98&from=hot_search
+- Desc: 商家称1小时被20条差评后门店倒闭 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E5%95%86%E5%AE%B6%E7%A7%B01%E5%B0%8F%E6%97%B6%E8%A2%AB20%E6%9D%A1%E5%B7%AE%E8%AF%84%E5%90%8E%E9%97%A8%E5%BA%97%E5%80%92%E9%97%AD&from=hot_search
 
-### 王俊凯吃了姜妍给的大药丸
+### iPhone18Pro十二大升级
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 王俊凯吃了姜妍给的大药丸 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%90%83%E4%BA%86%E5%A7%9C%E5%A6%8D%E7%BB%99%E7%9A%84%E5%A4%A7%E8%8D%AF%E4%B8%B8&from=hot_search
+- Desc: iPhone18Pro十二大升级
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7&from=hot_search
 
-### 外网热议Mina参加西村力签售
+### 你上班银行上班你午休银行午休
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 外网热议Mina参加西村力签售 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%96%E7%BD%91%E7%83%AD%E8%AE%AEMina%E5%8F%82%E5%8A%A0%E8%A5%BF%E6%9D%91%E5%8A%9B%E7%AD%BE%E5%94%AE&from=hot_search
+- Desc: 你上班银行上班你午休银行午休 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%A0%E4%B8%8A%E7%8F%AD%E9%93%B6%E8%A1%8C%E4%B8%8A%E7%8F%AD%E4%BD%A0%E5%8D%88%E4%BC%91%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91&from=hot_search
 
-### 特朗普对多晶硅加征关税
+### 伊能静自曝不太想录妻旅
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 特朗普对多晶硅加征关税 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E&from=hot_search
-
-### 宋亚轩晒时代少年团合照
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 宋亚轩晒时代少年团合照 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%99%92%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%88%E7%85%A7&from=hot_search
-
-### 日本网友为Mina发声
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 日本网友为Mina发声 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E4%B8%BAMina%E5%8F%91%E5%A3%B0&from=hot_search
-
-### Mina轻生前求西村力粉丝别网暴自己
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: Mina轻生前求西村力粉丝别网暴自己
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=Mina%E8%BD%BB%E7%94%9F%E5%89%8D%E6%B1%82%E8%A5%BF%E6%9D%91%E5%8A%9B%E7%B2%89%E4%B8%9D%E5%88%AB%E7%BD%91%E6%9A%B4%E8%87%AA%E5%B7%B1&from=hot_search
-
-### 我对二手烟就丁禹兮这个态度
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 我对二手烟就丁禹兮这个态度
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E5%AF%B9%E4%BA%8C%E6%89%8B%E7%83%9F%E5%B0%B1%E4%B8%81%E7%A6%B9%E5%85%AE%E8%BF%99%E4%B8%AA%E6%80%81%E5%BA%A6&from=hot_search
-
-### 女孩只有你自己才是靠山
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 女孩只有你自己才是靠山
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E5%8F%AA%E6%9C%89%E4%BD%A0%E8%87%AA%E5%B7%B1%E6%89%8D%E6%98%AF%E9%9D%A0%E5%B1%B1&from=hot_search
-
-### 徐洁云称有小米用户宠物叫孩go
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 徐洁云称有小米用户宠物叫孩go
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%90%E6%B4%81%E4%BA%91%E7%A7%B0%E6%9C%89%E5%B0%8F%E7%B1%B3%E7%94%A8%E6%88%B7%E5%AE%A0%E7%89%A9%E5%8F%AB%E5%AD%A9go&from=hot_search
-
-### U17国足绝杀勒沃库森
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: U17国足绝杀勒沃库森 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%BB%9D%E6%9D%80%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE&from=hot_search
-
-### 1504岁的小兰花
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 1504岁的小兰花 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=1504%E5%B2%81%E7%9A%84%E5%B0%8F%E5%85%B0%E8%8A%B1&from=hot_search
+- Desc: 伊能静自曝不太想录妻旅
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%A4%AA%E6%83%B3%E5%BD%95%E5%A6%BB%E6%97%85&from=hot_search
 
 ### 西村力大吧发长文回应
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 西村力大吧发长文回应 热
-- Published At: 2026-08-07T00:20:29.320Z
+- Desc: 西村力大吧发长文回应
+- Published At: 2026-08-07T04:42:12.268Z
 - URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B%E5%A4%A7%E5%90%A7%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94&from=hot_search
 
-### 辅警受贿关照40名在押人员获刑1年
+### 粉笔公告自曝决策失误
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 辅警受贿关照40名在押人员获刑1年 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%BE%85%E8%AD%A6%E5%8F%97%E8%B4%BF%E5%85%B3%E7%85%A740%E5%90%8D%E5%9C%A8%E6%8A%BC%E4%BA%BA%E5%91%98%E8%8E%B7%E5%88%911%E5%B9%B4&from=hot_search
+- Desc: 粉笔公告自曝决策失误
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A%E8%87%AA%E6%9B%9D%E5%86%B3%E7%AD%96%E5%A4%B1%E8%AF%AF&from=hot_search
 
-### 26岁女儿谈47岁妈妈突然产女
+### TF五代见面会官宣
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 26岁女儿谈47岁妈妈突然产女 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=26%E5%B2%81%E5%A5%B3%E5%84%BF%E8%B0%8847%E5%B2%81%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E4%BA%A7%E5%A5%B3&from=hot_search
+- Desc: TF五代见面会官宣
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=TF%E4%BA%94%E4%BB%A3%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%AE%98%E5%AE%A3&from=hot_search
 
-### 女子怀孕以为发胖就医后产下第三胎
+### 美国科学家首次用AI设计出病毒
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 女子怀孕以为发胖就医后产下第三胎
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E4%BB%A5%E4%B8%BA%E5%8F%91%E8%83%96%E5%B0%B1%E5%8C%BB%E5%90%8E%E4%BA%A7%E4%B8%8B%E7%AC%AC%E4%B8%89%E8%83%8E&from=hot_search
+- Desc: 美国科学家首次用AI设计出病毒 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92&from=hot_search
 
-### 粉笔公告
+### Ning说TheShy贾克斯不如Bin
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 粉笔公告
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A&from=hot_search
+- Desc: Ning说TheShy贾克斯不如Bin
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=Ning%E8%AF%B4TheShy%E8%B4%BE%E5%85%8B%E6%96%AF%E4%B8%8D%E5%A6%82Bin&from=hot_search
 
-### 西村力 Mina
+### 泸溪河牙冠事件消费者已致歉
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 西村力 Mina
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B+Mina&from=hot_search
+- Source: 微博热榜-entertainment
+- Desc: 泸溪河牙冠事件消费者已致歉 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89&from=hot_entertainment
 
-### 汪峰公司因AI从1100人减到400人
+### 泸溪河金属牙冠事件调查结果
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 汪峰公司因AI从1100人减到400人 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA&from=hot_search
+- Source: 微博热榜-entertainment
+- Desc: 泸溪河金属牙冠事件调查结果 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E9%87%91%E5%B1%9E%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&from=hot_entertainment
 
-### 宇树科技发行价150.8元
+### 秋天第1个节气
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 宇树科技发行价150.8元
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7150.8%E5%85%83&from=hot_search
+- Source: 微博热榜-entertainment
+- Desc: 秋天第1个节气
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%A7%8B%E5%A4%A9%E7%AC%AC1%E4%B8%AA%E8%8A%82%E6%B0%94&from=hot_entertainment
 
-### 陈伟霆曾舜晞托举配角
+### 提离职被知道要裁员的领导硬留下
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 陈伟霆曾舜晞托举配角
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E6%9B%BE%E8%88%9C%E6%99%9E%E6%89%98%E4%B8%BE%E9%85%8D%E8%A7%92&from=hot_search
+- Source: 微博热榜-entertainment
+- Desc: 提离职被知道要裁员的领导硬留下 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%8F%90%E7%A6%BB%E8%81%8C%E8%A2%AB%E7%9F%A5%E9%81%93%E8%A6%81%E8%A3%81%E5%91%98%E7%9A%84%E9%A2%86%E5%AF%BC%E7%A1%AC%E7%95%99%E4%B8%8B&from=hot_entertainment
 
-### 我的鸵鸟先生开播
+### 于适 平儿都长这么大了
 - Platform: weibo
-- Source: 微博热榜-search
-- Desc: 我的鸵鸟先生开播 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E9%B8%B5%E9%B8%9F%E5%85%88%E7%94%9F%E5%BC%80%E6%92%AD&from=hot_search
+- Source: 微博热榜-entertainment
+- Desc: 于适 平儿都长这么大了 热
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82+%E5%B9%B3%E5%84%BF%E9%83%BD%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86&from=hot_entertainment
+
+### 1岁宝宝碰坏纸巾盒三亚酒店索赔924元
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 1岁宝宝碰坏纸巾盒三亚酒店索赔924元
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=1%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%A2%B0%E5%9D%8F%E7%BA%B8%E5%B7%BE%E7%9B%92%E4%B8%89%E4%BA%9A%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%94924%E5%85%83&from=hot_entertainment
+
+### 张雅琪中餐厅早上读英语
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 张雅琪中餐厅早上读英语 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E4%B8%AD%E9%A4%90%E5%8E%85%E6%97%A9%E4%B8%8A%E8%AF%BB%E8%8B%B1%E8%AF%AD&from=hot_entertainment
+
+### 韩国被爆性贿赂世预赛裁判
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 韩国被爆性贿赂世预赛裁判 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4&from=hot_entertainment
+
+### 今年是闭眼秋
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 今年是闭眼秋
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E6%98%AF%E9%97%AD%E7%9C%BC%E7%A7%8B&from=hot_entertainment
+
+### 空调效果可视化了
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 空调效果可视化了 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E6%95%88%E6%9E%9C%E5%8F%AF%E8%A7%86%E5%8C%96%E4%BA%86&from=hot_entertainment
+
+### Mina同学发声
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: Mina同学发声 热
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=Mina%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0&from=hot_entertainment
+
+### 两儿子同患自毁容貌症妈妈说天塌了
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 两儿子同患自毁容貌症妈妈说天塌了
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%A4%E5%84%BF%E5%AD%90%E5%90%8C%E6%82%A3%E8%87%AA%E6%AF%81%E5%AE%B9%E8%B2%8C%E7%97%87%E5%A6%88%E5%A6%88%E8%AF%B4%E5%A4%A9%E5%A1%8C%E4%BA%86&from=hot_entertainment
+
+### 王垲智向侯卓成致歉
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 王垲智向侯卓成致歉
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E5%9E%B2%E6%99%BA%E5%90%91%E4%BE%AF%E5%8D%93%E6%88%90%E8%87%B4%E6%AD%89&from=hot_entertainment
 
 ### 央视网评银行午休
 - Platform: weibo
 - Source: 微博热榜-entertainment
 - Desc: 央视网评银行午休 热
-- Published At: 2026-08-07T00:20:29.320Z
+- Published At: 2026-08-07T04:42:12.268Z
 - URL: https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91&from=hot_entertainment
 
-### 立秋
+### 戚薇 AI漫剧
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 立秋 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B&from=hot_entertainment
+- Desc: 戚薇 AI漫剧 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87+AI%E6%BC%AB%E5%89%A7&from=hot_entertainment
 
-### 买火车票新增新生预约功能
+### 面试面出了吃火锅的感觉
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 买火车票新增新生预约功能
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%96%B0%E5%A2%9E%E6%96%B0%E7%94%9F%E9%A2%84%E7%BA%A6%E5%8A%9F%E8%83%BD&from=hot_entertainment
+- Desc: 面试面出了吃火锅的感觉 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E9%9D%A2%E8%AF%95%E9%9D%A2%E5%87%BA%E4%BA%86%E5%90%83%E7%81%AB%E9%94%85%E7%9A%84%E6%84%9F%E8%A7%89&from=hot_entertainment
 
-### 苍兰诀
+### 人活着是为了感受幸福的
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 苍兰诀 热
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80&from=hot_entertainment
+- Desc: 人活着是为了感受幸福的 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B4%BB%E7%9D%80%E6%98%AF%E4%B8%BA%E4%BA%86%E6%84%9F%E5%8F%97%E5%B9%B8%E7%A6%8F%E7%9A%84&from=hot_entertainment
 
-### 立秋节气有啥习俗
+### 中国五箭齐发反制美国
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 立秋节气有啥习俗 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B%E8%8A%82%E6%B0%94%E6%9C%89%E5%95%A5%E4%B9%A0%E4%BF%97&from=hot_entertainment
+- Desc: 中国五箭齐发反制美国 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%94%E7%AE%AD%E9%BD%90%E5%8F%91%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD&from=hot_entertainment
 
-### 没有中国人能笑着走出冬宫博物馆
+### 胚胎案原配说根源在医院不验结婚证
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 没有中国人能笑着走出冬宫博物馆
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%86%AC%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%A6%86&from=hot_entertainment
+- Desc: 胚胎案原配说根源在医院不验结婚证 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E8%AF%B4%E6%A0%B9%E6%BA%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E4%B8%8D%E9%AA%8C%E7%BB%93%E5%A9%9A%E8%AF%81&from=hot_entertainment
 
-### 韩国足协7场比赛性贿赂20名裁判
+### 以结婚为目的转账分手需返还
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 韩国足协7场比赛性贿赂20名裁判
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F7%E5%9C%BA%E6%AF%94%E8%B5%9B%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E8%A3%81%E5%88%A4&from=hot_entertainment
+- Desc: 以结婚为目的转账分手需返还 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%A5%E7%BB%93%E5%A9%9A%E4%B8%BA%E7%9B%AE%E7%9A%84%E8%BD%AC%E8%B4%A6%E5%88%86%E6%89%8B%E9%9C%80%E8%BF%94%E8%BF%98&from=hot_entertainment
 
-### 国企拖欠3700万致市政工程停工
+### 男子称记录生活时拍下技师不当举动
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 国企拖欠3700万致市政工程停工
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BC%81%E6%8B%96%E6%AC%A03700%E4%B8%87%E8%87%B4%E5%B8%82%E6%94%BF%E5%B7%A5%E7%A8%8B%E5%81%9C%E5%B7%A5&from=hot_entertainment
+- Desc: 男子称记录生活时拍下技师不当举动 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%A7%B0%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB%E6%97%B6%E6%8B%8D%E4%B8%8B%E6%8A%80%E5%B8%88%E4%B8%8D%E5%BD%93%E4%B8%BE%E5%8A%A8&from=hot_entertainment
 
-### 曝iPhone18Pro量产遇挑战
+### 商家称1小时被20条差评后门店倒闭
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 曝iPhone18Pro量产遇挑战 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18Pro%E9%87%8F%E4%BA%A7%E9%81%87%E6%8C%91%E6%88%98&from=hot_entertainment
+- Desc: 商家称1小时被20条差评后门店倒闭 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E5%95%86%E5%AE%B6%E7%A7%B01%E5%B0%8F%E6%97%B6%E8%A2%AB20%E6%9D%A1%E5%B7%AE%E8%AF%84%E5%90%8E%E9%97%A8%E5%BA%97%E5%80%92%E9%97%AD&from=hot_entertainment
 
-### 王俊凯吃了姜妍给的大药丸
+### iPhone18Pro十二大升级
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 王俊凯吃了姜妍给的大药丸 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%90%83%E4%BA%86%E5%A7%9C%E5%A6%8D%E7%BB%99%E7%9A%84%E5%A4%A7%E8%8D%AF%E4%B8%B8&from=hot_entertainment
+- Desc: iPhone18Pro十二大升级
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7&from=hot_entertainment
 
-### 外网热议Mina参加西村力签售
+### 你上班银行上班你午休银行午休
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 外网热议Mina参加西村力签售 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%96%E7%BD%91%E7%83%AD%E8%AE%AEMina%E5%8F%82%E5%8A%A0%E8%A5%BF%E6%9D%91%E5%8A%9B%E7%AD%BE%E5%94%AE&from=hot_entertainment
+- Desc: 你上班银行上班你午休银行午休 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%A0%E4%B8%8A%E7%8F%AD%E9%93%B6%E8%A1%8C%E4%B8%8A%E7%8F%AD%E4%BD%A0%E5%8D%88%E4%BC%91%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91&from=hot_entertainment
 
-### 特朗普对多晶硅加征关税
+### 伊能静自曝不太想录妻旅
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 特朗普对多晶硅加征关税 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E&from=hot_entertainment
-
-### 宋亚轩晒时代少年团合照
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 宋亚轩晒时代少年团合照 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%99%92%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%88%E7%85%A7&from=hot_entertainment
-
-### 日本网友为Mina发声
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 日本网友为Mina发声 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E4%B8%BAMina%E5%8F%91%E5%A3%B0&from=hot_entertainment
-
-### Mina轻生前求西村力粉丝别网暴自己
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: Mina轻生前求西村力粉丝别网暴自己
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=Mina%E8%BD%BB%E7%94%9F%E5%89%8D%E6%B1%82%E8%A5%BF%E6%9D%91%E5%8A%9B%E7%B2%89%E4%B8%9D%E5%88%AB%E7%BD%91%E6%9A%B4%E8%87%AA%E5%B7%B1&from=hot_entertainment
-
-### 我对二手烟就丁禹兮这个态度
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 我对二手烟就丁禹兮这个态度
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E5%AF%B9%E4%BA%8C%E6%89%8B%E7%83%9F%E5%B0%B1%E4%B8%81%E7%A6%B9%E5%85%AE%E8%BF%99%E4%B8%AA%E6%80%81%E5%BA%A6&from=hot_entertainment
-
-### 女孩只有你自己才是靠山
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 女孩只有你自己才是靠山
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E5%8F%AA%E6%9C%89%E4%BD%A0%E8%87%AA%E5%B7%B1%E6%89%8D%E6%98%AF%E9%9D%A0%E5%B1%B1&from=hot_entertainment
-
-### 徐洁云称有小米用户宠物叫孩go
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 徐洁云称有小米用户宠物叫孩go
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%90%E6%B4%81%E4%BA%91%E7%A7%B0%E6%9C%89%E5%B0%8F%E7%B1%B3%E7%94%A8%E6%88%B7%E5%AE%A0%E7%89%A9%E5%8F%AB%E5%AD%A9go&from=hot_entertainment
-
-### U17国足绝杀勒沃库森
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: U17国足绝杀勒沃库森 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%BB%9D%E6%9D%80%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE&from=hot_entertainment
-
-### 1504岁的小兰花
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 1504岁的小兰花 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=1504%E5%B2%81%E7%9A%84%E5%B0%8F%E5%85%B0%E8%8A%B1&from=hot_entertainment
+- Desc: 伊能静自曝不太想录妻旅
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%A4%AA%E6%83%B3%E5%BD%95%E5%A6%BB%E6%97%85&from=hot_entertainment
 
 ### 西村力大吧发长文回应
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 西村力大吧发长文回应 热
-- Published At: 2026-08-07T00:20:29.320Z
+- Desc: 西村力大吧发长文回应
+- Published At: 2026-08-07T04:42:12.268Z
 - URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B%E5%A4%A7%E5%90%A7%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94&from=hot_entertainment
 
-### 辅警受贿关照40名在押人员获刑1年
+### 粉笔公告自曝决策失误
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 辅警受贿关照40名在押人员获刑1年 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%BE%85%E8%AD%A6%E5%8F%97%E8%B4%BF%E5%85%B3%E7%85%A740%E5%90%8D%E5%9C%A8%E6%8A%BC%E4%BA%BA%E5%91%98%E8%8E%B7%E5%88%911%E5%B9%B4&from=hot_entertainment
+- Desc: 粉笔公告自曝决策失误
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A%E8%87%AA%E6%9B%9D%E5%86%B3%E7%AD%96%E5%A4%B1%E8%AF%AF&from=hot_entertainment
 
-### 26岁女儿谈47岁妈妈突然产女
+### TF五代见面会官宣
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 26岁女儿谈47岁妈妈突然产女 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=26%E5%B2%81%E5%A5%B3%E5%84%BF%E8%B0%8847%E5%B2%81%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E4%BA%A7%E5%A5%B3&from=hot_entertainment
+- Desc: TF五代见面会官宣
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=TF%E4%BA%94%E4%BB%A3%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%AE%98%E5%AE%A3&from=hot_entertainment
 
-### 女子怀孕以为发胖就医后产下第三胎
+### 美国科学家首次用AI设计出病毒
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 女子怀孕以为发胖就医后产下第三胎
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E4%BB%A5%E4%B8%BA%E5%8F%91%E8%83%96%E5%B0%B1%E5%8C%BB%E5%90%8E%E4%BA%A7%E4%B8%8B%E7%AC%AC%E4%B8%89%E8%83%8E&from=hot_entertainment
+- Desc: 美国科学家首次用AI设计出病毒 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92&from=hot_entertainment
 
-### 粉笔公告
+### Ning说TheShy贾克斯不如Bin
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 粉笔公告
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A&from=hot_entertainment
+- Desc: Ning说TheShy贾克斯不如Bin
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=Ning%E8%AF%B4TheShy%E8%B4%BE%E5%85%8B%E6%96%AF%E4%B8%8D%E5%A6%82Bin&from=hot_entertainment
 
-### 西村力 Mina
+### 泸溪河牙冠事件消费者已致歉
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 西村力 Mina
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B+Mina&from=hot_entertainment
+- Source: 微博热榜-life
+- Desc: 泸溪河牙冠事件消费者已致歉 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89&from=hot_life
 
-### 汪峰公司因AI从1100人减到400人
+### 泸溪河金属牙冠事件调查结果
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 汪峰公司因AI从1100人减到400人 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA&from=hot_entertainment
+- Source: 微博热榜-life
+- Desc: 泸溪河金属牙冠事件调查结果 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E9%87%91%E5%B1%9E%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&from=hot_life
 
-### 宇树科技发行价150.8元
+### 秋天第1个节气
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 宇树科技发行价150.8元
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7150.8%E5%85%83&from=hot_entertainment
+- Source: 微博热榜-life
+- Desc: 秋天第1个节气
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%A7%8B%E5%A4%A9%E7%AC%AC1%E4%B8%AA%E8%8A%82%E6%B0%94&from=hot_life
 
-### 陈伟霆曾舜晞托举配角
+### 提离职被知道要裁员的领导硬留下
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 陈伟霆曾舜晞托举配角
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E6%9B%BE%E8%88%9C%E6%99%9E%E6%89%98%E4%B8%BE%E9%85%8D%E8%A7%92&from=hot_entertainment
+- Source: 微博热榜-life
+- Desc: 提离职被知道要裁员的领导硬留下 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%8F%90%E7%A6%BB%E8%81%8C%E8%A2%AB%E7%9F%A5%E9%81%93%E8%A6%81%E8%A3%81%E5%91%98%E7%9A%84%E9%A2%86%E5%AF%BC%E7%A1%AC%E7%95%99%E4%B8%8B&from=hot_life
 
-### 我的鸵鸟先生开播
+### 于适 平儿都长这么大了
 - Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 我的鸵鸟先生开播 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E9%B8%B5%E9%B8%9F%E5%85%88%E7%94%9F%E5%BC%80%E6%92%AD&from=hot_entertainment
+- Source: 微博热榜-life
+- Desc: 于适 平儿都长这么大了 热
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82+%E5%B9%B3%E5%84%BF%E9%83%BD%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86&from=hot_life
+
+### 1岁宝宝碰坏纸巾盒三亚酒店索赔924元
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 1岁宝宝碰坏纸巾盒三亚酒店索赔924元
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=1%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%A2%B0%E5%9D%8F%E7%BA%B8%E5%B7%BE%E7%9B%92%E4%B8%89%E4%BA%9A%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%94924%E5%85%83&from=hot_life
+
+### 张雅琪中餐厅早上读英语
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 张雅琪中餐厅早上读英语 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E4%B8%AD%E9%A4%90%E5%8E%85%E6%97%A9%E4%B8%8A%E8%AF%BB%E8%8B%B1%E8%AF%AD&from=hot_life
+
+### 韩国被爆性贿赂世预赛裁判
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 韩国被爆性贿赂世预赛裁判 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4&from=hot_life
+
+### 今年是闭眼秋
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 今年是闭眼秋
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E6%98%AF%E9%97%AD%E7%9C%BC%E7%A7%8B&from=hot_life
+
+### 空调效果可视化了
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 空调效果可视化了 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E6%95%88%E6%9E%9C%E5%8F%AF%E8%A7%86%E5%8C%96%E4%BA%86&from=hot_life
+
+### Mina同学发声
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: Mina同学发声 热
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=Mina%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0&from=hot_life
+
+### 两儿子同患自毁容貌症妈妈说天塌了
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 两儿子同患自毁容貌症妈妈说天塌了
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%A4%E5%84%BF%E5%AD%90%E5%90%8C%E6%82%A3%E8%87%AA%E6%AF%81%E5%AE%B9%E8%B2%8C%E7%97%87%E5%A6%88%E5%A6%88%E8%AF%B4%E5%A4%A9%E5%A1%8C%E4%BA%86&from=hot_life
+
+### 王垲智向侯卓成致歉
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 王垲智向侯卓成致歉
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E5%9E%B2%E6%99%BA%E5%90%91%E4%BE%AF%E5%8D%93%E6%88%90%E8%87%B4%E6%AD%89&from=hot_life
 
 ### 央视网评银行午休
 - Platform: weibo
 - Source: 微博热榜-life
 - Desc: 央视网评银行午休 热
-- Published At: 2026-08-07T00:20:29.320Z
+- Published At: 2026-08-07T04:42:12.268Z
 - URL: https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91&from=hot_life
 
-### 立秋
+### 戚薇 AI漫剧
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 立秋 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B&from=hot_life
+- Desc: 戚薇 AI漫剧 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87+AI%E6%BC%AB%E5%89%A7&from=hot_life
 
-### 买火车票新增新生预约功能
+### 面试面出了吃火锅的感觉
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 买火车票新增新生预约功能
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%96%B0%E5%A2%9E%E6%96%B0%E7%94%9F%E9%A2%84%E7%BA%A6%E5%8A%9F%E8%83%BD&from=hot_life
+- Desc: 面试面出了吃火锅的感觉 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E9%9D%A2%E8%AF%95%E9%9D%A2%E5%87%BA%E4%BA%86%E5%90%83%E7%81%AB%E9%94%85%E7%9A%84%E6%84%9F%E8%A7%89&from=hot_life
 
-### 苍兰诀
+### 人活着是为了感受幸福的
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 苍兰诀 热
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80&from=hot_life
+- Desc: 人活着是为了感受幸福的 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B4%BB%E7%9D%80%E6%98%AF%E4%B8%BA%E4%BA%86%E6%84%9F%E5%8F%97%E5%B9%B8%E7%A6%8F%E7%9A%84&from=hot_life
 
-### 立秋节气有啥习俗
+### 中国五箭齐发反制美国
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 立秋节气有啥习俗 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B%E8%8A%82%E6%B0%94%E6%9C%89%E5%95%A5%E4%B9%A0%E4%BF%97&from=hot_life
+- Desc: 中国五箭齐发反制美国 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%94%E7%AE%AD%E9%BD%90%E5%8F%91%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD&from=hot_life
 
-### 没有中国人能笑着走出冬宫博物馆
+### 胚胎案原配说根源在医院不验结婚证
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 没有中国人能笑着走出冬宫博物馆
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%86%AC%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%A6%86&from=hot_life
+- Desc: 胚胎案原配说根源在医院不验结婚证 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E8%AF%B4%E6%A0%B9%E6%BA%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E4%B8%8D%E9%AA%8C%E7%BB%93%E5%A9%9A%E8%AF%81&from=hot_life
 
-### 韩国足协7场比赛性贿赂20名裁判
+### 以结婚为目的转账分手需返还
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 韩国足协7场比赛性贿赂20名裁判
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F7%E5%9C%BA%E6%AF%94%E8%B5%9B%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E8%A3%81%E5%88%A4&from=hot_life
+- Desc: 以结婚为目的转账分手需返还 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%A5%E7%BB%93%E5%A9%9A%E4%B8%BA%E7%9B%AE%E7%9A%84%E8%BD%AC%E8%B4%A6%E5%88%86%E6%89%8B%E9%9C%80%E8%BF%94%E8%BF%98&from=hot_life
 
-### 国企拖欠3700万致市政工程停工
+### 男子称记录生活时拍下技师不当举动
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 国企拖欠3700万致市政工程停工
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BC%81%E6%8B%96%E6%AC%A03700%E4%B8%87%E8%87%B4%E5%B8%82%E6%94%BF%E5%B7%A5%E7%A8%8B%E5%81%9C%E5%B7%A5&from=hot_life
+- Desc: 男子称记录生活时拍下技师不当举动 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%A7%B0%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB%E6%97%B6%E6%8B%8D%E4%B8%8B%E6%8A%80%E5%B8%88%E4%B8%8D%E5%BD%93%E4%B8%BE%E5%8A%A8&from=hot_life
 
-### 曝iPhone18Pro量产遇挑战
+### 商家称1小时被20条差评后门店倒闭
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 曝iPhone18Pro量产遇挑战 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18Pro%E9%87%8F%E4%BA%A7%E9%81%87%E6%8C%91%E6%88%98&from=hot_life
+- Desc: 商家称1小时被20条差评后门店倒闭 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E5%95%86%E5%AE%B6%E7%A7%B01%E5%B0%8F%E6%97%B6%E8%A2%AB20%E6%9D%A1%E5%B7%AE%E8%AF%84%E5%90%8E%E9%97%A8%E5%BA%97%E5%80%92%E9%97%AD&from=hot_life
 
-### 王俊凯吃了姜妍给的大药丸
+### iPhone18Pro十二大升级
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 王俊凯吃了姜妍给的大药丸 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%90%83%E4%BA%86%E5%A7%9C%E5%A6%8D%E7%BB%99%E7%9A%84%E5%A4%A7%E8%8D%AF%E4%B8%B8&from=hot_life
+- Desc: iPhone18Pro十二大升级
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7&from=hot_life
 
-### 外网热议Mina参加西村力签售
+### 你上班银行上班你午休银行午休
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 外网热议Mina参加西村力签售 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%96%E7%BD%91%E7%83%AD%E8%AE%AEMina%E5%8F%82%E5%8A%A0%E8%A5%BF%E6%9D%91%E5%8A%9B%E7%AD%BE%E5%94%AE&from=hot_life
+- Desc: 你上班银行上班你午休银行午休 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%A0%E4%B8%8A%E7%8F%AD%E9%93%B6%E8%A1%8C%E4%B8%8A%E7%8F%AD%E4%BD%A0%E5%8D%88%E4%BC%91%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91&from=hot_life
 
-### 特朗普对多晶硅加征关税
+### 伊能静自曝不太想录妻旅
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 特朗普对多晶硅加征关税 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E&from=hot_life
-
-### 宋亚轩晒时代少年团合照
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 宋亚轩晒时代少年团合照 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%99%92%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%88%E7%85%A7&from=hot_life
-
-### 日本网友为Mina发声
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 日本网友为Mina发声 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E4%B8%BAMina%E5%8F%91%E5%A3%B0&from=hot_life
-
-### Mina轻生前求西村力粉丝别网暴自己
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: Mina轻生前求西村力粉丝别网暴自己
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=Mina%E8%BD%BB%E7%94%9F%E5%89%8D%E6%B1%82%E8%A5%BF%E6%9D%91%E5%8A%9B%E7%B2%89%E4%B8%9D%E5%88%AB%E7%BD%91%E6%9A%B4%E8%87%AA%E5%B7%B1&from=hot_life
-
-### 我对二手烟就丁禹兮这个态度
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 我对二手烟就丁禹兮这个态度
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E5%AF%B9%E4%BA%8C%E6%89%8B%E7%83%9F%E5%B0%B1%E4%B8%81%E7%A6%B9%E5%85%AE%E8%BF%99%E4%B8%AA%E6%80%81%E5%BA%A6&from=hot_life
-
-### 女孩只有你自己才是靠山
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 女孩只有你自己才是靠山
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E5%8F%AA%E6%9C%89%E4%BD%A0%E8%87%AA%E5%B7%B1%E6%89%8D%E6%98%AF%E9%9D%A0%E5%B1%B1&from=hot_life
-
-### 徐洁云称有小米用户宠物叫孩go
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 徐洁云称有小米用户宠物叫孩go
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%90%E6%B4%81%E4%BA%91%E7%A7%B0%E6%9C%89%E5%B0%8F%E7%B1%B3%E7%94%A8%E6%88%B7%E5%AE%A0%E7%89%A9%E5%8F%AB%E5%AD%A9go&from=hot_life
-
-### U17国足绝杀勒沃库森
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: U17国足绝杀勒沃库森 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%BB%9D%E6%9D%80%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE&from=hot_life
-
-### 1504岁的小兰花
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 1504岁的小兰花 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=1504%E5%B2%81%E7%9A%84%E5%B0%8F%E5%85%B0%E8%8A%B1&from=hot_life
+- Desc: 伊能静自曝不太想录妻旅
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%A4%AA%E6%83%B3%E5%BD%95%E5%A6%BB%E6%97%85&from=hot_life
 
 ### 西村力大吧发长文回应
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 西村力大吧发长文回应 热
-- Published At: 2026-08-07T00:20:29.320Z
+- Desc: 西村力大吧发长文回应
+- Published At: 2026-08-07T04:42:12.268Z
 - URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B%E5%A4%A7%E5%90%A7%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94&from=hot_life
 
-### 辅警受贿关照40名在押人员获刑1年
+### 粉笔公告自曝决策失误
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 辅警受贿关照40名在押人员获刑1年 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%BE%85%E8%AD%A6%E5%8F%97%E8%B4%BF%E5%85%B3%E7%85%A740%E5%90%8D%E5%9C%A8%E6%8A%BC%E4%BA%BA%E5%91%98%E8%8E%B7%E5%88%911%E5%B9%B4&from=hot_life
+- Desc: 粉笔公告自曝决策失误
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A%E8%87%AA%E6%9B%9D%E5%86%B3%E7%AD%96%E5%A4%B1%E8%AF%AF&from=hot_life
 
-### 26岁女儿谈47岁妈妈突然产女
+### TF五代见面会官宣
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 26岁女儿谈47岁妈妈突然产女 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=26%E5%B2%81%E5%A5%B3%E5%84%BF%E8%B0%8847%E5%B2%81%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E4%BA%A7%E5%A5%B3&from=hot_life
+- Desc: TF五代见面会官宣
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=TF%E4%BA%94%E4%BB%A3%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%AE%98%E5%AE%A3&from=hot_life
 
-### 女子怀孕以为发胖就医后产下第三胎
+### 美国科学家首次用AI设计出病毒
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 女子怀孕以为发胖就医后产下第三胎
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E4%BB%A5%E4%B8%BA%E5%8F%91%E8%83%96%E5%B0%B1%E5%8C%BB%E5%90%8E%E4%BA%A7%E4%B8%8B%E7%AC%AC%E4%B8%89%E8%83%8E&from=hot_life
+- Desc: 美国科学家首次用AI设计出病毒 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92&from=hot_life
 
-### 粉笔公告
+### Ning说TheShy贾克斯不如Bin
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 粉笔公告
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A&from=hot_life
+- Desc: Ning说TheShy贾克斯不如Bin
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=Ning%E8%AF%B4TheShy%E8%B4%BE%E5%85%8B%E6%96%AF%E4%B8%8D%E5%A6%82Bin&from=hot_life
 
-### 西村力 Mina
+### 泸溪河牙冠事件消费者已致歉
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 西村力 Mina
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B+Mina&from=hot_life
+- Source: 微博热榜-social
+- Desc: 泸溪河牙冠事件消费者已致歉 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89&from=hot_social
 
-### 汪峰公司因AI从1100人减到400人
+### 泸溪河金属牙冠事件调查结果
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 汪峰公司因AI从1100人减到400人 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA&from=hot_life
+- Source: 微博热榜-social
+- Desc: 泸溪河金属牙冠事件调查结果 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E9%87%91%E5%B1%9E%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&from=hot_social
 
-### 宇树科技发行价150.8元
+### 秋天第1个节气
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 宇树科技发行价150.8元
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7150.8%E5%85%83&from=hot_life
+- Source: 微博热榜-social
+- Desc: 秋天第1个节气
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%A7%8B%E5%A4%A9%E7%AC%AC1%E4%B8%AA%E8%8A%82%E6%B0%94&from=hot_social
 
-### 陈伟霆曾舜晞托举配角
+### 提离职被知道要裁员的领导硬留下
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 陈伟霆曾舜晞托举配角
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E6%9B%BE%E8%88%9C%E6%99%9E%E6%89%98%E4%B8%BE%E9%85%8D%E8%A7%92&from=hot_life
+- Source: 微博热榜-social
+- Desc: 提离职被知道要裁员的领导硬留下 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%8F%90%E7%A6%BB%E8%81%8C%E8%A2%AB%E7%9F%A5%E9%81%93%E8%A6%81%E8%A3%81%E5%91%98%E7%9A%84%E9%A2%86%E5%AF%BC%E7%A1%AC%E7%95%99%E4%B8%8B&from=hot_social
 
-### 我的鸵鸟先生开播
+### 于适 平儿都长这么大了
 - Platform: weibo
-- Source: 微博热榜-life
-- Desc: 我的鸵鸟先生开播 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E9%B8%B5%E9%B8%9F%E5%85%88%E7%94%9F%E5%BC%80%E6%92%AD&from=hot_life
+- Source: 微博热榜-social
+- Desc: 于适 平儿都长这么大了 热
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82+%E5%B9%B3%E5%84%BF%E9%83%BD%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86&from=hot_social
+
+### 1岁宝宝碰坏纸巾盒三亚酒店索赔924元
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 1岁宝宝碰坏纸巾盒三亚酒店索赔924元
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=1%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%A2%B0%E5%9D%8F%E7%BA%B8%E5%B7%BE%E7%9B%92%E4%B8%89%E4%BA%9A%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%94924%E5%85%83&from=hot_social
+
+### 张雅琪中餐厅早上读英语
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 张雅琪中餐厅早上读英语 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E4%B8%AD%E9%A4%90%E5%8E%85%E6%97%A9%E4%B8%8A%E8%AF%BB%E8%8B%B1%E8%AF%AD&from=hot_social
+
+### 韩国被爆性贿赂世预赛裁判
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 韩国被爆性贿赂世预赛裁判 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4&from=hot_social
+
+### 今年是闭眼秋
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 今年是闭眼秋
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E6%98%AF%E9%97%AD%E7%9C%BC%E7%A7%8B&from=hot_social
+
+### 空调效果可视化了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 空调效果可视化了 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%A9%BA%E8%B0%83%E6%95%88%E6%9E%9C%E5%8F%AF%E8%A7%86%E5%8C%96%E4%BA%86&from=hot_social
+
+### Mina同学发声
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: Mina同学发声 热
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=Mina%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0&from=hot_social
+
+### 两儿子同患自毁容貌症妈妈说天塌了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 两儿子同患自毁容貌症妈妈说天塌了
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%A4%E5%84%BF%E5%AD%90%E5%90%8C%E6%82%A3%E8%87%AA%E6%AF%81%E5%AE%B9%E8%B2%8C%E7%97%87%E5%A6%88%E5%A6%88%E8%AF%B4%E5%A4%A9%E5%A1%8C%E4%BA%86&from=hot_social
+
+### 王垲智向侯卓成致歉
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 王垲智向侯卓成致歉
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E5%9E%B2%E6%99%BA%E5%90%91%E4%BE%AF%E5%8D%93%E6%88%90%E8%87%B4%E6%AD%89&from=hot_social
 
 ### 央视网评银行午休
 - Platform: weibo
 - Source: 微博热榜-social
 - Desc: 央视网评银行午休 热
-- Published At: 2026-08-07T00:20:29.320Z
+- Published At: 2026-08-07T04:42:12.268Z
 - URL: https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91&from=hot_social
 
-### 立秋
+### 戚薇 AI漫剧
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 立秋 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B&from=hot_social
+- Desc: 戚薇 AI漫剧 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87+AI%E6%BC%AB%E5%89%A7&from=hot_social
 
-### 买火车票新增新生预约功能
+### 面试面出了吃火锅的感觉
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 买火车票新增新生预约功能
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%96%B0%E5%A2%9E%E6%96%B0%E7%94%9F%E9%A2%84%E7%BA%A6%E5%8A%9F%E8%83%BD&from=hot_social
+- Desc: 面试面出了吃火锅的感觉 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E9%9D%A2%E8%AF%95%E9%9D%A2%E5%87%BA%E4%BA%86%E5%90%83%E7%81%AB%E9%94%85%E7%9A%84%E6%84%9F%E8%A7%89&from=hot_social
 
-### 苍兰诀
+### 人活着是为了感受幸福的
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 苍兰诀 热
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80&from=hot_social
+- Desc: 人活着是为了感受幸福的 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B4%BB%E7%9D%80%E6%98%AF%E4%B8%BA%E4%BA%86%E6%84%9F%E5%8F%97%E5%B9%B8%E7%A6%8F%E7%9A%84&from=hot_social
 
-### 立秋节气有啥习俗
+### 中国五箭齐发反制美国
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 立秋节气有啥习俗 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B%E8%8A%82%E6%B0%94%E6%9C%89%E5%95%A5%E4%B9%A0%E4%BF%97&from=hot_social
+- Desc: 中国五箭齐发反制美国 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%94%E7%AE%AD%E9%BD%90%E5%8F%91%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD&from=hot_social
 
-### 没有中国人能笑着走出冬宫博物馆
+### 胚胎案原配说根源在医院不验结婚证
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 没有中国人能笑着走出冬宫博物馆
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E5%86%AC%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%A6%86&from=hot_social
+- Desc: 胚胎案原配说根源在医院不验结婚证 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E8%AF%B4%E6%A0%B9%E6%BA%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E4%B8%8D%E9%AA%8C%E7%BB%93%E5%A9%9A%E8%AF%81&from=hot_social
 
-### 韩国足协7场比赛性贿赂20名裁判
+### 以结婚为目的转账分手需返还
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 韩国足协7场比赛性贿赂20名裁判
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B6%B3%E5%8D%8F7%E5%9C%BA%E6%AF%94%E8%B5%9B%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E8%A3%81%E5%88%A4&from=hot_social
+- Desc: 以结婚为目的转账分手需返还 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%A5%E7%BB%93%E5%A9%9A%E4%B8%BA%E7%9B%AE%E7%9A%84%E8%BD%AC%E8%B4%A6%E5%88%86%E6%89%8B%E9%9C%80%E8%BF%94%E8%BF%98&from=hot_social
 
-### 国企拖欠3700万致市政工程停工
+### 男子称记录生活时拍下技师不当举动
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 国企拖欠3700万致市政工程停工
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BC%81%E6%8B%96%E6%AC%A03700%E4%B8%87%E8%87%B4%E5%B8%82%E6%94%BF%E5%B7%A5%E7%A8%8B%E5%81%9C%E5%B7%A5&from=hot_social
+- Desc: 男子称记录生活时拍下技师不当举动 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%A7%B0%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB%E6%97%B6%E6%8B%8D%E4%B8%8B%E6%8A%80%E5%B8%88%E4%B8%8D%E5%BD%93%E4%B8%BE%E5%8A%A8&from=hot_social
 
-### 曝iPhone18Pro量产遇挑战
+### 商家称1小时被20条差评后门店倒闭
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 曝iPhone18Pro量产遇挑战 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9DiPhone18Pro%E9%87%8F%E4%BA%A7%E9%81%87%E6%8C%91%E6%88%98&from=hot_social
+- Desc: 商家称1小时被20条差评后门店倒闭 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E5%95%86%E5%AE%B6%E7%A7%B01%E5%B0%8F%E6%97%B6%E8%A2%AB20%E6%9D%A1%E5%B7%AE%E8%AF%84%E5%90%8E%E9%97%A8%E5%BA%97%E5%80%92%E9%97%AD&from=hot_social
 
-### 王俊凯吃了姜妍给的大药丸
+### iPhone18Pro十二大升级
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 王俊凯吃了姜妍给的大药丸 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%90%83%E4%BA%86%E5%A7%9C%E5%A6%8D%E7%BB%99%E7%9A%84%E5%A4%A7%E8%8D%AF%E4%B8%B8&from=hot_social
+- Desc: iPhone18Pro十二大升级
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7&from=hot_social
 
-### 外网热议Mina参加西村力签售
+### 你上班银行上班你午休银行午休
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 外网热议Mina参加西村力签售 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%96%E7%BD%91%E7%83%AD%E8%AE%AEMina%E5%8F%82%E5%8A%A0%E8%A5%BF%E6%9D%91%E5%8A%9B%E7%AD%BE%E5%94%AE&from=hot_social
+- Desc: 你上班银行上班你午休银行午休 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BD%A0%E4%B8%8A%E7%8F%AD%E9%93%B6%E8%A1%8C%E4%B8%8A%E7%8F%AD%E4%BD%A0%E5%8D%88%E4%BC%91%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91&from=hot_social
 
-### 特朗普对多晶硅加征关税
+### 伊能静自曝不太想录妻旅
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 特朗普对多晶硅加征关税 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E&from=hot_social
-
-### 宋亚轩晒时代少年团合照
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 宋亚轩晒时代少年团合照 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%99%92%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%88%E7%85%A7&from=hot_social
-
-### 日本网友为Mina发声
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 日本网友为Mina发声 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E4%B8%BAMina%E5%8F%91%E5%A3%B0&from=hot_social
-
-### Mina轻生前求西村力粉丝别网暴自己
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: Mina轻生前求西村力粉丝别网暴自己
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=Mina%E8%BD%BB%E7%94%9F%E5%89%8D%E6%B1%82%E8%A5%BF%E6%9D%91%E5%8A%9B%E7%B2%89%E4%B8%9D%E5%88%AB%E7%BD%91%E6%9A%B4%E8%87%AA%E5%B7%B1&from=hot_social
-
-### 我对二手烟就丁禹兮这个态度
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 我对二手烟就丁禹兮这个态度
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E5%AF%B9%E4%BA%8C%E6%89%8B%E7%83%9F%E5%B0%B1%E4%B8%81%E7%A6%B9%E5%85%AE%E8%BF%99%E4%B8%AA%E6%80%81%E5%BA%A6&from=hot_social
-
-### 女孩只有你自己才是靠山
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 女孩只有你自己才是靠山
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E5%8F%AA%E6%9C%89%E4%BD%A0%E8%87%AA%E5%B7%B1%E6%89%8D%E6%98%AF%E9%9D%A0%E5%B1%B1&from=hot_social
-
-### 徐洁云称有小米用户宠物叫孩go
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 徐洁云称有小米用户宠物叫孩go
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%90%E6%B4%81%E4%BA%91%E7%A7%B0%E6%9C%89%E5%B0%8F%E7%B1%B3%E7%94%A8%E6%88%B7%E5%AE%A0%E7%89%A9%E5%8F%AB%E5%AD%A9go&from=hot_social
-
-### U17国足绝杀勒沃库森
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: U17国足绝杀勒沃库森 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%BB%9D%E6%9D%80%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE&from=hot_social
-
-### 1504岁的小兰花
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 1504岁的小兰花 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=1504%E5%B2%81%E7%9A%84%E5%B0%8F%E5%85%B0%E8%8A%B1&from=hot_social
+- Desc: 伊能静自曝不太想录妻旅
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%A4%AA%E6%83%B3%E5%BD%95%E5%A6%BB%E6%97%85&from=hot_social
 
 ### 西村力大吧发长文回应
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 西村力大吧发长文回应 热
-- Published At: 2026-08-07T00:20:29.320Z
+- Desc: 西村力大吧发长文回应
+- Published At: 2026-08-07T04:42:12.268Z
 - URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B%E5%A4%A7%E5%90%A7%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94&from=hot_social
 
-### 辅警受贿关照40名在押人员获刑1年
+### 粉笔公告自曝决策失误
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 辅警受贿关照40名在押人员获刑1年 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%BE%85%E8%AD%A6%E5%8F%97%E8%B4%BF%E5%85%B3%E7%85%A740%E5%90%8D%E5%9C%A8%E6%8A%BC%E4%BA%BA%E5%91%98%E8%8E%B7%E5%88%911%E5%B9%B4&from=hot_social
+- Desc: 粉笔公告自曝决策失误
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A%E8%87%AA%E6%9B%9D%E5%86%B3%E7%AD%96%E5%A4%B1%E8%AF%AF&from=hot_social
 
-### 26岁女儿谈47岁妈妈突然产女
+### TF五代见面会官宣
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 26岁女儿谈47岁妈妈突然产女 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=26%E5%B2%81%E5%A5%B3%E5%84%BF%E8%B0%8847%E5%B2%81%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E4%BA%A7%E5%A5%B3&from=hot_social
+- Desc: TF五代见面会官宣
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=TF%E4%BA%94%E4%BB%A3%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%AE%98%E5%AE%A3&from=hot_social
 
-### 女子怀孕以为发胖就医后产下第三胎
+### 美国科学家首次用AI设计出病毒
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 女子怀孕以为发胖就医后产下第三胎
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E4%BB%A5%E4%B8%BA%E5%8F%91%E8%83%96%E5%B0%B1%E5%8C%BB%E5%90%8E%E4%BA%A7%E4%B8%8B%E7%AC%AC%E4%B8%89%E8%83%8E&from=hot_social
+- Desc: 美国科学家首次用AI设计出病毒 新
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92&from=hot_social
 
-### 粉笔公告
+### Ning说TheShy贾克斯不如Bin
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 粉笔公告
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A&from=hot_social
-
-### 西村力 Mina
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 西村力 Mina
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B+Mina&from=hot_social
-
-### 汪峰公司因AI从1100人减到400人
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 汪峰公司因AI从1100人减到400人 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA&from=hot_social
-
-### 宇树科技发行价150.8元
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 宇树科技发行价150.8元
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7150.8%E5%85%83&from=hot_social
-
-### 陈伟霆曾舜晞托举配角
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 陈伟霆曾舜晞托举配角
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E6%9B%BE%E8%88%9C%E6%99%9E%E6%89%98%E4%B8%BE%E9%85%8D%E8%A7%92&from=hot_social
-
-### 我的鸵鸟先生开播
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 我的鸵鸟先生开播 新
-- Published At: 2026-08-07T00:20:29.320Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E9%B8%B5%E9%B8%9F%E5%85%88%E7%94%9F%E5%BC%80%E6%92%AD&from=hot_social
+- Desc: Ning说TheShy贾克斯不如Bin
+- Published At: 2026-08-07T04:42:12.268Z
+- URL: https://s.weibo.com/weibo?q=Ning%E8%AF%B4TheShy%E8%B4%BE%E5%85%8B%E6%96%AF%E4%B8%8D%E5%A6%82Bin&from=hot_social
 
