@@ -1,6 +1,6 @@
 # Emotion Input Digest
 
-- Generated At: 2026-09-29T13:47:38.933+08:00
+- Generated At: 2026-09-29T16:39:52.087+08:00
 - Window Hours: 24
 - Total Items: 150
 - Source Count: 5
@@ -11,1053 +11,1053 @@
 
 ## Items
 
-### 英语才是普通人的终极杠杆
+### 宫廷糕点 泼天流量
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 英语才是普通人的终极杠杆 热
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E6%89%8D%E6%98%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%BB%88%E6%9E%81%E6%9D%A0%E6%9D%86&from=hot_mine
+- Desc: 宫廷糕点 泼天流量 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9+%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F&from=hot_mine
 
-### Tiffany月饼
+### 羽毛球女双决赛太悲壮了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: Tiffany月饼
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=Tiffany%E6%9C%88%E9%A5%BC&from=hot_mine
+- Desc: 羽毛球女双决赛太悲壮了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B%E5%A4%AA%E6%82%B2%E5%A3%AE%E4%BA%86&from=hot_mine
 
-### 平安是民之所安国之所立
+### 天山深处再现超级工程
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 平安是民之所安国之所立
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%B9%B3%E5%AE%89%E6%98%AF%E6%B0%91%E4%B9%8B%E6%89%80%E5%AE%89%E5%9B%BD%E4%B9%8B%E6%89%80%E7%AB%8B&from=hot_mine
+- Desc: 天山深处再现超级工程 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%A4%A9%E5%B1%B1%E6%B7%B1%E5%A4%84%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B&from=hot_mine
+
+### 锤娜丽莎长文谈我家那闺女
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 锤娜丽莎长文谈我家那闺女 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E9%95%BF%E6%96%87%E8%B0%88%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3&from=hot_mine
+
+### 陈芋汐第2金
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 陈芋汐第2金 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E7%AC%AC2%E9%87%91&from=hot_mine
+
+### 成都Tiffany道歉艺名太好笑
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 成都Tiffany道歉艺名太好笑 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDTiffany%E9%81%93%E6%AD%89%E8%89%BA%E5%90%8D%E5%A4%AA%E5%A5%BD%E7%AC%91&from=hot_mine
 
 ### 仅退款把商家逼成什么程度了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 仅退款把商家逼成什么程度了 热
-- Published At: 2026-09-29T05:47:38.933Z
+- Desc: 仅退款把商家逼成什么程度了
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E6%8A%8A%E5%95%86%E5%AE%B6%E9%80%BC%E6%88%90%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_mine
 
-### 水谷隼直言国乒过度依赖王楚钦
+### Tiffany将对涉事员工进行处理
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 水谷隼直言国乒过度依赖王楚钦 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%E7%9B%B4%E8%A8%80%E5%9B%BD%E4%B9%92%E8%BF%87%E5%BA%A6%E4%BE%9D%E8%B5%96%E7%8E%8B%E6%A5%9A%E9%92%A6&from=hot_mine
+- Desc: Tiffany将对涉事员工进行处理 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Tiffany%E5%B0%86%E5%AF%B9%E6%B6%89%E4%BA%8B%E5%91%98%E5%B7%A5%E8%BF%9B%E8%A1%8C%E5%A4%84%E7%90%86&from=hot_mine
+
+### 老人报警丢4万民警找出23万
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 老人报警丢4万民警找出23万 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87&from=hot_mine
+
+### 林诗栋男单颁奖出现不和谐声音
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 林诗栋男单颁奖出现不和谐声音
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E7%94%B7%E5%8D%95%E9%A2%81%E5%A5%96%E5%87%BA%E7%8E%B0%E4%B8%8D%E5%92%8C%E8%B0%90%E5%A3%B0%E9%9F%B3&from=hot_mine
+
+### Tiffany月饼
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: Tiffany月饼
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Tiffany%E6%9C%88%E9%A5%BC&from=hot_mine
+
+### 锤娜丽莎疑似被张家齐妈妈气懵了
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 锤娜丽莎疑似被张家齐妈妈气懵了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E7%96%91%E4%BC%BC%E8%A2%AB%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E6%B0%94%E6%87%B5%E4%BA%86&from=hot_mine
+
+### 张家齐居然这么小就去训练了
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 张家齐居然这么小就去训练了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%B0%8F%E5%B0%B1%E5%8E%BB%E8%AE%AD%E7%BB%83%E4%BA%86&from=hot_mine
+
+### 赵丽颖的近况
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 赵丽颖的近况 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E8%BF%91%E5%86%B5&from=hot_mine
+
+### 肖战这里是在暗示红海吗
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 肖战这里是在暗示红海吗 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%BF%99%E9%87%8C%E6%98%AF%E5%9C%A8%E6%9A%97%E7%A4%BA%E7%BA%A2%E6%B5%B7%E5%90%97&from=hot_mine
+
+### 那英加唱不违规
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 那英加唱不违规 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E5%8A%A0%E5%94%B1%E4%B8%8D%E8%BF%9D%E8%A7%84&from=hot_mine
+
+### 中国队和平精英亚运会银牌
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 中国队和平精英亚运会银牌
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%93%B6%E7%89%8C&from=hot_mine
+
+### A股 3800点
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: A股 3800点 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=A%E8%82%A1+3800%E7%82%B9&from=hot_mine
+
+### 成都宫廷糕点回应Tiffany月饼事件
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 成都宫廷糕点回应Tiffany月饼事件 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9%E5%9B%9E%E5%BA%94Tiffany%E6%9C%88%E9%A5%BC%E4%BA%8B%E4%BB%B6&from=hot_mine
+
+### Mate90砍掉了8GB入门内存
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: Mate90砍掉了8GB入门内存
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Mate90%E7%A0%8D%E6%8E%89%E4%BA%868GB%E5%85%A5%E9%97%A8%E5%86%85%E5%AD%98&from=hot_mine
+
+### 食欲啊性欲啊玩俄罗斯方块就好了
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 食欲啊性欲啊玩俄罗斯方块就好了
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%A3%9F%E6%AC%B2%E5%95%8A%E6%80%A7%E6%AC%B2%E5%95%8A%E7%8E%A9%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%E5%B0%B1%E5%A5%BD%E4%BA%86&from=hot_mine
 
 ### 那英演唱会致敬刘欢不该一罚了之
 - Platform: weibo
 - Source: 微博热榜-mine
 - Desc: 那英演唱会致敬刘欢不该一罚了之
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E8%87%B4%E6%95%AC%E5%88%98%E6%AC%A2%E4%B8%8D%E8%AF%A5%E4%B8%80%E7%BD%9A%E4%BA%86%E4%B9%8B&from=hot_mine
 
-### 福原爱说王楚钦更想拿冠军
+### 不会旅游的人建议反复观看
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 福原爱说王楚钦更想拿冠军 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9B%B4%E6%83%B3%E6%8B%BF%E5%86%A0%E5%86%9B&from=hot_mine
+- Desc: 不会旅游的人建议反复观看
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8D%E4%BC%9A%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8B&from=hot_mine
 
-### 亚运会羽毛球
+### 超长蛋挞的第一个受害者出现了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 亚运会羽毛球
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BE%BD%E6%AF%9B%E7%90%83&from=hot_mine
-
-### 女教师遭拖行致死案5人被控故意杀人
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 女教师遭拖行致死案5人被控故意杀人 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E6%95%99%E5%B8%88%E9%81%AD%E6%8B%96%E8%A1%8C%E8%87%B4%E6%AD%BB%E6%A1%885%E4%BA%BA%E8%A2%AB%E6%8E%A7%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA&from=hot_mine
-
-### 仅退款被拒男子900家店下单2700次
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 仅退款被拒男子900家店下单2700次
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%92%E7%94%B7%E5%AD%90900%E5%AE%B6%E5%BA%97%E4%B8%8B%E5%8D%952700%E6%AC%A1&from=hot_mine
+- Desc: 超长蛋挞的第一个受害者出现了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&from=hot_mine
 
 ### Tiffany中国区负责人致歉
 - Platform: weibo
 - Source: 微博热榜-mine
 - Desc: Tiffany中国区负责人致歉
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%87%B4%E6%AD%89&from=hot_mine
 
-### 我家那闺女 再见npd父母
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 我家那闺女 再见npd父母 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3+%E5%86%8D%E8%A7%81npd%E7%88%B6%E6%AF%8D&from=hot_mine
-
-### 瑞幸联名表情包 像尿
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 瑞幸联名表情包 像尿
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E8%81%94%E5%90%8D%E8%A1%A8%E6%83%85%E5%8C%85+%E5%83%8F%E5%B0%BF&from=hot_mine
-
-### 张家齐妈妈 张家齐婆婆
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 张家齐妈妈 张家齐婆婆
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88+%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A9%86%E5%A9%86&from=hot_mine
-
 ### Tiffany 捂嘴
 - Platform: weibo
 - Source: 微博热榜-mine
 - Desc: Tiffany 捂嘴
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany+%E6%8D%82%E5%98%B4&from=hot_mine
 
-### 肖战霸总发言
+### 左边那个小黑点是张家齐
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 肖战霸总发言 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%9C%B8%E6%80%BB%E5%8F%91%E8%A8%80&from=hot_mine
-
-### 张家齐妈是不是觉得奥运冠军会嫁豪门
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 张家齐妈是不是觉得奥运冠军会嫁豪门
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A7%89%E5%BE%97%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E4%BC%9A%E5%AB%81%E8%B1%AA%E9%97%A8&from=hot_mine
-
-### 羽毛球女双决赛
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 羽毛球女双决赛 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B&from=hot_mine
-
-### 华为Mate90系列
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 华为Mate90系列
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E7%B3%BB%E5%88%97&from=hot_mine
-
-### 美国大学停止出售遗体供以军训练
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 美国大学停止出售遗体供以军训练 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E5%81%9C%E6%AD%A2%E5%87%BA%E5%94%AE%E9%81%97%E4%BD%93%E4%BE%9B%E4%BB%A5%E5%86%9B%E8%AE%AD%E7%BB%83&from=hot_mine
+- Desc: 左边那个小黑点是张家齐 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%B7%A6%E8%BE%B9%E9%82%A3%E4%B8%AA%E5%B0%8F%E9%BB%91%E7%82%B9%E6%98%AF%E5%BC%A0%E5%AE%B6%E9%BD%90&from=hot_mine
 
 ### 性吸引力是第一要素
 - Platform: weibo
 - Source: 微博热榜-mine
 - Desc: 性吸引力是第一要素
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E6%80%A7%E5%90%B8%E5%BC%95%E5%8A%9B%E6%98%AF%E7%AC%AC%E4%B8%80%E8%A6%81%E7%B4%A0&from=hot_mine
 
-### 文旅局回应那英临时加唱弯弯的月亮
+### 王玉雯忘了28号
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 文旅局回应那英临时加唱弯弯的月亮
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%82%A3%E8%8B%B1%E4%B8%B4%E6%97%B6%E5%8A%A0%E5%94%B1%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE&from=hot_mine
+- Desc: 王玉雯忘了28号
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%BF%98%E4%BA%8628%E5%8F%B7&from=hot_mine
 
-### 8天卖了1千多万元的超长蛋挞全是皮
+### 陈芋汐金牌
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 8天卖了1千多万元的超长蛋挞全是皮 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=8%E5%A4%A9%E5%8D%96%E4%BA%861%E5%8D%83%E5%A4%9A%E4%B8%87%E5%85%83%E7%9A%84%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E5%85%A8%E6%98%AF%E7%9A%AE&from=hot_mine
+- Desc: 陈芋汐金牌 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E9%87%91%E7%89%8C&from=hot_mine
 
-### 张家齐大大方方谈直播赚多少钱算够
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 张家齐大大方方谈直播赚多少钱算够
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E8%B0%88%E7%9B%B4%E6%92%AD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%E7%AE%97%E5%A4%9F&from=hot_mine
-
-### 水谷隼称中国曾有五六个王楚钦
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 水谷隼称中国曾有五六个王楚钦 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9B%BE%E6%9C%89%E4%BA%94%E5%85%AD%E4%B8%AA%E7%8E%8B%E6%A5%9A%E9%92%A6&from=hot_mine
-
-### 好羡慕这样的钝感力和嘴
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 好羡慕这样的钝感力和嘴
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%BD%E7%BE%A1%E6%85%95%E8%BF%99%E6%A0%B7%E7%9A%84%E9%92%9D%E6%84%9F%E5%8A%9B%E5%92%8C%E5%98%B4&from=hot_mine
-
-### 鲍师傅超长蛋挞被吐槽全是皮没蛋液
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 鲍师傅超长蛋挞被吐槽全是皮没蛋液
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E9%B2%8D%E5%B8%88%E5%82%85%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E8%A2%AB%E5%90%90%E6%A7%BD%E5%85%A8%E6%98%AF%E7%9A%AE%E6%B2%A1%E8%9B%8B%E6%B6%B2&from=hot_mine
-
-### 原来奶茶店的麻薯也是预制的
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 原来奶茶店的麻薯也是预制的 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A5%B6%E8%8C%B6%E5%BA%97%E7%9A%84%E9%BA%BB%E8%96%AF%E4%B9%9F%E6%98%AF%E9%A2%84%E5%88%B6%E7%9A%84&from=hot_mine
-
-### 许昕说王楚钦夺冠数领先所有运动员
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 许昕说王楚钦夺冠数领先所有运动员
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0%E6%95%B0%E9%A2%86%E5%85%88%E6%89%80%E6%9C%89%E8%BF%90%E5%8A%A8%E5%91%98&from=hot_mine
-
-### 小狗麦麦去世
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 小狗麦麦去世
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E9%BA%A6%E9%BA%A6%E5%8E%BB%E4%B8%96&from=hot_mine
-
-### 英语才是普通人的终极杠杆
+### 宫廷糕点 泼天流量
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 英语才是普通人的终极杠杆 热
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E6%89%8D%E6%98%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%BB%88%E6%9E%81%E6%9D%A0%E6%9D%86&from=hot_search
+- Desc: 宫廷糕点 泼天流量 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9+%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F&from=hot_search
 
-### Tiffany月饼
+### 羽毛球女双决赛太悲壮了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: Tiffany月饼
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=Tiffany%E6%9C%88%E9%A5%BC&from=hot_search
+- Desc: 羽毛球女双决赛太悲壮了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B%E5%A4%AA%E6%82%B2%E5%A3%AE%E4%BA%86&from=hot_search
 
-### 平安是民之所安国之所立
+### 天山深处再现超级工程
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 平安是民之所安国之所立
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%B9%B3%E5%AE%89%E6%98%AF%E6%B0%91%E4%B9%8B%E6%89%80%E5%AE%89%E5%9B%BD%E4%B9%8B%E6%89%80%E7%AB%8B&from=hot_search
+- Desc: 天山深处再现超级工程 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%A4%A9%E5%B1%B1%E6%B7%B1%E5%A4%84%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B&from=hot_search
+
+### 锤娜丽莎长文谈我家那闺女
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 锤娜丽莎长文谈我家那闺女 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E9%95%BF%E6%96%87%E8%B0%88%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3&from=hot_search
+
+### 陈芋汐第2金
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 陈芋汐第2金 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E7%AC%AC2%E9%87%91&from=hot_search
+
+### 成都Tiffany道歉艺名太好笑
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 成都Tiffany道歉艺名太好笑 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDTiffany%E9%81%93%E6%AD%89%E8%89%BA%E5%90%8D%E5%A4%AA%E5%A5%BD%E7%AC%91&from=hot_search
 
 ### 仅退款把商家逼成什么程度了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 仅退款把商家逼成什么程度了 热
-- Published At: 2026-09-29T05:47:38.933Z
+- Desc: 仅退款把商家逼成什么程度了
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E6%8A%8A%E5%95%86%E5%AE%B6%E9%80%BC%E6%88%90%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_search
 
-### 水谷隼直言国乒过度依赖王楚钦
+### Tiffany将对涉事员工进行处理
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 水谷隼直言国乒过度依赖王楚钦 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%E7%9B%B4%E8%A8%80%E5%9B%BD%E4%B9%92%E8%BF%87%E5%BA%A6%E4%BE%9D%E8%B5%96%E7%8E%8B%E6%A5%9A%E9%92%A6&from=hot_search
+- Desc: Tiffany将对涉事员工进行处理 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Tiffany%E5%B0%86%E5%AF%B9%E6%B6%89%E4%BA%8B%E5%91%98%E5%B7%A5%E8%BF%9B%E8%A1%8C%E5%A4%84%E7%90%86&from=hot_search
+
+### 老人报警丢4万民警找出23万
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 老人报警丢4万民警找出23万 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87&from=hot_search
+
+### 林诗栋男单颁奖出现不和谐声音
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 林诗栋男单颁奖出现不和谐声音
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E7%94%B7%E5%8D%95%E9%A2%81%E5%A5%96%E5%87%BA%E7%8E%B0%E4%B8%8D%E5%92%8C%E8%B0%90%E5%A3%B0%E9%9F%B3&from=hot_search
+
+### Tiffany月饼
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: Tiffany月饼
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Tiffany%E6%9C%88%E9%A5%BC&from=hot_search
+
+### 锤娜丽莎疑似被张家齐妈妈气懵了
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 锤娜丽莎疑似被张家齐妈妈气懵了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E7%96%91%E4%BC%BC%E8%A2%AB%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E6%B0%94%E6%87%B5%E4%BA%86&from=hot_search
+
+### 张家齐居然这么小就去训练了
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 张家齐居然这么小就去训练了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%B0%8F%E5%B0%B1%E5%8E%BB%E8%AE%AD%E7%BB%83%E4%BA%86&from=hot_search
+
+### 赵丽颖的近况
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 赵丽颖的近况 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E8%BF%91%E5%86%B5&from=hot_search
+
+### 肖战这里是在暗示红海吗
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 肖战这里是在暗示红海吗 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%BF%99%E9%87%8C%E6%98%AF%E5%9C%A8%E6%9A%97%E7%A4%BA%E7%BA%A2%E6%B5%B7%E5%90%97&from=hot_search
+
+### 那英加唱不违规
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 那英加唱不违规 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E5%8A%A0%E5%94%B1%E4%B8%8D%E8%BF%9D%E8%A7%84&from=hot_search
+
+### 中国队和平精英亚运会银牌
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 中国队和平精英亚运会银牌
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%93%B6%E7%89%8C&from=hot_search
+
+### A股 3800点
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: A股 3800点 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=A%E8%82%A1+3800%E7%82%B9&from=hot_search
+
+### 成都宫廷糕点回应Tiffany月饼事件
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 成都宫廷糕点回应Tiffany月饼事件 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9%E5%9B%9E%E5%BA%94Tiffany%E6%9C%88%E9%A5%BC%E4%BA%8B%E4%BB%B6&from=hot_search
+
+### Mate90砍掉了8GB入门内存
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: Mate90砍掉了8GB入门内存
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Mate90%E7%A0%8D%E6%8E%89%E4%BA%868GB%E5%85%A5%E9%97%A8%E5%86%85%E5%AD%98&from=hot_search
+
+### 食欲啊性欲啊玩俄罗斯方块就好了
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 食欲啊性欲啊玩俄罗斯方块就好了
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%A3%9F%E6%AC%B2%E5%95%8A%E6%80%A7%E6%AC%B2%E5%95%8A%E7%8E%A9%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%E5%B0%B1%E5%A5%BD%E4%BA%86&from=hot_search
 
 ### 那英演唱会致敬刘欢不该一罚了之
 - Platform: weibo
 - Source: 微博热榜-search
 - Desc: 那英演唱会致敬刘欢不该一罚了之
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E8%87%B4%E6%95%AC%E5%88%98%E6%AC%A2%E4%B8%8D%E8%AF%A5%E4%B8%80%E7%BD%9A%E4%BA%86%E4%B9%8B&from=hot_search
 
-### 福原爱说王楚钦更想拿冠军
+### 不会旅游的人建议反复观看
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 福原爱说王楚钦更想拿冠军 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9B%B4%E6%83%B3%E6%8B%BF%E5%86%A0%E5%86%9B&from=hot_search
+- Desc: 不会旅游的人建议反复观看
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8D%E4%BC%9A%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8B&from=hot_search
 
-### 亚运会羽毛球
+### 超长蛋挞的第一个受害者出现了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 亚运会羽毛球
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BE%BD%E6%AF%9B%E7%90%83&from=hot_search
-
-### 女教师遭拖行致死案5人被控故意杀人
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 女教师遭拖行致死案5人被控故意杀人 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E6%95%99%E5%B8%88%E9%81%AD%E6%8B%96%E8%A1%8C%E8%87%B4%E6%AD%BB%E6%A1%885%E4%BA%BA%E8%A2%AB%E6%8E%A7%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA&from=hot_search
-
-### 仅退款被拒男子900家店下单2700次
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 仅退款被拒男子900家店下单2700次
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%92%E7%94%B7%E5%AD%90900%E5%AE%B6%E5%BA%97%E4%B8%8B%E5%8D%952700%E6%AC%A1&from=hot_search
+- Desc: 超长蛋挞的第一个受害者出现了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&from=hot_search
 
 ### Tiffany中国区负责人致歉
 - Platform: weibo
 - Source: 微博热榜-search
 - Desc: Tiffany中国区负责人致歉
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%87%B4%E6%AD%89&from=hot_search
 
-### 我家那闺女 再见npd父母
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 我家那闺女 再见npd父母 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3+%E5%86%8D%E8%A7%81npd%E7%88%B6%E6%AF%8D&from=hot_search
-
-### 瑞幸联名表情包 像尿
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 瑞幸联名表情包 像尿
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E8%81%94%E5%90%8D%E8%A1%A8%E6%83%85%E5%8C%85+%E5%83%8F%E5%B0%BF&from=hot_search
-
-### 张家齐妈妈 张家齐婆婆
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 张家齐妈妈 张家齐婆婆
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88+%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A9%86%E5%A9%86&from=hot_search
-
 ### Tiffany 捂嘴
 - Platform: weibo
 - Source: 微博热榜-search
 - Desc: Tiffany 捂嘴
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany+%E6%8D%82%E5%98%B4&from=hot_search
 
-### 肖战霸总发言
+### 左边那个小黑点是张家齐
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 肖战霸总发言 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%9C%B8%E6%80%BB%E5%8F%91%E8%A8%80&from=hot_search
-
-### 张家齐妈是不是觉得奥运冠军会嫁豪门
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 张家齐妈是不是觉得奥运冠军会嫁豪门
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A7%89%E5%BE%97%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E4%BC%9A%E5%AB%81%E8%B1%AA%E9%97%A8&from=hot_search
-
-### 羽毛球女双决赛
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 羽毛球女双决赛 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B&from=hot_search
-
-### 华为Mate90系列
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 华为Mate90系列
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E7%B3%BB%E5%88%97&from=hot_search
-
-### 美国大学停止出售遗体供以军训练
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 美国大学停止出售遗体供以军训练 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E5%81%9C%E6%AD%A2%E5%87%BA%E5%94%AE%E9%81%97%E4%BD%93%E4%BE%9B%E4%BB%A5%E5%86%9B%E8%AE%AD%E7%BB%83&from=hot_search
+- Desc: 左边那个小黑点是张家齐 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%B7%A6%E8%BE%B9%E9%82%A3%E4%B8%AA%E5%B0%8F%E9%BB%91%E7%82%B9%E6%98%AF%E5%BC%A0%E5%AE%B6%E9%BD%90&from=hot_search
 
 ### 性吸引力是第一要素
 - Platform: weibo
 - Source: 微博热榜-search
 - Desc: 性吸引力是第一要素
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E6%80%A7%E5%90%B8%E5%BC%95%E5%8A%9B%E6%98%AF%E7%AC%AC%E4%B8%80%E8%A6%81%E7%B4%A0&from=hot_search
 
-### 文旅局回应那英临时加唱弯弯的月亮
+### 王玉雯忘了28号
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 文旅局回应那英临时加唱弯弯的月亮
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%82%A3%E8%8B%B1%E4%B8%B4%E6%97%B6%E5%8A%A0%E5%94%B1%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE&from=hot_search
+- Desc: 王玉雯忘了28号
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%BF%98%E4%BA%8628%E5%8F%B7&from=hot_search
 
-### 8天卖了1千多万元的超长蛋挞全是皮
+### 陈芋汐金牌
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 8天卖了1千多万元的超长蛋挞全是皮 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=8%E5%A4%A9%E5%8D%96%E4%BA%861%E5%8D%83%E5%A4%9A%E4%B8%87%E5%85%83%E7%9A%84%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E5%85%A8%E6%98%AF%E7%9A%AE&from=hot_search
+- Desc: 陈芋汐金牌 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E9%87%91%E7%89%8C&from=hot_search
 
-### 张家齐大大方方谈直播赚多少钱算够
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 张家齐大大方方谈直播赚多少钱算够
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E8%B0%88%E7%9B%B4%E6%92%AD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%E7%AE%97%E5%A4%9F&from=hot_search
-
-### 水谷隼称中国曾有五六个王楚钦
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 水谷隼称中国曾有五六个王楚钦 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9B%BE%E6%9C%89%E4%BA%94%E5%85%AD%E4%B8%AA%E7%8E%8B%E6%A5%9A%E9%92%A6&from=hot_search
-
-### 好羡慕这样的钝感力和嘴
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 好羡慕这样的钝感力和嘴
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%BD%E7%BE%A1%E6%85%95%E8%BF%99%E6%A0%B7%E7%9A%84%E9%92%9D%E6%84%9F%E5%8A%9B%E5%92%8C%E5%98%B4&from=hot_search
-
-### 鲍师傅超长蛋挞被吐槽全是皮没蛋液
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 鲍师傅超长蛋挞被吐槽全是皮没蛋液
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E9%B2%8D%E5%B8%88%E5%82%85%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E8%A2%AB%E5%90%90%E6%A7%BD%E5%85%A8%E6%98%AF%E7%9A%AE%E6%B2%A1%E8%9B%8B%E6%B6%B2&from=hot_search
-
-### 原来奶茶店的麻薯也是预制的
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 原来奶茶店的麻薯也是预制的 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A5%B6%E8%8C%B6%E5%BA%97%E7%9A%84%E9%BA%BB%E8%96%AF%E4%B9%9F%E6%98%AF%E9%A2%84%E5%88%B6%E7%9A%84&from=hot_search
-
-### 许昕说王楚钦夺冠数领先所有运动员
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 许昕说王楚钦夺冠数领先所有运动员
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0%E6%95%B0%E9%A2%86%E5%85%88%E6%89%80%E6%9C%89%E8%BF%90%E5%8A%A8%E5%91%98&from=hot_search
-
-### 小狗麦麦去世
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 小狗麦麦去世
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E9%BA%A6%E9%BA%A6%E5%8E%BB%E4%B8%96&from=hot_search
-
-### 英语才是普通人的终极杠杆
+### 宫廷糕点 泼天流量
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 英语才是普通人的终极杠杆 热
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E6%89%8D%E6%98%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%BB%88%E6%9E%81%E6%9D%A0%E6%9D%86&from=hot_entertainment
+- Desc: 宫廷糕点 泼天流量 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9+%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F&from=hot_entertainment
 
-### Tiffany月饼
+### 羽毛球女双决赛太悲壮了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: Tiffany月饼
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=Tiffany%E6%9C%88%E9%A5%BC&from=hot_entertainment
+- Desc: 羽毛球女双决赛太悲壮了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B%E5%A4%AA%E6%82%B2%E5%A3%AE%E4%BA%86&from=hot_entertainment
 
-### 平安是民之所安国之所立
+### 天山深处再现超级工程
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 平安是民之所安国之所立
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%B9%B3%E5%AE%89%E6%98%AF%E6%B0%91%E4%B9%8B%E6%89%80%E5%AE%89%E5%9B%BD%E4%B9%8B%E6%89%80%E7%AB%8B&from=hot_entertainment
+- Desc: 天山深处再现超级工程 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%A4%A9%E5%B1%B1%E6%B7%B1%E5%A4%84%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B&from=hot_entertainment
+
+### 锤娜丽莎长文谈我家那闺女
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 锤娜丽莎长文谈我家那闺女 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E9%95%BF%E6%96%87%E8%B0%88%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3&from=hot_entertainment
+
+### 陈芋汐第2金
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 陈芋汐第2金 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E7%AC%AC2%E9%87%91&from=hot_entertainment
+
+### 成都Tiffany道歉艺名太好笑
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 成都Tiffany道歉艺名太好笑 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDTiffany%E9%81%93%E6%AD%89%E8%89%BA%E5%90%8D%E5%A4%AA%E5%A5%BD%E7%AC%91&from=hot_entertainment
 
 ### 仅退款把商家逼成什么程度了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 仅退款把商家逼成什么程度了 热
-- Published At: 2026-09-29T05:47:38.933Z
+- Desc: 仅退款把商家逼成什么程度了
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E6%8A%8A%E5%95%86%E5%AE%B6%E9%80%BC%E6%88%90%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_entertainment
 
-### 水谷隼直言国乒过度依赖王楚钦
+### Tiffany将对涉事员工进行处理
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 水谷隼直言国乒过度依赖王楚钦 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%E7%9B%B4%E8%A8%80%E5%9B%BD%E4%B9%92%E8%BF%87%E5%BA%A6%E4%BE%9D%E8%B5%96%E7%8E%8B%E6%A5%9A%E9%92%A6&from=hot_entertainment
+- Desc: Tiffany将对涉事员工进行处理 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Tiffany%E5%B0%86%E5%AF%B9%E6%B6%89%E4%BA%8B%E5%91%98%E5%B7%A5%E8%BF%9B%E8%A1%8C%E5%A4%84%E7%90%86&from=hot_entertainment
+
+### 老人报警丢4万民警找出23万
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 老人报警丢4万民警找出23万 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87&from=hot_entertainment
+
+### 林诗栋男单颁奖出现不和谐声音
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 林诗栋男单颁奖出现不和谐声音
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E7%94%B7%E5%8D%95%E9%A2%81%E5%A5%96%E5%87%BA%E7%8E%B0%E4%B8%8D%E5%92%8C%E8%B0%90%E5%A3%B0%E9%9F%B3&from=hot_entertainment
+
+### Tiffany月饼
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: Tiffany月饼
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Tiffany%E6%9C%88%E9%A5%BC&from=hot_entertainment
+
+### 锤娜丽莎疑似被张家齐妈妈气懵了
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 锤娜丽莎疑似被张家齐妈妈气懵了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E7%96%91%E4%BC%BC%E8%A2%AB%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E6%B0%94%E6%87%B5%E4%BA%86&from=hot_entertainment
+
+### 张家齐居然这么小就去训练了
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 张家齐居然这么小就去训练了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%B0%8F%E5%B0%B1%E5%8E%BB%E8%AE%AD%E7%BB%83%E4%BA%86&from=hot_entertainment
+
+### 赵丽颖的近况
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 赵丽颖的近况 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E8%BF%91%E5%86%B5&from=hot_entertainment
+
+### 肖战这里是在暗示红海吗
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 肖战这里是在暗示红海吗 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%BF%99%E9%87%8C%E6%98%AF%E5%9C%A8%E6%9A%97%E7%A4%BA%E7%BA%A2%E6%B5%B7%E5%90%97&from=hot_entertainment
+
+### 那英加唱不违规
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 那英加唱不违规 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E5%8A%A0%E5%94%B1%E4%B8%8D%E8%BF%9D%E8%A7%84&from=hot_entertainment
+
+### 中国队和平精英亚运会银牌
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 中国队和平精英亚运会银牌
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%93%B6%E7%89%8C&from=hot_entertainment
+
+### A股 3800点
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: A股 3800点 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=A%E8%82%A1+3800%E7%82%B9&from=hot_entertainment
+
+### 成都宫廷糕点回应Tiffany月饼事件
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 成都宫廷糕点回应Tiffany月饼事件 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9%E5%9B%9E%E5%BA%94Tiffany%E6%9C%88%E9%A5%BC%E4%BA%8B%E4%BB%B6&from=hot_entertainment
+
+### Mate90砍掉了8GB入门内存
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: Mate90砍掉了8GB入门内存
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Mate90%E7%A0%8D%E6%8E%89%E4%BA%868GB%E5%85%A5%E9%97%A8%E5%86%85%E5%AD%98&from=hot_entertainment
+
+### 食欲啊性欲啊玩俄罗斯方块就好了
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 食欲啊性欲啊玩俄罗斯方块就好了
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%A3%9F%E6%AC%B2%E5%95%8A%E6%80%A7%E6%AC%B2%E5%95%8A%E7%8E%A9%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%E5%B0%B1%E5%A5%BD%E4%BA%86&from=hot_entertainment
 
 ### 那英演唱会致敬刘欢不该一罚了之
 - Platform: weibo
 - Source: 微博热榜-entertainment
 - Desc: 那英演唱会致敬刘欢不该一罚了之
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E8%87%B4%E6%95%AC%E5%88%98%E6%AC%A2%E4%B8%8D%E8%AF%A5%E4%B8%80%E7%BD%9A%E4%BA%86%E4%B9%8B&from=hot_entertainment
 
-### 福原爱说王楚钦更想拿冠军
+### 不会旅游的人建议反复观看
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 福原爱说王楚钦更想拿冠军 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9B%B4%E6%83%B3%E6%8B%BF%E5%86%A0%E5%86%9B&from=hot_entertainment
+- Desc: 不会旅游的人建议反复观看
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8D%E4%BC%9A%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8B&from=hot_entertainment
 
-### 亚运会羽毛球
+### 超长蛋挞的第一个受害者出现了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 亚运会羽毛球
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BE%BD%E6%AF%9B%E7%90%83&from=hot_entertainment
-
-### 女教师遭拖行致死案5人被控故意杀人
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 女教师遭拖行致死案5人被控故意杀人 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E6%95%99%E5%B8%88%E9%81%AD%E6%8B%96%E8%A1%8C%E8%87%B4%E6%AD%BB%E6%A1%885%E4%BA%BA%E8%A2%AB%E6%8E%A7%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA&from=hot_entertainment
-
-### 仅退款被拒男子900家店下单2700次
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 仅退款被拒男子900家店下单2700次
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%92%E7%94%B7%E5%AD%90900%E5%AE%B6%E5%BA%97%E4%B8%8B%E5%8D%952700%E6%AC%A1&from=hot_entertainment
+- Desc: 超长蛋挞的第一个受害者出现了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&from=hot_entertainment
 
 ### Tiffany中国区负责人致歉
 - Platform: weibo
 - Source: 微博热榜-entertainment
 - Desc: Tiffany中国区负责人致歉
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%87%B4%E6%AD%89&from=hot_entertainment
 
-### 我家那闺女 再见npd父母
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 我家那闺女 再见npd父母 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3+%E5%86%8D%E8%A7%81npd%E7%88%B6%E6%AF%8D&from=hot_entertainment
-
-### 瑞幸联名表情包 像尿
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 瑞幸联名表情包 像尿
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E8%81%94%E5%90%8D%E8%A1%A8%E6%83%85%E5%8C%85+%E5%83%8F%E5%B0%BF&from=hot_entertainment
-
-### 张家齐妈妈 张家齐婆婆
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 张家齐妈妈 张家齐婆婆
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88+%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A9%86%E5%A9%86&from=hot_entertainment
-
 ### Tiffany 捂嘴
 - Platform: weibo
 - Source: 微博热榜-entertainment
 - Desc: Tiffany 捂嘴
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany+%E6%8D%82%E5%98%B4&from=hot_entertainment
 
-### 肖战霸总发言
+### 左边那个小黑点是张家齐
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 肖战霸总发言 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%9C%B8%E6%80%BB%E5%8F%91%E8%A8%80&from=hot_entertainment
-
-### 张家齐妈是不是觉得奥运冠军会嫁豪门
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 张家齐妈是不是觉得奥运冠军会嫁豪门
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A7%89%E5%BE%97%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E4%BC%9A%E5%AB%81%E8%B1%AA%E9%97%A8&from=hot_entertainment
-
-### 羽毛球女双决赛
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 羽毛球女双决赛 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B&from=hot_entertainment
-
-### 华为Mate90系列
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 华为Mate90系列
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E7%B3%BB%E5%88%97&from=hot_entertainment
-
-### 美国大学停止出售遗体供以军训练
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 美国大学停止出售遗体供以军训练 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E5%81%9C%E6%AD%A2%E5%87%BA%E5%94%AE%E9%81%97%E4%BD%93%E4%BE%9B%E4%BB%A5%E5%86%9B%E8%AE%AD%E7%BB%83&from=hot_entertainment
+- Desc: 左边那个小黑点是张家齐 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%B7%A6%E8%BE%B9%E9%82%A3%E4%B8%AA%E5%B0%8F%E9%BB%91%E7%82%B9%E6%98%AF%E5%BC%A0%E5%AE%B6%E9%BD%90&from=hot_entertainment
 
 ### 性吸引力是第一要素
 - Platform: weibo
 - Source: 微博热榜-entertainment
 - Desc: 性吸引力是第一要素
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E6%80%A7%E5%90%B8%E5%BC%95%E5%8A%9B%E6%98%AF%E7%AC%AC%E4%B8%80%E8%A6%81%E7%B4%A0&from=hot_entertainment
 
-### 文旅局回应那英临时加唱弯弯的月亮
+### 王玉雯忘了28号
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 文旅局回应那英临时加唱弯弯的月亮
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%82%A3%E8%8B%B1%E4%B8%B4%E6%97%B6%E5%8A%A0%E5%94%B1%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE&from=hot_entertainment
+- Desc: 王玉雯忘了28号
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%BF%98%E4%BA%8628%E5%8F%B7&from=hot_entertainment
 
-### 8天卖了1千多万元的超长蛋挞全是皮
+### 陈芋汐金牌
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 8天卖了1千多万元的超长蛋挞全是皮 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=8%E5%A4%A9%E5%8D%96%E4%BA%861%E5%8D%83%E5%A4%9A%E4%B8%87%E5%85%83%E7%9A%84%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E5%85%A8%E6%98%AF%E7%9A%AE&from=hot_entertainment
+- Desc: 陈芋汐金牌 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E9%87%91%E7%89%8C&from=hot_entertainment
 
-### 张家齐大大方方谈直播赚多少钱算够
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 张家齐大大方方谈直播赚多少钱算够
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E8%B0%88%E7%9B%B4%E6%92%AD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%E7%AE%97%E5%A4%9F&from=hot_entertainment
-
-### 水谷隼称中国曾有五六个王楚钦
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 水谷隼称中国曾有五六个王楚钦 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9B%BE%E6%9C%89%E4%BA%94%E5%85%AD%E4%B8%AA%E7%8E%8B%E6%A5%9A%E9%92%A6&from=hot_entertainment
-
-### 好羡慕这样的钝感力和嘴
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 好羡慕这样的钝感力和嘴
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%BD%E7%BE%A1%E6%85%95%E8%BF%99%E6%A0%B7%E7%9A%84%E9%92%9D%E6%84%9F%E5%8A%9B%E5%92%8C%E5%98%B4&from=hot_entertainment
-
-### 鲍师傅超长蛋挞被吐槽全是皮没蛋液
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 鲍师傅超长蛋挞被吐槽全是皮没蛋液
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E9%B2%8D%E5%B8%88%E5%82%85%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E8%A2%AB%E5%90%90%E6%A7%BD%E5%85%A8%E6%98%AF%E7%9A%AE%E6%B2%A1%E8%9B%8B%E6%B6%B2&from=hot_entertainment
-
-### 原来奶茶店的麻薯也是预制的
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 原来奶茶店的麻薯也是预制的 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A5%B6%E8%8C%B6%E5%BA%97%E7%9A%84%E9%BA%BB%E8%96%AF%E4%B9%9F%E6%98%AF%E9%A2%84%E5%88%B6%E7%9A%84&from=hot_entertainment
-
-### 许昕说王楚钦夺冠数领先所有运动员
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 许昕说王楚钦夺冠数领先所有运动员
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0%E6%95%B0%E9%A2%86%E5%85%88%E6%89%80%E6%9C%89%E8%BF%90%E5%8A%A8%E5%91%98&from=hot_entertainment
-
-### 小狗麦麦去世
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 小狗麦麦去世
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E9%BA%A6%E9%BA%A6%E5%8E%BB%E4%B8%96&from=hot_entertainment
-
-### 英语才是普通人的终极杠杆
+### 宫廷糕点 泼天流量
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 英语才是普通人的终极杠杆 热
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E6%89%8D%E6%98%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%BB%88%E6%9E%81%E6%9D%A0%E6%9D%86&from=hot_life
+- Desc: 宫廷糕点 泼天流量 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9+%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F&from=hot_life
 
-### Tiffany月饼
+### 羽毛球女双决赛太悲壮了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: Tiffany月饼
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=Tiffany%E6%9C%88%E9%A5%BC&from=hot_life
+- Desc: 羽毛球女双决赛太悲壮了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B%E5%A4%AA%E6%82%B2%E5%A3%AE%E4%BA%86&from=hot_life
 
-### 平安是民之所安国之所立
+### 天山深处再现超级工程
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 平安是民之所安国之所立
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%B9%B3%E5%AE%89%E6%98%AF%E6%B0%91%E4%B9%8B%E6%89%80%E5%AE%89%E5%9B%BD%E4%B9%8B%E6%89%80%E7%AB%8B&from=hot_life
+- Desc: 天山深处再现超级工程 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%A4%A9%E5%B1%B1%E6%B7%B1%E5%A4%84%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B&from=hot_life
+
+### 锤娜丽莎长文谈我家那闺女
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 锤娜丽莎长文谈我家那闺女 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E9%95%BF%E6%96%87%E8%B0%88%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3&from=hot_life
+
+### 陈芋汐第2金
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 陈芋汐第2金 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E7%AC%AC2%E9%87%91&from=hot_life
+
+### 成都Tiffany道歉艺名太好笑
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 成都Tiffany道歉艺名太好笑 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDTiffany%E9%81%93%E6%AD%89%E8%89%BA%E5%90%8D%E5%A4%AA%E5%A5%BD%E7%AC%91&from=hot_life
 
 ### 仅退款把商家逼成什么程度了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 仅退款把商家逼成什么程度了 热
-- Published At: 2026-09-29T05:47:38.933Z
+- Desc: 仅退款把商家逼成什么程度了
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E6%8A%8A%E5%95%86%E5%AE%B6%E9%80%BC%E6%88%90%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_life
 
-### 水谷隼直言国乒过度依赖王楚钦
+### Tiffany将对涉事员工进行处理
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 水谷隼直言国乒过度依赖王楚钦 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%E7%9B%B4%E8%A8%80%E5%9B%BD%E4%B9%92%E8%BF%87%E5%BA%A6%E4%BE%9D%E8%B5%96%E7%8E%8B%E6%A5%9A%E9%92%A6&from=hot_life
+- Desc: Tiffany将对涉事员工进行处理 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Tiffany%E5%B0%86%E5%AF%B9%E6%B6%89%E4%BA%8B%E5%91%98%E5%B7%A5%E8%BF%9B%E8%A1%8C%E5%A4%84%E7%90%86&from=hot_life
+
+### 老人报警丢4万民警找出23万
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 老人报警丢4万民警找出23万 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87&from=hot_life
+
+### 林诗栋男单颁奖出现不和谐声音
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 林诗栋男单颁奖出现不和谐声音
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E7%94%B7%E5%8D%95%E9%A2%81%E5%A5%96%E5%87%BA%E7%8E%B0%E4%B8%8D%E5%92%8C%E8%B0%90%E5%A3%B0%E9%9F%B3&from=hot_life
+
+### Tiffany月饼
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: Tiffany月饼
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Tiffany%E6%9C%88%E9%A5%BC&from=hot_life
+
+### 锤娜丽莎疑似被张家齐妈妈气懵了
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 锤娜丽莎疑似被张家齐妈妈气懵了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E7%96%91%E4%BC%BC%E8%A2%AB%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E6%B0%94%E6%87%B5%E4%BA%86&from=hot_life
+
+### 张家齐居然这么小就去训练了
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 张家齐居然这么小就去训练了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%B0%8F%E5%B0%B1%E5%8E%BB%E8%AE%AD%E7%BB%83%E4%BA%86&from=hot_life
+
+### 赵丽颖的近况
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 赵丽颖的近况 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E8%BF%91%E5%86%B5&from=hot_life
+
+### 肖战这里是在暗示红海吗
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 肖战这里是在暗示红海吗 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%BF%99%E9%87%8C%E6%98%AF%E5%9C%A8%E6%9A%97%E7%A4%BA%E7%BA%A2%E6%B5%B7%E5%90%97&from=hot_life
+
+### 那英加唱不违规
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 那英加唱不违规 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E5%8A%A0%E5%94%B1%E4%B8%8D%E8%BF%9D%E8%A7%84&from=hot_life
+
+### 中国队和平精英亚运会银牌
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 中国队和平精英亚运会银牌
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%93%B6%E7%89%8C&from=hot_life
+
+### A股 3800点
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: A股 3800点 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=A%E8%82%A1+3800%E7%82%B9&from=hot_life
+
+### 成都宫廷糕点回应Tiffany月饼事件
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 成都宫廷糕点回应Tiffany月饼事件 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9%E5%9B%9E%E5%BA%94Tiffany%E6%9C%88%E9%A5%BC%E4%BA%8B%E4%BB%B6&from=hot_life
+
+### Mate90砍掉了8GB入门内存
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: Mate90砍掉了8GB入门内存
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Mate90%E7%A0%8D%E6%8E%89%E4%BA%868GB%E5%85%A5%E9%97%A8%E5%86%85%E5%AD%98&from=hot_life
+
+### 食欲啊性欲啊玩俄罗斯方块就好了
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 食欲啊性欲啊玩俄罗斯方块就好了
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%A3%9F%E6%AC%B2%E5%95%8A%E6%80%A7%E6%AC%B2%E5%95%8A%E7%8E%A9%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%E5%B0%B1%E5%A5%BD%E4%BA%86&from=hot_life
 
 ### 那英演唱会致敬刘欢不该一罚了之
 - Platform: weibo
 - Source: 微博热榜-life
 - Desc: 那英演唱会致敬刘欢不该一罚了之
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E8%87%B4%E6%95%AC%E5%88%98%E6%AC%A2%E4%B8%8D%E8%AF%A5%E4%B8%80%E7%BD%9A%E4%BA%86%E4%B9%8B&from=hot_life
 
-### 福原爱说王楚钦更想拿冠军
+### 不会旅游的人建议反复观看
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 福原爱说王楚钦更想拿冠军 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9B%B4%E6%83%B3%E6%8B%BF%E5%86%A0%E5%86%9B&from=hot_life
+- Desc: 不会旅游的人建议反复观看
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8D%E4%BC%9A%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8B&from=hot_life
 
-### 亚运会羽毛球
+### 超长蛋挞的第一个受害者出现了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 亚运会羽毛球
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BE%BD%E6%AF%9B%E7%90%83&from=hot_life
-
-### 女教师遭拖行致死案5人被控故意杀人
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 女教师遭拖行致死案5人被控故意杀人 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E6%95%99%E5%B8%88%E9%81%AD%E6%8B%96%E8%A1%8C%E8%87%B4%E6%AD%BB%E6%A1%885%E4%BA%BA%E8%A2%AB%E6%8E%A7%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA&from=hot_life
-
-### 仅退款被拒男子900家店下单2700次
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 仅退款被拒男子900家店下单2700次
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%92%E7%94%B7%E5%AD%90900%E5%AE%B6%E5%BA%97%E4%B8%8B%E5%8D%952700%E6%AC%A1&from=hot_life
+- Desc: 超长蛋挞的第一个受害者出现了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&from=hot_life
 
 ### Tiffany中国区负责人致歉
 - Platform: weibo
 - Source: 微博热榜-life
 - Desc: Tiffany中国区负责人致歉
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%87%B4%E6%AD%89&from=hot_life
-
-### 我家那闺女 再见npd父母
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 我家那闺女 再见npd父母 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3+%E5%86%8D%E8%A7%81npd%E7%88%B6%E6%AF%8D&from=hot_life
-
-### 瑞幸联名表情包 像尿
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 瑞幸联名表情包 像尿
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E8%81%94%E5%90%8D%E8%A1%A8%E6%83%85%E5%8C%85+%E5%83%8F%E5%B0%BF&from=hot_life
-
-### 张家齐妈妈 张家齐婆婆
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 张家齐妈妈 张家齐婆婆
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88+%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A9%86%E5%A9%86&from=hot_life
 
 ### Tiffany 捂嘴
 - Platform: weibo
 - Source: 微博热榜-life
 - Desc: Tiffany 捂嘴
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany+%E6%8D%82%E5%98%B4&from=hot_life
 
-### 肖战霸总发言
+### 左边那个小黑点是张家齐
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 肖战霸总发言 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%9C%B8%E6%80%BB%E5%8F%91%E8%A8%80&from=hot_life
-
-### 张家齐妈是不是觉得奥运冠军会嫁豪门
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 张家齐妈是不是觉得奥运冠军会嫁豪门
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A7%89%E5%BE%97%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E4%BC%9A%E5%AB%81%E8%B1%AA%E9%97%A8&from=hot_life
-
-### 羽毛球女双决赛
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 羽毛球女双决赛 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B&from=hot_life
-
-### 华为Mate90系列
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 华为Mate90系列
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E7%B3%BB%E5%88%97&from=hot_life
-
-### 美国大学停止出售遗体供以军训练
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 美国大学停止出售遗体供以军训练 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E5%81%9C%E6%AD%A2%E5%87%BA%E5%94%AE%E9%81%97%E4%BD%93%E4%BE%9B%E4%BB%A5%E5%86%9B%E8%AE%AD%E7%BB%83&from=hot_life
+- Desc: 左边那个小黑点是张家齐 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%B7%A6%E8%BE%B9%E9%82%A3%E4%B8%AA%E5%B0%8F%E9%BB%91%E7%82%B9%E6%98%AF%E5%BC%A0%E5%AE%B6%E9%BD%90&from=hot_life
 
 ### 性吸引力是第一要素
 - Platform: weibo
 - Source: 微博热榜-life
 - Desc: 性吸引力是第一要素
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E6%80%A7%E5%90%B8%E5%BC%95%E5%8A%9B%E6%98%AF%E7%AC%AC%E4%B8%80%E8%A6%81%E7%B4%A0&from=hot_life
 
-### 文旅局回应那英临时加唱弯弯的月亮
+### 王玉雯忘了28号
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 文旅局回应那英临时加唱弯弯的月亮
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%82%A3%E8%8B%B1%E4%B8%B4%E6%97%B6%E5%8A%A0%E5%94%B1%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE&from=hot_life
+- Desc: 王玉雯忘了28号
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%BF%98%E4%BA%8628%E5%8F%B7&from=hot_life
 
-### 8天卖了1千多万元的超长蛋挞全是皮
+### 陈芋汐金牌
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 8天卖了1千多万元的超长蛋挞全是皮 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=8%E5%A4%A9%E5%8D%96%E4%BA%861%E5%8D%83%E5%A4%9A%E4%B8%87%E5%85%83%E7%9A%84%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E5%85%A8%E6%98%AF%E7%9A%AE&from=hot_life
+- Desc: 陈芋汐金牌 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E9%87%91%E7%89%8C&from=hot_life
 
-### 张家齐大大方方谈直播赚多少钱算够
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 张家齐大大方方谈直播赚多少钱算够
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E8%B0%88%E7%9B%B4%E6%92%AD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%E7%AE%97%E5%A4%9F&from=hot_life
-
-### 水谷隼称中国曾有五六个王楚钦
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 水谷隼称中国曾有五六个王楚钦 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9B%BE%E6%9C%89%E4%BA%94%E5%85%AD%E4%B8%AA%E7%8E%8B%E6%A5%9A%E9%92%A6&from=hot_life
-
-### 好羡慕这样的钝感力和嘴
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 好羡慕这样的钝感力和嘴
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%BD%E7%BE%A1%E6%85%95%E8%BF%99%E6%A0%B7%E7%9A%84%E9%92%9D%E6%84%9F%E5%8A%9B%E5%92%8C%E5%98%B4&from=hot_life
-
-### 鲍师傅超长蛋挞被吐槽全是皮没蛋液
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 鲍师傅超长蛋挞被吐槽全是皮没蛋液
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E9%B2%8D%E5%B8%88%E5%82%85%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E8%A2%AB%E5%90%90%E6%A7%BD%E5%85%A8%E6%98%AF%E7%9A%AE%E6%B2%A1%E8%9B%8B%E6%B6%B2&from=hot_life
-
-### 原来奶茶店的麻薯也是预制的
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 原来奶茶店的麻薯也是预制的 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A5%B6%E8%8C%B6%E5%BA%97%E7%9A%84%E9%BA%BB%E8%96%AF%E4%B9%9F%E6%98%AF%E9%A2%84%E5%88%B6%E7%9A%84&from=hot_life
-
-### 许昕说王楚钦夺冠数领先所有运动员
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 许昕说王楚钦夺冠数领先所有运动员
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0%E6%95%B0%E9%A2%86%E5%85%88%E6%89%80%E6%9C%89%E8%BF%90%E5%8A%A8%E5%91%98&from=hot_life
-
-### 小狗麦麦去世
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 小狗麦麦去世
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E9%BA%A6%E9%BA%A6%E5%8E%BB%E4%B8%96&from=hot_life
-
-### 英语才是普通人的终极杠杆
+### 宫廷糕点 泼天流量
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 英语才是普通人的终极杠杆 热
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E6%89%8D%E6%98%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%BB%88%E6%9E%81%E6%9D%A0%E6%9D%86&from=hot_social
+- Desc: 宫廷糕点 泼天流量 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9+%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F&from=hot_social
+
+### 羽毛球女双决赛太悲壮了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 羽毛球女双决赛太悲壮了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B%E5%A4%AA%E6%82%B2%E5%A3%AE%E4%BA%86&from=hot_social
+
+### 天山深处再现超级工程
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 天山深处再现超级工程 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%A4%A9%E5%B1%B1%E6%B7%B1%E5%A4%84%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B&from=hot_social
+
+### 锤娜丽莎长文谈我家那闺女
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 锤娜丽莎长文谈我家那闺女 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E9%95%BF%E6%96%87%E8%B0%88%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3&from=hot_social
+
+### 陈芋汐第2金
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 陈芋汐第2金 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E7%AC%AC2%E9%87%91&from=hot_social
+
+### 成都Tiffany道歉艺名太好笑
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 成都Tiffany道歉艺名太好笑 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDTiffany%E9%81%93%E6%AD%89%E8%89%BA%E5%90%8D%E5%A4%AA%E5%A5%BD%E7%AC%91&from=hot_social
+
+### 仅退款把商家逼成什么程度了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 仅退款把商家逼成什么程度了
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E6%8A%8A%E5%95%86%E5%AE%B6%E9%80%BC%E6%88%90%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_social
+
+### Tiffany将对涉事员工进行处理
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: Tiffany将对涉事员工进行处理 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Tiffany%E5%B0%86%E5%AF%B9%E6%B6%89%E4%BA%8B%E5%91%98%E5%B7%A5%E8%BF%9B%E8%A1%8C%E5%A4%84%E7%90%86&from=hot_social
+
+### 老人报警丢4万民警找出23万
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 老人报警丢4万民警找出23万 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87&from=hot_social
+
+### 林诗栋男单颁奖出现不和谐声音
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 林诗栋男单颁奖出现不和谐声音
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E7%94%B7%E5%8D%95%E9%A2%81%E5%A5%96%E5%87%BA%E7%8E%B0%E4%B8%8D%E5%92%8C%E8%B0%90%E5%A3%B0%E9%9F%B3&from=hot_social
 
 ### Tiffany月饼
 - Platform: weibo
 - Source: 微博热榜-social
 - Desc: Tiffany月饼
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany%E6%9C%88%E9%A5%BC&from=hot_social
 
-### 平安是民之所安国之所立
+### 锤娜丽莎疑似被张家齐妈妈气懵了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 平安是民之所安国之所立
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%B9%B3%E5%AE%89%E6%98%AF%E6%B0%91%E4%B9%8B%E6%89%80%E5%AE%89%E5%9B%BD%E4%B9%8B%E6%89%80%E7%AB%8B&from=hot_social
+- Desc: 锤娜丽莎疑似被张家齐妈妈气懵了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E7%96%91%E4%BC%BC%E8%A2%AB%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E6%B0%94%E6%87%B5%E4%BA%86&from=hot_social
 
-### 仅退款把商家逼成什么程度了
+### 张家齐居然这么小就去训练了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 仅退款把商家逼成什么程度了 热
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E6%8A%8A%E5%95%86%E5%AE%B6%E9%80%BC%E6%88%90%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_social
+- Desc: 张家齐居然这么小就去训练了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%B0%8F%E5%B0%B1%E5%8E%BB%E8%AE%AD%E7%BB%83%E4%BA%86&from=hot_social
 
-### 水谷隼直言国乒过度依赖王楚钦
+### 赵丽颖的近况
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 水谷隼直言国乒过度依赖王楚钦 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%E7%9B%B4%E8%A8%80%E5%9B%BD%E4%B9%92%E8%BF%87%E5%BA%A6%E4%BE%9D%E8%B5%96%E7%8E%8B%E6%A5%9A%E9%92%A6&from=hot_social
+- Desc: 赵丽颖的近况 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E8%BF%91%E5%86%B5&from=hot_social
+
+### 肖战这里是在暗示红海吗
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 肖战这里是在暗示红海吗 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%BF%99%E9%87%8C%E6%98%AF%E5%9C%A8%E6%9A%97%E7%A4%BA%E7%BA%A2%E6%B5%B7%E5%90%97&from=hot_social
+
+### 那英加唱不违规
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 那英加唱不违规 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E5%8A%A0%E5%94%B1%E4%B8%8D%E8%BF%9D%E8%A7%84&from=hot_social
+
+### 中国队和平精英亚运会银牌
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 中国队和平精英亚运会银牌
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%93%B6%E7%89%8C&from=hot_social
+
+### A股 3800点
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: A股 3800点 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=A%E8%82%A1+3800%E7%82%B9&from=hot_social
+
+### 成都宫廷糕点回应Tiffany月饼事件
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 成都宫廷糕点回应Tiffany月饼事件 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%AE%AB%E5%BB%B7%E7%B3%95%E7%82%B9%E5%9B%9E%E5%BA%94Tiffany%E6%9C%88%E9%A5%BC%E4%BA%8B%E4%BB%B6&from=hot_social
+
+### Mate90砍掉了8GB入门内存
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: Mate90砍掉了8GB入门内存
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=Mate90%E7%A0%8D%E6%8E%89%E4%BA%868GB%E5%85%A5%E9%97%A8%E5%86%85%E5%AD%98&from=hot_social
+
+### 食欲啊性欲啊玩俄罗斯方块就好了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 食欲啊性欲啊玩俄罗斯方块就好了
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%A3%9F%E6%AC%B2%E5%95%8A%E6%80%A7%E6%AC%B2%E5%95%8A%E7%8E%A9%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%E5%B0%B1%E5%A5%BD%E4%BA%86&from=hot_social
 
 ### 那英演唱会致敬刘欢不该一罚了之
 - Platform: weibo
 - Source: 微博热榜-social
 - Desc: 那英演唱会致敬刘欢不该一罚了之
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E8%87%B4%E6%95%AC%E5%88%98%E6%AC%A2%E4%B8%8D%E8%AF%A5%E4%B8%80%E7%BD%9A%E4%BA%86%E4%B9%8B&from=hot_social
 
-### 福原爱说王楚钦更想拿冠军
+### 不会旅游的人建议反复观看
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 福原爱说王楚钦更想拿冠军 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9B%B4%E6%83%B3%E6%8B%BF%E5%86%A0%E5%86%9B&from=hot_social
+- Desc: 不会旅游的人建议反复观看
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8D%E4%BC%9A%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8B&from=hot_social
 
-### 亚运会羽毛球
+### 超长蛋挞的第一个受害者出现了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 亚运会羽毛球
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BE%BD%E6%AF%9B%E7%90%83&from=hot_social
-
-### 女教师遭拖行致死案5人被控故意杀人
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 女教师遭拖行致死案5人被控故意杀人 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E6%95%99%E5%B8%88%E9%81%AD%E6%8B%96%E8%A1%8C%E8%87%B4%E6%AD%BB%E6%A1%885%E4%BA%BA%E8%A2%AB%E6%8E%A7%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA&from=hot_social
-
-### 仅退款被拒男子900家店下单2700次
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 仅退款被拒男子900家店下单2700次
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%92%E7%94%B7%E5%AD%90900%E5%AE%B6%E5%BA%97%E4%B8%8B%E5%8D%952700%E6%AC%A1&from=hot_social
+- Desc: 超长蛋挞的第一个受害者出现了 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&from=hot_social
 
 ### Tiffany中国区负责人致歉
 - Platform: weibo
 - Source: 微博热榜-social
 - Desc: Tiffany中国区负责人致歉
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%87%B4%E6%AD%89&from=hot_social
-
-### 我家那闺女 再见npd父母
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 我家那闺女 再见npd父母 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3+%E5%86%8D%E8%A7%81npd%E7%88%B6%E6%AF%8D&from=hot_social
-
-### 瑞幸联名表情包 像尿
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 瑞幸联名表情包 像尿
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E8%81%94%E5%90%8D%E8%A1%A8%E6%83%85%E5%8C%85+%E5%83%8F%E5%B0%BF&from=hot_social
-
-### 张家齐妈妈 张家齐婆婆
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 张家齐妈妈 张家齐婆婆
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88+%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A9%86%E5%A9%86&from=hot_social
 
 ### Tiffany 捂嘴
 - Platform: weibo
 - Source: 微博热榜-social
 - Desc: Tiffany 捂嘴
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=Tiffany+%E6%8D%82%E5%98%B4&from=hot_social
 
-### 肖战霸总发言
+### 左边那个小黑点是张家齐
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 肖战霸总发言 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%9C%B8%E6%80%BB%E5%8F%91%E8%A8%80&from=hot_social
-
-### 张家齐妈是不是觉得奥运冠军会嫁豪门
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 张家齐妈是不是觉得奥运冠军会嫁豪门
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A7%89%E5%BE%97%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E4%BC%9A%E5%AB%81%E8%B1%AA%E9%97%A8&from=hot_social
-
-### 羽毛球女双决赛
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 羽毛球女双决赛 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%E5%86%B3%E8%B5%9B&from=hot_social
-
-### 华为Mate90系列
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 华为Mate90系列
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E7%B3%BB%E5%88%97&from=hot_social
-
-### 美国大学停止出售遗体供以军训练
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 美国大学停止出售遗体供以军训练 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E5%81%9C%E6%AD%A2%E5%87%BA%E5%94%AE%E9%81%97%E4%BD%93%E4%BE%9B%E4%BB%A5%E5%86%9B%E8%AE%AD%E7%BB%83&from=hot_social
+- Desc: 左边那个小黑点是张家齐 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E5%B7%A6%E8%BE%B9%E9%82%A3%E4%B8%AA%E5%B0%8F%E9%BB%91%E7%82%B9%E6%98%AF%E5%BC%A0%E5%AE%B6%E9%BD%90&from=hot_social
 
 ### 性吸引力是第一要素
 - Platform: weibo
 - Source: 微博热榜-social
 - Desc: 性吸引力是第一要素
-- Published At: 2026-09-29T05:47:38.933Z
+- Published At: 2026-09-29T08:39:52.087Z
 - URL: https://s.weibo.com/weibo?q=%E6%80%A7%E5%90%B8%E5%BC%95%E5%8A%9B%E6%98%AF%E7%AC%AC%E4%B8%80%E8%A6%81%E7%B4%A0&from=hot_social
 
-### 文旅局回应那英临时加唱弯弯的月亮
+### 王玉雯忘了28号
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 文旅局回应那英临时加唱弯弯的月亮
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%82%A3%E8%8B%B1%E4%B8%B4%E6%97%B6%E5%8A%A0%E5%94%B1%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE&from=hot_social
+- Desc: 王玉雯忘了28号
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%BF%98%E4%BA%8628%E5%8F%B7&from=hot_social
 
-### 8天卖了1千多万元的超长蛋挞全是皮
+### 陈芋汐金牌
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 8天卖了1千多万元的超长蛋挞全是皮 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=8%E5%A4%A9%E5%8D%96%E4%BA%861%E5%8D%83%E5%A4%9A%E4%B8%87%E5%85%83%E7%9A%84%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E5%85%A8%E6%98%AF%E7%9A%AE&from=hot_social
-
-### 张家齐大大方方谈直播赚多少钱算够
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 张家齐大大方方谈直播赚多少钱算够
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E8%B0%88%E7%9B%B4%E6%92%AD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%E7%AE%97%E5%A4%9F&from=hot_social
-
-### 水谷隼称中国曾有五六个王楚钦
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 水谷隼称中国曾有五六个王楚钦 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E6%B0%B4%E8%B0%B7%E9%9A%BC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9B%BE%E6%9C%89%E4%BA%94%E5%85%AD%E4%B8%AA%E7%8E%8B%E6%A5%9A%E9%92%A6&from=hot_social
-
-### 好羡慕这样的钝感力和嘴
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 好羡慕这样的钝感力和嘴
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%BD%E7%BE%A1%E6%85%95%E8%BF%99%E6%A0%B7%E7%9A%84%E9%92%9D%E6%84%9F%E5%8A%9B%E5%92%8C%E5%98%B4&from=hot_social
-
-### 鲍师傅超长蛋挞被吐槽全是皮没蛋液
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 鲍师傅超长蛋挞被吐槽全是皮没蛋液
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E9%B2%8D%E5%B8%88%E5%82%85%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E8%A2%AB%E5%90%90%E6%A7%BD%E5%85%A8%E6%98%AF%E7%9A%AE%E6%B2%A1%E8%9B%8B%E6%B6%B2&from=hot_social
-
-### 原来奶茶店的麻薯也是预制的
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 原来奶茶店的麻薯也是预制的 新
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A5%B6%E8%8C%B6%E5%BA%97%E7%9A%84%E9%BA%BB%E8%96%AF%E4%B9%9F%E6%98%AF%E9%A2%84%E5%88%B6%E7%9A%84&from=hot_social
-
-### 许昕说王楚钦夺冠数领先所有运动员
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 许昕说王楚钦夺冠数领先所有运动员
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0%E6%95%B0%E9%A2%86%E5%85%88%E6%89%80%E6%9C%89%E8%BF%90%E5%8A%A8%E5%91%98&from=hot_social
-
-### 小狗麦麦去世
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 小狗麦麦去世
-- Published At: 2026-09-29T05:47:38.933Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E9%BA%A6%E9%BA%A6%E5%8E%BB%E4%B8%96&from=hot_social
+- Desc: 陈芋汐金牌 新
+- Published At: 2026-09-29T08:39:52.087Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E8%8A%8B%E6%B1%90%E9%87%91%E7%89%8C&from=hot_social
 
