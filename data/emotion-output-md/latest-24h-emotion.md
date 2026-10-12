@@ -1,6 +1,6 @@
 # Emotion Input Digest
 
-- Generated At: 2026-10-12T14:28:11.934+08:00
+- Generated At: 2026-10-12T23:26:26.252+08:00
 - Window Hours: 24
 - Total Items: 150
 - Source Count: 5
@@ -11,1053 +11,1053 @@
 
 ## Items
 
-### 霸王茶姬店员劝退消费者
+### 郑钦文收入九成来自代言
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 霸王茶姬店员劝退消费者 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%BA%97%E5%91%98%E5%8A%9D%E9%80%80%E6%B6%88%E8%B4%B9%E8%80%85&from=hot_mine
+- Desc: 郑钦文收入九成来自代言 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E5%85%A5%E4%B9%9D%E6%88%90%E6%9D%A5%E8%87%AA%E4%BB%A3%E8%A8%80&from=hot_mine
 
-### 牛顿顿顿吃肉下联怎么对
+### 我不是药神原型陆勇即将停药
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 牛顿顿顿吃肉下联怎么对 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%89%9B%E9%A1%BF%E9%A1%BF%E9%A1%BF%E5%90%83%E8%82%89%E4%B8%8B%E8%81%94%E6%80%8E%E4%B9%88%E5%AF%B9&from=hot_mine
+- Desc: 我不是药神原型陆勇即将停药 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%8E%9F%E5%9E%8B%E9%99%86%E5%8B%87%E5%8D%B3%E5%B0%86%E5%81%9C%E8%8D%AF&from=hot_mine
 
-### 探访东北虎豹国家公园
+### 万千气象看辽宁
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 探访东北虎豹国家公园
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%8E%A2%E8%AE%BF%E4%B8%9C%E5%8C%97%E8%99%8E%E8%B1%B9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&from=hot_mine
+- Desc: 万千气象看辽宁
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E8%BE%BD%E5%AE%81&from=hot_mine
 
-### 谭松韵闷声干大事
+### 郑钦文团队一天就得花五万多块
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 谭松韵闷声干大事 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%97%B7%E5%A3%B0%E5%B9%B2%E5%A4%A7%E4%BA%8B&from=hot_mine
+- Desc: 郑钦文团队一天就得花五万多块 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%9B%A2%E9%98%9F%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%BE%97%E8%8A%B1%E4%BA%94%E4%B8%87%E5%A4%9A%E5%9D%97&from=hot_mine
 
-### 14岁女孩被强奸后患病7年未痊愈
+### 内娱来了五位AI艺人
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 14岁女孩被强奸后患病7年未痊愈 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E6%82%A3%E7%97%857%E5%B9%B4%E6%9C%AA%E7%97%8A%E6%84%88&from=hot_mine
+- Desc: 内娱来了五位AI艺人
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA&from=hot_mine
 
-### 霸王茶姬就崩了致歉
+### 林锦岐去世前的28个愿望
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 霸王茶姬就崩了致歉
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%B1%E5%B4%A9%E4%BA%86%E8%87%B4%E6%AD%89&from=hot_mine
+- Desc: 林锦岐去世前的28个愿望 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E9%94%A6%E5%B2%90%E5%8E%BB%E4%B8%96%E5%89%8D%E7%9A%8428%E4%B8%AA%E6%84%BF%E6%9C%9B&from=hot_mine
 
-### 郑钦文夺冠了三老头互相拥抱
+### 上汽奥迪回应奥迪全系买一赠一
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 郑钦文夺冠了三老头互相拥抱 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E4%BA%86%E4%B8%89%E8%80%81%E5%A4%B4%E4%BA%92%E7%9B%B8%E6%8B%A5%E6%8A%B1&from=hot_mine
+- Desc: 上汽奥迪回应奥迪全系买一赠一
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%AA%E5%85%A8%E7%B3%BB%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80&from=hot_mine
 
-### 武网说理解尊重郑钦文的决定
+### DYG战胜WB
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 武网说理解尊重郑钦文的决定
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E7%BD%91%E8%AF%B4%E7%90%86%E8%A7%A3%E5%B0%8A%E9%87%8D%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E5%86%B3%E5%AE%9A&from=hot_mine
+- Desc: DYG战胜WB 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=DYG%E6%88%98%E8%83%9CWB&from=hot_mine
 
-### 谭松韵回应兰香没戴红线的原因
+### 才发现谭松韵和许兰香的名字是对仗的
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 谭松韵回应兰香没戴红线的原因
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E5%85%B0%E9%A6%99%E6%B2%A1%E6%88%B4%E7%BA%A2%E7%BA%BF%E7%9A%84%E5%8E%9F%E5%9B%A0&from=hot_mine
+- Desc: 才发现谭松韵和许兰香的名字是对仗的 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%89%8D%E5%8F%91%E7%8E%B0%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%92%8C%E8%AE%B8%E5%85%B0%E9%A6%99%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E5%AF%B9%E4%BB%97%E7%9A%84&from=hot_mine
 
-### A股yyds又回来了
+### 女子左臀疼1个月挤出发黑注射针头
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: A股yyds又回来了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=A%E8%82%A1yyds%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86&from=hot_mine
+- Desc: 女子左臀疼1个月挤出发黑注射针头 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B7%A6%E8%87%80%E7%96%BC1%E4%B8%AA%E6%9C%88%E6%8C%A4%E5%87%BA%E5%8F%91%E9%BB%91%E6%B3%A8%E5%B0%84%E9%92%88%E5%A4%B4&from=hot_mine
 
-### 李佳琦疑似有孩子了
+### CHUU道歉
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 李佳琦疑似有孩子了 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%96%91%E4%BC%BC%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86&from=hot_mine
+- Desc: CHUU道歉 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=CHUU%E9%81%93%E6%AD%89&from=hot_mine
 
-### 郑钦文从头到脚都签约出去了
+### 陈小纭已经是完全认不出的程度了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 郑钦文从头到脚都签约出去了
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%E9%83%BD%E7%AD%BE%E7%BA%A6%E5%87%BA%E5%8E%BB%E4%BA%86&from=hot_mine
+- Desc: 陈小纭已经是完全认不出的程度了 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%AE%8C%E5%85%A8%E8%AE%A4%E4%B8%8D%E5%87%BA%E7%9A%84%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_mine
 
-### 郑钦文武网退赛不会扣积分
+### 曝时代少年团10月个人行程
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 郑钦文武网退赛不会扣积分 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%AD%A6%E7%BD%91%E9%80%80%E8%B5%9B%E4%B8%8D%E4%BC%9A%E6%89%A3%E7%A7%AF%E5%88%86&from=hot_mine
+- Desc: 曝时代少年团10月个人行程
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A210%E6%9C%88%E4%B8%AA%E4%BA%BA%E8%A1%8C%E7%A8%8B&from=hot_mine
 
-### 朱一龙高叶彭冠英北影同学聚会
+### 李娜自曝宣布退役后一个月怀孕
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 朱一龙高叶彭冠英北影同学聚会 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%AB%98%E5%8F%B6%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%8C%97%E5%BD%B1%E5%90%8C%E5%AD%A6%E8%81%9A%E4%BC%9A&from=hot_mine
+- Desc: 李娜自曝宣布退役后一个月怀孕
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A8%9C%E8%87%AA%E6%9B%9D%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%E5%90%8E%E4%B8%80%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95&from=hot_mine
 
-### 曝李勒优和崔晋妈妈闹掰的原因
+### 鹿晗直播
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 曝李勒优和崔晋妈妈闹掰的原因
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9D%8E%E5%8B%92%E4%BC%98%E5%92%8C%E5%B4%94%E6%99%8B%E5%A6%88%E5%A6%88%E9%97%B9%E6%8E%B0%E7%9A%84%E5%8E%9F%E5%9B%A0&from=hot_mine
+- Desc: 鹿晗直播 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E7%9B%B4%E6%92%AD&from=hot_mine
 
-### 关晓彤宋雨琦我晕腿了
+### 刘国梁女儿夺冠没奖金
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 关晓彤宋雨琦我晕腿了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%88%91%E6%99%95%E8%85%BF%E4%BA%86&from=hot_mine
+- Desc: 刘国梁女儿夺冠没奖金
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%9B%BD%E6%A2%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0%E6%B2%A1%E5%A5%96%E9%87%91&from=hot_mine
 
-### 郑钦文退出武汉赛
+### 陈小纭 整骨
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 郑钦文退出武汉赛
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E5%87%BA%E6%AD%A6%E6%B1%89%E8%B5%9B&from=hot_mine
+- Desc: 陈小纭 整骨 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD+%E6%95%B4%E9%AA%A8&from=hot_mine
 
-### 海尔全球品牌代言人要来了
+### 谭松韵曾让何炅介绍对象网友推荐刘学义
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 海尔全球品牌代言人要来了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%B5%B7%E5%B0%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%E8%A6%81%E6%9D%A5%E4%BA%86&from=hot_mine
+- Desc: 谭松韵曾让何炅介绍对象网友推荐刘学义 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%9B%BE%E8%AE%A9%E4%BD%95%E7%82%85%E4%BB%8B%E7%BB%8D%E5%AF%B9%E8%B1%A1%E7%BD%91%E5%8F%8B%E6%8E%A8%E8%8D%90%E5%88%98%E5%AD%A6%E4%B9%89&from=hot_mine
 
-### 孙颖莎王楚钦领跑WTT1000冠军榜
+### 王欣瑜中网武网背靠背首秀出局
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 孙颖莎王楚钦领跑WTT1000冠军榜 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A2%86%E8%B7%91WTT1000%E5%86%A0%E5%86%9B%E6%A6%9C&from=hot_mine
+- Desc: 王欣瑜中网武网背靠背首秀出局
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E4%B8%AD%E7%BD%91%E6%AD%A6%E7%BD%91%E8%83%8C%E9%9D%A0%E8%83%8C%E9%A6%96%E7%A7%80%E5%87%BA%E5%B1%80&from=hot_mine
 
-### 罗永浩谈为什么不撕预制洋快餐
+### 杭州一别墅卖出2.88亿
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 罗永浩谈为什么不撕预制洋快餐 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B0%88%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%92%95%E9%A2%84%E5%88%B6%E6%B4%8B%E5%BF%AB%E9%A4%90&from=hot_mine
+- Desc: 杭州一别墅卖出2.88亿
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%88%AB%E5%A2%85%E5%8D%96%E5%87%BA2.88%E4%BA%BF&from=hot_mine
 
-### 郑钦文距离李娜还有多远
+### 百万粉丝女主播被控诈骗2500万
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 郑钦文距离李娜还有多远
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%B7%9D%E7%A6%BB%E6%9D%8E%E5%A8%9C%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&from=hot_mine
+- Desc: 百万粉丝女主播被控诈骗2500万 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8E%A7%E8%AF%88%E9%AA%972500%E4%B8%87&from=hot_mine
 
-### 食品安全法修订草案向社会征求意见
+### 彭昱畅来刘宪华演唱会了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 食品安全法修订草案向社会征求意见 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E6%B3%95%E4%BF%AE%E8%AE%A2%E8%8D%89%E6%A1%88%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&from=hot_mine
+- Desc: 彭昱畅来刘宪华演唱会了 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%BD%AD%E6%98%B1%E7%95%85%E6%9D%A5%E5%88%98%E5%AE%AA%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86&from=hot_mine
 
-### 林俊杰对七七说不要害羞
+### 霸王茶姬买一送一成本谁买单
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 林俊杰对七七说不要害羞 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%AF%B9%E4%B8%83%E4%B8%83%E8%AF%B4%E4%B8%8D%E8%A6%81%E5%AE%B3%E7%BE%9E&from=hot_mine
+- Desc: 霸王茶姬买一送一成本谁买单 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%E6%88%90%E6%9C%AC%E8%B0%81%E4%B9%B0%E5%8D%95&from=hot_mine
 
-### 肖战 演唱会
+### 霸王茶姬将发1350万奖励店员
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 肖战 演唱会
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98+%E6%BC%94%E5%94%B1%E4%BC%9A&from=hot_mine
+- Desc: 霸王茶姬将发1350万奖励店员
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%86%E5%8F%911350%E4%B8%87%E5%A5%96%E5%8A%B1%E5%BA%97%E5%91%98&from=hot_mine
 
-### 四无婚礼火了
+### 鹿晗说谁是你老公
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 四无婚礼火了
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%9B%E6%97%A0%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&from=hot_mine
+- Desc: 鹿晗说谁是你老公 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%AF%B4%E8%B0%81%E6%98%AF%E4%BD%A0%E8%80%81%E5%85%AC&from=hot_mine
 
-### A股
+### 双女主全女剧来了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: A股
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=A%E8%82%A1&from=hot_mine
+- Desc: 双女主全女剧来了
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%8C%E5%A5%B3%E4%B8%BB%E5%85%A8%E5%A5%B3%E5%89%A7%E6%9D%A5%E4%BA%86&from=hot_mine
 
-### 玉簟秋观后感
+### 郑钦文夺冠耐克海报文案获赞
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 玉簟秋观后感 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B%E8%A7%82%E5%90%8E%E6%84%9F&from=hot_mine
+- Desc: 郑钦文夺冠耐克海报文案获赞
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E8%80%90%E5%85%8B%E6%B5%B7%E6%8A%A5%E6%96%87%E6%A1%88%E8%8E%B7%E8%B5%9E&from=hot_mine
 
-### 单位欠缴社保最高罚三倍
+### 女子就餐被拍肩膀突然暴怒摔盘
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 单位欠缴社保最高罚三倍
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%95%E4%BD%8D%E6%AC%A0%E7%BC%B4%E7%A4%BE%E4%BF%9D%E6%9C%80%E9%AB%98%E7%BD%9A%E4%B8%89%E5%80%8D&from=hot_mine
+- Desc: 女子就餐被拍肩膀突然暴怒摔盘
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B0%B1%E9%A4%90%E8%A2%AB%E6%8B%8D%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E6%9A%B4%E6%80%92%E6%91%94%E7%9B%98&from=hot_mine
 
-### 红果AI漫剧怎么到处都在
+### 身上出现一黄二红三黑要查肝
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 红果AI漫剧怎么到处都在
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E6%80%8E%E4%B9%88%E5%88%B0%E5%A4%84%E9%83%BD%E5%9C%A8&from=hot_mine
+- Desc: 身上出现一黄二红三黑要查肝 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E8%BA%AB%E4%B8%8A%E5%87%BA%E7%8E%B0%E4%B8%80%E9%BB%84%E4%BA%8C%E7%BA%A2%E4%B8%89%E9%BB%91%E8%A6%81%E6%9F%A5%E8%82%9D&from=hot_mine
 
-### 相亲双方都满意就能这么介绍吗
+### 5类人最容易被肝癌盯上
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 相亲双方都满意就能这么介绍吗
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BA%B2%E5%8F%8C%E6%96%B9%E9%83%BD%E6%BB%A1%E6%84%8F%E5%B0%B1%E8%83%BD%E8%BF%99%E4%B9%88%E4%BB%8B%E7%BB%8D%E5%90%97&from=hot_mine
+- Desc: 5类人最容易被肝癌盯上
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=5%E7%B1%BB%E4%BA%BA%E6%9C%80%E5%AE%B9%E6%98%93%E8%A2%AB%E8%82%9D%E7%99%8C%E7%9B%AF%E4%B8%8A&from=hot_mine
 
-### 霸王茶姬店员劝退消费者
+### 郑钦文收入九成来自代言
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 霸王茶姬店员劝退消费者 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%BA%97%E5%91%98%E5%8A%9D%E9%80%80%E6%B6%88%E8%B4%B9%E8%80%85&from=hot_search
+- Desc: 郑钦文收入九成来自代言 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E5%85%A5%E4%B9%9D%E6%88%90%E6%9D%A5%E8%87%AA%E4%BB%A3%E8%A8%80&from=hot_search
 
-### 牛顿顿顿吃肉下联怎么对
+### 我不是药神原型陆勇即将停药
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 牛顿顿顿吃肉下联怎么对 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%89%9B%E9%A1%BF%E9%A1%BF%E9%A1%BF%E5%90%83%E8%82%89%E4%B8%8B%E8%81%94%E6%80%8E%E4%B9%88%E5%AF%B9&from=hot_search
+- Desc: 我不是药神原型陆勇即将停药 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%8E%9F%E5%9E%8B%E9%99%86%E5%8B%87%E5%8D%B3%E5%B0%86%E5%81%9C%E8%8D%AF&from=hot_search
 
-### 探访东北虎豹国家公园
+### 万千气象看辽宁
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 探访东北虎豹国家公园
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%8E%A2%E8%AE%BF%E4%B8%9C%E5%8C%97%E8%99%8E%E8%B1%B9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&from=hot_search
+- Desc: 万千气象看辽宁
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E8%BE%BD%E5%AE%81&from=hot_search
 
-### 谭松韵闷声干大事
+### 郑钦文团队一天就得花五万多块
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 谭松韵闷声干大事 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%97%B7%E5%A3%B0%E5%B9%B2%E5%A4%A7%E4%BA%8B&from=hot_search
+- Desc: 郑钦文团队一天就得花五万多块 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%9B%A2%E9%98%9F%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%BE%97%E8%8A%B1%E4%BA%94%E4%B8%87%E5%A4%9A%E5%9D%97&from=hot_search
 
-### 14岁女孩被强奸后患病7年未痊愈
+### 内娱来了五位AI艺人
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 14岁女孩被强奸后患病7年未痊愈 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E6%82%A3%E7%97%857%E5%B9%B4%E6%9C%AA%E7%97%8A%E6%84%88&from=hot_search
+- Desc: 内娱来了五位AI艺人
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA&from=hot_search
 
-### 霸王茶姬就崩了致歉
+### 林锦岐去世前的28个愿望
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 霸王茶姬就崩了致歉
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%B1%E5%B4%A9%E4%BA%86%E8%87%B4%E6%AD%89&from=hot_search
+- Desc: 林锦岐去世前的28个愿望 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E9%94%A6%E5%B2%90%E5%8E%BB%E4%B8%96%E5%89%8D%E7%9A%8428%E4%B8%AA%E6%84%BF%E6%9C%9B&from=hot_search
 
-### 郑钦文夺冠了三老头互相拥抱
+### 上汽奥迪回应奥迪全系买一赠一
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 郑钦文夺冠了三老头互相拥抱 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E4%BA%86%E4%B8%89%E8%80%81%E5%A4%B4%E4%BA%92%E7%9B%B8%E6%8B%A5%E6%8A%B1&from=hot_search
+- Desc: 上汽奥迪回应奥迪全系买一赠一
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%AA%E5%85%A8%E7%B3%BB%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80&from=hot_search
 
-### 武网说理解尊重郑钦文的决定
+### DYG战胜WB
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 武网说理解尊重郑钦文的决定
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E7%BD%91%E8%AF%B4%E7%90%86%E8%A7%A3%E5%B0%8A%E9%87%8D%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E5%86%B3%E5%AE%9A&from=hot_search
+- Desc: DYG战胜WB 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=DYG%E6%88%98%E8%83%9CWB&from=hot_search
 
-### 谭松韵回应兰香没戴红线的原因
+### 才发现谭松韵和许兰香的名字是对仗的
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 谭松韵回应兰香没戴红线的原因
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E5%85%B0%E9%A6%99%E6%B2%A1%E6%88%B4%E7%BA%A2%E7%BA%BF%E7%9A%84%E5%8E%9F%E5%9B%A0&from=hot_search
+- Desc: 才发现谭松韵和许兰香的名字是对仗的 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%89%8D%E5%8F%91%E7%8E%B0%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%92%8C%E8%AE%B8%E5%85%B0%E9%A6%99%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E5%AF%B9%E4%BB%97%E7%9A%84&from=hot_search
 
-### A股yyds又回来了
+### 女子左臀疼1个月挤出发黑注射针头
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: A股yyds又回来了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=A%E8%82%A1yyds%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86&from=hot_search
+- Desc: 女子左臀疼1个月挤出发黑注射针头 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B7%A6%E8%87%80%E7%96%BC1%E4%B8%AA%E6%9C%88%E6%8C%A4%E5%87%BA%E5%8F%91%E9%BB%91%E6%B3%A8%E5%B0%84%E9%92%88%E5%A4%B4&from=hot_search
 
-### 李佳琦疑似有孩子了
+### CHUU道歉
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 李佳琦疑似有孩子了 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%96%91%E4%BC%BC%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86&from=hot_search
+- Desc: CHUU道歉 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=CHUU%E9%81%93%E6%AD%89&from=hot_search
 
-### 郑钦文从头到脚都签约出去了
+### 陈小纭已经是完全认不出的程度了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 郑钦文从头到脚都签约出去了
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%E9%83%BD%E7%AD%BE%E7%BA%A6%E5%87%BA%E5%8E%BB%E4%BA%86&from=hot_search
+- Desc: 陈小纭已经是完全认不出的程度了 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%AE%8C%E5%85%A8%E8%AE%A4%E4%B8%8D%E5%87%BA%E7%9A%84%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_search
 
-### 郑钦文武网退赛不会扣积分
+### 曝时代少年团10月个人行程
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 郑钦文武网退赛不会扣积分 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%AD%A6%E7%BD%91%E9%80%80%E8%B5%9B%E4%B8%8D%E4%BC%9A%E6%89%A3%E7%A7%AF%E5%88%86&from=hot_search
+- Desc: 曝时代少年团10月个人行程
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A210%E6%9C%88%E4%B8%AA%E4%BA%BA%E8%A1%8C%E7%A8%8B&from=hot_search
 
-### 朱一龙高叶彭冠英北影同学聚会
+### 李娜自曝宣布退役后一个月怀孕
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 朱一龙高叶彭冠英北影同学聚会 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%AB%98%E5%8F%B6%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%8C%97%E5%BD%B1%E5%90%8C%E5%AD%A6%E8%81%9A%E4%BC%9A&from=hot_search
+- Desc: 李娜自曝宣布退役后一个月怀孕
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A8%9C%E8%87%AA%E6%9B%9D%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%E5%90%8E%E4%B8%80%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95&from=hot_search
 
-### 曝李勒优和崔晋妈妈闹掰的原因
+### 鹿晗直播
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 曝李勒优和崔晋妈妈闹掰的原因
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9D%8E%E5%8B%92%E4%BC%98%E5%92%8C%E5%B4%94%E6%99%8B%E5%A6%88%E5%A6%88%E9%97%B9%E6%8E%B0%E7%9A%84%E5%8E%9F%E5%9B%A0&from=hot_search
+- Desc: 鹿晗直播 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E7%9B%B4%E6%92%AD&from=hot_search
 
-### 关晓彤宋雨琦我晕腿了
+### 刘国梁女儿夺冠没奖金
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 关晓彤宋雨琦我晕腿了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%88%91%E6%99%95%E8%85%BF%E4%BA%86&from=hot_search
+- Desc: 刘国梁女儿夺冠没奖金
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%9B%BD%E6%A2%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0%E6%B2%A1%E5%A5%96%E9%87%91&from=hot_search
 
-### 郑钦文退出武汉赛
+### 陈小纭 整骨
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 郑钦文退出武汉赛
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E5%87%BA%E6%AD%A6%E6%B1%89%E8%B5%9B&from=hot_search
+- Desc: 陈小纭 整骨 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD+%E6%95%B4%E9%AA%A8&from=hot_search
 
-### 海尔全球品牌代言人要来了
+### 谭松韵曾让何炅介绍对象网友推荐刘学义
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 海尔全球品牌代言人要来了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%B5%B7%E5%B0%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%E8%A6%81%E6%9D%A5%E4%BA%86&from=hot_search
+- Desc: 谭松韵曾让何炅介绍对象网友推荐刘学义 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%9B%BE%E8%AE%A9%E4%BD%95%E7%82%85%E4%BB%8B%E7%BB%8D%E5%AF%B9%E8%B1%A1%E7%BD%91%E5%8F%8B%E6%8E%A8%E8%8D%90%E5%88%98%E5%AD%A6%E4%B9%89&from=hot_search
 
-### 孙颖莎王楚钦领跑WTT1000冠军榜
+### 王欣瑜中网武网背靠背首秀出局
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 孙颖莎王楚钦领跑WTT1000冠军榜 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A2%86%E8%B7%91WTT1000%E5%86%A0%E5%86%9B%E6%A6%9C&from=hot_search
+- Desc: 王欣瑜中网武网背靠背首秀出局
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E4%B8%AD%E7%BD%91%E6%AD%A6%E7%BD%91%E8%83%8C%E9%9D%A0%E8%83%8C%E9%A6%96%E7%A7%80%E5%87%BA%E5%B1%80&from=hot_search
 
-### 罗永浩谈为什么不撕预制洋快餐
+### 杭州一别墅卖出2.88亿
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 罗永浩谈为什么不撕预制洋快餐 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B0%88%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%92%95%E9%A2%84%E5%88%B6%E6%B4%8B%E5%BF%AB%E9%A4%90&from=hot_search
+- Desc: 杭州一别墅卖出2.88亿
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%88%AB%E5%A2%85%E5%8D%96%E5%87%BA2.88%E4%BA%BF&from=hot_search
 
-### 郑钦文距离李娜还有多远
+### 百万粉丝女主播被控诈骗2500万
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 郑钦文距离李娜还有多远
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%B7%9D%E7%A6%BB%E6%9D%8E%E5%A8%9C%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&from=hot_search
+- Desc: 百万粉丝女主播被控诈骗2500万 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8E%A7%E8%AF%88%E9%AA%972500%E4%B8%87&from=hot_search
 
-### 食品安全法修订草案向社会征求意见
+### 彭昱畅来刘宪华演唱会了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 食品安全法修订草案向社会征求意见 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E6%B3%95%E4%BF%AE%E8%AE%A2%E8%8D%89%E6%A1%88%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&from=hot_search
+- Desc: 彭昱畅来刘宪华演唱会了 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%BD%AD%E6%98%B1%E7%95%85%E6%9D%A5%E5%88%98%E5%AE%AA%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86&from=hot_search
 
-### 林俊杰对七七说不要害羞
+### 霸王茶姬买一送一成本谁买单
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 林俊杰对七七说不要害羞 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%AF%B9%E4%B8%83%E4%B8%83%E8%AF%B4%E4%B8%8D%E8%A6%81%E5%AE%B3%E7%BE%9E&from=hot_search
+- Desc: 霸王茶姬买一送一成本谁买单 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%E6%88%90%E6%9C%AC%E8%B0%81%E4%B9%B0%E5%8D%95&from=hot_search
 
-### 肖战 演唱会
+### 霸王茶姬将发1350万奖励店员
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 肖战 演唱会
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98+%E6%BC%94%E5%94%B1%E4%BC%9A&from=hot_search
+- Desc: 霸王茶姬将发1350万奖励店员
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%86%E5%8F%911350%E4%B8%87%E5%A5%96%E5%8A%B1%E5%BA%97%E5%91%98&from=hot_search
 
-### 四无婚礼火了
+### 鹿晗说谁是你老公
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 四无婚礼火了
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%9B%E6%97%A0%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&from=hot_search
+- Desc: 鹿晗说谁是你老公 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%AF%B4%E8%B0%81%E6%98%AF%E4%BD%A0%E8%80%81%E5%85%AC&from=hot_search
 
-### A股
+### 双女主全女剧来了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: A股
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=A%E8%82%A1&from=hot_search
+- Desc: 双女主全女剧来了
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%8C%E5%A5%B3%E4%B8%BB%E5%85%A8%E5%A5%B3%E5%89%A7%E6%9D%A5%E4%BA%86&from=hot_search
 
-### 玉簟秋观后感
+### 郑钦文夺冠耐克海报文案获赞
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 玉簟秋观后感 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B%E8%A7%82%E5%90%8E%E6%84%9F&from=hot_search
+- Desc: 郑钦文夺冠耐克海报文案获赞
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E8%80%90%E5%85%8B%E6%B5%B7%E6%8A%A5%E6%96%87%E6%A1%88%E8%8E%B7%E8%B5%9E&from=hot_search
 
-### 单位欠缴社保最高罚三倍
+### 女子就餐被拍肩膀突然暴怒摔盘
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 单位欠缴社保最高罚三倍
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%95%E4%BD%8D%E6%AC%A0%E7%BC%B4%E7%A4%BE%E4%BF%9D%E6%9C%80%E9%AB%98%E7%BD%9A%E4%B8%89%E5%80%8D&from=hot_search
+- Desc: 女子就餐被拍肩膀突然暴怒摔盘
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B0%B1%E9%A4%90%E8%A2%AB%E6%8B%8D%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E6%9A%B4%E6%80%92%E6%91%94%E7%9B%98&from=hot_search
 
-### 红果AI漫剧怎么到处都在
+### 身上出现一黄二红三黑要查肝
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 红果AI漫剧怎么到处都在
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E6%80%8E%E4%B9%88%E5%88%B0%E5%A4%84%E9%83%BD%E5%9C%A8&from=hot_search
+- Desc: 身上出现一黄二红三黑要查肝 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E8%BA%AB%E4%B8%8A%E5%87%BA%E7%8E%B0%E4%B8%80%E9%BB%84%E4%BA%8C%E7%BA%A2%E4%B8%89%E9%BB%91%E8%A6%81%E6%9F%A5%E8%82%9D&from=hot_search
 
-### 相亲双方都满意就能这么介绍吗
+### 5类人最容易被肝癌盯上
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 相亲双方都满意就能这么介绍吗
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BA%B2%E5%8F%8C%E6%96%B9%E9%83%BD%E6%BB%A1%E6%84%8F%E5%B0%B1%E8%83%BD%E8%BF%99%E4%B9%88%E4%BB%8B%E7%BB%8D%E5%90%97&from=hot_search
+- Desc: 5类人最容易被肝癌盯上
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=5%E7%B1%BB%E4%BA%BA%E6%9C%80%E5%AE%B9%E6%98%93%E8%A2%AB%E8%82%9D%E7%99%8C%E7%9B%AF%E4%B8%8A&from=hot_search
 
-### 霸王茶姬店员劝退消费者
+### 郑钦文收入九成来自代言
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 霸王茶姬店员劝退消费者 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%BA%97%E5%91%98%E5%8A%9D%E9%80%80%E6%B6%88%E8%B4%B9%E8%80%85&from=hot_entertainment
+- Desc: 郑钦文收入九成来自代言 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E5%85%A5%E4%B9%9D%E6%88%90%E6%9D%A5%E8%87%AA%E4%BB%A3%E8%A8%80&from=hot_entertainment
 
-### 牛顿顿顿吃肉下联怎么对
+### 我不是药神原型陆勇即将停药
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 牛顿顿顿吃肉下联怎么对 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%89%9B%E9%A1%BF%E9%A1%BF%E9%A1%BF%E5%90%83%E8%82%89%E4%B8%8B%E8%81%94%E6%80%8E%E4%B9%88%E5%AF%B9&from=hot_entertainment
+- Desc: 我不是药神原型陆勇即将停药 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%8E%9F%E5%9E%8B%E9%99%86%E5%8B%87%E5%8D%B3%E5%B0%86%E5%81%9C%E8%8D%AF&from=hot_entertainment
 
-### 探访东北虎豹国家公园
+### 万千气象看辽宁
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 探访东北虎豹国家公园
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%8E%A2%E8%AE%BF%E4%B8%9C%E5%8C%97%E8%99%8E%E8%B1%B9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&from=hot_entertainment
+- Desc: 万千气象看辽宁
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E8%BE%BD%E5%AE%81&from=hot_entertainment
 
-### 谭松韵闷声干大事
+### 郑钦文团队一天就得花五万多块
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 谭松韵闷声干大事 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%97%B7%E5%A3%B0%E5%B9%B2%E5%A4%A7%E4%BA%8B&from=hot_entertainment
+- Desc: 郑钦文团队一天就得花五万多块 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%9B%A2%E9%98%9F%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%BE%97%E8%8A%B1%E4%BA%94%E4%B8%87%E5%A4%9A%E5%9D%97&from=hot_entertainment
 
-### 14岁女孩被强奸后患病7年未痊愈
+### 内娱来了五位AI艺人
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 14岁女孩被强奸后患病7年未痊愈 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E6%82%A3%E7%97%857%E5%B9%B4%E6%9C%AA%E7%97%8A%E6%84%88&from=hot_entertainment
+- Desc: 内娱来了五位AI艺人
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA&from=hot_entertainment
 
-### 霸王茶姬就崩了致歉
+### 林锦岐去世前的28个愿望
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 霸王茶姬就崩了致歉
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%B1%E5%B4%A9%E4%BA%86%E8%87%B4%E6%AD%89&from=hot_entertainment
+- Desc: 林锦岐去世前的28个愿望 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E9%94%A6%E5%B2%90%E5%8E%BB%E4%B8%96%E5%89%8D%E7%9A%8428%E4%B8%AA%E6%84%BF%E6%9C%9B&from=hot_entertainment
 
-### 郑钦文夺冠了三老头互相拥抱
+### 上汽奥迪回应奥迪全系买一赠一
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 郑钦文夺冠了三老头互相拥抱 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E4%BA%86%E4%B8%89%E8%80%81%E5%A4%B4%E4%BA%92%E7%9B%B8%E6%8B%A5%E6%8A%B1&from=hot_entertainment
+- Desc: 上汽奥迪回应奥迪全系买一赠一
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%AA%E5%85%A8%E7%B3%BB%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80&from=hot_entertainment
 
-### 武网说理解尊重郑钦文的决定
+### DYG战胜WB
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 武网说理解尊重郑钦文的决定
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E7%BD%91%E8%AF%B4%E7%90%86%E8%A7%A3%E5%B0%8A%E9%87%8D%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E5%86%B3%E5%AE%9A&from=hot_entertainment
+- Desc: DYG战胜WB 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=DYG%E6%88%98%E8%83%9CWB&from=hot_entertainment
 
-### 谭松韵回应兰香没戴红线的原因
+### 才发现谭松韵和许兰香的名字是对仗的
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 谭松韵回应兰香没戴红线的原因
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E5%85%B0%E9%A6%99%E6%B2%A1%E6%88%B4%E7%BA%A2%E7%BA%BF%E7%9A%84%E5%8E%9F%E5%9B%A0&from=hot_entertainment
+- Desc: 才发现谭松韵和许兰香的名字是对仗的 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%89%8D%E5%8F%91%E7%8E%B0%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%92%8C%E8%AE%B8%E5%85%B0%E9%A6%99%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E5%AF%B9%E4%BB%97%E7%9A%84&from=hot_entertainment
 
-### A股yyds又回来了
+### 女子左臀疼1个月挤出发黑注射针头
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: A股yyds又回来了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=A%E8%82%A1yyds%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86&from=hot_entertainment
+- Desc: 女子左臀疼1个月挤出发黑注射针头 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B7%A6%E8%87%80%E7%96%BC1%E4%B8%AA%E6%9C%88%E6%8C%A4%E5%87%BA%E5%8F%91%E9%BB%91%E6%B3%A8%E5%B0%84%E9%92%88%E5%A4%B4&from=hot_entertainment
 
-### 李佳琦疑似有孩子了
+### CHUU道歉
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 李佳琦疑似有孩子了 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%96%91%E4%BC%BC%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86&from=hot_entertainment
+- Desc: CHUU道歉 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=CHUU%E9%81%93%E6%AD%89&from=hot_entertainment
 
-### 郑钦文从头到脚都签约出去了
+### 陈小纭已经是完全认不出的程度了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 郑钦文从头到脚都签约出去了
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%E9%83%BD%E7%AD%BE%E7%BA%A6%E5%87%BA%E5%8E%BB%E4%BA%86&from=hot_entertainment
+- Desc: 陈小纭已经是完全认不出的程度了 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%AE%8C%E5%85%A8%E8%AE%A4%E4%B8%8D%E5%87%BA%E7%9A%84%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_entertainment
 
-### 郑钦文武网退赛不会扣积分
+### 曝时代少年团10月个人行程
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 郑钦文武网退赛不会扣积分 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%AD%A6%E7%BD%91%E9%80%80%E8%B5%9B%E4%B8%8D%E4%BC%9A%E6%89%A3%E7%A7%AF%E5%88%86&from=hot_entertainment
+- Desc: 曝时代少年团10月个人行程
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A210%E6%9C%88%E4%B8%AA%E4%BA%BA%E8%A1%8C%E7%A8%8B&from=hot_entertainment
 
-### 朱一龙高叶彭冠英北影同学聚会
+### 李娜自曝宣布退役后一个月怀孕
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 朱一龙高叶彭冠英北影同学聚会 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%AB%98%E5%8F%B6%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%8C%97%E5%BD%B1%E5%90%8C%E5%AD%A6%E8%81%9A%E4%BC%9A&from=hot_entertainment
+- Desc: 李娜自曝宣布退役后一个月怀孕
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A8%9C%E8%87%AA%E6%9B%9D%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%E5%90%8E%E4%B8%80%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95&from=hot_entertainment
 
-### 曝李勒优和崔晋妈妈闹掰的原因
+### 鹿晗直播
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 曝李勒优和崔晋妈妈闹掰的原因
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9D%8E%E5%8B%92%E4%BC%98%E5%92%8C%E5%B4%94%E6%99%8B%E5%A6%88%E5%A6%88%E9%97%B9%E6%8E%B0%E7%9A%84%E5%8E%9F%E5%9B%A0&from=hot_entertainment
+- Desc: 鹿晗直播 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E7%9B%B4%E6%92%AD&from=hot_entertainment
 
-### 关晓彤宋雨琦我晕腿了
+### 刘国梁女儿夺冠没奖金
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 关晓彤宋雨琦我晕腿了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%88%91%E6%99%95%E8%85%BF%E4%BA%86&from=hot_entertainment
+- Desc: 刘国梁女儿夺冠没奖金
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%9B%BD%E6%A2%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0%E6%B2%A1%E5%A5%96%E9%87%91&from=hot_entertainment
 
-### 郑钦文退出武汉赛
+### 陈小纭 整骨
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 郑钦文退出武汉赛
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E5%87%BA%E6%AD%A6%E6%B1%89%E8%B5%9B&from=hot_entertainment
+- Desc: 陈小纭 整骨 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD+%E6%95%B4%E9%AA%A8&from=hot_entertainment
 
-### 海尔全球品牌代言人要来了
+### 谭松韵曾让何炅介绍对象网友推荐刘学义
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 海尔全球品牌代言人要来了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%B5%B7%E5%B0%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%E8%A6%81%E6%9D%A5%E4%BA%86&from=hot_entertainment
+- Desc: 谭松韵曾让何炅介绍对象网友推荐刘学义 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%9B%BE%E8%AE%A9%E4%BD%95%E7%82%85%E4%BB%8B%E7%BB%8D%E5%AF%B9%E8%B1%A1%E7%BD%91%E5%8F%8B%E6%8E%A8%E8%8D%90%E5%88%98%E5%AD%A6%E4%B9%89&from=hot_entertainment
 
-### 孙颖莎王楚钦领跑WTT1000冠军榜
+### 王欣瑜中网武网背靠背首秀出局
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 孙颖莎王楚钦领跑WTT1000冠军榜 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A2%86%E8%B7%91WTT1000%E5%86%A0%E5%86%9B%E6%A6%9C&from=hot_entertainment
+- Desc: 王欣瑜中网武网背靠背首秀出局
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E4%B8%AD%E7%BD%91%E6%AD%A6%E7%BD%91%E8%83%8C%E9%9D%A0%E8%83%8C%E9%A6%96%E7%A7%80%E5%87%BA%E5%B1%80&from=hot_entertainment
 
-### 罗永浩谈为什么不撕预制洋快餐
+### 杭州一别墅卖出2.88亿
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 罗永浩谈为什么不撕预制洋快餐 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B0%88%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%92%95%E9%A2%84%E5%88%B6%E6%B4%8B%E5%BF%AB%E9%A4%90&from=hot_entertainment
+- Desc: 杭州一别墅卖出2.88亿
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%88%AB%E5%A2%85%E5%8D%96%E5%87%BA2.88%E4%BA%BF&from=hot_entertainment
 
-### 郑钦文距离李娜还有多远
+### 百万粉丝女主播被控诈骗2500万
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 郑钦文距离李娜还有多远
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%B7%9D%E7%A6%BB%E6%9D%8E%E5%A8%9C%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&from=hot_entertainment
+- Desc: 百万粉丝女主播被控诈骗2500万 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8E%A7%E8%AF%88%E9%AA%972500%E4%B8%87&from=hot_entertainment
 
-### 食品安全法修订草案向社会征求意见
+### 彭昱畅来刘宪华演唱会了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 食品安全法修订草案向社会征求意见 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E6%B3%95%E4%BF%AE%E8%AE%A2%E8%8D%89%E6%A1%88%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&from=hot_entertainment
+- Desc: 彭昱畅来刘宪华演唱会了 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%BD%AD%E6%98%B1%E7%95%85%E6%9D%A5%E5%88%98%E5%AE%AA%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86&from=hot_entertainment
 
-### 林俊杰对七七说不要害羞
+### 霸王茶姬买一送一成本谁买单
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 林俊杰对七七说不要害羞 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%AF%B9%E4%B8%83%E4%B8%83%E8%AF%B4%E4%B8%8D%E8%A6%81%E5%AE%B3%E7%BE%9E&from=hot_entertainment
+- Desc: 霸王茶姬买一送一成本谁买单 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%E6%88%90%E6%9C%AC%E8%B0%81%E4%B9%B0%E5%8D%95&from=hot_entertainment
 
-### 肖战 演唱会
+### 霸王茶姬将发1350万奖励店员
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 肖战 演唱会
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98+%E6%BC%94%E5%94%B1%E4%BC%9A&from=hot_entertainment
+- Desc: 霸王茶姬将发1350万奖励店员
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%86%E5%8F%911350%E4%B8%87%E5%A5%96%E5%8A%B1%E5%BA%97%E5%91%98&from=hot_entertainment
 
-### 四无婚礼火了
+### 鹿晗说谁是你老公
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 四无婚礼火了
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%9B%E6%97%A0%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&from=hot_entertainment
+- Desc: 鹿晗说谁是你老公 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%AF%B4%E8%B0%81%E6%98%AF%E4%BD%A0%E8%80%81%E5%85%AC&from=hot_entertainment
 
-### A股
+### 双女主全女剧来了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: A股
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=A%E8%82%A1&from=hot_entertainment
+- Desc: 双女主全女剧来了
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%8C%E5%A5%B3%E4%B8%BB%E5%85%A8%E5%A5%B3%E5%89%A7%E6%9D%A5%E4%BA%86&from=hot_entertainment
 
-### 玉簟秋观后感
+### 郑钦文夺冠耐克海报文案获赞
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 玉簟秋观后感 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B%E8%A7%82%E5%90%8E%E6%84%9F&from=hot_entertainment
+- Desc: 郑钦文夺冠耐克海报文案获赞
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E8%80%90%E5%85%8B%E6%B5%B7%E6%8A%A5%E6%96%87%E6%A1%88%E8%8E%B7%E8%B5%9E&from=hot_entertainment
 
-### 单位欠缴社保最高罚三倍
+### 女子就餐被拍肩膀突然暴怒摔盘
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 单位欠缴社保最高罚三倍
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%95%E4%BD%8D%E6%AC%A0%E7%BC%B4%E7%A4%BE%E4%BF%9D%E6%9C%80%E9%AB%98%E7%BD%9A%E4%B8%89%E5%80%8D&from=hot_entertainment
+- Desc: 女子就餐被拍肩膀突然暴怒摔盘
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B0%B1%E9%A4%90%E8%A2%AB%E6%8B%8D%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E6%9A%B4%E6%80%92%E6%91%94%E7%9B%98&from=hot_entertainment
 
-### 红果AI漫剧怎么到处都在
+### 身上出现一黄二红三黑要查肝
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 红果AI漫剧怎么到处都在
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E6%80%8E%E4%B9%88%E5%88%B0%E5%A4%84%E9%83%BD%E5%9C%A8&from=hot_entertainment
+- Desc: 身上出现一黄二红三黑要查肝 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E8%BA%AB%E4%B8%8A%E5%87%BA%E7%8E%B0%E4%B8%80%E9%BB%84%E4%BA%8C%E7%BA%A2%E4%B8%89%E9%BB%91%E8%A6%81%E6%9F%A5%E8%82%9D&from=hot_entertainment
 
-### 相亲双方都满意就能这么介绍吗
+### 5类人最容易被肝癌盯上
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 相亲双方都满意就能这么介绍吗
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BA%B2%E5%8F%8C%E6%96%B9%E9%83%BD%E6%BB%A1%E6%84%8F%E5%B0%B1%E8%83%BD%E8%BF%99%E4%B9%88%E4%BB%8B%E7%BB%8D%E5%90%97&from=hot_entertainment
+- Desc: 5类人最容易被肝癌盯上
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=5%E7%B1%BB%E4%BA%BA%E6%9C%80%E5%AE%B9%E6%98%93%E8%A2%AB%E8%82%9D%E7%99%8C%E7%9B%AF%E4%B8%8A&from=hot_entertainment
 
-### 霸王茶姬店员劝退消费者
+### 郑钦文收入九成来自代言
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 霸王茶姬店员劝退消费者 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%BA%97%E5%91%98%E5%8A%9D%E9%80%80%E6%B6%88%E8%B4%B9%E8%80%85&from=hot_life
+- Desc: 郑钦文收入九成来自代言 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E5%85%A5%E4%B9%9D%E6%88%90%E6%9D%A5%E8%87%AA%E4%BB%A3%E8%A8%80&from=hot_life
 
-### 牛顿顿顿吃肉下联怎么对
+### 我不是药神原型陆勇即将停药
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 牛顿顿顿吃肉下联怎么对 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%89%9B%E9%A1%BF%E9%A1%BF%E9%A1%BF%E5%90%83%E8%82%89%E4%B8%8B%E8%81%94%E6%80%8E%E4%B9%88%E5%AF%B9&from=hot_life
+- Desc: 我不是药神原型陆勇即将停药 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%8E%9F%E5%9E%8B%E9%99%86%E5%8B%87%E5%8D%B3%E5%B0%86%E5%81%9C%E8%8D%AF&from=hot_life
 
-### 探访东北虎豹国家公园
+### 万千气象看辽宁
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 探访东北虎豹国家公园
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%8E%A2%E8%AE%BF%E4%B8%9C%E5%8C%97%E8%99%8E%E8%B1%B9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&from=hot_life
+- Desc: 万千气象看辽宁
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E8%BE%BD%E5%AE%81&from=hot_life
 
-### 谭松韵闷声干大事
+### 郑钦文团队一天就得花五万多块
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 谭松韵闷声干大事 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%97%B7%E5%A3%B0%E5%B9%B2%E5%A4%A7%E4%BA%8B&from=hot_life
+- Desc: 郑钦文团队一天就得花五万多块 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%9B%A2%E9%98%9F%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%BE%97%E8%8A%B1%E4%BA%94%E4%B8%87%E5%A4%9A%E5%9D%97&from=hot_life
 
-### 14岁女孩被强奸后患病7年未痊愈
+### 内娱来了五位AI艺人
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 14岁女孩被强奸后患病7年未痊愈 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E6%82%A3%E7%97%857%E5%B9%B4%E6%9C%AA%E7%97%8A%E6%84%88&from=hot_life
+- Desc: 内娱来了五位AI艺人
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA&from=hot_life
 
-### 霸王茶姬就崩了致歉
+### 林锦岐去世前的28个愿望
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 霸王茶姬就崩了致歉
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%B1%E5%B4%A9%E4%BA%86%E8%87%B4%E6%AD%89&from=hot_life
+- Desc: 林锦岐去世前的28个愿望 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E9%94%A6%E5%B2%90%E5%8E%BB%E4%B8%96%E5%89%8D%E7%9A%8428%E4%B8%AA%E6%84%BF%E6%9C%9B&from=hot_life
 
-### 郑钦文夺冠了三老头互相拥抱
+### 上汽奥迪回应奥迪全系买一赠一
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 郑钦文夺冠了三老头互相拥抱 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E4%BA%86%E4%B8%89%E8%80%81%E5%A4%B4%E4%BA%92%E7%9B%B8%E6%8B%A5%E6%8A%B1&from=hot_life
+- Desc: 上汽奥迪回应奥迪全系买一赠一
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%AA%E5%85%A8%E7%B3%BB%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80&from=hot_life
 
-### 武网说理解尊重郑钦文的决定
+### DYG战胜WB
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 武网说理解尊重郑钦文的决定
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E7%BD%91%E8%AF%B4%E7%90%86%E8%A7%A3%E5%B0%8A%E9%87%8D%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E5%86%B3%E5%AE%9A&from=hot_life
+- Desc: DYG战胜WB 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=DYG%E6%88%98%E8%83%9CWB&from=hot_life
 
-### 谭松韵回应兰香没戴红线的原因
+### 才发现谭松韵和许兰香的名字是对仗的
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 谭松韵回应兰香没戴红线的原因
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E5%85%B0%E9%A6%99%E6%B2%A1%E6%88%B4%E7%BA%A2%E7%BA%BF%E7%9A%84%E5%8E%9F%E5%9B%A0&from=hot_life
+- Desc: 才发现谭松韵和许兰香的名字是对仗的 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%89%8D%E5%8F%91%E7%8E%B0%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%92%8C%E8%AE%B8%E5%85%B0%E9%A6%99%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E5%AF%B9%E4%BB%97%E7%9A%84&from=hot_life
 
-### A股yyds又回来了
+### 女子左臀疼1个月挤出发黑注射针头
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: A股yyds又回来了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=A%E8%82%A1yyds%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86&from=hot_life
+- Desc: 女子左臀疼1个月挤出发黑注射针头 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B7%A6%E8%87%80%E7%96%BC1%E4%B8%AA%E6%9C%88%E6%8C%A4%E5%87%BA%E5%8F%91%E9%BB%91%E6%B3%A8%E5%B0%84%E9%92%88%E5%A4%B4&from=hot_life
 
-### 李佳琦疑似有孩子了
+### CHUU道歉
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 李佳琦疑似有孩子了 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%96%91%E4%BC%BC%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86&from=hot_life
+- Desc: CHUU道歉 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=CHUU%E9%81%93%E6%AD%89&from=hot_life
 
-### 郑钦文从头到脚都签约出去了
+### 陈小纭已经是完全认不出的程度了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 郑钦文从头到脚都签约出去了
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%E9%83%BD%E7%AD%BE%E7%BA%A6%E5%87%BA%E5%8E%BB%E4%BA%86&from=hot_life
+- Desc: 陈小纭已经是完全认不出的程度了 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%AE%8C%E5%85%A8%E8%AE%A4%E4%B8%8D%E5%87%BA%E7%9A%84%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_life
 
-### 郑钦文武网退赛不会扣积分
+### 曝时代少年团10月个人行程
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 郑钦文武网退赛不会扣积分 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%AD%A6%E7%BD%91%E9%80%80%E8%B5%9B%E4%B8%8D%E4%BC%9A%E6%89%A3%E7%A7%AF%E5%88%86&from=hot_life
+- Desc: 曝时代少年团10月个人行程
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A210%E6%9C%88%E4%B8%AA%E4%BA%BA%E8%A1%8C%E7%A8%8B&from=hot_life
 
-### 朱一龙高叶彭冠英北影同学聚会
+### 李娜自曝宣布退役后一个月怀孕
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 朱一龙高叶彭冠英北影同学聚会 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%AB%98%E5%8F%B6%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%8C%97%E5%BD%B1%E5%90%8C%E5%AD%A6%E8%81%9A%E4%BC%9A&from=hot_life
+- Desc: 李娜自曝宣布退役后一个月怀孕
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A8%9C%E8%87%AA%E6%9B%9D%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%E5%90%8E%E4%B8%80%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95&from=hot_life
 
-### 曝李勒优和崔晋妈妈闹掰的原因
+### 鹿晗直播
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 曝李勒优和崔晋妈妈闹掰的原因
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9D%8E%E5%8B%92%E4%BC%98%E5%92%8C%E5%B4%94%E6%99%8B%E5%A6%88%E5%A6%88%E9%97%B9%E6%8E%B0%E7%9A%84%E5%8E%9F%E5%9B%A0&from=hot_life
+- Desc: 鹿晗直播 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E7%9B%B4%E6%92%AD&from=hot_life
 
-### 关晓彤宋雨琦我晕腿了
+### 刘国梁女儿夺冠没奖金
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 关晓彤宋雨琦我晕腿了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%88%91%E6%99%95%E8%85%BF%E4%BA%86&from=hot_life
+- Desc: 刘国梁女儿夺冠没奖金
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%9B%BD%E6%A2%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0%E6%B2%A1%E5%A5%96%E9%87%91&from=hot_life
 
-### 郑钦文退出武汉赛
+### 陈小纭 整骨
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 郑钦文退出武汉赛
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E5%87%BA%E6%AD%A6%E6%B1%89%E8%B5%9B&from=hot_life
+- Desc: 陈小纭 整骨 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD+%E6%95%B4%E9%AA%A8&from=hot_life
 
-### 海尔全球品牌代言人要来了
+### 谭松韵曾让何炅介绍对象网友推荐刘学义
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 海尔全球品牌代言人要来了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%B5%B7%E5%B0%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%E8%A6%81%E6%9D%A5%E4%BA%86&from=hot_life
+- Desc: 谭松韵曾让何炅介绍对象网友推荐刘学义 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%9B%BE%E8%AE%A9%E4%BD%95%E7%82%85%E4%BB%8B%E7%BB%8D%E5%AF%B9%E8%B1%A1%E7%BD%91%E5%8F%8B%E6%8E%A8%E8%8D%90%E5%88%98%E5%AD%A6%E4%B9%89&from=hot_life
 
-### 孙颖莎王楚钦领跑WTT1000冠军榜
+### 王欣瑜中网武网背靠背首秀出局
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 孙颖莎王楚钦领跑WTT1000冠军榜 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A2%86%E8%B7%91WTT1000%E5%86%A0%E5%86%9B%E6%A6%9C&from=hot_life
+- Desc: 王欣瑜中网武网背靠背首秀出局
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E4%B8%AD%E7%BD%91%E6%AD%A6%E7%BD%91%E8%83%8C%E9%9D%A0%E8%83%8C%E9%A6%96%E7%A7%80%E5%87%BA%E5%B1%80&from=hot_life
 
-### 罗永浩谈为什么不撕预制洋快餐
+### 杭州一别墅卖出2.88亿
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 罗永浩谈为什么不撕预制洋快餐 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B0%88%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%92%95%E9%A2%84%E5%88%B6%E6%B4%8B%E5%BF%AB%E9%A4%90&from=hot_life
+- Desc: 杭州一别墅卖出2.88亿
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%88%AB%E5%A2%85%E5%8D%96%E5%87%BA2.88%E4%BA%BF&from=hot_life
 
-### 郑钦文距离李娜还有多远
+### 百万粉丝女主播被控诈骗2500万
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 郑钦文距离李娜还有多远
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%B7%9D%E7%A6%BB%E6%9D%8E%E5%A8%9C%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&from=hot_life
+- Desc: 百万粉丝女主播被控诈骗2500万 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8E%A7%E8%AF%88%E9%AA%972500%E4%B8%87&from=hot_life
 
-### 食品安全法修订草案向社会征求意见
+### 彭昱畅来刘宪华演唱会了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 食品安全法修订草案向社会征求意见 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E6%B3%95%E4%BF%AE%E8%AE%A2%E8%8D%89%E6%A1%88%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&from=hot_life
+- Desc: 彭昱畅来刘宪华演唱会了 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%BD%AD%E6%98%B1%E7%95%85%E6%9D%A5%E5%88%98%E5%AE%AA%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86&from=hot_life
 
-### 林俊杰对七七说不要害羞
+### 霸王茶姬买一送一成本谁买单
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 林俊杰对七七说不要害羞 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%AF%B9%E4%B8%83%E4%B8%83%E8%AF%B4%E4%B8%8D%E8%A6%81%E5%AE%B3%E7%BE%9E&from=hot_life
+- Desc: 霸王茶姬买一送一成本谁买单 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%E6%88%90%E6%9C%AC%E8%B0%81%E4%B9%B0%E5%8D%95&from=hot_life
 
-### 肖战 演唱会
+### 霸王茶姬将发1350万奖励店员
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 肖战 演唱会
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98+%E6%BC%94%E5%94%B1%E4%BC%9A&from=hot_life
+- Desc: 霸王茶姬将发1350万奖励店员
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%86%E5%8F%911350%E4%B8%87%E5%A5%96%E5%8A%B1%E5%BA%97%E5%91%98&from=hot_life
 
-### 四无婚礼火了
+### 鹿晗说谁是你老公
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 四无婚礼火了
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%9B%E6%97%A0%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&from=hot_life
+- Desc: 鹿晗说谁是你老公 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%AF%B4%E8%B0%81%E6%98%AF%E4%BD%A0%E8%80%81%E5%85%AC&from=hot_life
 
-### A股
+### 双女主全女剧来了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: A股
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=A%E8%82%A1&from=hot_life
+- Desc: 双女主全女剧来了
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%8C%E5%A5%B3%E4%B8%BB%E5%85%A8%E5%A5%B3%E5%89%A7%E6%9D%A5%E4%BA%86&from=hot_life
 
-### 玉簟秋观后感
+### 郑钦文夺冠耐克海报文案获赞
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 玉簟秋观后感 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B%E8%A7%82%E5%90%8E%E6%84%9F&from=hot_life
+- Desc: 郑钦文夺冠耐克海报文案获赞
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E8%80%90%E5%85%8B%E6%B5%B7%E6%8A%A5%E6%96%87%E6%A1%88%E8%8E%B7%E8%B5%9E&from=hot_life
 
-### 单位欠缴社保最高罚三倍
+### 女子就餐被拍肩膀突然暴怒摔盘
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 单位欠缴社保最高罚三倍
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%95%E4%BD%8D%E6%AC%A0%E7%BC%B4%E7%A4%BE%E4%BF%9D%E6%9C%80%E9%AB%98%E7%BD%9A%E4%B8%89%E5%80%8D&from=hot_life
+- Desc: 女子就餐被拍肩膀突然暴怒摔盘
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B0%B1%E9%A4%90%E8%A2%AB%E6%8B%8D%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E6%9A%B4%E6%80%92%E6%91%94%E7%9B%98&from=hot_life
 
-### 红果AI漫剧怎么到处都在
+### 身上出现一黄二红三黑要查肝
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 红果AI漫剧怎么到处都在
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E6%80%8E%E4%B9%88%E5%88%B0%E5%A4%84%E9%83%BD%E5%9C%A8&from=hot_life
+- Desc: 身上出现一黄二红三黑要查肝 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E8%BA%AB%E4%B8%8A%E5%87%BA%E7%8E%B0%E4%B8%80%E9%BB%84%E4%BA%8C%E7%BA%A2%E4%B8%89%E9%BB%91%E8%A6%81%E6%9F%A5%E8%82%9D&from=hot_life
 
-### 相亲双方都满意就能这么介绍吗
+### 5类人最容易被肝癌盯上
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 相亲双方都满意就能这么介绍吗
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BA%B2%E5%8F%8C%E6%96%B9%E9%83%BD%E6%BB%A1%E6%84%8F%E5%B0%B1%E8%83%BD%E8%BF%99%E4%B9%88%E4%BB%8B%E7%BB%8D%E5%90%97&from=hot_life
+- Desc: 5类人最容易被肝癌盯上
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=5%E7%B1%BB%E4%BA%BA%E6%9C%80%E5%AE%B9%E6%98%93%E8%A2%AB%E8%82%9D%E7%99%8C%E7%9B%AF%E4%B8%8A&from=hot_life
 
-### 霸王茶姬店员劝退消费者
+### 郑钦文收入九成来自代言
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 霸王茶姬店员劝退消费者 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%BA%97%E5%91%98%E5%8A%9D%E9%80%80%E6%B6%88%E8%B4%B9%E8%80%85&from=hot_social
+- Desc: 郑钦文收入九成来自代言 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E5%85%A5%E4%B9%9D%E6%88%90%E6%9D%A5%E8%87%AA%E4%BB%A3%E8%A8%80&from=hot_social
 
-### 牛顿顿顿吃肉下联怎么对
+### 我不是药神原型陆勇即将停药
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 牛顿顿顿吃肉下联怎么对 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%89%9B%E9%A1%BF%E9%A1%BF%E9%A1%BF%E5%90%83%E8%82%89%E4%B8%8B%E8%81%94%E6%80%8E%E4%B9%88%E5%AF%B9&from=hot_social
+- Desc: 我不是药神原型陆勇即将停药 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%8E%9F%E5%9E%8B%E9%99%86%E5%8B%87%E5%8D%B3%E5%B0%86%E5%81%9C%E8%8D%AF&from=hot_social
 
-### 探访东北虎豹国家公园
+### 万千气象看辽宁
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 探访东北虎豹国家公园
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%8E%A2%E8%AE%BF%E4%B8%9C%E5%8C%97%E8%99%8E%E8%B1%B9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&from=hot_social
+- Desc: 万千气象看辽宁
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E8%BE%BD%E5%AE%81&from=hot_social
 
-### 谭松韵闷声干大事
+### 郑钦文团队一天就得花五万多块
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 谭松韵闷声干大事 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%97%B7%E5%A3%B0%E5%B9%B2%E5%A4%A7%E4%BA%8B&from=hot_social
+- Desc: 郑钦文团队一天就得花五万多块 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%9B%A2%E9%98%9F%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%BE%97%E8%8A%B1%E4%BA%94%E4%B8%87%E5%A4%9A%E5%9D%97&from=hot_social
 
-### 14岁女孩被强奸后患病7年未痊愈
+### 内娱来了五位AI艺人
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 14岁女孩被强奸后患病7年未痊愈 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%90%8E%E6%82%A3%E7%97%857%E5%B9%B4%E6%9C%AA%E7%97%8A%E6%84%88&from=hot_social
+- Desc: 内娱来了五位AI艺人
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA&from=hot_social
 
-### 霸王茶姬就崩了致歉
+### 林锦岐去世前的28个愿望
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 霸王茶姬就崩了致歉
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%B1%E5%B4%A9%E4%BA%86%E8%87%B4%E6%AD%89&from=hot_social
+- Desc: 林锦岐去世前的28个愿望 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E9%94%A6%E5%B2%90%E5%8E%BB%E4%B8%96%E5%89%8D%E7%9A%8428%E4%B8%AA%E6%84%BF%E6%9C%9B&from=hot_social
 
-### 郑钦文夺冠了三老头互相拥抱
+### 上汽奥迪回应奥迪全系买一赠一
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 郑钦文夺冠了三老头互相拥抱 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E4%BA%86%E4%B8%89%E8%80%81%E5%A4%B4%E4%BA%92%E7%9B%B8%E6%8B%A5%E6%8A%B1&from=hot_social
+- Desc: 上汽奥迪回应奥迪全系买一赠一
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E5%9B%9E%E5%BA%94%E5%A5%A5%E8%BF%AA%E5%85%A8%E7%B3%BB%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80&from=hot_social
 
-### 武网说理解尊重郑钦文的决定
+### DYG战胜WB
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 武网说理解尊重郑钦文的决定
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E7%BD%91%E8%AF%B4%E7%90%86%E8%A7%A3%E5%B0%8A%E9%87%8D%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E5%86%B3%E5%AE%9A&from=hot_social
+- Desc: DYG战胜WB 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=DYG%E6%88%98%E8%83%9CWB&from=hot_social
 
-### 谭松韵回应兰香没戴红线的原因
+### 才发现谭松韵和许兰香的名字是对仗的
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 谭松韵回应兰香没戴红线的原因
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E5%85%B0%E9%A6%99%E6%B2%A1%E6%88%B4%E7%BA%A2%E7%BA%BF%E7%9A%84%E5%8E%9F%E5%9B%A0&from=hot_social
+- Desc: 才发现谭松韵和许兰香的名字是对仗的 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%89%8D%E5%8F%91%E7%8E%B0%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%92%8C%E8%AE%B8%E5%85%B0%E9%A6%99%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E5%AF%B9%E4%BB%97%E7%9A%84&from=hot_social
 
-### A股yyds又回来了
+### 女子左臀疼1个月挤出发黑注射针头
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: A股yyds又回来了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=A%E8%82%A1yyds%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86&from=hot_social
+- Desc: 女子左臀疼1个月挤出发黑注射针头 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B7%A6%E8%87%80%E7%96%BC1%E4%B8%AA%E6%9C%88%E6%8C%A4%E5%87%BA%E5%8F%91%E9%BB%91%E6%B3%A8%E5%B0%84%E9%92%88%E5%A4%B4&from=hot_social
 
-### 李佳琦疑似有孩子了
+### CHUU道歉
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 李佳琦疑似有孩子了 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%96%91%E4%BC%BC%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86&from=hot_social
+- Desc: CHUU道歉 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=CHUU%E9%81%93%E6%AD%89&from=hot_social
 
-### 郑钦文从头到脚都签约出去了
+### 陈小纭已经是完全认不出的程度了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 郑钦文从头到脚都签约出去了
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%E9%83%BD%E7%AD%BE%E7%BA%A6%E5%87%BA%E5%8E%BB%E4%BA%86&from=hot_social
+- Desc: 陈小纭已经是完全认不出的程度了 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%AE%8C%E5%85%A8%E8%AE%A4%E4%B8%8D%E5%87%BA%E7%9A%84%E7%A8%8B%E5%BA%A6%E4%BA%86&from=hot_social
 
-### 郑钦文武网退赛不会扣积分
+### 曝时代少年团10月个人行程
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 郑钦文武网退赛不会扣积分 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%AD%A6%E7%BD%91%E9%80%80%E8%B5%9B%E4%B8%8D%E4%BC%9A%E6%89%A3%E7%A7%AF%E5%88%86&from=hot_social
+- Desc: 曝时代少年团10月个人行程
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A210%E6%9C%88%E4%B8%AA%E4%BA%BA%E8%A1%8C%E7%A8%8B&from=hot_social
 
-### 朱一龙高叶彭冠英北影同学聚会
+### 李娜自曝宣布退役后一个月怀孕
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 朱一龙高叶彭冠英北影同学聚会 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%AB%98%E5%8F%B6%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%8C%97%E5%BD%B1%E5%90%8C%E5%AD%A6%E8%81%9A%E4%BC%9A&from=hot_social
+- Desc: 李娜自曝宣布退役后一个月怀孕
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A8%9C%E8%87%AA%E6%9B%9D%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%E5%90%8E%E4%B8%80%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95&from=hot_social
 
-### 曝李勒优和崔晋妈妈闹掰的原因
+### 鹿晗直播
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 曝李勒优和崔晋妈妈闹掰的原因
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9D%8E%E5%8B%92%E4%BC%98%E5%92%8C%E5%B4%94%E6%99%8B%E5%A6%88%E5%A6%88%E9%97%B9%E6%8E%B0%E7%9A%84%E5%8E%9F%E5%9B%A0&from=hot_social
+- Desc: 鹿晗直播 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E7%9B%B4%E6%92%AD&from=hot_social
 
-### 关晓彤宋雨琦我晕腿了
+### 刘国梁女儿夺冠没奖金
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 关晓彤宋雨琦我晕腿了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%88%91%E6%99%95%E8%85%BF%E4%BA%86&from=hot_social
+- Desc: 刘国梁女儿夺冠没奖金
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E5%9B%BD%E6%A2%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0%E6%B2%A1%E5%A5%96%E9%87%91&from=hot_social
 
-### 郑钦文退出武汉赛
+### 陈小纭 整骨
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 郑钦文退出武汉赛
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E5%87%BA%E6%AD%A6%E6%B1%89%E8%B5%9B&from=hot_social
+- Desc: 陈小纭 整骨 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD+%E6%95%B4%E9%AA%A8&from=hot_social
 
-### 海尔全球品牌代言人要来了
+### 谭松韵曾让何炅介绍对象网友推荐刘学义
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 海尔全球品牌代言人要来了 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%B5%B7%E5%B0%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%E8%A6%81%E6%9D%A5%E4%BA%86&from=hot_social
+- Desc: 谭松韵曾让何炅介绍对象网友推荐刘学义 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%9B%BE%E8%AE%A9%E4%BD%95%E7%82%85%E4%BB%8B%E7%BB%8D%E5%AF%B9%E8%B1%A1%E7%BD%91%E5%8F%8B%E6%8E%A8%E8%8D%90%E5%88%98%E5%AD%A6%E4%B9%89&from=hot_social
 
-### 孙颖莎王楚钦领跑WTT1000冠军榜
+### 王欣瑜中网武网背靠背首秀出局
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 孙颖莎王楚钦领跑WTT1000冠军榜 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A2%86%E8%B7%91WTT1000%E5%86%A0%E5%86%9B%E6%A6%9C&from=hot_social
+- Desc: 王欣瑜中网武网背靠背首秀出局
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E4%B8%AD%E7%BD%91%E6%AD%A6%E7%BD%91%E8%83%8C%E9%9D%A0%E8%83%8C%E9%A6%96%E7%A7%80%E5%87%BA%E5%B1%80&from=hot_social
 
-### 罗永浩谈为什么不撕预制洋快餐
+### 杭州一别墅卖出2.88亿
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 罗永浩谈为什么不撕预制洋快餐 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B0%88%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%92%95%E9%A2%84%E5%88%B6%E6%B4%8B%E5%BF%AB%E9%A4%90&from=hot_social
+- Desc: 杭州一别墅卖出2.88亿
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%88%AB%E5%A2%85%E5%8D%96%E5%87%BA2.88%E4%BA%BF&from=hot_social
 
-### 郑钦文距离李娜还有多远
+### 百万粉丝女主播被控诈骗2500万
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 郑钦文距离李娜还有多远
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%B7%9D%E7%A6%BB%E6%9D%8E%E5%A8%9C%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&from=hot_social
+- Desc: 百万粉丝女主播被控诈骗2500万 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8E%A7%E8%AF%88%E9%AA%972500%E4%B8%87&from=hot_social
 
-### 食品安全法修订草案向社会征求意见
+### 彭昱畅来刘宪华演唱会了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 食品安全法修订草案向社会征求意见 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E6%B3%95%E4%BF%AE%E8%AE%A2%E8%8D%89%E6%A1%88%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81&from=hot_social
+- Desc: 彭昱畅来刘宪华演唱会了 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%BD%AD%E6%98%B1%E7%95%85%E6%9D%A5%E5%88%98%E5%AE%AA%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86&from=hot_social
 
-### 林俊杰对七七说不要害羞
+### 霸王茶姬买一送一成本谁买单
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 林俊杰对七七说不要害羞 热
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%AF%B9%E4%B8%83%E4%B8%83%E8%AF%B4%E4%B8%8D%E8%A6%81%E5%AE%B3%E7%BE%9E&from=hot_social
+- Desc: 霸王茶姬买一送一成本谁买单 热
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%E6%88%90%E6%9C%AC%E8%B0%81%E4%B9%B0%E5%8D%95&from=hot_social
 
-### 肖战 演唱会
+### 霸王茶姬将发1350万奖励店员
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 肖战 演唱会
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98+%E6%BC%94%E5%94%B1%E4%BC%9A&from=hot_social
+- Desc: 霸王茶姬将发1350万奖励店员
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%86%E5%8F%911350%E4%B8%87%E5%A5%96%E5%8A%B1%E5%BA%97%E5%91%98&from=hot_social
 
-### 四无婚礼火了
+### 鹿晗说谁是你老公
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 四无婚礼火了
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%9B%9B%E6%97%A0%E5%A9%9A%E7%A4%BC%E7%81%AB%E4%BA%86&from=hot_social
+- Desc: 鹿晗说谁是你老公 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%AF%B4%E8%B0%81%E6%98%AF%E4%BD%A0%E8%80%81%E5%85%AC&from=hot_social
 
-### A股
+### 双女主全女剧来了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: A股
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=A%E8%82%A1&from=hot_social
+- Desc: 双女主全女剧来了
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%8C%E5%A5%B3%E4%B8%BB%E5%85%A8%E5%A5%B3%E5%89%A7%E6%9D%A5%E4%BA%86&from=hot_social
 
-### 玉簟秋观后感
+### 郑钦文夺冠耐克海报文案获赞
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 玉簟秋观后感 新
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B%E8%A7%82%E5%90%8E%E6%84%9F&from=hot_social
+- Desc: 郑钦文夺冠耐克海报文案获赞
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E8%80%90%E5%85%8B%E6%B5%B7%E6%8A%A5%E6%96%87%E6%A1%88%E8%8E%B7%E8%B5%9E&from=hot_social
 
-### 单位欠缴社保最高罚三倍
+### 女子就餐被拍肩膀突然暴怒摔盘
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 单位欠缴社保最高罚三倍
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%95%E4%BD%8D%E6%AC%A0%E7%BC%B4%E7%A4%BE%E4%BF%9D%E6%9C%80%E9%AB%98%E7%BD%9A%E4%B8%89%E5%80%8D&from=hot_social
+- Desc: 女子就餐被拍肩膀突然暴怒摔盘
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B0%B1%E9%A4%90%E8%A2%AB%E6%8B%8D%E8%82%A9%E8%86%80%E7%AA%81%E7%84%B6%E6%9A%B4%E6%80%92%E6%91%94%E7%9B%98&from=hot_social
 
-### 红果AI漫剧怎么到处都在
+### 身上出现一黄二红三黑要查肝
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 红果AI漫剧怎么到处都在
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E6%80%8E%E4%B9%88%E5%88%B0%E5%A4%84%E9%83%BD%E5%9C%A8&from=hot_social
+- Desc: 身上出现一黄二红三黑要查肝 新
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=%E8%BA%AB%E4%B8%8A%E5%87%BA%E7%8E%B0%E4%B8%80%E9%BB%84%E4%BA%8C%E7%BA%A2%E4%B8%89%E9%BB%91%E8%A6%81%E6%9F%A5%E8%82%9D&from=hot_social
 
-### 相亲双方都满意就能这么介绍吗
+### 5类人最容易被肝癌盯上
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 相亲双方都满意就能这么介绍吗
-- Published At: 2026-10-12T06:28:11.934Z
-- URL: https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BA%B2%E5%8F%8C%E6%96%B9%E9%83%BD%E6%BB%A1%E6%84%8F%E5%B0%B1%E8%83%BD%E8%BF%99%E4%B9%88%E4%BB%8B%E7%BB%8D%E5%90%97&from=hot_social
+- Desc: 5类人最容易被肝癌盯上
+- Published At: 2026-10-12T15:26:26.252Z
+- URL: https://s.weibo.com/weibo?q=5%E7%B1%BB%E4%BA%BA%E6%9C%80%E5%AE%B9%E6%98%93%E8%A2%AB%E8%82%9D%E7%99%8C%E7%9B%AF%E4%B8%8A&from=hot_social
 
