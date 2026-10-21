@@ -1,6 +1,6 @@
 # Emotion Input Digest
 
-- Generated At: 2026-10-21T08:30:42.161+08:00
+- Generated At: 2026-10-21T13:57:01.193+08:00
 - Window Hours: 24
 - Total Items: 150
 - Source Count: 5
@@ -11,1053 +11,1053 @@
 
 ## Items
 
-### 男子捡到38000元留了道题给失主
+### 拟出台的中国AI禁令震动全球
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 男子捡到38000元留了道题给失主 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B038000%E5%85%83%E7%95%99%E4%BA%86%E9%81%93%E9%A2%98%E7%BB%99%E5%A4%B1%E4%B8%BB&from=hot_mine
+- Desc: 拟出台的中国AI禁令震动全球
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%8B%9F%E5%87%BA%E5%8F%B0%E7%9A%84%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83&from=hot_mine
 
-### 法国乱成一锅粥了还有人威胁中国
+### 台独给周杰伦扣帽子国台办回应
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 法国乱成一锅粥了还有人威胁中国 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD&from=hot_mine
+- Desc: 台独给周杰伦扣帽子国台办回应 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E7%8B%AC%E7%BB%99%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%89%A3%E5%B8%BD%E5%AD%90%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94&from=hot_mine
 
-### 医保个人账户跨省共济落地全国
+### 一组数字看震撼人心的伟大远征
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 医保个人账户跨省共济落地全国
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%B7%A8%E7%9C%81%E5%85%B1%E6%B5%8E%E8%90%BD%E5%9C%B0%E5%85%A8%E5%9B%BD&from=hot_mine
+- Desc: 一组数字看震撼人心的伟大远征
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%80%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%8B%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%E7%9A%84%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81&from=hot_mine
+
+### 问界起火
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 问界起火 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8C%E8%B5%B7%E7%81%AB&from=hot_mine
+
+### 全球手机销量暴跌
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 全球手机销量暴跌 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C&from=hot_mine
+
+### 目前我国只批准两款L3车型
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 目前我国只批准两款L3车型
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%9B%AE%E5%89%8D%E6%88%91%E5%9B%BD%E5%8F%AA%E6%89%B9%E5%87%86%E4%B8%A4%E6%AC%BEL3%E8%BD%A6%E5%9E%8B&from=hot_mine
+
+### 魏娆养母 伥鬼
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 魏娆养母 伥鬼 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E5%85%BB%E6%AF%8D+%E4%BC%A5%E9%AC%BC&from=hot_mine
 
 ### 国家癌症中心公布发病前五癌症
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 国家癌症中心公布发病前五癌症 新
-- Published At: 2026-10-21T00:30:42.161Z
+- Desc: 国家癌症中心公布发病前五癌症
+- Published At: 2026-10-21T05:57:01.193Z
 - URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87&from=hot_mine
 
-### 曾辉回应和韩雨彤参加恋综
+### 甲状腺癌为何越来越多
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 曾辉回应和韩雨彤参加恋综 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E8%BE%89%E5%9B%9E%E5%BA%94%E5%92%8C%E9%9F%A9%E9%9B%A8%E5%BD%A4%E5%8F%82%E5%8A%A0%E6%81%8B%E7%BB%BC&from=hot_mine
+- Desc: 甲状腺癌为何越来越多
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A&from=hot_mine
 
-### 巴黎圣日耳曼4比2巴萨
+### 雷霆马刺大冲突
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 巴黎圣日耳曼4比2巴萨
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC4%E6%AF%942%E5%B7%B4%E8%90%A8&from=hot_mine
+- Desc: 雷霆马刺大冲突
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A7%E5%86%B2%E7%AA%81&from=hot_mine
 
-### 油车电车10年成本账怎么算
+### 毛不易在朋友婚礼上的致辞
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 油车电车10年成本账怎么算
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%B9%E8%BD%A6%E7%94%B5%E8%BD%A610%E5%B9%B4%E6%88%90%E6%9C%AC%E8%B4%A6%E6%80%8E%E4%B9%88%E7%AE%97&from=hot_mine
+- Desc: 毛不易在朋友婚礼上的致辞 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%87%B4%E8%BE%9E&from=hot_mine
 
-### 蔡天凤前公公买绞肉机监控曝光
+### 曝艺人自费高定
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 蔡天凤前公公买绞肉机监控曝光 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%89%8D%E5%85%AC%E5%85%AC%E4%B9%B0%E7%BB%9E%E8%82%89%E6%9C%BA%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&from=hot_mine
+- Desc: 曝艺人自费高定 热
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E8%89%BA%E4%BA%BA%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A&from=hot_mine
 
-### 大闸蟹价格暴跌超40%
+### 曝90花不满芭莎红毯顺序
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 大闸蟹价格暴跌超40% 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%8540%25&from=hot_mine
+- Desc: 曝90花不满芭莎红毯顺序 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D90%E8%8A%B1%E4%B8%8D%E6%BB%A1%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF%E9%A1%BA%E5%BA%8F&from=hot_mine
 
-### NBA
+### 刘恺威曾谈对杨幂的第一印象
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: NBA 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=NBA&from=hot_mine
+- Desc: 刘恺威曾谈对杨幂的第一印象 热
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E6%9B%BE%E8%B0%88%E5%AF%B9%E6%9D%A8%E5%B9%82%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1&from=hot_mine
 
-### 易梦玲因护照被偷错过维密秀
+### 武志红李雪分手多年恩怨
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 易梦玲因护照被偷错过维密秀 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9B%A0%E6%8A%A4%E7%85%A7%E8%A2%AB%E5%81%B7%E9%94%99%E8%BF%87%E7%BB%B4%E5%AF%86%E7%A7%80&from=hot_mine
+- Desc: 武志红李雪分手多年恩怨 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%88%86%E6%89%8B%E5%A4%9A%E5%B9%B4%E6%81%A9%E6%80%A8&from=hot_mine
 
-### 陆毅鲍蕾女儿18岁生日试装
+### iPhoneDuo开箱
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 陆毅鲍蕾女儿18岁生日试装
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE%E5%A5%B3%E5%84%BF18%E5%B2%81%E7%94%9F%E6%97%A5%E8%AF%95%E8%A3%85&from=hot_mine
+- Desc: iPhoneDuo开箱
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=iPhoneDuo%E5%BC%80%E7%AE%B1&from=hot_mine
 
-### 疑似崔秀彬照片事件当事人回应
+### 陈瑜林子濠结婚
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 疑似崔秀彬照片事件当事人回应 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E5%B4%94%E7%A7%80%E5%BD%AC%E7%85%A7%E7%89%87%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&from=hot_mine
+- Desc: 陈瑜林子濠结婚
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E7%91%9C%E6%9E%97%E5%AD%90%E6%BF%A0%E7%BB%93%E5%A9%9A&from=hot_mine
 
-### 王一博是istp
+### 律师谈肖战二开不退票
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 王一博是istp 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%AFistp&from=hot_mine
+- Desc: 律师谈肖战二开不退票
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E8%82%96%E6%88%98%E4%BA%8C%E5%BC%80%E4%B8%8D%E9%80%80%E7%A5%A8&from=hot_mine
 
-### 南海
+### 电视剧三平台破万的演员只有7位
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 南海
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%97%E6%B5%B7&from=hot_mine
+- Desc: 电视剧三平台破万的演员只有7位 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%89%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87%E7%9A%84%E6%BC%94%E5%91%98%E5%8F%AA%E6%9C%897%E4%BD%8D&from=hot_mine
 
-### 德国盾构机卖印度需中国放行
+### 国台办回应民进党当局拒绝张凌赫赴台
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 德国盾构机卖印度需中国放行 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%8D%96%E5%8D%B0%E5%BA%A6%E9%9C%80%E4%B8%AD%E5%9B%BD%E6%94%BE%E8%A1%8C&from=hot_mine
+- Desc: 国台办回应民进党当局拒绝张凌赫赴台
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%B1%80%E6%8B%92%E7%BB%9D%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B4%E5%8F%B0&from=hot_mine
 
-### 刘雯维密回归太权威了
+### 第一次见豆包发脾气
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 刘雯维密回归太权威了
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%AF%E7%BB%B4%E5%AF%86%E5%9B%9E%E5%BD%92%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86&from=hot_mine
+- Desc: 第一次见豆包发脾气 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%B1%86%E5%8C%85%E5%8F%91%E8%84%BE%E6%B0%94&from=hot_mine
 
-### 詹姆斯76人生涯首分
+### 曝买了高定可以先借样衣穿
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 詹姆斯76人生涯首分 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86&from=hot_mine
+- Desc: 曝买了高定可以先借样衣穿 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E4%B9%B0%E4%BA%86%E9%AB%98%E5%AE%9A%E5%8F%AF%E4%BB%A5%E5%85%88%E5%80%9F%E6%A0%B7%E8%A1%A3%E7%A9%BF&from=hot_mine
 
-### 塔图姆23中6
+### 魏娆终于跟母亲相认了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 塔图姆23中6 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A1%94%E5%9B%BE%E5%A7%8623%E4%B8%AD6&from=hot_mine
+- Desc: 魏娆终于跟母亲相认了 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E7%BB%88%E4%BA%8E%E8%B7%9F%E6%AF%8D%E4%BA%B2%E7%9B%B8%E8%AE%A4%E4%BA%86&from=hot_mine
 
-### 钟南山不老秘诀是抗阻训练
+### 肖战刘铮亮跟前女友借钱
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 钟南山不老秘诀是抗阻训练 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8D%E8%80%81%E7%A7%98%E8%AF%80%E6%98%AF%E6%8A%97%E9%98%BB%E8%AE%AD%E7%BB%83&from=hot_mine
+- Desc: 肖战刘铮亮跟前女友借钱 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E8%B7%9F%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%80%9F%E9%92%B1&from=hot_mine
 
-### 唐禹哲获刑1年7个月缓刑3年
+### 高梓淇回应和前妻关系
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 唐禹哲获刑1年7个月缓刑3年 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%94%90%E7%A6%B9%E5%93%B2%E8%8E%B7%E5%88%911%E5%B9%B47%E4%B8%AA%E6%9C%88%E7%BC%93%E5%88%913%E5%B9%B4&from=hot_mine
+- Desc: 高梓淇回应和前妻关系 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E6%A2%93%E6%B7%87%E5%9B%9E%E5%BA%94%E5%92%8C%E5%89%8D%E5%A6%BB%E5%85%B3%E7%B3%BB&from=hot_mine
 
-### 鼓浪屿冷清不复当年盛景
+### 武志红李雪公开互撕
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 鼓浪屿冷清不复当年盛景 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%BC%93%E6%B5%AA%E5%B1%BF%E5%86%B7%E6%B8%85%E4%B8%8D%E5%A4%8D%E5%BD%93%E5%B9%B4%E7%9B%9B%E6%99%AF&from=hot_mine
+- Desc: 武志红李雪公开互撕
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%85%AC%E5%BC%80%E4%BA%92%E6%92%95&from=hot_mine
 
-### 大冰教你百试不爽拒绝借钱
+### A股
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 大冰教你百试不爽拒绝借钱 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E6%95%99%E4%BD%A0%E7%99%BE%E8%AF%95%E4%B8%8D%E7%88%BD%E6%8B%92%E7%BB%9D%E5%80%9F%E9%92%B1&from=hot_mine
+- Desc: A股
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=A%E8%82%A1&from=hot_mine
 
-### 沈阳致6死16伤公交事故多人被处理
+### 女子节食减肥半年瘦9公斤查出骨肌双亏
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 沈阳致6死16伤公交事故多人被处理 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E8%87%B46%E6%AD%BB16%E4%BC%A4%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86&from=hot_mine
+- Desc: 女子节食减肥半年瘦9公斤查出骨肌双亏
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%8A%82%E9%A3%9F%E5%87%8F%E8%82%A5%E5%8D%8A%E5%B9%B4%E7%98%A69%E5%85%AC%E6%96%A4%E6%9F%A5%E5%87%BA%E9%AA%A8%E8%82%8C%E5%8F%8C%E4%BA%8F&from=hot_mine
 
-### 中国体操男队世锦赛铜牌
+### 有孩子刚上托班就买小天才手表
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 中国体操男队世锦赛铜牌 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E7%94%B7%E9%98%9F%E4%B8%96%E9%94%A6%E8%B5%9B%E9%93%9C%E7%89%8C&from=hot_mine
+- Desc: 有孩子刚上托班就买小天才手表 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9C%89%E5%AD%A9%E5%AD%90%E5%88%9A%E4%B8%8A%E6%89%98%E7%8F%AD%E5%B0%B1%E4%B9%B0%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8&from=hot_mine
 
-### 到底谁把微信变成工作软件的
+### 武志红 李雪
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 到底谁把微信变成工作软件的
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%B0%E5%BA%95%E8%B0%81%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%8F%98%E6%88%90%E5%B7%A5%E4%BD%9C%E8%BD%AF%E4%BB%B6%E7%9A%84&from=hot_mine
+- Desc: 武志红 李雪
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2+%E6%9D%8E%E9%9B%AA&from=hot_mine
 
-### 易梦玲巴黎被偷
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 易梦玲巴黎被偷
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%81%B7&from=hot_mine
-
-### 咸鱼飞升
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 咸鱼飞升 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%92%B8%E9%B1%BC%E9%A3%9E%E5%8D%87&from=hot_mine
-
-### 崔秀彬公司未回应
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 崔秀彬公司未回应 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%B4%94%E7%A7%80%E5%BD%AC%E5%85%AC%E5%8F%B8%E6%9C%AA%E5%9B%9E%E5%BA%94&from=hot_mine
-
-### 女子往店里搬水男子帮忙却被造黄谣
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 女子往店里搬水男子帮忙却被造黄谣
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%BE%80%E5%BA%97%E9%87%8C%E6%90%AC%E6%B0%B4%E7%94%B7%E5%AD%90%E5%B8%AE%E5%BF%99%E5%8D%B4%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3&from=hot_mine
-
-### 男子捡到38000元留了道题给失主
+### 拟出台的中国AI禁令震动全球
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 男子捡到38000元留了道题给失主 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B038000%E5%85%83%E7%95%99%E4%BA%86%E9%81%93%E9%A2%98%E7%BB%99%E5%A4%B1%E4%B8%BB&from=hot_search
+- Desc: 拟出台的中国AI禁令震动全球
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%8B%9F%E5%87%BA%E5%8F%B0%E7%9A%84%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83&from=hot_search
 
-### 法国乱成一锅粥了还有人威胁中国
+### 台独给周杰伦扣帽子国台办回应
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 法国乱成一锅粥了还有人威胁中国 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD&from=hot_search
+- Desc: 台独给周杰伦扣帽子国台办回应 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E7%8B%AC%E7%BB%99%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%89%A3%E5%B8%BD%E5%AD%90%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94&from=hot_search
 
-### 医保个人账户跨省共济落地全国
+### 一组数字看震撼人心的伟大远征
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 医保个人账户跨省共济落地全国
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%B7%A8%E7%9C%81%E5%85%B1%E6%B5%8E%E8%90%BD%E5%9C%B0%E5%85%A8%E5%9B%BD&from=hot_search
+- Desc: 一组数字看震撼人心的伟大远征
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%80%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%8B%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%E7%9A%84%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81&from=hot_search
+
+### 问界起火
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 问界起火 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8C%E8%B5%B7%E7%81%AB&from=hot_search
+
+### 全球手机销量暴跌
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 全球手机销量暴跌 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C&from=hot_search
+
+### 目前我国只批准两款L3车型
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 目前我国只批准两款L3车型
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%9B%AE%E5%89%8D%E6%88%91%E5%9B%BD%E5%8F%AA%E6%89%B9%E5%87%86%E4%B8%A4%E6%AC%BEL3%E8%BD%A6%E5%9E%8B&from=hot_search
+
+### 魏娆养母 伥鬼
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 魏娆养母 伥鬼 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E5%85%BB%E6%AF%8D+%E4%BC%A5%E9%AC%BC&from=hot_search
 
 ### 国家癌症中心公布发病前五癌症
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 国家癌症中心公布发病前五癌症 新
-- Published At: 2026-10-21T00:30:42.161Z
+- Desc: 国家癌症中心公布发病前五癌症
+- Published At: 2026-10-21T05:57:01.193Z
 - URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87&from=hot_search
 
-### 曾辉回应和韩雨彤参加恋综
+### 甲状腺癌为何越来越多
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 曾辉回应和韩雨彤参加恋综 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E8%BE%89%E5%9B%9E%E5%BA%94%E5%92%8C%E9%9F%A9%E9%9B%A8%E5%BD%A4%E5%8F%82%E5%8A%A0%E6%81%8B%E7%BB%BC&from=hot_search
+- Desc: 甲状腺癌为何越来越多
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A&from=hot_search
 
-### 巴黎圣日耳曼4比2巴萨
+### 雷霆马刺大冲突
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 巴黎圣日耳曼4比2巴萨
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC4%E6%AF%942%E5%B7%B4%E8%90%A8&from=hot_search
+- Desc: 雷霆马刺大冲突
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A7%E5%86%B2%E7%AA%81&from=hot_search
 
-### 油车电车10年成本账怎么算
+### 毛不易在朋友婚礼上的致辞
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 油车电车10年成本账怎么算
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%B9%E8%BD%A6%E7%94%B5%E8%BD%A610%E5%B9%B4%E6%88%90%E6%9C%AC%E8%B4%A6%E6%80%8E%E4%B9%88%E7%AE%97&from=hot_search
+- Desc: 毛不易在朋友婚礼上的致辞 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%87%B4%E8%BE%9E&from=hot_search
 
-### 蔡天凤前公公买绞肉机监控曝光
+### 曝艺人自费高定
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 蔡天凤前公公买绞肉机监控曝光 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%89%8D%E5%85%AC%E5%85%AC%E4%B9%B0%E7%BB%9E%E8%82%89%E6%9C%BA%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&from=hot_search
+- Desc: 曝艺人自费高定 热
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E8%89%BA%E4%BA%BA%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A&from=hot_search
 
-### 大闸蟹价格暴跌超40%
+### 曝90花不满芭莎红毯顺序
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 大闸蟹价格暴跌超40% 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%8540%25&from=hot_search
+- Desc: 曝90花不满芭莎红毯顺序 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D90%E8%8A%B1%E4%B8%8D%E6%BB%A1%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF%E9%A1%BA%E5%BA%8F&from=hot_search
 
-### NBA
+### 刘恺威曾谈对杨幂的第一印象
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: NBA 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=NBA&from=hot_search
+- Desc: 刘恺威曾谈对杨幂的第一印象 热
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E6%9B%BE%E8%B0%88%E5%AF%B9%E6%9D%A8%E5%B9%82%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1&from=hot_search
 
-### 易梦玲因护照被偷错过维密秀
+### 武志红李雪分手多年恩怨
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 易梦玲因护照被偷错过维密秀 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9B%A0%E6%8A%A4%E7%85%A7%E8%A2%AB%E5%81%B7%E9%94%99%E8%BF%87%E7%BB%B4%E5%AF%86%E7%A7%80&from=hot_search
+- Desc: 武志红李雪分手多年恩怨 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%88%86%E6%89%8B%E5%A4%9A%E5%B9%B4%E6%81%A9%E6%80%A8&from=hot_search
 
-### 陆毅鲍蕾女儿18岁生日试装
+### iPhoneDuo开箱
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 陆毅鲍蕾女儿18岁生日试装
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE%E5%A5%B3%E5%84%BF18%E5%B2%81%E7%94%9F%E6%97%A5%E8%AF%95%E8%A3%85&from=hot_search
+- Desc: iPhoneDuo开箱
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=iPhoneDuo%E5%BC%80%E7%AE%B1&from=hot_search
 
-### 疑似崔秀彬照片事件当事人回应
+### 陈瑜林子濠结婚
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 疑似崔秀彬照片事件当事人回应 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E5%B4%94%E7%A7%80%E5%BD%AC%E7%85%A7%E7%89%87%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&from=hot_search
+- Desc: 陈瑜林子濠结婚
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E7%91%9C%E6%9E%97%E5%AD%90%E6%BF%A0%E7%BB%93%E5%A9%9A&from=hot_search
 
-### 王一博是istp
+### 律师谈肖战二开不退票
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 王一博是istp 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%AFistp&from=hot_search
+- Desc: 律师谈肖战二开不退票
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E8%82%96%E6%88%98%E4%BA%8C%E5%BC%80%E4%B8%8D%E9%80%80%E7%A5%A8&from=hot_search
 
-### 南海
+### 电视剧三平台破万的演员只有7位
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 南海
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%97%E6%B5%B7&from=hot_search
+- Desc: 电视剧三平台破万的演员只有7位 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%89%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87%E7%9A%84%E6%BC%94%E5%91%98%E5%8F%AA%E6%9C%897%E4%BD%8D&from=hot_search
 
-### 德国盾构机卖印度需中国放行
+### 国台办回应民进党当局拒绝张凌赫赴台
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 德国盾构机卖印度需中国放行 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%8D%96%E5%8D%B0%E5%BA%A6%E9%9C%80%E4%B8%AD%E5%9B%BD%E6%94%BE%E8%A1%8C&from=hot_search
+- Desc: 国台办回应民进党当局拒绝张凌赫赴台
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%B1%80%E6%8B%92%E7%BB%9D%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B4%E5%8F%B0&from=hot_search
 
-### 刘雯维密回归太权威了
+### 第一次见豆包发脾气
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 刘雯维密回归太权威了
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%AF%E7%BB%B4%E5%AF%86%E5%9B%9E%E5%BD%92%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86&from=hot_search
+- Desc: 第一次见豆包发脾气 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%B1%86%E5%8C%85%E5%8F%91%E8%84%BE%E6%B0%94&from=hot_search
 
-### 詹姆斯76人生涯首分
+### 曝买了高定可以先借样衣穿
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 詹姆斯76人生涯首分 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86&from=hot_search
+- Desc: 曝买了高定可以先借样衣穿 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E4%B9%B0%E4%BA%86%E9%AB%98%E5%AE%9A%E5%8F%AF%E4%BB%A5%E5%85%88%E5%80%9F%E6%A0%B7%E8%A1%A3%E7%A9%BF&from=hot_search
 
-### 塔图姆23中6
+### 魏娆终于跟母亲相认了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 塔图姆23中6 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A1%94%E5%9B%BE%E5%A7%8623%E4%B8%AD6&from=hot_search
+- Desc: 魏娆终于跟母亲相认了 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E7%BB%88%E4%BA%8E%E8%B7%9F%E6%AF%8D%E4%BA%B2%E7%9B%B8%E8%AE%A4%E4%BA%86&from=hot_search
 
-### 钟南山不老秘诀是抗阻训练
+### 肖战刘铮亮跟前女友借钱
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 钟南山不老秘诀是抗阻训练 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8D%E8%80%81%E7%A7%98%E8%AF%80%E6%98%AF%E6%8A%97%E9%98%BB%E8%AE%AD%E7%BB%83&from=hot_search
+- Desc: 肖战刘铮亮跟前女友借钱 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E8%B7%9F%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%80%9F%E9%92%B1&from=hot_search
 
-### 唐禹哲获刑1年7个月缓刑3年
+### 高梓淇回应和前妻关系
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 唐禹哲获刑1年7个月缓刑3年 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%94%90%E7%A6%B9%E5%93%B2%E8%8E%B7%E5%88%911%E5%B9%B47%E4%B8%AA%E6%9C%88%E7%BC%93%E5%88%913%E5%B9%B4&from=hot_search
+- Desc: 高梓淇回应和前妻关系 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E6%A2%93%E6%B7%87%E5%9B%9E%E5%BA%94%E5%92%8C%E5%89%8D%E5%A6%BB%E5%85%B3%E7%B3%BB&from=hot_search
 
-### 鼓浪屿冷清不复当年盛景
+### 武志红李雪公开互撕
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 鼓浪屿冷清不复当年盛景 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%BC%93%E6%B5%AA%E5%B1%BF%E5%86%B7%E6%B8%85%E4%B8%8D%E5%A4%8D%E5%BD%93%E5%B9%B4%E7%9B%9B%E6%99%AF&from=hot_search
+- Desc: 武志红李雪公开互撕
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%85%AC%E5%BC%80%E4%BA%92%E6%92%95&from=hot_search
 
-### 大冰教你百试不爽拒绝借钱
+### A股
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 大冰教你百试不爽拒绝借钱 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E6%95%99%E4%BD%A0%E7%99%BE%E8%AF%95%E4%B8%8D%E7%88%BD%E6%8B%92%E7%BB%9D%E5%80%9F%E9%92%B1&from=hot_search
+- Desc: A股
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=A%E8%82%A1&from=hot_search
 
-### 沈阳致6死16伤公交事故多人被处理
+### 女子节食减肥半年瘦9公斤查出骨肌双亏
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 沈阳致6死16伤公交事故多人被处理 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E8%87%B46%E6%AD%BB16%E4%BC%A4%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86&from=hot_search
+- Desc: 女子节食减肥半年瘦9公斤查出骨肌双亏
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%8A%82%E9%A3%9F%E5%87%8F%E8%82%A5%E5%8D%8A%E5%B9%B4%E7%98%A69%E5%85%AC%E6%96%A4%E6%9F%A5%E5%87%BA%E9%AA%A8%E8%82%8C%E5%8F%8C%E4%BA%8F&from=hot_search
 
-### 中国体操男队世锦赛铜牌
+### 有孩子刚上托班就买小天才手表
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 中国体操男队世锦赛铜牌 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E7%94%B7%E9%98%9F%E4%B8%96%E9%94%A6%E8%B5%9B%E9%93%9C%E7%89%8C&from=hot_search
+- Desc: 有孩子刚上托班就买小天才手表 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9C%89%E5%AD%A9%E5%AD%90%E5%88%9A%E4%B8%8A%E6%89%98%E7%8F%AD%E5%B0%B1%E4%B9%B0%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8&from=hot_search
 
-### 到底谁把微信变成工作软件的
+### 武志红 李雪
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 到底谁把微信变成工作软件的
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%B0%E5%BA%95%E8%B0%81%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%8F%98%E6%88%90%E5%B7%A5%E4%BD%9C%E8%BD%AF%E4%BB%B6%E7%9A%84&from=hot_search
+- Desc: 武志红 李雪
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2+%E6%9D%8E%E9%9B%AA&from=hot_search
 
-### 易梦玲巴黎被偷
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 易梦玲巴黎被偷
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%81%B7&from=hot_search
-
-### 咸鱼飞升
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 咸鱼飞升 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%92%B8%E9%B1%BC%E9%A3%9E%E5%8D%87&from=hot_search
-
-### 崔秀彬公司未回应
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 崔秀彬公司未回应 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%B4%94%E7%A7%80%E5%BD%AC%E5%85%AC%E5%8F%B8%E6%9C%AA%E5%9B%9E%E5%BA%94&from=hot_search
-
-### 女子往店里搬水男子帮忙却被造黄谣
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 女子往店里搬水男子帮忙却被造黄谣
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%BE%80%E5%BA%97%E9%87%8C%E6%90%AC%E6%B0%B4%E7%94%B7%E5%AD%90%E5%B8%AE%E5%BF%99%E5%8D%B4%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3&from=hot_search
-
-### 男子捡到38000元留了道题给失主
+### 拟出台的中国AI禁令震动全球
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 男子捡到38000元留了道题给失主 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B038000%E5%85%83%E7%95%99%E4%BA%86%E9%81%93%E9%A2%98%E7%BB%99%E5%A4%B1%E4%B8%BB&from=hot_entertainment
+- Desc: 拟出台的中国AI禁令震动全球
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%8B%9F%E5%87%BA%E5%8F%B0%E7%9A%84%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83&from=hot_entertainment
 
-### 法国乱成一锅粥了还有人威胁中国
+### 台独给周杰伦扣帽子国台办回应
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 法国乱成一锅粥了还有人威胁中国 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD&from=hot_entertainment
+- Desc: 台独给周杰伦扣帽子国台办回应 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E7%8B%AC%E7%BB%99%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%89%A3%E5%B8%BD%E5%AD%90%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94&from=hot_entertainment
 
-### 医保个人账户跨省共济落地全国
+### 一组数字看震撼人心的伟大远征
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 医保个人账户跨省共济落地全国
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%B7%A8%E7%9C%81%E5%85%B1%E6%B5%8E%E8%90%BD%E5%9C%B0%E5%85%A8%E5%9B%BD&from=hot_entertainment
+- Desc: 一组数字看震撼人心的伟大远征
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%80%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%8B%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%E7%9A%84%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81&from=hot_entertainment
+
+### 问界起火
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 问界起火 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8C%E8%B5%B7%E7%81%AB&from=hot_entertainment
+
+### 全球手机销量暴跌
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 全球手机销量暴跌 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C&from=hot_entertainment
+
+### 目前我国只批准两款L3车型
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 目前我国只批准两款L3车型
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%9B%AE%E5%89%8D%E6%88%91%E5%9B%BD%E5%8F%AA%E6%89%B9%E5%87%86%E4%B8%A4%E6%AC%BEL3%E8%BD%A6%E5%9E%8B&from=hot_entertainment
+
+### 魏娆养母 伥鬼
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 魏娆养母 伥鬼 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E5%85%BB%E6%AF%8D+%E4%BC%A5%E9%AC%BC&from=hot_entertainment
 
 ### 国家癌症中心公布发病前五癌症
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 国家癌症中心公布发病前五癌症 新
-- Published At: 2026-10-21T00:30:42.161Z
+- Desc: 国家癌症中心公布发病前五癌症
+- Published At: 2026-10-21T05:57:01.193Z
 - URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87&from=hot_entertainment
 
-### 曾辉回应和韩雨彤参加恋综
+### 甲状腺癌为何越来越多
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 曾辉回应和韩雨彤参加恋综 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E8%BE%89%E5%9B%9E%E5%BA%94%E5%92%8C%E9%9F%A9%E9%9B%A8%E5%BD%A4%E5%8F%82%E5%8A%A0%E6%81%8B%E7%BB%BC&from=hot_entertainment
+- Desc: 甲状腺癌为何越来越多
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A&from=hot_entertainment
 
-### 巴黎圣日耳曼4比2巴萨
+### 雷霆马刺大冲突
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 巴黎圣日耳曼4比2巴萨
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC4%E6%AF%942%E5%B7%B4%E8%90%A8&from=hot_entertainment
+- Desc: 雷霆马刺大冲突
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A7%E5%86%B2%E7%AA%81&from=hot_entertainment
 
-### 油车电车10年成本账怎么算
+### 毛不易在朋友婚礼上的致辞
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 油车电车10年成本账怎么算
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%B9%E8%BD%A6%E7%94%B5%E8%BD%A610%E5%B9%B4%E6%88%90%E6%9C%AC%E8%B4%A6%E6%80%8E%E4%B9%88%E7%AE%97&from=hot_entertainment
+- Desc: 毛不易在朋友婚礼上的致辞 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%87%B4%E8%BE%9E&from=hot_entertainment
 
-### 蔡天凤前公公买绞肉机监控曝光
+### 曝艺人自费高定
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 蔡天凤前公公买绞肉机监控曝光 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%89%8D%E5%85%AC%E5%85%AC%E4%B9%B0%E7%BB%9E%E8%82%89%E6%9C%BA%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&from=hot_entertainment
+- Desc: 曝艺人自费高定 热
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E8%89%BA%E4%BA%BA%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A&from=hot_entertainment
 
-### 大闸蟹价格暴跌超40%
+### 曝90花不满芭莎红毯顺序
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 大闸蟹价格暴跌超40% 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%8540%25&from=hot_entertainment
+- Desc: 曝90花不满芭莎红毯顺序 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D90%E8%8A%B1%E4%B8%8D%E6%BB%A1%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF%E9%A1%BA%E5%BA%8F&from=hot_entertainment
 
-### NBA
+### 刘恺威曾谈对杨幂的第一印象
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: NBA 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=NBA&from=hot_entertainment
+- Desc: 刘恺威曾谈对杨幂的第一印象 热
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E6%9B%BE%E8%B0%88%E5%AF%B9%E6%9D%A8%E5%B9%82%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1&from=hot_entertainment
 
-### 易梦玲因护照被偷错过维密秀
+### 武志红李雪分手多年恩怨
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 易梦玲因护照被偷错过维密秀 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9B%A0%E6%8A%A4%E7%85%A7%E8%A2%AB%E5%81%B7%E9%94%99%E8%BF%87%E7%BB%B4%E5%AF%86%E7%A7%80&from=hot_entertainment
+- Desc: 武志红李雪分手多年恩怨 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%88%86%E6%89%8B%E5%A4%9A%E5%B9%B4%E6%81%A9%E6%80%A8&from=hot_entertainment
 
-### 陆毅鲍蕾女儿18岁生日试装
+### iPhoneDuo开箱
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 陆毅鲍蕾女儿18岁生日试装
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE%E5%A5%B3%E5%84%BF18%E5%B2%81%E7%94%9F%E6%97%A5%E8%AF%95%E8%A3%85&from=hot_entertainment
+- Desc: iPhoneDuo开箱
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=iPhoneDuo%E5%BC%80%E7%AE%B1&from=hot_entertainment
 
-### 疑似崔秀彬照片事件当事人回应
+### 陈瑜林子濠结婚
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 疑似崔秀彬照片事件当事人回应 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E5%B4%94%E7%A7%80%E5%BD%AC%E7%85%A7%E7%89%87%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&from=hot_entertainment
+- Desc: 陈瑜林子濠结婚
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E7%91%9C%E6%9E%97%E5%AD%90%E6%BF%A0%E7%BB%93%E5%A9%9A&from=hot_entertainment
 
-### 王一博是istp
+### 律师谈肖战二开不退票
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 王一博是istp 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%AFistp&from=hot_entertainment
+- Desc: 律师谈肖战二开不退票
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E8%82%96%E6%88%98%E4%BA%8C%E5%BC%80%E4%B8%8D%E9%80%80%E7%A5%A8&from=hot_entertainment
 
-### 南海
+### 电视剧三平台破万的演员只有7位
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 南海
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%97%E6%B5%B7&from=hot_entertainment
+- Desc: 电视剧三平台破万的演员只有7位 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%89%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87%E7%9A%84%E6%BC%94%E5%91%98%E5%8F%AA%E6%9C%897%E4%BD%8D&from=hot_entertainment
 
-### 德国盾构机卖印度需中国放行
+### 国台办回应民进党当局拒绝张凌赫赴台
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 德国盾构机卖印度需中国放行 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%8D%96%E5%8D%B0%E5%BA%A6%E9%9C%80%E4%B8%AD%E5%9B%BD%E6%94%BE%E8%A1%8C&from=hot_entertainment
+- Desc: 国台办回应民进党当局拒绝张凌赫赴台
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%B1%80%E6%8B%92%E7%BB%9D%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B4%E5%8F%B0&from=hot_entertainment
 
-### 刘雯维密回归太权威了
+### 第一次见豆包发脾气
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 刘雯维密回归太权威了
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%AF%E7%BB%B4%E5%AF%86%E5%9B%9E%E5%BD%92%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86&from=hot_entertainment
+- Desc: 第一次见豆包发脾气 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%B1%86%E5%8C%85%E5%8F%91%E8%84%BE%E6%B0%94&from=hot_entertainment
 
-### 詹姆斯76人生涯首分
+### 曝买了高定可以先借样衣穿
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 詹姆斯76人生涯首分 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86&from=hot_entertainment
+- Desc: 曝买了高定可以先借样衣穿 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E4%B9%B0%E4%BA%86%E9%AB%98%E5%AE%9A%E5%8F%AF%E4%BB%A5%E5%85%88%E5%80%9F%E6%A0%B7%E8%A1%A3%E7%A9%BF&from=hot_entertainment
 
-### 塔图姆23中6
+### 魏娆终于跟母亲相认了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 塔图姆23中6 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A1%94%E5%9B%BE%E5%A7%8623%E4%B8%AD6&from=hot_entertainment
+- Desc: 魏娆终于跟母亲相认了 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E7%BB%88%E4%BA%8E%E8%B7%9F%E6%AF%8D%E4%BA%B2%E7%9B%B8%E8%AE%A4%E4%BA%86&from=hot_entertainment
 
-### 钟南山不老秘诀是抗阻训练
+### 肖战刘铮亮跟前女友借钱
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 钟南山不老秘诀是抗阻训练 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8D%E8%80%81%E7%A7%98%E8%AF%80%E6%98%AF%E6%8A%97%E9%98%BB%E8%AE%AD%E7%BB%83&from=hot_entertainment
+- Desc: 肖战刘铮亮跟前女友借钱 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E8%B7%9F%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%80%9F%E9%92%B1&from=hot_entertainment
 
-### 唐禹哲获刑1年7个月缓刑3年
+### 高梓淇回应和前妻关系
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 唐禹哲获刑1年7个月缓刑3年 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%94%90%E7%A6%B9%E5%93%B2%E8%8E%B7%E5%88%911%E5%B9%B47%E4%B8%AA%E6%9C%88%E7%BC%93%E5%88%913%E5%B9%B4&from=hot_entertainment
+- Desc: 高梓淇回应和前妻关系 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E6%A2%93%E6%B7%87%E5%9B%9E%E5%BA%94%E5%92%8C%E5%89%8D%E5%A6%BB%E5%85%B3%E7%B3%BB&from=hot_entertainment
 
-### 鼓浪屿冷清不复当年盛景
+### 武志红李雪公开互撕
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 鼓浪屿冷清不复当年盛景 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%BC%93%E6%B5%AA%E5%B1%BF%E5%86%B7%E6%B8%85%E4%B8%8D%E5%A4%8D%E5%BD%93%E5%B9%B4%E7%9B%9B%E6%99%AF&from=hot_entertainment
+- Desc: 武志红李雪公开互撕
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%85%AC%E5%BC%80%E4%BA%92%E6%92%95&from=hot_entertainment
 
-### 大冰教你百试不爽拒绝借钱
+### A股
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 大冰教你百试不爽拒绝借钱 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E6%95%99%E4%BD%A0%E7%99%BE%E8%AF%95%E4%B8%8D%E7%88%BD%E6%8B%92%E7%BB%9D%E5%80%9F%E9%92%B1&from=hot_entertainment
+- Desc: A股
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=A%E8%82%A1&from=hot_entertainment
 
-### 沈阳致6死16伤公交事故多人被处理
+### 女子节食减肥半年瘦9公斤查出骨肌双亏
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 沈阳致6死16伤公交事故多人被处理 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E8%87%B46%E6%AD%BB16%E4%BC%A4%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86&from=hot_entertainment
+- Desc: 女子节食减肥半年瘦9公斤查出骨肌双亏
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%8A%82%E9%A3%9F%E5%87%8F%E8%82%A5%E5%8D%8A%E5%B9%B4%E7%98%A69%E5%85%AC%E6%96%A4%E6%9F%A5%E5%87%BA%E9%AA%A8%E8%82%8C%E5%8F%8C%E4%BA%8F&from=hot_entertainment
 
-### 中国体操男队世锦赛铜牌
+### 有孩子刚上托班就买小天才手表
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 中国体操男队世锦赛铜牌 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E7%94%B7%E9%98%9F%E4%B8%96%E9%94%A6%E8%B5%9B%E9%93%9C%E7%89%8C&from=hot_entertainment
+- Desc: 有孩子刚上托班就买小天才手表 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9C%89%E5%AD%A9%E5%AD%90%E5%88%9A%E4%B8%8A%E6%89%98%E7%8F%AD%E5%B0%B1%E4%B9%B0%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8&from=hot_entertainment
 
-### 到底谁把微信变成工作软件的
+### 武志红 李雪
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 到底谁把微信变成工作软件的
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%B0%E5%BA%95%E8%B0%81%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%8F%98%E6%88%90%E5%B7%A5%E4%BD%9C%E8%BD%AF%E4%BB%B6%E7%9A%84&from=hot_entertainment
+- Desc: 武志红 李雪
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2+%E6%9D%8E%E9%9B%AA&from=hot_entertainment
 
-### 易梦玲巴黎被偷
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 易梦玲巴黎被偷
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%81%B7&from=hot_entertainment
-
-### 咸鱼飞升
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 咸鱼飞升 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%92%B8%E9%B1%BC%E9%A3%9E%E5%8D%87&from=hot_entertainment
-
-### 崔秀彬公司未回应
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 崔秀彬公司未回应 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%B4%94%E7%A7%80%E5%BD%AC%E5%85%AC%E5%8F%B8%E6%9C%AA%E5%9B%9E%E5%BA%94&from=hot_entertainment
-
-### 女子往店里搬水男子帮忙却被造黄谣
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 女子往店里搬水男子帮忙却被造黄谣
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%BE%80%E5%BA%97%E9%87%8C%E6%90%AC%E6%B0%B4%E7%94%B7%E5%AD%90%E5%B8%AE%E5%BF%99%E5%8D%B4%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3&from=hot_entertainment
-
-### 男子捡到38000元留了道题给失主
+### 拟出台的中国AI禁令震动全球
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 男子捡到38000元留了道题给失主 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B038000%E5%85%83%E7%95%99%E4%BA%86%E9%81%93%E9%A2%98%E7%BB%99%E5%A4%B1%E4%B8%BB&from=hot_life
+- Desc: 拟出台的中国AI禁令震动全球
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%8B%9F%E5%87%BA%E5%8F%B0%E7%9A%84%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83&from=hot_life
 
-### 法国乱成一锅粥了还有人威胁中国
+### 台独给周杰伦扣帽子国台办回应
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 法国乱成一锅粥了还有人威胁中国 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD&from=hot_life
+- Desc: 台独给周杰伦扣帽子国台办回应 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E7%8B%AC%E7%BB%99%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%89%A3%E5%B8%BD%E5%AD%90%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94&from=hot_life
 
-### 医保个人账户跨省共济落地全国
+### 一组数字看震撼人心的伟大远征
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 医保个人账户跨省共济落地全国
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%B7%A8%E7%9C%81%E5%85%B1%E6%B5%8E%E8%90%BD%E5%9C%B0%E5%85%A8%E5%9B%BD&from=hot_life
+- Desc: 一组数字看震撼人心的伟大远征
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%80%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%8B%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%E7%9A%84%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81&from=hot_life
+
+### 问界起火
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 问界起火 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8C%E8%B5%B7%E7%81%AB&from=hot_life
+
+### 全球手机销量暴跌
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 全球手机销量暴跌 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C&from=hot_life
+
+### 目前我国只批准两款L3车型
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 目前我国只批准两款L3车型
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%9B%AE%E5%89%8D%E6%88%91%E5%9B%BD%E5%8F%AA%E6%89%B9%E5%87%86%E4%B8%A4%E6%AC%BEL3%E8%BD%A6%E5%9E%8B&from=hot_life
+
+### 魏娆养母 伥鬼
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 魏娆养母 伥鬼 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E5%85%BB%E6%AF%8D+%E4%BC%A5%E9%AC%BC&from=hot_life
 
 ### 国家癌症中心公布发病前五癌症
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 国家癌症中心公布发病前五癌症 新
-- Published At: 2026-10-21T00:30:42.161Z
+- Desc: 国家癌症中心公布发病前五癌症
+- Published At: 2026-10-21T05:57:01.193Z
 - URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87&from=hot_life
 
-### 曾辉回应和韩雨彤参加恋综
+### 甲状腺癌为何越来越多
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 曾辉回应和韩雨彤参加恋综 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E8%BE%89%E5%9B%9E%E5%BA%94%E5%92%8C%E9%9F%A9%E9%9B%A8%E5%BD%A4%E5%8F%82%E5%8A%A0%E6%81%8B%E7%BB%BC&from=hot_life
+- Desc: 甲状腺癌为何越来越多
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A&from=hot_life
 
-### 巴黎圣日耳曼4比2巴萨
+### 雷霆马刺大冲突
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 巴黎圣日耳曼4比2巴萨
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC4%E6%AF%942%E5%B7%B4%E8%90%A8&from=hot_life
+- Desc: 雷霆马刺大冲突
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A7%E5%86%B2%E7%AA%81&from=hot_life
 
-### 油车电车10年成本账怎么算
+### 毛不易在朋友婚礼上的致辞
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 油车电车10年成本账怎么算
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%B9%E8%BD%A6%E7%94%B5%E8%BD%A610%E5%B9%B4%E6%88%90%E6%9C%AC%E8%B4%A6%E6%80%8E%E4%B9%88%E7%AE%97&from=hot_life
+- Desc: 毛不易在朋友婚礼上的致辞 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%87%B4%E8%BE%9E&from=hot_life
 
-### 蔡天凤前公公买绞肉机监控曝光
+### 曝艺人自费高定
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 蔡天凤前公公买绞肉机监控曝光 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%89%8D%E5%85%AC%E5%85%AC%E4%B9%B0%E7%BB%9E%E8%82%89%E6%9C%BA%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&from=hot_life
+- Desc: 曝艺人自费高定 热
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E8%89%BA%E4%BA%BA%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A&from=hot_life
 
-### 大闸蟹价格暴跌超40%
+### 曝90花不满芭莎红毯顺序
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 大闸蟹价格暴跌超40% 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%8540%25&from=hot_life
+- Desc: 曝90花不满芭莎红毯顺序 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D90%E8%8A%B1%E4%B8%8D%E6%BB%A1%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF%E9%A1%BA%E5%BA%8F&from=hot_life
 
-### NBA
+### 刘恺威曾谈对杨幂的第一印象
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: NBA 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=NBA&from=hot_life
+- Desc: 刘恺威曾谈对杨幂的第一印象 热
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E6%9B%BE%E8%B0%88%E5%AF%B9%E6%9D%A8%E5%B9%82%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1&from=hot_life
 
-### 易梦玲因护照被偷错过维密秀
+### 武志红李雪分手多年恩怨
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 易梦玲因护照被偷错过维密秀 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9B%A0%E6%8A%A4%E7%85%A7%E8%A2%AB%E5%81%B7%E9%94%99%E8%BF%87%E7%BB%B4%E5%AF%86%E7%A7%80&from=hot_life
+- Desc: 武志红李雪分手多年恩怨 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%88%86%E6%89%8B%E5%A4%9A%E5%B9%B4%E6%81%A9%E6%80%A8&from=hot_life
 
-### 陆毅鲍蕾女儿18岁生日试装
+### iPhoneDuo开箱
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 陆毅鲍蕾女儿18岁生日试装
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE%E5%A5%B3%E5%84%BF18%E5%B2%81%E7%94%9F%E6%97%A5%E8%AF%95%E8%A3%85&from=hot_life
+- Desc: iPhoneDuo开箱
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=iPhoneDuo%E5%BC%80%E7%AE%B1&from=hot_life
 
-### 疑似崔秀彬照片事件当事人回应
+### 陈瑜林子濠结婚
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 疑似崔秀彬照片事件当事人回应 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E5%B4%94%E7%A7%80%E5%BD%AC%E7%85%A7%E7%89%87%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&from=hot_life
+- Desc: 陈瑜林子濠结婚
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E7%91%9C%E6%9E%97%E5%AD%90%E6%BF%A0%E7%BB%93%E5%A9%9A&from=hot_life
 
-### 王一博是istp
+### 律师谈肖战二开不退票
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 王一博是istp 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%AFistp&from=hot_life
+- Desc: 律师谈肖战二开不退票
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E8%82%96%E6%88%98%E4%BA%8C%E5%BC%80%E4%B8%8D%E9%80%80%E7%A5%A8&from=hot_life
 
-### 南海
+### 电视剧三平台破万的演员只有7位
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 南海
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%97%E6%B5%B7&from=hot_life
+- Desc: 电视剧三平台破万的演员只有7位 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%89%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87%E7%9A%84%E6%BC%94%E5%91%98%E5%8F%AA%E6%9C%897%E4%BD%8D&from=hot_life
 
-### 德国盾构机卖印度需中国放行
+### 国台办回应民进党当局拒绝张凌赫赴台
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 德国盾构机卖印度需中国放行 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%8D%96%E5%8D%B0%E5%BA%A6%E9%9C%80%E4%B8%AD%E5%9B%BD%E6%94%BE%E8%A1%8C&from=hot_life
+- Desc: 国台办回应民进党当局拒绝张凌赫赴台
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%B1%80%E6%8B%92%E7%BB%9D%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B4%E5%8F%B0&from=hot_life
 
-### 刘雯维密回归太权威了
+### 第一次见豆包发脾气
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 刘雯维密回归太权威了
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%AF%E7%BB%B4%E5%AF%86%E5%9B%9E%E5%BD%92%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86&from=hot_life
+- Desc: 第一次见豆包发脾气 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%B1%86%E5%8C%85%E5%8F%91%E8%84%BE%E6%B0%94&from=hot_life
 
-### 詹姆斯76人生涯首分
+### 曝买了高定可以先借样衣穿
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 詹姆斯76人生涯首分 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86&from=hot_life
+- Desc: 曝买了高定可以先借样衣穿 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E4%B9%B0%E4%BA%86%E9%AB%98%E5%AE%9A%E5%8F%AF%E4%BB%A5%E5%85%88%E5%80%9F%E6%A0%B7%E8%A1%A3%E7%A9%BF&from=hot_life
 
-### 塔图姆23中6
+### 魏娆终于跟母亲相认了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 塔图姆23中6 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A1%94%E5%9B%BE%E5%A7%8623%E4%B8%AD6&from=hot_life
+- Desc: 魏娆终于跟母亲相认了 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E7%BB%88%E4%BA%8E%E8%B7%9F%E6%AF%8D%E4%BA%B2%E7%9B%B8%E8%AE%A4%E4%BA%86&from=hot_life
 
-### 钟南山不老秘诀是抗阻训练
+### 肖战刘铮亮跟前女友借钱
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 钟南山不老秘诀是抗阻训练 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8D%E8%80%81%E7%A7%98%E8%AF%80%E6%98%AF%E6%8A%97%E9%98%BB%E8%AE%AD%E7%BB%83&from=hot_life
+- Desc: 肖战刘铮亮跟前女友借钱 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E8%B7%9F%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%80%9F%E9%92%B1&from=hot_life
 
-### 唐禹哲获刑1年7个月缓刑3年
+### 高梓淇回应和前妻关系
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 唐禹哲获刑1年7个月缓刑3年 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%94%90%E7%A6%B9%E5%93%B2%E8%8E%B7%E5%88%911%E5%B9%B47%E4%B8%AA%E6%9C%88%E7%BC%93%E5%88%913%E5%B9%B4&from=hot_life
+- Desc: 高梓淇回应和前妻关系 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E6%A2%93%E6%B7%87%E5%9B%9E%E5%BA%94%E5%92%8C%E5%89%8D%E5%A6%BB%E5%85%B3%E7%B3%BB&from=hot_life
 
-### 鼓浪屿冷清不复当年盛景
+### 武志红李雪公开互撕
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 鼓浪屿冷清不复当年盛景 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%BC%93%E6%B5%AA%E5%B1%BF%E5%86%B7%E6%B8%85%E4%B8%8D%E5%A4%8D%E5%BD%93%E5%B9%B4%E7%9B%9B%E6%99%AF&from=hot_life
+- Desc: 武志红李雪公开互撕
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%85%AC%E5%BC%80%E4%BA%92%E6%92%95&from=hot_life
 
-### 大冰教你百试不爽拒绝借钱
+### A股
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 大冰教你百试不爽拒绝借钱 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E6%95%99%E4%BD%A0%E7%99%BE%E8%AF%95%E4%B8%8D%E7%88%BD%E6%8B%92%E7%BB%9D%E5%80%9F%E9%92%B1&from=hot_life
+- Desc: A股
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=A%E8%82%A1&from=hot_life
 
-### 沈阳致6死16伤公交事故多人被处理
+### 女子节食减肥半年瘦9公斤查出骨肌双亏
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 沈阳致6死16伤公交事故多人被处理 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E8%87%B46%E6%AD%BB16%E4%BC%A4%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86&from=hot_life
+- Desc: 女子节食减肥半年瘦9公斤查出骨肌双亏
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%8A%82%E9%A3%9F%E5%87%8F%E8%82%A5%E5%8D%8A%E5%B9%B4%E7%98%A69%E5%85%AC%E6%96%A4%E6%9F%A5%E5%87%BA%E9%AA%A8%E8%82%8C%E5%8F%8C%E4%BA%8F&from=hot_life
 
-### 中国体操男队世锦赛铜牌
+### 有孩子刚上托班就买小天才手表
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 中国体操男队世锦赛铜牌 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E7%94%B7%E9%98%9F%E4%B8%96%E9%94%A6%E8%B5%9B%E9%93%9C%E7%89%8C&from=hot_life
+- Desc: 有孩子刚上托班就买小天才手表 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9C%89%E5%AD%A9%E5%AD%90%E5%88%9A%E4%B8%8A%E6%89%98%E7%8F%AD%E5%B0%B1%E4%B9%B0%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8&from=hot_life
 
-### 到底谁把微信变成工作软件的
+### 武志红 李雪
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 到底谁把微信变成工作软件的
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%B0%E5%BA%95%E8%B0%81%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%8F%98%E6%88%90%E5%B7%A5%E4%BD%9C%E8%BD%AF%E4%BB%B6%E7%9A%84&from=hot_life
+- Desc: 武志红 李雪
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2+%E6%9D%8E%E9%9B%AA&from=hot_life
 
-### 易梦玲巴黎被偷
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 易梦玲巴黎被偷
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%81%B7&from=hot_life
-
-### 咸鱼飞升
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 咸鱼飞升 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%92%B8%E9%B1%BC%E9%A3%9E%E5%8D%87&from=hot_life
-
-### 崔秀彬公司未回应
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 崔秀彬公司未回应 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%B4%94%E7%A7%80%E5%BD%AC%E5%85%AC%E5%8F%B8%E6%9C%AA%E5%9B%9E%E5%BA%94&from=hot_life
-
-### 女子往店里搬水男子帮忙却被造黄谣
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 女子往店里搬水男子帮忙却被造黄谣
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%BE%80%E5%BA%97%E9%87%8C%E6%90%AC%E6%B0%B4%E7%94%B7%E5%AD%90%E5%B8%AE%E5%BF%99%E5%8D%B4%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3&from=hot_life
-
-### 男子捡到38000元留了道题给失主
+### 拟出台的中国AI禁令震动全球
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 男子捡到38000元留了道题给失主 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B038000%E5%85%83%E7%95%99%E4%BA%86%E9%81%93%E9%A2%98%E7%BB%99%E5%A4%B1%E4%B8%BB&from=hot_social
+- Desc: 拟出台的中国AI禁令震动全球
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%8B%9F%E5%87%BA%E5%8F%B0%E7%9A%84%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83&from=hot_social
 
-### 法国乱成一锅粥了还有人威胁中国
+### 台独给周杰伦扣帽子国台办回应
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 法国乱成一锅粥了还有人威胁中国 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%E4%BA%86%E8%BF%98%E6%9C%89%E4%BA%BA%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD&from=hot_social
+- Desc: 台独给周杰伦扣帽子国台办回应 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%8F%B0%E7%8B%AC%E7%BB%99%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%89%A3%E5%B8%BD%E5%AD%90%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94&from=hot_social
 
-### 医保个人账户跨省共济落地全国
+### 一组数字看震撼人心的伟大远征
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 医保个人账户跨省共济落地全国
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%B7%A8%E7%9C%81%E5%85%B1%E6%B5%8E%E8%90%BD%E5%9C%B0%E5%85%A8%E5%9B%BD&from=hot_social
+- Desc: 一组数字看震撼人心的伟大远征
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%80%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%8B%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%E7%9A%84%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81&from=hot_social
+
+### 问界起火
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 问界起火 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8C%E8%B5%B7%E7%81%AB&from=hot_social
+
+### 全球手机销量暴跌
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 全球手机销量暴跌 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C&from=hot_social
+
+### 目前我国只批准两款L3车型
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 目前我国只批准两款L3车型
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%9B%AE%E5%89%8D%E6%88%91%E5%9B%BD%E5%8F%AA%E6%89%B9%E5%87%86%E4%B8%A4%E6%AC%BEL3%E8%BD%A6%E5%9E%8B&from=hot_social
+
+### 魏娆养母 伥鬼
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 魏娆养母 伥鬼 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E5%85%BB%E6%AF%8D+%E4%BC%A5%E9%AC%BC&from=hot_social
 
 ### 国家癌症中心公布发病前五癌症
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 国家癌症中心公布发病前五癌症 新
-- Published At: 2026-10-21T00:30:42.161Z
+- Desc: 国家癌症中心公布发病前五癌症
+- Published At: 2026-10-21T05:57:01.193Z
 - URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87&from=hot_social
 
-### 曾辉回应和韩雨彤参加恋综
+### 甲状腺癌为何越来越多
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 曾辉回应和韩雨彤参加恋综 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%BE%E8%BE%89%E5%9B%9E%E5%BA%94%E5%92%8C%E9%9F%A9%E9%9B%A8%E5%BD%A4%E5%8F%82%E5%8A%A0%E6%81%8B%E7%BB%BC&from=hot_social
+- Desc: 甲状腺癌为何越来越多
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A&from=hot_social
 
-### 巴黎圣日耳曼4比2巴萨
+### 雷霆马刺大冲突
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 巴黎圣日耳曼4比2巴萨
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC4%E6%AF%942%E5%B7%B4%E8%90%A8&from=hot_social
+- Desc: 雷霆马刺大冲突
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A7%E5%86%B2%E7%AA%81&from=hot_social
 
-### 油车电车10年成本账怎么算
+### 毛不易在朋友婚礼上的致辞
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 油车电车10年成本账怎么算
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%B9%E8%BD%A6%E7%94%B5%E8%BD%A610%E5%B9%B4%E6%88%90%E6%9C%AC%E8%B4%A6%E6%80%8E%E4%B9%88%E7%AE%97&from=hot_social
+- Desc: 毛不易在朋友婚礼上的致辞 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%87%B4%E8%BE%9E&from=hot_social
 
-### 蔡天凤前公公买绞肉机监控曝光
+### 曝艺人自费高定
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 蔡天凤前公公买绞肉机监控曝光 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%89%8D%E5%85%AC%E5%85%AC%E4%B9%B0%E7%BB%9E%E8%82%89%E6%9C%BA%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89&from=hot_social
+- Desc: 曝艺人自费高定 热
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E8%89%BA%E4%BA%BA%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A&from=hot_social
 
-### 大闸蟹价格暴跌超40%
+### 曝90花不满芭莎红毯顺序
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 大闸蟹价格暴跌超40% 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%8540%25&from=hot_social
+- Desc: 曝90花不满芭莎红毯顺序 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D90%E8%8A%B1%E4%B8%8D%E6%BB%A1%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF%E9%A1%BA%E5%BA%8F&from=hot_social
 
-### NBA
+### 刘恺威曾谈对杨幂的第一印象
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: NBA 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=NBA&from=hot_social
+- Desc: 刘恺威曾谈对杨幂的第一印象 热
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E6%9B%BE%E8%B0%88%E5%AF%B9%E6%9D%A8%E5%B9%82%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1&from=hot_social
 
-### 易梦玲因护照被偷错过维密秀
+### 武志红李雪分手多年恩怨
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 易梦玲因护照被偷错过维密秀 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9B%A0%E6%8A%A4%E7%85%A7%E8%A2%AB%E5%81%B7%E9%94%99%E8%BF%87%E7%BB%B4%E5%AF%86%E7%A7%80&from=hot_social
+- Desc: 武志红李雪分手多年恩怨 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%88%86%E6%89%8B%E5%A4%9A%E5%B9%B4%E6%81%A9%E6%80%A8&from=hot_social
 
-### 陆毅鲍蕾女儿18岁生日试装
+### iPhoneDuo开箱
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 陆毅鲍蕾女儿18岁生日试装
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE%E5%A5%B3%E5%84%BF18%E5%B2%81%E7%94%9F%E6%97%A5%E8%AF%95%E8%A3%85&from=hot_social
+- Desc: iPhoneDuo开箱
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=iPhoneDuo%E5%BC%80%E7%AE%B1&from=hot_social
 
-### 疑似崔秀彬照片事件当事人回应
+### 陈瑜林子濠结婚
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 疑似崔秀彬照片事件当事人回应 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E5%B4%94%E7%A7%80%E5%BD%AC%E7%85%A7%E7%89%87%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&from=hot_social
+- Desc: 陈瑜林子濠结婚
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%99%88%E7%91%9C%E6%9E%97%E5%AD%90%E6%BF%A0%E7%BB%93%E5%A9%9A&from=hot_social
 
-### 王一博是istp
+### 律师谈肖战二开不退票
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 王一博是istp 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%AFistp&from=hot_social
+- Desc: 律师谈肖战二开不退票
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E8%82%96%E6%88%98%E4%BA%8C%E5%BC%80%E4%B8%8D%E9%80%80%E7%A5%A8&from=hot_social
 
-### 南海
+### 电视剧三平台破万的演员只有7位
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 南海
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%97%E6%B5%B7&from=hot_social
+- Desc: 电视剧三平台破万的演员只有7位 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%89%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87%E7%9A%84%E6%BC%94%E5%91%98%E5%8F%AA%E6%9C%897%E4%BD%8D&from=hot_social
 
-### 德国盾构机卖印度需中国放行
+### 国台办回应民进党当局拒绝张凌赫赴台
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 德国盾构机卖印度需中国放行 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%8D%96%E5%8D%B0%E5%BA%A6%E9%9C%80%E4%B8%AD%E5%9B%BD%E6%94%BE%E8%A1%8C&from=hot_social
+- Desc: 国台办回应民进党当局拒绝张凌赫赴台
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%B1%80%E6%8B%92%E7%BB%9D%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B4%E5%8F%B0&from=hot_social
 
-### 刘雯维密回归太权威了
+### 第一次见豆包发脾气
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 刘雯维密回归太权威了
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%AF%E7%BB%B4%E5%AF%86%E5%9B%9E%E5%BD%92%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86&from=hot_social
+- Desc: 第一次见豆包发脾气 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%B1%86%E5%8C%85%E5%8F%91%E8%84%BE%E6%B0%94&from=hot_social
 
-### 詹姆斯76人生涯首分
+### 曝买了高定可以先借样衣穿
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 詹姆斯76人生涯首分 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF76%E4%BA%BA%E7%94%9F%E6%B6%AF%E9%A6%96%E5%88%86&from=hot_social
+- Desc: 曝买了高定可以先借样衣穿 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E4%B9%B0%E4%BA%86%E9%AB%98%E5%AE%9A%E5%8F%AF%E4%BB%A5%E5%85%88%E5%80%9F%E6%A0%B7%E8%A1%A3%E7%A9%BF&from=hot_social
 
-### 塔图姆23中6
+### 魏娆终于跟母亲相认了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 塔图姆23中6 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A1%94%E5%9B%BE%E5%A7%8623%E4%B8%AD6&from=hot_social
+- Desc: 魏娆终于跟母亲相认了 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E7%BB%88%E4%BA%8E%E8%B7%9F%E6%AF%8D%E4%BA%B2%E7%9B%B8%E8%AE%A4%E4%BA%86&from=hot_social
 
-### 钟南山不老秘诀是抗阻训练
+### 肖战刘铮亮跟前女友借钱
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 钟南山不老秘诀是抗阻训练 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8D%E8%80%81%E7%A7%98%E8%AF%80%E6%98%AF%E6%8A%97%E9%98%BB%E8%AE%AD%E7%BB%83&from=hot_social
+- Desc: 肖战刘铮亮跟前女友借钱 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E8%B7%9F%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%80%9F%E9%92%B1&from=hot_social
 
-### 唐禹哲获刑1年7个月缓刑3年
+### 高梓淇回应和前妻关系
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 唐禹哲获刑1年7个月缓刑3年 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%94%90%E7%A6%B9%E5%93%B2%E8%8E%B7%E5%88%911%E5%B9%B47%E4%B8%AA%E6%9C%88%E7%BC%93%E5%88%913%E5%B9%B4&from=hot_social
+- Desc: 高梓淇回应和前妻关系 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E6%A2%93%E6%B7%87%E5%9B%9E%E5%BA%94%E5%92%8C%E5%89%8D%E5%A6%BB%E5%85%B3%E7%B3%BB&from=hot_social
 
-### 鼓浪屿冷清不复当年盛景
+### 武志红李雪公开互撕
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 鼓浪屿冷清不复当年盛景 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E9%BC%93%E6%B5%AA%E5%B1%BF%E5%86%B7%E6%B8%85%E4%B8%8D%E5%A4%8D%E5%BD%93%E5%B9%B4%E7%9B%9B%E6%99%AF&from=hot_social
+- Desc: 武志红李雪公开互撕
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%85%AC%E5%BC%80%E4%BA%92%E6%92%95&from=hot_social
 
-### 大冰教你百试不爽拒绝借钱
+### A股
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 大冰教你百试不爽拒绝借钱 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E6%95%99%E4%BD%A0%E7%99%BE%E8%AF%95%E4%B8%8D%E7%88%BD%E6%8B%92%E7%BB%9D%E5%80%9F%E9%92%B1&from=hot_social
+- Desc: A股
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=A%E8%82%A1&from=hot_social
 
-### 沈阳致6死16伤公交事故多人被处理
+### 女子节食减肥半年瘦9公斤查出骨肌双亏
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 沈阳致6死16伤公交事故多人被处理 热
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E8%87%B46%E6%AD%BB16%E4%BC%A4%E5%85%AC%E4%BA%A4%E4%BA%8B%E6%95%85%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86&from=hot_social
+- Desc: 女子节食减肥半年瘦9公斤查出骨肌双亏
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%8A%82%E9%A3%9F%E5%87%8F%E8%82%A5%E5%8D%8A%E5%B9%B4%E7%98%A69%E5%85%AC%E6%96%A4%E6%9F%A5%E5%87%BA%E9%AA%A8%E8%82%8C%E5%8F%8C%E4%BA%8F&from=hot_social
 
-### 中国体操男队世锦赛铜牌
+### 有孩子刚上托班就买小天才手表
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 中国体操男队世锦赛铜牌 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E7%94%B7%E9%98%9F%E4%B8%96%E9%94%A6%E8%B5%9B%E9%93%9C%E7%89%8C&from=hot_social
+- Desc: 有孩子刚上托班就买小天才手表 新
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%9C%89%E5%AD%A9%E5%AD%90%E5%88%9A%E4%B8%8A%E6%89%98%E7%8F%AD%E5%B0%B1%E4%B9%B0%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8&from=hot_social
 
-### 到底谁把微信变成工作软件的
+### 武志红 李雪
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 到底谁把微信变成工作软件的
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%B0%E5%BA%95%E8%B0%81%E6%8A%8A%E5%BE%AE%E4%BF%A1%E5%8F%98%E6%88%90%E5%B7%A5%E4%BD%9C%E8%BD%AF%E4%BB%B6%E7%9A%84&from=hot_social
-
-### 易梦玲巴黎被偷
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 易梦玲巴黎被偷
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%B7%B4%E9%BB%8E%E8%A2%AB%E5%81%B7&from=hot_social
-
-### 咸鱼飞升
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 咸鱼飞升 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%92%B8%E9%B1%BC%E9%A3%9E%E5%8D%87&from=hot_social
-
-### 崔秀彬公司未回应
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 崔秀彬公司未回应 新
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%B4%94%E7%A7%80%E5%BD%AC%E5%85%AC%E5%8F%B8%E6%9C%AA%E5%9B%9E%E5%BA%94&from=hot_social
-
-### 女子往店里搬水男子帮忙却被造黄谣
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 女子往店里搬水男子帮忙却被造黄谣
-- Published At: 2026-10-21T00:30:42.161Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%BE%80%E5%BA%97%E9%87%8C%E6%90%AC%E6%B0%B4%E7%94%B7%E5%AD%90%E5%B8%AE%E5%BF%99%E5%8D%B4%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3&from=hot_social
+- Desc: 武志红 李雪
+- Published At: 2026-10-21T05:57:01.193Z
+- URL: https://s.weibo.com/weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2+%E6%9D%8E%E9%9B%AA&from=hot_social
 
