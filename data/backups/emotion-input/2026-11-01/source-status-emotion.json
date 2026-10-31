@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-31T17:45:44.462Z",
+  "generated_at_local": "2026-11-01T01:45:44.462+08:00",
+  "sites": [
+    {
+      "site_id": "emotion-weibo",
+      "site_name": "微博",
+      "ok": true,
+      "item_count": 150,
+      "duration_ms": 1836,
+      "error": null
+    }
+  ],
+  "successful_sites": 1,
+  "failed_sites": [],
+  "fetched_raw_items": 150,
+  "items_after_filter": 150
+}
