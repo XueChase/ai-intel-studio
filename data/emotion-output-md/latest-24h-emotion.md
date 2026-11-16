@@ -1,6 +1,6 @@
 # Emotion Input Digest
 
-- Generated At: 2026-11-16T18:08:04.774+08:00
+- Generated At: 2026-11-17T03:52:52.689+08:00
 - Window Hours: 24
 - Total Items: 150
 - Source Count: 5
@@ -15,1049 +15,1049 @@
 - Platform: weibo
 - Source: 微博热榜-mine
 - Desc: 中俄美元首会晤将在深圳举行
-- Published At: 2026-11-16T10:08:04.774Z
+- Published At: 2026-11-16T19:52:52.689Z
 - URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C&from=hot_mine
 
-### 为什么手指永远无法相互触碰
+### 终于有人说说干发帽了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 为什么手指永远无法相互触碰 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%8C%87%E6%B0%B8%E8%BF%9C%E6%97%A0%E6%B3%95%E7%9B%B8%E4%BA%92%E8%A7%A6%E7%A2%B0&from=hot_mine
+- Desc: 终于有人说说干发帽了 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86&from=hot_mine
 
-### 中国留下的那些APEC印记
+### 同舟共济开创亚太和世界更美好未来
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 中国留下的那些APEC印记
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E4%B8%8B%E7%9A%84%E9%82%A3%E4%BA%9BAPEC%E5%8D%B0%E8%AE%B0&from=hot_mine
+- Desc: 同舟共济开创亚太和世界更美好未来
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&from=hot_mine
 
-### 赵丽颖刘诗诗持股两京十五日出品方
+### 6年恋爱因一枚戒指分手
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 赵丽颖刘诗诗持股两京十五日出品方 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E8%AF%97%E8%AF%97%E6%8C%81%E8%82%A1%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%87%BA%E5%93%81%E6%96%B9&from=hot_mine
+- Desc: 6年恋爱因一枚戒指分手
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B&from=hot_mine
 
-### 中国女保镖贴身保护墨西哥总统
+### 华尔街日报必须道歉
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 中国女保镖贴身保护墨西哥总统 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BF%9D%E9%95%96%E8%B4%B4%E8%BA%AB%E4%BF%9D%E6%8A%A4%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F&from=hot_mine
+- Desc: 华尔街日报必须道歉
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E5%BF%85%E9%A1%BB%E9%81%93%E6%AD%89&from=hot_mine
 
-### 女子因嫉妒男友疼爱女儿将其捂死
+### 吃了点didi喂
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 女子因嫉妒男友疼爱女儿将其捂死 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%AB%89%E5%A6%92%E7%94%B7%E5%8F%8B%E7%96%BC%E7%88%B1%E5%A5%B3%E5%84%BF%E5%B0%86%E5%85%B6%E6%8D%82%E6%AD%BB&from=hot_mine
-
-### 白小纯看青稚看愣了开始胡言乱语
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 白小纯看青稚看愣了开始胡言乱语
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%8B%E9%9D%92%E7%A8%9A%E7%9C%8B%E6%84%A3%E4%BA%86%E5%BC%80%E5%A7%8B%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD&from=hot_mine
-
-### 中俄美元首历史首次面对面会晤
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 中俄美元首历史首次面对面会晤
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4&from=hot_mine
-
-### 金价或跌至3600美元
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 金价或跌至3600美元 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33600%E7%BE%8E%E5%85%83&from=hot_mine
-
-### 尚公主骑马戏 失明紫薇坐摇摇车
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 尚公主骑马戏 失明紫薇坐摇摇车
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%E9%AA%91%E9%A9%AC%E6%88%8F+%E5%A4%B1%E6%98%8E%E7%B4%AB%E8%96%87%E5%9D%90%E6%91%87%E6%91%87%E8%BD%A6&from=hot_mine
-
-### 无畏中了笔巨款
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 无畏中了笔巨款 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E4%B8%AD%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE&from=hot_mine
-
-### 金子涵称被家人骗到了精神病院
-- Platform: weibo
-- Source: 微博热榜-mine
-- Desc: 金子涵称被家人骗到了精神病院 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&from=hot_mine
+- Desc: 吃了点didi喂 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%83%E4%BA%86%E7%82%B9didi%E5%96%82&from=hot_mine
 
 ### 虞书欣围裙 国外博主原图
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 虞书欣围裙 国外博主原图 新
-- Published At: 2026-11-16T10:08:04.774Z
+- Desc: 虞书欣围裙 国外博主原图 热
+- Published At: 2026-11-16T19:52:52.689Z
 - URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99+%E5%9B%BD%E5%A4%96%E5%8D%9A%E4%B8%BB%E5%8E%9F%E5%9B%BE&from=hot_mine
 
-### 曝厉娜卷入借贷纠纷
+### 金子涵称被家人骗到了精神病院
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 曝厉娜卷入借贷纠纷 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E5%8E%89%E5%A8%9C%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7&from=hot_mine
+- Desc: 金子涵称被家人骗到了精神病院 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&from=hot_mine
 
-### 林一一开始不太喜欢卢昱晓
+### 高市早苗穿菲律宾服饰出席晚宴
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 林一一开始不太喜欢卢昱晓 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%B8%80%E4%B8%80%E5%BC%80%E5%A7%8B%E4%B8%8D%E5%A4%AA%E5%96%9C%E6%AC%A2%E5%8D%A2%E6%98%B1%E6%99%93&from=hot_mine
+- Desc: 高市早苗穿菲律宾服饰出席晚宴
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4&from=hot_mine
 
-### BLG获得100万美元奖金
+### 新007是帕丁森
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: BLG获得100万美元奖金
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=BLG%E8%8E%B7%E5%BE%97100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91&from=hot_mine
+- Desc: 新007是帕丁森
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E6%96%B0007%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE&from=hot_mine
 
-### 创作者回应赵本山翻唱慌啥子嘛
+### 建议大家不要一直穿同一双鞋
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 创作者回应赵本山翻唱慌啥子嘛
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%9B%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%BF%BB%E5%94%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B&from=hot_mine
+- Desc: 建议大家不要一直穿同一双鞋
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E7%A9%BF%E5%90%8C%E4%B8%80%E5%8F%8C%E9%9E%8B&from=hot_mine
 
-### Bin被称LOL史二上LPL史一上
+### 被虞书欣起诉网友发文
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: Bin被称LOL史二上LPL史一上
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=Bin%E8%A2%AB%E7%A7%B0LOL%E5%8F%B2%E4%BA%8C%E4%B8%8ALPL%E5%8F%B2%E4%B8%80%E4%B8%8A&from=hot_mine
+- Desc: 被虞书欣起诉网友发文
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E8%A2%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B7%E8%AF%89%E7%BD%91%E5%8F%8B%E5%8F%91%E6%96%87&from=hot_mine
 
-### 卖1800万轿车一汽大众听劝造纯电L5
+### Knight说训练赛打不过AL
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 卖1800万轿车一汽大众听劝造纯电L5 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%961800%E4%B8%87%E8%BD%BF%E8%BD%A6%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97%E5%90%AC%E5%8A%9D%E9%80%A0%E7%BA%AF%E7%94%B5L5&from=hot_mine
+- Desc: Knight说训练赛打不过AL
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=Knight%E8%AF%B4%E8%AE%AD%E7%BB%83%E8%B5%9B%E6%89%93%E4%B8%8D%E8%BF%87AL&from=hot_mine
 
-### 豆包回应DeepSeek限额
+### 高迪懒得解释
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 豆包回应DeepSeek限额 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94DeepSeek%E9%99%90%E9%A2%9D&from=hot_mine
+- Desc: 高迪懒得解释
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E8%BF%AA%E6%87%92%E5%BE%97%E8%A7%A3%E9%87%8A&from=hot_mine
 
-### 重庆一公司入职体检要查是否怀孕
+### 刘耀文刷到了自己吃蓝莓的视频
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 重庆一公司入职体检要查是否怀孕 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E4%B8%80%E5%85%AC%E5%8F%B8%E5%85%A5%E8%81%8C%E4%BD%93%E6%A3%80%E8%A6%81%E6%9F%A5%E6%98%AF%E5%90%A6%E6%80%80%E5%AD%95&from=hot_mine
+- Desc: 刘耀文刷到了自己吃蓝莓的视频
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E5%88%B7%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E5%90%83%E8%93%9D%E8%8E%93%E7%9A%84%E8%A7%86%E9%A2%91&from=hot_mine
 
-### 蒙淇淇回复虞书欣围裙照
+### 网友给厉娜赐名salina傻厉娜
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 蒙淇淇回复虞书欣围裙照 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%92%99%E6%B7%87%E6%B7%87%E5%9B%9E%E5%A4%8D%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99%E7%85%A7&from=hot_mine
+- Desc: 网友给厉娜赐名salina傻厉娜
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E7%BB%99%E5%8E%89%E5%A8%9C%E8%B5%90%E5%90%8Dsalina%E5%82%BB%E5%8E%89%E5%A8%9C&from=hot_mine
 
-### 苹果被曝2027年发6款iPhone
+### 许飞自曝参加浪姐期间被分手了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 苹果被曝2027年发6款iPhone
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D2027%E5%B9%B4%E5%8F%916%E6%AC%BEiPhone&from=hot_mine
+- Desc: 许飞自曝参加浪姐期间被分手了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86&from=hot_mine
 
-### 女子晒28岁老公喜提亲弟弟
+### 墨西哥总统抵达深圳后做了一个动作
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 女子晒28岁老公喜提亲弟弟
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%99%9228%E5%B2%81%E8%80%81%E5%85%AC%E5%96%9C%E6%8F%90%E4%BA%B2%E5%BC%9F%E5%BC%9F&from=hot_mine
+- Desc: 墨西哥总统抵达深圳后做了一个动作
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%90%8E%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C&from=hot_mine
 
-### 厉娜借款纠纷澄清
+### 波司登羽绒服被吐槽雷霆审美
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 厉娜借款纠纷澄清 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%80%9F%E6%AC%BE%E7%BA%A0%E7%BA%B7%E6%BE%84%E6%B8%85&from=hot_mine
+- Desc: 波司登羽绒服被吐槽雷霆审美
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E9%9B%B7%E9%9C%86%E5%AE%A1%E7%BE%8E&from=hot_mine
 
-### 井柏然孙千今天都在北京上班
+### 亚马尔澄清函全文
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 井柏然孙千今天都在北京上班 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E4%BB%8A%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%8F%AD&from=hot_mine
+- Desc: 亚马尔澄清函全文
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%BE%84%E6%B8%85%E5%87%BD%E5%85%A8%E6%96%87&from=hot_mine
 
-### 北大学生称羽绒服像lululemon
+### 白小纯练枪被女粉落地颗秒
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 北大学生称羽绒服像lululemon
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%83%8Flululemon&from=hot_mine
+- Desc: 白小纯练枪被女粉落地颗秒
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%BB%83%E6%9E%AA%E8%A2%AB%E5%A5%B3%E7%B2%89%E8%90%BD%E5%9C%B0%E9%A2%97%E7%A7%92&from=hot_mine
 
-### 哈利波特魔法觉醒将停服
+### 人一旦用过折叠手机
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 哈利波特魔法觉醒将停服
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%B0%86%E5%81%9C%E6%9C%8D&from=hot_mine
+- Desc: 人一旦用过折叠手机
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E7%94%A8%E8%BF%87%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA&from=hot_mine
 
-### 哈利波特魔法觉醒
+### 不怕了不怕了妈妈来了
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: 哈利波特魔法觉醒
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92&from=hot_mine
+- Desc: 不怕了不怕了妈妈来了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8D%E6%80%95%E4%BA%86%E4%B8%8D%E6%80%95%E4%BA%86%E5%A6%88%E5%A6%88%E6%9D%A5%E4%BA%86&from=hot_mine
 
-### Knight回应Bin是否留队
+### 什么岗位可以随时请一周假
 - Platform: weibo
 - Source: 微博热榜-mine
-- Desc: Knight回应Bin是否留队 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=Knight%E5%9B%9E%E5%BA%94Bin%E6%98%AF%E5%90%A6%E7%95%99%E9%98%9F&from=hot_mine
+- Desc: 什么岗位可以随时请一周假
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%B2%97%E4%BD%8D%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E8%AF%B7%E4%B8%80%E5%91%A8%E5%81%87&from=hot_mine
+
+### 卢昱晓谢谢林一有逐渐清晰看到她
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 卢昱晓谢谢林一有逐渐清晰看到她
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E8%B0%A2%E8%B0%A2%E6%9E%97%E4%B8%80%E6%9C%89%E9%80%90%E6%B8%90%E6%B8%85%E6%99%B0%E7%9C%8B%E5%88%B0%E5%A5%B9&from=hot_mine
+
+### 青稚白小纯营业了
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 青稚白小纯营业了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%90%A5%E4%B8%9A%E4%BA%86&from=hot_mine
+
+### 买衣服一定要知道面料
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 买衣服一定要知道面料
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9F%A5%E9%81%93%E9%9D%A2%E6%96%99&from=hot_mine
+
+### 金子涵求助济南网警
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 金子涵求助济南网警
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E6%B1%82%E5%8A%A9%E6%B5%8E%E5%8D%97%E7%BD%91%E8%AD%A6&from=hot_mine
+
+### 女子不孕十年子宫内长出骨头
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 女子不孕十年子宫内长出骨头
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%AD%95%E5%8D%81%E5%B9%B4%E5%AD%90%E5%AE%AB%E5%86%85%E9%95%BF%E5%87%BA%E9%AA%A8%E5%A4%B4&from=hot_mine
+
+### 金价创今年以来新低
+- Platform: weibo
+- Source: 微博热榜-mine
+- Desc: 金价创今年以来新低
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%88%9B%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%96%B0%E4%BD%8E&from=hot_mine
 
 ### 中俄美元首会晤将在深圳举行
 - Platform: weibo
 - Source: 微博热榜-search
 - Desc: 中俄美元首会晤将在深圳举行
-- Published At: 2026-11-16T10:08:04.774Z
+- Published At: 2026-11-16T19:52:52.689Z
 - URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C&from=hot_search
 
-### 为什么手指永远无法相互触碰
+### 终于有人说说干发帽了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 为什么手指永远无法相互触碰 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%8C%87%E6%B0%B8%E8%BF%9C%E6%97%A0%E6%B3%95%E7%9B%B8%E4%BA%92%E8%A7%A6%E7%A2%B0&from=hot_search
+- Desc: 终于有人说说干发帽了 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86&from=hot_search
 
-### 中国留下的那些APEC印记
+### 同舟共济开创亚太和世界更美好未来
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 中国留下的那些APEC印记
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E4%B8%8B%E7%9A%84%E9%82%A3%E4%BA%9BAPEC%E5%8D%B0%E8%AE%B0&from=hot_search
+- Desc: 同舟共济开创亚太和世界更美好未来
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&from=hot_search
 
-### 赵丽颖刘诗诗持股两京十五日出品方
+### 6年恋爱因一枚戒指分手
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 赵丽颖刘诗诗持股两京十五日出品方 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E8%AF%97%E8%AF%97%E6%8C%81%E8%82%A1%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%87%BA%E5%93%81%E6%96%B9&from=hot_search
+- Desc: 6年恋爱因一枚戒指分手
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B&from=hot_search
 
-### 中国女保镖贴身保护墨西哥总统
+### 华尔街日报必须道歉
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 中国女保镖贴身保护墨西哥总统 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BF%9D%E9%95%96%E8%B4%B4%E8%BA%AB%E4%BF%9D%E6%8A%A4%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F&from=hot_search
+- Desc: 华尔街日报必须道歉
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E5%BF%85%E9%A1%BB%E9%81%93%E6%AD%89&from=hot_search
 
-### 女子因嫉妒男友疼爱女儿将其捂死
+### 吃了点didi喂
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 女子因嫉妒男友疼爱女儿将其捂死 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%AB%89%E5%A6%92%E7%94%B7%E5%8F%8B%E7%96%BC%E7%88%B1%E5%A5%B3%E5%84%BF%E5%B0%86%E5%85%B6%E6%8D%82%E6%AD%BB&from=hot_search
-
-### 白小纯看青稚看愣了开始胡言乱语
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 白小纯看青稚看愣了开始胡言乱语
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%8B%E9%9D%92%E7%A8%9A%E7%9C%8B%E6%84%A3%E4%BA%86%E5%BC%80%E5%A7%8B%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD&from=hot_search
-
-### 中俄美元首历史首次面对面会晤
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 中俄美元首历史首次面对面会晤
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4&from=hot_search
-
-### 金价或跌至3600美元
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 金价或跌至3600美元 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33600%E7%BE%8E%E5%85%83&from=hot_search
-
-### 尚公主骑马戏 失明紫薇坐摇摇车
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 尚公主骑马戏 失明紫薇坐摇摇车
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%E9%AA%91%E9%A9%AC%E6%88%8F+%E5%A4%B1%E6%98%8E%E7%B4%AB%E8%96%87%E5%9D%90%E6%91%87%E6%91%87%E8%BD%A6&from=hot_search
-
-### 无畏中了笔巨款
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 无畏中了笔巨款 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E4%B8%AD%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE&from=hot_search
-
-### 金子涵称被家人骗到了精神病院
-- Platform: weibo
-- Source: 微博热榜-search
-- Desc: 金子涵称被家人骗到了精神病院 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&from=hot_search
+- Desc: 吃了点didi喂 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%83%E4%BA%86%E7%82%B9didi%E5%96%82&from=hot_search
 
 ### 虞书欣围裙 国外博主原图
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 虞书欣围裙 国外博主原图 新
-- Published At: 2026-11-16T10:08:04.774Z
+- Desc: 虞书欣围裙 国外博主原图 热
+- Published At: 2026-11-16T19:52:52.689Z
 - URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99+%E5%9B%BD%E5%A4%96%E5%8D%9A%E4%B8%BB%E5%8E%9F%E5%9B%BE&from=hot_search
 
-### 曝厉娜卷入借贷纠纷
+### 金子涵称被家人骗到了精神病院
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 曝厉娜卷入借贷纠纷 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E5%8E%89%E5%A8%9C%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7&from=hot_search
+- Desc: 金子涵称被家人骗到了精神病院 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&from=hot_search
 
-### 林一一开始不太喜欢卢昱晓
+### 高市早苗穿菲律宾服饰出席晚宴
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 林一一开始不太喜欢卢昱晓 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%B8%80%E4%B8%80%E5%BC%80%E5%A7%8B%E4%B8%8D%E5%A4%AA%E5%96%9C%E6%AC%A2%E5%8D%A2%E6%98%B1%E6%99%93&from=hot_search
+- Desc: 高市早苗穿菲律宾服饰出席晚宴
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4&from=hot_search
 
-### BLG获得100万美元奖金
+### 新007是帕丁森
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: BLG获得100万美元奖金
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=BLG%E8%8E%B7%E5%BE%97100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91&from=hot_search
+- Desc: 新007是帕丁森
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E6%96%B0007%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE&from=hot_search
 
-### 创作者回应赵本山翻唱慌啥子嘛
+### 建议大家不要一直穿同一双鞋
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 创作者回应赵本山翻唱慌啥子嘛
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%9B%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%BF%BB%E5%94%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B&from=hot_search
+- Desc: 建议大家不要一直穿同一双鞋
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E7%A9%BF%E5%90%8C%E4%B8%80%E5%8F%8C%E9%9E%8B&from=hot_search
 
-### Bin被称LOL史二上LPL史一上
+### 被虞书欣起诉网友发文
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: Bin被称LOL史二上LPL史一上
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=Bin%E8%A2%AB%E7%A7%B0LOL%E5%8F%B2%E4%BA%8C%E4%B8%8ALPL%E5%8F%B2%E4%B8%80%E4%B8%8A&from=hot_search
+- Desc: 被虞书欣起诉网友发文
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E8%A2%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B7%E8%AF%89%E7%BD%91%E5%8F%8B%E5%8F%91%E6%96%87&from=hot_search
 
-### 卖1800万轿车一汽大众听劝造纯电L5
+### Knight说训练赛打不过AL
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 卖1800万轿车一汽大众听劝造纯电L5 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%961800%E4%B8%87%E8%BD%BF%E8%BD%A6%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97%E5%90%AC%E5%8A%9D%E9%80%A0%E7%BA%AF%E7%94%B5L5&from=hot_search
+- Desc: Knight说训练赛打不过AL
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=Knight%E8%AF%B4%E8%AE%AD%E7%BB%83%E8%B5%9B%E6%89%93%E4%B8%8D%E8%BF%87AL&from=hot_search
 
-### 豆包回应DeepSeek限额
+### 高迪懒得解释
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 豆包回应DeepSeek限额 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94DeepSeek%E9%99%90%E9%A2%9D&from=hot_search
+- Desc: 高迪懒得解释
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E8%BF%AA%E6%87%92%E5%BE%97%E8%A7%A3%E9%87%8A&from=hot_search
 
-### 重庆一公司入职体检要查是否怀孕
+### 刘耀文刷到了自己吃蓝莓的视频
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 重庆一公司入职体检要查是否怀孕 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E4%B8%80%E5%85%AC%E5%8F%B8%E5%85%A5%E8%81%8C%E4%BD%93%E6%A3%80%E8%A6%81%E6%9F%A5%E6%98%AF%E5%90%A6%E6%80%80%E5%AD%95&from=hot_search
+- Desc: 刘耀文刷到了自己吃蓝莓的视频
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E5%88%B7%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E5%90%83%E8%93%9D%E8%8E%93%E7%9A%84%E8%A7%86%E9%A2%91&from=hot_search
 
-### 蒙淇淇回复虞书欣围裙照
+### 网友给厉娜赐名salina傻厉娜
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 蒙淇淇回复虞书欣围裙照 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%92%99%E6%B7%87%E6%B7%87%E5%9B%9E%E5%A4%8D%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99%E7%85%A7&from=hot_search
+- Desc: 网友给厉娜赐名salina傻厉娜
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E7%BB%99%E5%8E%89%E5%A8%9C%E8%B5%90%E5%90%8Dsalina%E5%82%BB%E5%8E%89%E5%A8%9C&from=hot_search
 
-### 苹果被曝2027年发6款iPhone
+### 许飞自曝参加浪姐期间被分手了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 苹果被曝2027年发6款iPhone
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D2027%E5%B9%B4%E5%8F%916%E6%AC%BEiPhone&from=hot_search
+- Desc: 许飞自曝参加浪姐期间被分手了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86&from=hot_search
 
-### 女子晒28岁老公喜提亲弟弟
+### 墨西哥总统抵达深圳后做了一个动作
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 女子晒28岁老公喜提亲弟弟
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%99%9228%E5%B2%81%E8%80%81%E5%85%AC%E5%96%9C%E6%8F%90%E4%BA%B2%E5%BC%9F%E5%BC%9F&from=hot_search
+- Desc: 墨西哥总统抵达深圳后做了一个动作
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%90%8E%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C&from=hot_search
 
-### 厉娜借款纠纷澄清
+### 波司登羽绒服被吐槽雷霆审美
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 厉娜借款纠纷澄清 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%80%9F%E6%AC%BE%E7%BA%A0%E7%BA%B7%E6%BE%84%E6%B8%85&from=hot_search
+- Desc: 波司登羽绒服被吐槽雷霆审美
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E9%9B%B7%E9%9C%86%E5%AE%A1%E7%BE%8E&from=hot_search
 
-### 井柏然孙千今天都在北京上班
+### 亚马尔澄清函全文
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 井柏然孙千今天都在北京上班 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E4%BB%8A%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%8F%AD&from=hot_search
+- Desc: 亚马尔澄清函全文
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%BE%84%E6%B8%85%E5%87%BD%E5%85%A8%E6%96%87&from=hot_search
 
-### 北大学生称羽绒服像lululemon
+### 白小纯练枪被女粉落地颗秒
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 北大学生称羽绒服像lululemon
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%83%8Flululemon&from=hot_search
+- Desc: 白小纯练枪被女粉落地颗秒
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%BB%83%E6%9E%AA%E8%A2%AB%E5%A5%B3%E7%B2%89%E8%90%BD%E5%9C%B0%E9%A2%97%E7%A7%92&from=hot_search
 
-### 哈利波特魔法觉醒将停服
+### 人一旦用过折叠手机
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 哈利波特魔法觉醒将停服
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%B0%86%E5%81%9C%E6%9C%8D&from=hot_search
+- Desc: 人一旦用过折叠手机
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E7%94%A8%E8%BF%87%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA&from=hot_search
 
-### 哈利波特魔法觉醒
+### 不怕了不怕了妈妈来了
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: 哈利波特魔法觉醒
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92&from=hot_search
+- Desc: 不怕了不怕了妈妈来了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8D%E6%80%95%E4%BA%86%E4%B8%8D%E6%80%95%E4%BA%86%E5%A6%88%E5%A6%88%E6%9D%A5%E4%BA%86&from=hot_search
 
-### Knight回应Bin是否留队
+### 什么岗位可以随时请一周假
 - Platform: weibo
 - Source: 微博热榜-search
-- Desc: Knight回应Bin是否留队 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=Knight%E5%9B%9E%E5%BA%94Bin%E6%98%AF%E5%90%A6%E7%95%99%E9%98%9F&from=hot_search
+- Desc: 什么岗位可以随时请一周假
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%B2%97%E4%BD%8D%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E8%AF%B7%E4%B8%80%E5%91%A8%E5%81%87&from=hot_search
+
+### 卢昱晓谢谢林一有逐渐清晰看到她
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 卢昱晓谢谢林一有逐渐清晰看到她
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E8%B0%A2%E8%B0%A2%E6%9E%97%E4%B8%80%E6%9C%89%E9%80%90%E6%B8%90%E6%B8%85%E6%99%B0%E7%9C%8B%E5%88%B0%E5%A5%B9&from=hot_search
+
+### 青稚白小纯营业了
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 青稚白小纯营业了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%90%A5%E4%B8%9A%E4%BA%86&from=hot_search
+
+### 买衣服一定要知道面料
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 买衣服一定要知道面料
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9F%A5%E9%81%93%E9%9D%A2%E6%96%99&from=hot_search
+
+### 金子涵求助济南网警
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 金子涵求助济南网警
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E6%B1%82%E5%8A%A9%E6%B5%8E%E5%8D%97%E7%BD%91%E8%AD%A6&from=hot_search
+
+### 女子不孕十年子宫内长出骨头
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 女子不孕十年子宫内长出骨头
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%AD%95%E5%8D%81%E5%B9%B4%E5%AD%90%E5%AE%AB%E5%86%85%E9%95%BF%E5%87%BA%E9%AA%A8%E5%A4%B4&from=hot_search
+
+### 金价创今年以来新低
+- Platform: weibo
+- Source: 微博热榜-search
+- Desc: 金价创今年以来新低
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%88%9B%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%96%B0%E4%BD%8E&from=hot_search
 
 ### 中俄美元首会晤将在深圳举行
 - Platform: weibo
 - Source: 微博热榜-entertainment
 - Desc: 中俄美元首会晤将在深圳举行
-- Published At: 2026-11-16T10:08:04.774Z
+- Published At: 2026-11-16T19:52:52.689Z
 - URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C&from=hot_entertainment
 
-### 为什么手指永远无法相互触碰
+### 终于有人说说干发帽了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 为什么手指永远无法相互触碰 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%8C%87%E6%B0%B8%E8%BF%9C%E6%97%A0%E6%B3%95%E7%9B%B8%E4%BA%92%E8%A7%A6%E7%A2%B0&from=hot_entertainment
+- Desc: 终于有人说说干发帽了 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86&from=hot_entertainment
 
-### 中国留下的那些APEC印记
+### 同舟共济开创亚太和世界更美好未来
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 中国留下的那些APEC印记
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E4%B8%8B%E7%9A%84%E9%82%A3%E4%BA%9BAPEC%E5%8D%B0%E8%AE%B0&from=hot_entertainment
+- Desc: 同舟共济开创亚太和世界更美好未来
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&from=hot_entertainment
 
-### 赵丽颖刘诗诗持股两京十五日出品方
+### 6年恋爱因一枚戒指分手
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 赵丽颖刘诗诗持股两京十五日出品方 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E8%AF%97%E8%AF%97%E6%8C%81%E8%82%A1%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%87%BA%E5%93%81%E6%96%B9&from=hot_entertainment
+- Desc: 6年恋爱因一枚戒指分手
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B&from=hot_entertainment
 
-### 中国女保镖贴身保护墨西哥总统
+### 华尔街日报必须道歉
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 中国女保镖贴身保护墨西哥总统 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BF%9D%E9%95%96%E8%B4%B4%E8%BA%AB%E4%BF%9D%E6%8A%A4%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F&from=hot_entertainment
+- Desc: 华尔街日报必须道歉
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E5%BF%85%E9%A1%BB%E9%81%93%E6%AD%89&from=hot_entertainment
 
-### 女子因嫉妒男友疼爱女儿将其捂死
+### 吃了点didi喂
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 女子因嫉妒男友疼爱女儿将其捂死 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%AB%89%E5%A6%92%E7%94%B7%E5%8F%8B%E7%96%BC%E7%88%B1%E5%A5%B3%E5%84%BF%E5%B0%86%E5%85%B6%E6%8D%82%E6%AD%BB&from=hot_entertainment
-
-### 白小纯看青稚看愣了开始胡言乱语
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 白小纯看青稚看愣了开始胡言乱语
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%8B%E9%9D%92%E7%A8%9A%E7%9C%8B%E6%84%A3%E4%BA%86%E5%BC%80%E5%A7%8B%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD&from=hot_entertainment
-
-### 中俄美元首历史首次面对面会晤
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 中俄美元首历史首次面对面会晤
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4&from=hot_entertainment
-
-### 金价或跌至3600美元
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 金价或跌至3600美元 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33600%E7%BE%8E%E5%85%83&from=hot_entertainment
-
-### 尚公主骑马戏 失明紫薇坐摇摇车
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 尚公主骑马戏 失明紫薇坐摇摇车
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%E9%AA%91%E9%A9%AC%E6%88%8F+%E5%A4%B1%E6%98%8E%E7%B4%AB%E8%96%87%E5%9D%90%E6%91%87%E6%91%87%E8%BD%A6&from=hot_entertainment
-
-### 无畏中了笔巨款
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 无畏中了笔巨款 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E4%B8%AD%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE&from=hot_entertainment
-
-### 金子涵称被家人骗到了精神病院
-- Platform: weibo
-- Source: 微博热榜-entertainment
-- Desc: 金子涵称被家人骗到了精神病院 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&from=hot_entertainment
+- Desc: 吃了点didi喂 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%83%E4%BA%86%E7%82%B9didi%E5%96%82&from=hot_entertainment
 
 ### 虞书欣围裙 国外博主原图
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 虞书欣围裙 国外博主原图 新
-- Published At: 2026-11-16T10:08:04.774Z
+- Desc: 虞书欣围裙 国外博主原图 热
+- Published At: 2026-11-16T19:52:52.689Z
 - URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99+%E5%9B%BD%E5%A4%96%E5%8D%9A%E4%B8%BB%E5%8E%9F%E5%9B%BE&from=hot_entertainment
 
-### 曝厉娜卷入借贷纠纷
+### 金子涵称被家人骗到了精神病院
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 曝厉娜卷入借贷纠纷 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E5%8E%89%E5%A8%9C%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7&from=hot_entertainment
+- Desc: 金子涵称被家人骗到了精神病院 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&from=hot_entertainment
 
-### 林一一开始不太喜欢卢昱晓
+### 高市早苗穿菲律宾服饰出席晚宴
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 林一一开始不太喜欢卢昱晓 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%B8%80%E4%B8%80%E5%BC%80%E5%A7%8B%E4%B8%8D%E5%A4%AA%E5%96%9C%E6%AC%A2%E5%8D%A2%E6%98%B1%E6%99%93&from=hot_entertainment
+- Desc: 高市早苗穿菲律宾服饰出席晚宴
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4&from=hot_entertainment
 
-### BLG获得100万美元奖金
+### 新007是帕丁森
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: BLG获得100万美元奖金
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=BLG%E8%8E%B7%E5%BE%97100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91&from=hot_entertainment
+- Desc: 新007是帕丁森
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E6%96%B0007%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE&from=hot_entertainment
 
-### 创作者回应赵本山翻唱慌啥子嘛
+### 建议大家不要一直穿同一双鞋
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 创作者回应赵本山翻唱慌啥子嘛
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%9B%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%BF%BB%E5%94%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B&from=hot_entertainment
+- Desc: 建议大家不要一直穿同一双鞋
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E7%A9%BF%E5%90%8C%E4%B8%80%E5%8F%8C%E9%9E%8B&from=hot_entertainment
 
-### Bin被称LOL史二上LPL史一上
+### 被虞书欣起诉网友发文
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: Bin被称LOL史二上LPL史一上
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=Bin%E8%A2%AB%E7%A7%B0LOL%E5%8F%B2%E4%BA%8C%E4%B8%8ALPL%E5%8F%B2%E4%B8%80%E4%B8%8A&from=hot_entertainment
+- Desc: 被虞书欣起诉网友发文
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E8%A2%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B7%E8%AF%89%E7%BD%91%E5%8F%8B%E5%8F%91%E6%96%87&from=hot_entertainment
 
-### 卖1800万轿车一汽大众听劝造纯电L5
+### Knight说训练赛打不过AL
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 卖1800万轿车一汽大众听劝造纯电L5 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%961800%E4%B8%87%E8%BD%BF%E8%BD%A6%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97%E5%90%AC%E5%8A%9D%E9%80%A0%E7%BA%AF%E7%94%B5L5&from=hot_entertainment
+- Desc: Knight说训练赛打不过AL
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=Knight%E8%AF%B4%E8%AE%AD%E7%BB%83%E8%B5%9B%E6%89%93%E4%B8%8D%E8%BF%87AL&from=hot_entertainment
 
-### 豆包回应DeepSeek限额
+### 高迪懒得解释
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 豆包回应DeepSeek限额 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94DeepSeek%E9%99%90%E9%A2%9D&from=hot_entertainment
+- Desc: 高迪懒得解释
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E8%BF%AA%E6%87%92%E5%BE%97%E8%A7%A3%E9%87%8A&from=hot_entertainment
 
-### 重庆一公司入职体检要查是否怀孕
+### 刘耀文刷到了自己吃蓝莓的视频
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 重庆一公司入职体检要查是否怀孕 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E4%B8%80%E5%85%AC%E5%8F%B8%E5%85%A5%E8%81%8C%E4%BD%93%E6%A3%80%E8%A6%81%E6%9F%A5%E6%98%AF%E5%90%A6%E6%80%80%E5%AD%95&from=hot_entertainment
+- Desc: 刘耀文刷到了自己吃蓝莓的视频
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E5%88%B7%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E5%90%83%E8%93%9D%E8%8E%93%E7%9A%84%E8%A7%86%E9%A2%91&from=hot_entertainment
 
-### 蒙淇淇回复虞书欣围裙照
+### 网友给厉娜赐名salina傻厉娜
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 蒙淇淇回复虞书欣围裙照 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%92%99%E6%B7%87%E6%B7%87%E5%9B%9E%E5%A4%8D%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99%E7%85%A7&from=hot_entertainment
+- Desc: 网友给厉娜赐名salina傻厉娜
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E7%BB%99%E5%8E%89%E5%A8%9C%E8%B5%90%E5%90%8Dsalina%E5%82%BB%E5%8E%89%E5%A8%9C&from=hot_entertainment
 
-### 苹果被曝2027年发6款iPhone
+### 许飞自曝参加浪姐期间被分手了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 苹果被曝2027年发6款iPhone
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D2027%E5%B9%B4%E5%8F%916%E6%AC%BEiPhone&from=hot_entertainment
+- Desc: 许飞自曝参加浪姐期间被分手了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86&from=hot_entertainment
 
-### 女子晒28岁老公喜提亲弟弟
+### 墨西哥总统抵达深圳后做了一个动作
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 女子晒28岁老公喜提亲弟弟
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%99%9228%E5%B2%81%E8%80%81%E5%85%AC%E5%96%9C%E6%8F%90%E4%BA%B2%E5%BC%9F%E5%BC%9F&from=hot_entertainment
+- Desc: 墨西哥总统抵达深圳后做了一个动作
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%90%8E%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C&from=hot_entertainment
 
-### 厉娜借款纠纷澄清
+### 波司登羽绒服被吐槽雷霆审美
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 厉娜借款纠纷澄清 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%80%9F%E6%AC%BE%E7%BA%A0%E7%BA%B7%E6%BE%84%E6%B8%85&from=hot_entertainment
+- Desc: 波司登羽绒服被吐槽雷霆审美
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E9%9B%B7%E9%9C%86%E5%AE%A1%E7%BE%8E&from=hot_entertainment
 
-### 井柏然孙千今天都在北京上班
+### 亚马尔澄清函全文
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 井柏然孙千今天都在北京上班 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E4%BB%8A%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%8F%AD&from=hot_entertainment
+- Desc: 亚马尔澄清函全文
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%BE%84%E6%B8%85%E5%87%BD%E5%85%A8%E6%96%87&from=hot_entertainment
 
-### 北大学生称羽绒服像lululemon
+### 白小纯练枪被女粉落地颗秒
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 北大学生称羽绒服像lululemon
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%83%8Flululemon&from=hot_entertainment
+- Desc: 白小纯练枪被女粉落地颗秒
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%BB%83%E6%9E%AA%E8%A2%AB%E5%A5%B3%E7%B2%89%E8%90%BD%E5%9C%B0%E9%A2%97%E7%A7%92&from=hot_entertainment
 
-### 哈利波特魔法觉醒将停服
+### 人一旦用过折叠手机
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 哈利波特魔法觉醒将停服
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%B0%86%E5%81%9C%E6%9C%8D&from=hot_entertainment
+- Desc: 人一旦用过折叠手机
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E7%94%A8%E8%BF%87%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA&from=hot_entertainment
 
-### 哈利波特魔法觉醒
+### 不怕了不怕了妈妈来了
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: 哈利波特魔法觉醒
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92&from=hot_entertainment
+- Desc: 不怕了不怕了妈妈来了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8D%E6%80%95%E4%BA%86%E4%B8%8D%E6%80%95%E4%BA%86%E5%A6%88%E5%A6%88%E6%9D%A5%E4%BA%86&from=hot_entertainment
 
-### Knight回应Bin是否留队
+### 什么岗位可以随时请一周假
 - Platform: weibo
 - Source: 微博热榜-entertainment
-- Desc: Knight回应Bin是否留队 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=Knight%E5%9B%9E%E5%BA%94Bin%E6%98%AF%E5%90%A6%E7%95%99%E9%98%9F&from=hot_entertainment
+- Desc: 什么岗位可以随时请一周假
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%B2%97%E4%BD%8D%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E8%AF%B7%E4%B8%80%E5%91%A8%E5%81%87&from=hot_entertainment
+
+### 卢昱晓谢谢林一有逐渐清晰看到她
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 卢昱晓谢谢林一有逐渐清晰看到她
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E8%B0%A2%E8%B0%A2%E6%9E%97%E4%B8%80%E6%9C%89%E9%80%90%E6%B8%90%E6%B8%85%E6%99%B0%E7%9C%8B%E5%88%B0%E5%A5%B9&from=hot_entertainment
+
+### 青稚白小纯营业了
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 青稚白小纯营业了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%90%A5%E4%B8%9A%E4%BA%86&from=hot_entertainment
+
+### 买衣服一定要知道面料
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 买衣服一定要知道面料
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9F%A5%E9%81%93%E9%9D%A2%E6%96%99&from=hot_entertainment
+
+### 金子涵求助济南网警
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 金子涵求助济南网警
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E6%B1%82%E5%8A%A9%E6%B5%8E%E5%8D%97%E7%BD%91%E8%AD%A6&from=hot_entertainment
+
+### 女子不孕十年子宫内长出骨头
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 女子不孕十年子宫内长出骨头
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%AD%95%E5%8D%81%E5%B9%B4%E5%AD%90%E5%AE%AB%E5%86%85%E9%95%BF%E5%87%BA%E9%AA%A8%E5%A4%B4&from=hot_entertainment
+
+### 金价创今年以来新低
+- Platform: weibo
+- Source: 微博热榜-entertainment
+- Desc: 金价创今年以来新低
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%88%9B%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%96%B0%E4%BD%8E&from=hot_entertainment
 
 ### 中俄美元首会晤将在深圳举行
 - Platform: weibo
 - Source: 微博热榜-life
 - Desc: 中俄美元首会晤将在深圳举行
-- Published At: 2026-11-16T10:08:04.774Z
+- Published At: 2026-11-16T19:52:52.689Z
 - URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C&from=hot_life
 
-### 为什么手指永远无法相互触碰
+### 终于有人说说干发帽了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 为什么手指永远无法相互触碰 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%8C%87%E6%B0%B8%E8%BF%9C%E6%97%A0%E6%B3%95%E7%9B%B8%E4%BA%92%E8%A7%A6%E7%A2%B0&from=hot_life
+- Desc: 终于有人说说干发帽了 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86&from=hot_life
 
-### 中国留下的那些APEC印记
+### 同舟共济开创亚太和世界更美好未来
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 中国留下的那些APEC印记
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E4%B8%8B%E7%9A%84%E9%82%A3%E4%BA%9BAPEC%E5%8D%B0%E8%AE%B0&from=hot_life
+- Desc: 同舟共济开创亚太和世界更美好未来
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&from=hot_life
 
-### 赵丽颖刘诗诗持股两京十五日出品方
+### 6年恋爱因一枚戒指分手
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 赵丽颖刘诗诗持股两京十五日出品方 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E8%AF%97%E8%AF%97%E6%8C%81%E8%82%A1%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%87%BA%E5%93%81%E6%96%B9&from=hot_life
+- Desc: 6年恋爱因一枚戒指分手
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B&from=hot_life
 
-### 中国女保镖贴身保护墨西哥总统
+### 华尔街日报必须道歉
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 中国女保镖贴身保护墨西哥总统 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BF%9D%E9%95%96%E8%B4%B4%E8%BA%AB%E4%BF%9D%E6%8A%A4%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F&from=hot_life
+- Desc: 华尔街日报必须道歉
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E5%BF%85%E9%A1%BB%E9%81%93%E6%AD%89&from=hot_life
 
-### 女子因嫉妒男友疼爱女儿将其捂死
+### 吃了点didi喂
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 女子因嫉妒男友疼爱女儿将其捂死 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%AB%89%E5%A6%92%E7%94%B7%E5%8F%8B%E7%96%BC%E7%88%B1%E5%A5%B3%E5%84%BF%E5%B0%86%E5%85%B6%E6%8D%82%E6%AD%BB&from=hot_life
-
-### 白小纯看青稚看愣了开始胡言乱语
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 白小纯看青稚看愣了开始胡言乱语
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%8B%E9%9D%92%E7%A8%9A%E7%9C%8B%E6%84%A3%E4%BA%86%E5%BC%80%E5%A7%8B%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD&from=hot_life
-
-### 中俄美元首历史首次面对面会晤
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 中俄美元首历史首次面对面会晤
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4&from=hot_life
-
-### 金价或跌至3600美元
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 金价或跌至3600美元 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33600%E7%BE%8E%E5%85%83&from=hot_life
-
-### 尚公主骑马戏 失明紫薇坐摇摇车
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 尚公主骑马戏 失明紫薇坐摇摇车
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%E9%AA%91%E9%A9%AC%E6%88%8F+%E5%A4%B1%E6%98%8E%E7%B4%AB%E8%96%87%E5%9D%90%E6%91%87%E6%91%87%E8%BD%A6&from=hot_life
-
-### 无畏中了笔巨款
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 无畏中了笔巨款 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E4%B8%AD%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE&from=hot_life
-
-### 金子涵称被家人骗到了精神病院
-- Platform: weibo
-- Source: 微博热榜-life
-- Desc: 金子涵称被家人骗到了精神病院 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&from=hot_life
+- Desc: 吃了点didi喂 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%83%E4%BA%86%E7%82%B9didi%E5%96%82&from=hot_life
 
 ### 虞书欣围裙 国外博主原图
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 虞书欣围裙 国外博主原图 新
-- Published At: 2026-11-16T10:08:04.774Z
+- Desc: 虞书欣围裙 国外博主原图 热
+- Published At: 2026-11-16T19:52:52.689Z
 - URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99+%E5%9B%BD%E5%A4%96%E5%8D%9A%E4%B8%BB%E5%8E%9F%E5%9B%BE&from=hot_life
 
-### 曝厉娜卷入借贷纠纷
+### 金子涵称被家人骗到了精神病院
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 曝厉娜卷入借贷纠纷 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E5%8E%89%E5%A8%9C%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7&from=hot_life
+- Desc: 金子涵称被家人骗到了精神病院 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&from=hot_life
 
-### 林一一开始不太喜欢卢昱晓
+### 高市早苗穿菲律宾服饰出席晚宴
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 林一一开始不太喜欢卢昱晓 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%B8%80%E4%B8%80%E5%BC%80%E5%A7%8B%E4%B8%8D%E5%A4%AA%E5%96%9C%E6%AC%A2%E5%8D%A2%E6%98%B1%E6%99%93&from=hot_life
+- Desc: 高市早苗穿菲律宾服饰出席晚宴
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4&from=hot_life
 
-### BLG获得100万美元奖金
+### 新007是帕丁森
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: BLG获得100万美元奖金
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=BLG%E8%8E%B7%E5%BE%97100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91&from=hot_life
+- Desc: 新007是帕丁森
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E6%96%B0007%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE&from=hot_life
 
-### 创作者回应赵本山翻唱慌啥子嘛
+### 建议大家不要一直穿同一双鞋
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 创作者回应赵本山翻唱慌啥子嘛
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%9B%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%BF%BB%E5%94%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B&from=hot_life
+- Desc: 建议大家不要一直穿同一双鞋
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E7%A9%BF%E5%90%8C%E4%B8%80%E5%8F%8C%E9%9E%8B&from=hot_life
 
-### Bin被称LOL史二上LPL史一上
+### 被虞书欣起诉网友发文
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: Bin被称LOL史二上LPL史一上
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=Bin%E8%A2%AB%E7%A7%B0LOL%E5%8F%B2%E4%BA%8C%E4%B8%8ALPL%E5%8F%B2%E4%B8%80%E4%B8%8A&from=hot_life
+- Desc: 被虞书欣起诉网友发文
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E8%A2%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B7%E8%AF%89%E7%BD%91%E5%8F%8B%E5%8F%91%E6%96%87&from=hot_life
 
-### 卖1800万轿车一汽大众听劝造纯电L5
+### Knight说训练赛打不过AL
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 卖1800万轿车一汽大众听劝造纯电L5 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%961800%E4%B8%87%E8%BD%BF%E8%BD%A6%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97%E5%90%AC%E5%8A%9D%E9%80%A0%E7%BA%AF%E7%94%B5L5&from=hot_life
+- Desc: Knight说训练赛打不过AL
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=Knight%E8%AF%B4%E8%AE%AD%E7%BB%83%E8%B5%9B%E6%89%93%E4%B8%8D%E8%BF%87AL&from=hot_life
 
-### 豆包回应DeepSeek限额
+### 高迪懒得解释
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 豆包回应DeepSeek限额 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94DeepSeek%E9%99%90%E9%A2%9D&from=hot_life
+- Desc: 高迪懒得解释
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E8%BF%AA%E6%87%92%E5%BE%97%E8%A7%A3%E9%87%8A&from=hot_life
 
-### 重庆一公司入职体检要查是否怀孕
+### 刘耀文刷到了自己吃蓝莓的视频
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 重庆一公司入职体检要查是否怀孕 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E4%B8%80%E5%85%AC%E5%8F%B8%E5%85%A5%E8%81%8C%E4%BD%93%E6%A3%80%E8%A6%81%E6%9F%A5%E6%98%AF%E5%90%A6%E6%80%80%E5%AD%95&from=hot_life
+- Desc: 刘耀文刷到了自己吃蓝莓的视频
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E5%88%B7%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E5%90%83%E8%93%9D%E8%8E%93%E7%9A%84%E8%A7%86%E9%A2%91&from=hot_life
 
-### 蒙淇淇回复虞书欣围裙照
+### 网友给厉娜赐名salina傻厉娜
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 蒙淇淇回复虞书欣围裙照 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%92%99%E6%B7%87%E6%B7%87%E5%9B%9E%E5%A4%8D%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99%E7%85%A7&from=hot_life
+- Desc: 网友给厉娜赐名salina傻厉娜
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E7%BB%99%E5%8E%89%E5%A8%9C%E8%B5%90%E5%90%8Dsalina%E5%82%BB%E5%8E%89%E5%A8%9C&from=hot_life
 
-### 苹果被曝2027年发6款iPhone
+### 许飞自曝参加浪姐期间被分手了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 苹果被曝2027年发6款iPhone
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D2027%E5%B9%B4%E5%8F%916%E6%AC%BEiPhone&from=hot_life
+- Desc: 许飞自曝参加浪姐期间被分手了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86&from=hot_life
 
-### 女子晒28岁老公喜提亲弟弟
+### 墨西哥总统抵达深圳后做了一个动作
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 女子晒28岁老公喜提亲弟弟
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%99%9228%E5%B2%81%E8%80%81%E5%85%AC%E5%96%9C%E6%8F%90%E4%BA%B2%E5%BC%9F%E5%BC%9F&from=hot_life
+- Desc: 墨西哥总统抵达深圳后做了一个动作
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%90%8E%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C&from=hot_life
 
-### 厉娜借款纠纷澄清
+### 波司登羽绒服被吐槽雷霆审美
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 厉娜借款纠纷澄清 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%80%9F%E6%AC%BE%E7%BA%A0%E7%BA%B7%E6%BE%84%E6%B8%85&from=hot_life
+- Desc: 波司登羽绒服被吐槽雷霆审美
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E9%9B%B7%E9%9C%86%E5%AE%A1%E7%BE%8E&from=hot_life
 
-### 井柏然孙千今天都在北京上班
+### 亚马尔澄清函全文
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 井柏然孙千今天都在北京上班 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E4%BB%8A%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%8F%AD&from=hot_life
+- Desc: 亚马尔澄清函全文
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%BE%84%E6%B8%85%E5%87%BD%E5%85%A8%E6%96%87&from=hot_life
 
-### 北大学生称羽绒服像lululemon
+### 白小纯练枪被女粉落地颗秒
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 北大学生称羽绒服像lululemon
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%83%8Flululemon&from=hot_life
+- Desc: 白小纯练枪被女粉落地颗秒
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%BB%83%E6%9E%AA%E8%A2%AB%E5%A5%B3%E7%B2%89%E8%90%BD%E5%9C%B0%E9%A2%97%E7%A7%92&from=hot_life
 
-### 哈利波特魔法觉醒将停服
+### 人一旦用过折叠手机
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 哈利波特魔法觉醒将停服
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%B0%86%E5%81%9C%E6%9C%8D&from=hot_life
+- Desc: 人一旦用过折叠手机
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E7%94%A8%E8%BF%87%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA&from=hot_life
 
-### 哈利波特魔法觉醒
+### 不怕了不怕了妈妈来了
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: 哈利波特魔法觉醒
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92&from=hot_life
+- Desc: 不怕了不怕了妈妈来了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8D%E6%80%95%E4%BA%86%E4%B8%8D%E6%80%95%E4%BA%86%E5%A6%88%E5%A6%88%E6%9D%A5%E4%BA%86&from=hot_life
 
-### Knight回应Bin是否留队
+### 什么岗位可以随时请一周假
 - Platform: weibo
 - Source: 微博热榜-life
-- Desc: Knight回应Bin是否留队 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=Knight%E5%9B%9E%E5%BA%94Bin%E6%98%AF%E5%90%A6%E7%95%99%E9%98%9F&from=hot_life
+- Desc: 什么岗位可以随时请一周假
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%B2%97%E4%BD%8D%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E8%AF%B7%E4%B8%80%E5%91%A8%E5%81%87&from=hot_life
+
+### 卢昱晓谢谢林一有逐渐清晰看到她
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 卢昱晓谢谢林一有逐渐清晰看到她
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E8%B0%A2%E8%B0%A2%E6%9E%97%E4%B8%80%E6%9C%89%E9%80%90%E6%B8%90%E6%B8%85%E6%99%B0%E7%9C%8B%E5%88%B0%E5%A5%B9&from=hot_life
+
+### 青稚白小纯营业了
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 青稚白小纯营业了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%90%A5%E4%B8%9A%E4%BA%86&from=hot_life
+
+### 买衣服一定要知道面料
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 买衣服一定要知道面料
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9F%A5%E9%81%93%E9%9D%A2%E6%96%99&from=hot_life
+
+### 金子涵求助济南网警
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 金子涵求助济南网警
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E6%B1%82%E5%8A%A9%E6%B5%8E%E5%8D%97%E7%BD%91%E8%AD%A6&from=hot_life
+
+### 女子不孕十年子宫内长出骨头
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 女子不孕十年子宫内长出骨头
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%AD%95%E5%8D%81%E5%B9%B4%E5%AD%90%E5%AE%AB%E5%86%85%E9%95%BF%E5%87%BA%E9%AA%A8%E5%A4%B4&from=hot_life
+
+### 金价创今年以来新低
+- Platform: weibo
+- Source: 微博热榜-life
+- Desc: 金价创今年以来新低
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%88%9B%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%96%B0%E4%BD%8E&from=hot_life
 
 ### 中俄美元首会晤将在深圳举行
 - Platform: weibo
 - Source: 微博热榜-social
 - Desc: 中俄美元首会晤将在深圳举行
-- Published At: 2026-11-16T10:08:04.774Z
+- Published At: 2026-11-16T19:52:52.689Z
 - URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C&from=hot_social
 
-### 为什么手指永远无法相互触碰
+### 终于有人说说干发帽了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 为什么手指永远无法相互触碰 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%8C%87%E6%B0%B8%E8%BF%9C%E6%97%A0%E6%B3%95%E7%9B%B8%E4%BA%92%E8%A7%A6%E7%A2%B0&from=hot_social
+- Desc: 终于有人说说干发帽了 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86&from=hot_social
 
-### 中国留下的那些APEC印记
+### 同舟共济开创亚太和世界更美好未来
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 中国留下的那些APEC印记
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E4%B8%8B%E7%9A%84%E9%82%A3%E4%BA%9BAPEC%E5%8D%B0%E8%AE%B0&from=hot_social
+- Desc: 同舟共济开创亚太和世界更美好未来
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5&from=hot_social
 
-### 赵丽颖刘诗诗持股两京十五日出品方
+### 6年恋爱因一枚戒指分手
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 赵丽颖刘诗诗持股两京十五日出品方 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E8%AF%97%E8%AF%97%E6%8C%81%E8%82%A1%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%87%BA%E5%93%81%E6%96%B9&from=hot_social
+- Desc: 6年恋爱因一枚戒指分手
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B&from=hot_social
 
-### 中国女保镖贴身保护墨西哥总统
+### 华尔街日报必须道歉
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 中国女保镖贴身保护墨西哥总统 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BF%9D%E9%95%96%E8%B4%B4%E8%BA%AB%E4%BF%9D%E6%8A%A4%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F&from=hot_social
+- Desc: 华尔街日报必须道歉
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E5%BF%85%E9%A1%BB%E9%81%93%E6%AD%89&from=hot_social
 
-### 女子因嫉妒男友疼爱女儿将其捂死
+### 吃了点didi喂
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 女子因嫉妒男友疼爱女儿将其捂死 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%AB%89%E5%A6%92%E7%94%B7%E5%8F%8B%E7%96%BC%E7%88%B1%E5%A5%B3%E5%84%BF%E5%B0%86%E5%85%B6%E6%8D%82%E6%AD%BB&from=hot_social
-
-### 白小纯看青稚看愣了开始胡言乱语
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 白小纯看青稚看愣了开始胡言乱语
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%8B%E9%9D%92%E7%A8%9A%E7%9C%8B%E6%84%A3%E4%BA%86%E5%BC%80%E5%A7%8B%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD&from=hot_social
-
-### 中俄美元首历史首次面对面会晤
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 中俄美元首历史首次面对面会晤
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4&from=hot_social
-
-### 金价或跌至3600美元
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 金价或跌至3600美元 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33600%E7%BE%8E%E5%85%83&from=hot_social
-
-### 尚公主骑马戏 失明紫薇坐摇摇车
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 尚公主骑马戏 失明紫薇坐摇摇车
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%E9%AA%91%E9%A9%AC%E6%88%8F+%E5%A4%B1%E6%98%8E%E7%B4%AB%E8%96%87%E5%9D%90%E6%91%87%E6%91%87%E8%BD%A6&from=hot_social
-
-### 无畏中了笔巨款
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 无畏中了笔巨款 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E4%B8%AD%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE&from=hot_social
-
-### 金子涵称被家人骗到了精神病院
-- Platform: weibo
-- Source: 微博热榜-social
-- Desc: 金子涵称被家人骗到了精神病院 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&from=hot_social
+- Desc: 吃了点didi喂 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%90%83%E4%BA%86%E7%82%B9didi%E5%96%82&from=hot_social
 
 ### 虞书欣围裙 国外博主原图
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 虞书欣围裙 国外博主原图 新
-- Published At: 2026-11-16T10:08:04.774Z
+- Desc: 虞书欣围裙 国外博主原图 热
+- Published At: 2026-11-16T19:52:52.689Z
 - URL: https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99+%E5%9B%BD%E5%A4%96%E5%8D%9A%E4%B8%BB%E5%8E%9F%E5%9B%BE&from=hot_social
 
-### 曝厉娜卷入借贷纠纷
+### 金子涵称被家人骗到了精神病院
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 曝厉娜卷入借贷纠纷 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%9B%9D%E5%8E%89%E5%A8%9C%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7&from=hot_social
+- Desc: 金子涵称被家人骗到了精神病院 热
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2&from=hot_social
 
-### 林一一开始不太喜欢卢昱晓
+### 高市早苗穿菲律宾服饰出席晚宴
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 林一一开始不太喜欢卢昱晓 热
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E6%9E%97%E4%B8%80%E4%B8%80%E5%BC%80%E5%A7%8B%E4%B8%8D%E5%A4%AA%E5%96%9C%E6%AC%A2%E5%8D%A2%E6%98%B1%E6%99%93&from=hot_social
+- Desc: 高市早苗穿菲律宾服饰出席晚宴
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4&from=hot_social
 
-### BLG获得100万美元奖金
+### 新007是帕丁森
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: BLG获得100万美元奖金
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=BLG%E8%8E%B7%E5%BE%97100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91&from=hot_social
+- Desc: 新007是帕丁森
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E6%96%B0007%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE&from=hot_social
 
-### 创作者回应赵本山翻唱慌啥子嘛
+### 建议大家不要一直穿同一双鞋
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 创作者回应赵本山翻唱慌啥子嘛
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%88%9B%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%BF%BB%E5%94%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B&from=hot_social
+- Desc: 建议大家不要一直穿同一双鞋
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E7%A9%BF%E5%90%8C%E4%B8%80%E5%8F%8C%E9%9E%8B&from=hot_social
 
-### Bin被称LOL史二上LPL史一上
+### 被虞书欣起诉网友发文
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: Bin被称LOL史二上LPL史一上
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=Bin%E8%A2%AB%E7%A7%B0LOL%E5%8F%B2%E4%BA%8C%E4%B8%8ALPL%E5%8F%B2%E4%B8%80%E4%B8%8A&from=hot_social
+- Desc: 被虞书欣起诉网友发文
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E8%A2%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B7%E8%AF%89%E7%BD%91%E5%8F%8B%E5%8F%91%E6%96%87&from=hot_social
 
-### 卖1800万轿车一汽大众听劝造纯电L5
+### Knight说训练赛打不过AL
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 卖1800万轿车一汽大众听劝造纯电L5 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8D%961800%E4%B8%87%E8%BD%BF%E8%BD%A6%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97%E5%90%AC%E5%8A%9D%E9%80%A0%E7%BA%AF%E7%94%B5L5&from=hot_social
+- Desc: Knight说训练赛打不过AL
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=Knight%E8%AF%B4%E8%AE%AD%E7%BB%83%E8%B5%9B%E6%89%93%E4%B8%8D%E8%BF%87AL&from=hot_social
 
-### 豆包回应DeepSeek限额
+### 高迪懒得解释
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 豆包回应DeepSeek限额 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94DeepSeek%E9%99%90%E9%A2%9D&from=hot_social
+- Desc: 高迪懒得解释
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%AB%98%E8%BF%AA%E6%87%92%E5%BE%97%E8%A7%A3%E9%87%8A&from=hot_social
 
-### 重庆一公司入职体检要查是否怀孕
+### 刘耀文刷到了自己吃蓝莓的视频
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 重庆一公司入职体检要查是否怀孕 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E4%B8%80%E5%85%AC%E5%8F%B8%E5%85%A5%E8%81%8C%E4%BD%93%E6%A3%80%E8%A6%81%E6%9F%A5%E6%98%AF%E5%90%A6%E6%80%80%E5%AD%95&from=hot_social
+- Desc: 刘耀文刷到了自己吃蓝莓的视频
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E5%88%B7%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E5%90%83%E8%93%9D%E8%8E%93%E7%9A%84%E8%A7%86%E9%A2%91&from=hot_social
 
-### 蒙淇淇回复虞书欣围裙照
+### 网友给厉娜赐名salina傻厉娜
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 蒙淇淇回复虞书欣围裙照 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%92%99%E6%B7%87%E6%B7%87%E5%9B%9E%E5%A4%8D%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99%E7%85%A7&from=hot_social
+- Desc: 网友给厉娜赐名salina傻厉娜
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E7%BB%99%E5%8E%89%E5%A8%9C%E8%B5%90%E5%90%8Dsalina%E5%82%BB%E5%8E%89%E5%A8%9C&from=hot_social
 
-### 苹果被曝2027年发6款iPhone
+### 许飞自曝参加浪姐期间被分手了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 苹果被曝2027年发6款iPhone
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D2027%E5%B9%B4%E5%8F%916%E6%AC%BEiPhone&from=hot_social
+- Desc: 许飞自曝参加浪姐期间被分手了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86&from=hot_social
 
-### 女子晒28岁老公喜提亲弟弟
+### 墨西哥总统抵达深圳后做了一个动作
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 女子晒28岁老公喜提亲弟弟
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%99%9228%E5%B2%81%E8%80%81%E5%85%AC%E5%96%9C%E6%8F%90%E4%BA%B2%E5%BC%9F%E5%BC%9F&from=hot_social
+- Desc: 墨西哥总统抵达深圳后做了一个动作
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%90%8E%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C&from=hot_social
 
-### 厉娜借款纠纷澄清
+### 波司登羽绒服被吐槽雷霆审美
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 厉娜借款纠纷澄清 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%80%9F%E6%AC%BE%E7%BA%A0%E7%BA%B7%E6%BE%84%E6%B8%85&from=hot_social
+- Desc: 波司登羽绒服被吐槽雷霆审美
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E9%9B%B7%E9%9C%86%E5%AE%A1%E7%BE%8E&from=hot_social
 
-### 井柏然孙千今天都在北京上班
+### 亚马尔澄清函全文
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 井柏然孙千今天都在北京上班 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E4%BB%8A%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%8F%AD&from=hot_social
+- Desc: 亚马尔澄清函全文
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%BE%84%E6%B8%85%E5%87%BD%E5%85%A8%E6%96%87&from=hot_social
 
-### 北大学生称羽绒服像lululemon
+### 白小纯练枪被女粉落地颗秒
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 北大学生称羽绒服像lululemon
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%83%8Flululemon&from=hot_social
+- Desc: 白小纯练枪被女粉落地颗秒
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%BB%83%E6%9E%AA%E8%A2%AB%E5%A5%B3%E7%B2%89%E8%90%BD%E5%9C%B0%E9%A2%97%E7%A7%92&from=hot_social
 
-### 哈利波特魔法觉醒将停服
+### 人一旦用过折叠手机
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 哈利波特魔法觉醒将停服
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%B0%86%E5%81%9C%E6%9C%8D&from=hot_social
+- Desc: 人一旦用过折叠手机
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E7%94%A8%E8%BF%87%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA&from=hot_social
 
-### 哈利波特魔法觉醒
+### 不怕了不怕了妈妈来了
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: 哈利波特魔法觉醒
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92&from=hot_social
+- Desc: 不怕了不怕了妈妈来了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%B8%8D%E6%80%95%E4%BA%86%E4%B8%8D%E6%80%95%E4%BA%86%E5%A6%88%E5%A6%88%E6%9D%A5%E4%BA%86&from=hot_social
 
-### Knight回应Bin是否留队
+### 什么岗位可以随时请一周假
 - Platform: weibo
 - Source: 微博热榜-social
-- Desc: Knight回应Bin是否留队 新
-- Published At: 2026-11-16T10:08:04.774Z
-- URL: https://s.weibo.com/weibo?q=Knight%E5%9B%9E%E5%BA%94Bin%E6%98%AF%E5%90%A6%E7%95%99%E9%98%9F&from=hot_social
+- Desc: 什么岗位可以随时请一周假
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E5%B2%97%E4%BD%8D%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E8%AF%B7%E4%B8%80%E5%91%A8%E5%81%87&from=hot_social
+
+### 卢昱晓谢谢林一有逐渐清晰看到她
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 卢昱晓谢谢林一有逐渐清晰看到她
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E8%B0%A2%E8%B0%A2%E6%9E%97%E4%B8%80%E6%9C%89%E9%80%90%E6%B8%90%E6%B8%85%E6%99%B0%E7%9C%8B%E5%88%B0%E5%A5%B9&from=hot_social
+
+### 青稚白小纯营业了
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 青稚白小纯营业了
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%90%A5%E4%B8%9A%E4%BA%86&from=hot_social
+
+### 买衣服一定要知道面料
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 买衣服一定要知道面料
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9F%A5%E9%81%93%E9%9D%A2%E6%96%99&from=hot_social
+
+### 金子涵求助济南网警
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 金子涵求助济南网警
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E6%B1%82%E5%8A%A9%E6%B5%8E%E5%8D%97%E7%BD%91%E8%AD%A6&from=hot_social
+
+### 女子不孕十年子宫内长出骨头
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 女子不孕十年子宫内长出骨头
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%AD%95%E5%8D%81%E5%B9%B4%E5%AD%90%E5%AE%AB%E5%86%85%E9%95%BF%E5%87%BA%E9%AA%A8%E5%A4%B4&from=hot_social
+
+### 金价创今年以来新低
+- Platform: weibo
+- Source: 微博热榜-social
+- Desc: 金价创今年以来新低
+- Published At: 2026-11-16T19:52:52.689Z
+- URL: https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%88%9B%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%96%B0%E4%BD%8E&from=hot_social
 
